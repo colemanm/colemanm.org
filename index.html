@@ -11,7 +11,8 @@ layout: default
       </div>
     {% else %}
       <div class="post">
-        <h1><a name='{{ post.date | date: "%m-%d-%Y" }}' href="{{ post.url }}">{{ post.title }}</a></h1>
+        <!-- <a href="{{ post.url }}">--><span class="date">{{ post.date | date: "%m.<strong>%d</strong>.%Y"  }}</span>
+        <h1><a name='{{ post.date | date: "%m.%d.%Y" }}' href="{{ post.url }}">{{ post.title }}</a></h1>
         <div class="body">{{ post.content }}</div>
         <div class="breaker"></div>
         <!-- <div class='post-footer'>

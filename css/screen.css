@@ -1,8 +1,8 @@
 html{font-size:87.4%}
 body{
 	background:#f6f6f6;
-	color:#000;
-	font:normal 1em/1.5 "Helvetica","Arial",Tahoma,sans-serif;
+	color:#111;
+	font:normal 0.9em/1.4 "Helvetica","Arial",Tahoma,sans-serif;
 	-webkit-text-stroke:1px transparent;
 	margin:0;
 	padding:3em 0 0;
@@ -43,13 +43,13 @@ blockquote {
 
 #container {
 	margin:0 auto;
-	width:500px;
+	width:533px;
 }
 
 /* HEADER */
-#header { width: 500px; }
+#header { width: 533px; }
 #header h1 {
-	margin:0 0 2em;
+	margin:0 0 1.0em;
 	padding-bottom:10px;
 	border-bottom: 1px solid #ccc;
 }
@@ -87,7 +87,6 @@ blockquote {
 #posts {
 	clear: left;
 	width: 550px;
-	font-size: 13px;
 }
 
 .tags {
@@ -108,29 +107,53 @@ blockquote {
 	color: #000;
 	background: {color:Highlight};
 }
-.text,.link,.quote,.photo,.video,.audio,.chat,.photoset-post { 
+
+.post,.text,.link,.quote,.photo,.video,.audio,.chat,.photoset-post { 
 	margin-top:8px;
 	margin-bottom:3em;
 	background: #fff;
-	padding-left:14px;
-	padding-right: 20px;
+	padding-left:15px;
+	padding-right: 15px;
 	padding-top: 14px;
 	border-left: 2px solid #eee;
 	border-right: 2px solid #eee;
 	border-bottom: 2px solid #eee;
 }
-    .link .link-description{margin:0 0 1.5em}
-    .quote .words{border:0;color:{color:Text};font:normal 1.2em/1.3 "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;margin:0 0 1em;padding:0}
-    .quote .source{color:{color:Lighter Text};font-style:italic}
-    .photo,.video, .photoset-post{text-align:center}
-    .photo .caption,.video .caption,.audio .caption,.quote .source,.photoset-post .caption{clear: right;margin-bottom:1.5em;margin-top:0.75em;text-align:left}
+.post h1 {
+	margin: 8px 0;
+}
+
+
+/* Archive table */
+table { width: 100%; }
+table td {
+	padding: 3px 0;
+	border-bottom: 1px solid #ccc;
+}
+table tr.odd { background-color: #eee; }
+
+.link .link-description{margin:0 0 1.5em}
+.quote .words{border:0;color:{color:Text};font:normal 1.2em/1.3 "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;margin:0 0 1em;padding:0}
+
+.quote .source{color:{color:Lighter Text};font-style:italic}
+.photo,.video, .photoset-post{text-align:center}
+.photo .caption,.video .caption,.audio .caption,.quote .source,.photoset-post .caption{clear: right;margin-bottom:1.5em;margin-top:0.75em;text-align:left}
     .photo a img{border:0;}
     .chat ul.convo{list-style-type:none;padding:0;}
     .chat ul.convo li{line-height:2;}
     .chat ul.convo li .person { font-weight: bold; }
     .chat ul.convo li.even .person{color:{color:Accent};}
     .audio .playcount { float: right; }
-    .date { color: {color:Text}; background: {color:Highlight}; /*display: block; */letter-spacing:.1em; text-transform: upper & lowercase; font-size:11px; width:74px; padding-top:2px; margin-bottom: 15px; }
+    .date {
+			color: 000;
+			background: #f9fC7e;
+			letter-spacing:.1em;
+			text-transform: upper & lowercase;
+			font-size:11px;
+			width:74px;
+			margin-bottom: 15px;
+			padding: 2px 5px 2px 5px;
+		}
 
     /* POST FOOTERS */
     .post-footer{background: #fff; list-style:none;font-size:0.857em;margin:0em 0;padding:0;text-align:right; text-transform: uppercase; font-family: Arial;}
