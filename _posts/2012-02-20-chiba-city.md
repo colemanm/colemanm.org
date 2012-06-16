@@ -3,6 +3,9 @@ layout: post
 date: 2012-02-20 08:00:00 EST
 title: Chiba City
 categories: blog
+tags:
+- science fiction
+- art
 ---
 
 <img src="/images/post-images/chibacity.png"/>

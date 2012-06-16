@@ -3,6 +3,8 @@ layout: post
 date: 2011-08-18 08:00:00 EST
 title: Robert Earnshaw
 categories: blog
+tags:
+- soccer
 ---
 
 [An unbreakable record](http://en.wikipedia.org/wiki/Robert_Earnshaw):

@@ -3,6 +3,9 @@ layout: post
 date: 2011-08-05 08:00:00 EST
 title: Hipstamatistan
 categories: blog
+tags:
+- Afghanistan
+- photography
 ---
 
 <a href="http://www.foreignpolicy.com/articles/2011/08/01/see_no_evil"><img src="/images/post-images/hipstamatic_af.jpg" alt="Hipstamatic Afghanistan" /></a>

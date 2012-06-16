@@ -3,6 +3,9 @@ layout: post
 date: 2011-07-29 08:00:00 EST
 title: The Value of Local Knowledge
 categories: blog
+tags:
+- talks
+- human geography
 ---
 
 <script async class="speakerdeck-embed" data-id="4efcdb997717a3004c00e02d" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>

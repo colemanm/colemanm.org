@@ -4,6 +4,9 @@ link: http://www.elizabethdaggar.com/calendria2010/buy_the_atlas.html
 date: 2010-02-09 08:00:00 EST
 title: Calendria
 categories: blog
+tags:
+- maps
+- imaginary places
 ---
 
 <img src="/images/post-images/calendria-thumb.jpg" alt="Calendria" />

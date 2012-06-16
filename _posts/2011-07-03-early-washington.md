@@ -3,6 +3,9 @@ layout: video
 date: 2011-07-03 08:00:00 EST
 title: Early Washington
 categories: blog
+tags:
+- history
+- Washington, DC
 ---
 
 <iframe width="500" height="281" src="http://www.youtube.com/embed/eKY45I9Bsho?rel=0" frameborder="0">Early DC.</iframe>

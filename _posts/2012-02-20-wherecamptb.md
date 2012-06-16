@@ -3,6 +3,9 @@ layout: video
 date: 2012-02-22 08:00:00 EST
 title: WhereCampTB
 categories: blog
+tags:
+- events
+- maps
 ---
 
 <iframe width="500" height="281" src="http://www.youtube.com/embed/iwoSUOPcRpk?rel=0" frameborder="0" allowfullscreen></iframe>

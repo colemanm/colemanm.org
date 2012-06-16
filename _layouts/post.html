@@ -2,6 +2,12 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<div class='body'>{{ content }}</div>
+<span class="date">{{ page.date | date: "%m.<strong>%d</strong>.%Y" }}</span>
+<div class="single-post">
+  <h1>{{ page.title }}</h1>
+  <div class='body'>{{ content }}</div>
+  {% include footer.html %}
+  {% include tags.html %}
 </div>
+
+{% include disqus-thread.html %}

@@ -3,6 +3,9 @@ layout: post
 date: 2010-09-22 08:00:00 EST
 title: The 72-hour Expert
 categories: blog
+tags:
+- quotes
+- Afghanistan
 ---
 
 P.J. O'Rourke [on his time in Afghanistan](http://www.weeklystandard.com/print/articles/72-hour-expert):

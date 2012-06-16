@@ -3,6 +3,9 @@ layout: post
 date: 2011-06-23 08:00:00 EST
 title: WhereCampDC
 categories: blog
+tags:
+- events
+- maps
 ---
 
 <a href="http://www.wherecampdc.org/)"><img src="/images/post-images/wherecampdc2011.png"/></a>

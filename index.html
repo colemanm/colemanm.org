@@ -10,17 +10,13 @@ layout: default
         <p>{{ post.content }}</p>
       </div>
     {% else %}
+      <span class="date">{{ post.date | date: "%m.<strong>%d</strong>.%Y"  }}</span>
       <div class="post">
-        <!-- <a href="{{ post.url }}">--><span class="date">{{ post.date | date: "%m.<strong>%d</strong>.%Y"  }}</span>
         <h1><a name='{{ post.date | date: "%m.%d.%Y" }}' href="{{ post.url }}">{{ post.title }}</a></h1>
-        <div class="body">{{ post.content }}</div>
-        <div class="breaker"></div>
-        <!-- <div class='post-footer'>
-            <postamble datetime="{{ post.date | date: "%Y-%m-%d" }}">
-            &mdash;{{ post.date | date: "%b %d, %Y" }} &mdash;
-            </postamble>
-            <a rel='author' href='http://colemanm.org/'>coleman</a>
-          </div> -->
+        <div class="body">
+          {{ post.content }}
+        </div>
+        {% include footer.html %}
       </div>
     {% endif %}
   {% endfor %}

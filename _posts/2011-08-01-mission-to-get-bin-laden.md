@@ -3,6 +3,10 @@ layout: post
 date: 2011-08-01 08:00:00 EST
 title: The Mission to Get Osama bin Laden
 categories: blog
+tags:
+- Osama bin Laden
+- military
+- special operations
 ---
 
 [The mission](http://www.newyorker.com/reporting/2011/08/08/110808fa_fact_schmidle?currentPage=all):

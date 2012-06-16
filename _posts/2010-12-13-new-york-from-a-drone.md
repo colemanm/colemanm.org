@@ -3,6 +3,9 @@ layout: video
 date: 2010-12-13 08:00:00 EST
 title: New York City Flyover
 categories: blog
+tags:
+- drones
+- New York City
 ---
 
 <iframe width="500" height="281" src="http://www.youtube.com/embed/M9cSxEqKQ78?rel=0" frameborder="0">NYC Drone Flight</iframe>

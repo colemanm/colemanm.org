@@ -3,6 +3,8 @@ layout: post
 date: 2012-04-07 08:00:00 EST
 title: We Need Product Storytellers
 categories: blog
+tags:
+- product development
 ---
 
 A [great article from UXMAG](http://uxmag.com/articles/why-we-need-storytellers-at-the-heart-of-product-development) making the case for "product storytellers" on product teams, instead of more marketing or product management. A must-read for creators trying to bring products to market. This statement gets to the heart of the problem with struggling products &mdash; **the _what_ and _how_ of the product get put above the _why_**:
