@@ -1,0 +1,11 @@
+<div class="post">
+  <h1><a name='{{ post.date | date: "%m-%d-%Y" }}' href="{{ post.url }}">{{ post.title }}</a></h1>
+  <div class="body">{{ post.content }}</div>
+  <div class="breaker"></div>
+  <!-- <div class='post-footer'>
+      <postamble datetime="{{ post.date | date: "%Y-%m-%d" }}">
+      &mdash;{{ post.date | date: "%b %d, %Y" }} &mdash;
+      </postamble>
+      <a rel='author' href='http://colemanm.org/'>coleman</a>
+    </div> -->
+</div>

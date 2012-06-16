@@ -1,0 +1,111 @@
+{block:Text}
+<div class="text">
+  {block:Title}<h2>{Title}</h2>{/block:Title}
+  {Body}
+{/block:Text}
+
+{block:Quote}
+<div class="quote">
+  <blockquote class="words">&#8220;{Quote}&#8221;</blockquote>
+  {block:Source}<div class="source">{Source}</div>{/block:Source}
+{/block:Quote}
+
+{block:Link}
+<div class="link">
+  <h2><a href="{URL}" {Target}>{Name} »</a></h2>
+  {block:Description}
+  <div class="link-description">
+  {Description}
+  </div>
+  {/block:Description}
+{/block:Link}
+
+{block:Video}
+<div class="video">
+  {Video-500}
+  {block:Caption}<div class="caption">{Caption}</div>{/block:Caption}
+{/block:Video}
+
+{block:Audio}
+<div class="audio">
+  <span class="playcount">Listened to {FormattedPlayCount} times</span>
+  {AudioPlayerWhite}
+  {block:Caption}<div class="caption">{Caption}</div>{/block:Caption}
+{/block:Audio}
+
+{block:Photo}
+<div class="photo">
+  {LinkOpenTag}<img src="{PhotoURL-500}" alt="{PhotoAlt}"/>{LinkCloseTag}
+  {block:Caption}<div class="caption">{Caption}</div>{/block:Caption}
+{/block:Photo}
+
+{block:Photoset}
+<div class="photoset-post">
+Photoset-500}
+{block:Caption}<div class="caption">{Caption}</div>{/block:Caption}
+{/block:Photoset}
+
+{block:Chat}
+<div class="chat">
+  {block:Title}<h2>{Title}</h2>{/block:Title}
+  <ul class="convo">
+    {block:Lines}
+    <li class="{Alt}">
+      <span class="person">{block:Label}{Label}{/block:Label}</span>
+      <span class="line">{Line}</span>
+    </li>
+    {/block:Lines}
+  </ul>
+{/block:Chat}
+
+  {block:HasTags}
+  <div class="tags">
+    {block:Tags}<a href="{TagURL}" class="tag">{Tag}</a>&nbsp;{/block:Tags}
+  </div>
+  {/block:HasTags}
+
+
+
+  <ul class="post-footer">
+    {block:RebloggedFrom}<li class="reblog">Reblogged from <a href="{ReblogParentURL}">{ReblogParentTitle}</a></li>{/block:RebloggedFrom}
+
+
+
+<li class="date"><h3><a href="{Permalink}">{block:NoteCount}♥ {NoteCountWithLabel}{/block:NoteCount}</a></li>
+    {block:IfDisqusShortname}<li><a href="{Permalink}#disqus_thread" class="permalink">Comments</a></li>{block:IfDisqusShortname}
+  </ul>
+</div> <!-- end single post -->
+
+{/block:Posts}
+
+{block:Permalink}
+{block:IfShowNotes}
+{block:PostNotes}
+<h4>Notes</h4>
+{PostNotes}
+{block:PostNotes}
+{/block:IfShowNotes}
+
+{block:IfDisqusShortname}
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="http://disqus.com/forums/{text:Disqus Shortname}/embed.js"></script>
+<noscript><a href="http://{text:Disqus Shortname}.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+{/block:IfDisqusShortname}
+{/block:Permalink}
+</div> <!-- end posts -->
+
+{block:Pagination}
+<div id="pagination">
+{block:NextPage}<a href="{NextPage}">« PREVIOUS</a>{/block:NextPage}
+<span id="pagecount">{CurrentPage}/{TotalPages}</span>
+{block:PreviousPage}<a href="{PreviousPage}">NEXT PAGE »</a>{/block:PreviousPage}
+</div>
+{/block:Pagination}
+
+{block:PermalinkPagination}
+<div id="pagination">
+{block:PreviousPost}<a href="{PreviousPost}">« PREVIOUS POST</a>{/block:PreviousPost}
+<span id="pagecount">&nbsp;</span>
+{block:NextPost}<a href="{NextPost}">NEXT POST »</a>{/block:NextPost}
+</div>
+{/block:PermalinkPagination}
