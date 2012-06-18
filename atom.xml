@@ -4,24 +4,25 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>colemanm.org</title>
- <link href="http://colemanm.org/atom.xml" rel="self"/>
- <link href="http://colemanm.org/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://colemanm.org.com/</id>
- <author>
-   <name>Coleman McCormick</name>
-   <email>cmccormick@gmail.com</email>
- </author>
+<title>colemanm.org</title>
+<link href="http://colemanm.org/atom.xml" rel="self"/>
+<link href="http://colemanm.org/"/>
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<id>http://colemanm.org/</id>
+<author>
+  <name>Coleman McCormick</name>
+  <email>cmccormick@gmail.com</email>
+</author>
 
- {% for post in site.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://colemanm.org{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://colemanm.org{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
+{% for post in site.posts %}
+<entry>
+  <title>{{ post.title }}</title>
+  <link href="http://colemanm.org{{ post.url }}"/>
+  <updated>{{ post.date | date_to_xmlschema }}</updated>
+  <id>http://colemanm.org{{ post.id }}</id>
+  <content type="html">{{ post.content | xml_escape }}</content>
+   
+</entry>
+{% endfor %}
  
 </feed>

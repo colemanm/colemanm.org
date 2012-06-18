@@ -1,7 +1,7 @@
 ---
 layout: video
 date: 2012-02-26 08:00:00 EST
-title: Double Fine & Making Games
+title: Double Fine &amp; Making Games
 categories: blog
 tags:
 - games
