@@ -12,7 +12,8 @@ a, a:visited, a:active {
 	text-decoration: none;
 }
 a:hover {
-	color: #111;
+	color: #666;
+	text-decoration: underline;
 }
 h1,h2,h3,h4,h5,h6 {
 	color: #000;
@@ -210,6 +211,11 @@ table.social-links td {
 	margin: 0;
 }
 .fb-like { margin-bottom: -2px; }
+
+#footer {
+	margin-bottom: 15px;
+	text-align: center;
+}
 	
 	/* NOTES */
 	ol.notes { margin: 0; padding: 0; }
