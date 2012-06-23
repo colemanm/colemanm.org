@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 link: http://www.nytimes.com/interactive/2010/01/10/nyregion/20100110-netflix-map.html
 date: 2010-01-05 08:00:00 EST
 title: A Peek Into Netflix Queues

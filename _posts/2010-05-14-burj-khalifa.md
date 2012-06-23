@@ -1,5 +1,5 @@
 ---
-layout: photo
+layout: post
 date: 2010-05-14 08:00:00 EST
 title: Burj Khalifa
 categories: blog

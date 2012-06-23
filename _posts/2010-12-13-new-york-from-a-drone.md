@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 date: 2010-12-13 08:00:00 EST
 title: New York City Flyover
 categories: blog

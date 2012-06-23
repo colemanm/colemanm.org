@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 date: 2010-05-07 08:00:00 EST
 title: Man vs. Nature
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 link: http://google-latlong.blogspot.com/2010/02/street-view-hits-slopes-at-whistler.html
 date: 2010-02-11 08:00:00 EST
 title: StreetView on Whistler

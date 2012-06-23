@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 date: 2011-11-12 08:00:00 EST
 title: Made By Hand
 categories: blog

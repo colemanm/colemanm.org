@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 date: 2010-04-25 08:00:00 EST
 title: A Never-Ending Train
 categories: blog

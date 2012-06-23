@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 date: 2012-05-06 08:00:00 EST
 title: Topography &amp; Augmented Reality
 categories: blog

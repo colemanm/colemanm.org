@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 date: 2012-02-22 08:00:00 EST
 title: WhereCampTB
 categories: blog

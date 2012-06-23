@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: post
 date: 2011-07-03 08:00:00 EST
 title: Early Washington
 categories: blog
