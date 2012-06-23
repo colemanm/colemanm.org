@@ -1,0 +1,16 @@
+<div class="pagination">
+  <table>
+    <tr>
+      <td>
+        <span class="pagination-button">&larr; Previous</span><br />
+        <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+      </td>
+      <td class="right">
+        {% if page.next %}
+         <span class="pagination-button">Next &rarr;</span><br />
+        <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+        {% endif %}
+      </td>
+    </tr>
+  </table>
+</div>

@@ -140,18 +140,18 @@ blockquote {
 	border-right: 2px solid #eee;
 	border-bottom: 2px solid #eee;
 }
-table { width: 100%; }
-table td {
+.archive table { width: 100%; }
+.archive table td {
 	padding: 3px 3px;
 	border-bottom: 1px solid #ccc;
 }
-table td.date-cell { text-align: right; }
-table tr.odd { background-color: #eee; }
+.archive table td.date-cell { text-align: right; }
+.archive table tr.odd { background-color: #eee; }
 
 /* Single Post */
 .single-post {
 	margin-top:8px;
-	margin-bottom:3em;
+	margin-bottom:0.5em;
 	background: #fff;
 	padding-left:15px;
 	padding-right: 15px;
@@ -215,6 +215,16 @@ table.social-links td {
 #footer {
 	margin-bottom: 15px;
 	text-align: center;
+}
+.pagination { margin-bottom: 5px; }
+.pagination table { width: 100%; }
+.pagination table td {
+	padding: 3px 3px;
+}
+.pagination td.right { text-align: right; }
+.pagination-button {
+	font-size: 0.9em;
+	text-transform: uppercase;
 }
 	
 	/* NOTES */
