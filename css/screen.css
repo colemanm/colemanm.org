@@ -148,6 +148,39 @@ blockquote {
 .archive table td.date-cell { text-align: right; }
 .archive table tr.odd { background-color: #eee; }
 
+/* Maps */
+.maps {
+	margin-top:8px;
+	margin-bottom:3em;
+	background: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 7px;
+	padding-bottom: 15px;
+	border-left: 2px solid #eee;
+	border-right: 2px solid #eee;
+	border-bottom: 2px solid #eee;
+}
+.maps table td {
+	padding-bottom: 15px;
+}
+.maps table td.right {
+	padding-left: 25px;
+}
+.maps a img {
+	border: 2px solid #f0f0f0;
+}
+.maps a:hover img {
+	border: 2px solid #4da3a3;
+}
+.maps .caption {
+	text-align: center;
+	color: #777;
+	margin: 0;
+	padding: 0;
+	font-style: italic;
+}
+
 /* Single Post */
 .single-post {
 	margin-top:8px;
