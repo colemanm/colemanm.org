@@ -147,6 +147,9 @@ blockquote {
 }
 .archive table td.date-cell { text-align: right; }
 .archive table tr.odd { background-color: #eee; }
+.archive-table {
+	margin-bottom: 15px;
+}
 
 /* Maps */
 .maps {
@@ -244,6 +247,13 @@ table.social-links td {
 	margin: 0;
 }
 .fb-like { margin-bottom: -2px; }
+.talk-title {
+	font-size: 1.1em;
+	margin-top: 18px;
+}
+.talk-table {
+	margin-bottom: 15px;
+}
 
 #footer {
 	margin-bottom: 15px;
