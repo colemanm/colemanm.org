@@ -6,7 +6,6 @@ categories: blog
 tags:
 - authors
 - bruce sterling
-- 
 ---
 
 [Bruce Sterling](http://en.wikipedia.org/wiki/Bruce_Sterling) on storytelling and the art of computer game design, [from GDC 1991](http://w2.eff.org/Misc/Publications/Bruce_Sterling/comp_game_designers.article):
