@@ -121,7 +121,7 @@ blockquote {
 	border-right: 2px solid #eee;
 	border-bottom: 2px solid #eee;
 }
-.post h1 {
+.post h1, .single-post h1 {
 	margin: 8px 0;
 }
 .body {
