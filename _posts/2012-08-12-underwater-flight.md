@@ -20,7 +20,7 @@ I found myself obsessed with Hawkes and his work, and spent Sunday morning troll
 His company is running a [Kickstarter campaign](http://www.kickstarter.com/projects/724942316/deepflight-hydrobatics-expedition) to fund a field test expedition to Lake Tahoe with his two-seater, [Super Falcon](http://deepflight.com/subs/df_superfalcon.htm), to perform "hydrobatic" maneuvers in the deep parts of the lake. If you're as interested as I am in this stuff, here are some other links to check out:
 
 * _[Run Silent, Run Sleek](http://www.popularmechanics.co.za/features/run-silent-run-sleek/)_, Popular Mechanics.
-* _[Race to the Bottom of the Sea](http://archive.mensjournal.com/graham-hawkes-and-the-race-to-the-bottom-of-the-sea)_, Mens Journal.
+* _[Race to the Bottom of the Sea](http://archive.mensjournal.com/graham-hawkes-and-the-race-to-the-bottom-of-the-sea)_, Men's Journal.
 * _[Just Don't Call it a Submarine](http://www.outsideonline.com/outdoor-adventure/water-activities/Just-Don--146-t-Call-It-a-Submarine.html?page=all)_, Outside Magazine.
 * _[Graham Hawkes flies through the ocean](http://www.ted.com/talks/graham_hawkes_flies_through_the_ocean.html)_, TED Talks.
 
