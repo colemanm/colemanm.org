@@ -42,6 +42,13 @@ blockquote {
 	padding:0 1em;
 }
 
+img.thumb.left {
+	margin-right: 6px;
+}
+img.thumb.right {
+	margin-left: 6px;
+}
+
 #container {
 	margin:0 auto;
 	width:533px;
