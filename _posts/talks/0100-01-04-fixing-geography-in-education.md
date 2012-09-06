@@ -5,7 +5,7 @@ title: Fixing Geography in Education
 categories: talks
 image: /images/talks/fixing-geography-in-education.png
 permalink: /talks/fixing-geography-in-education.html
-event: FOSS4G North America 2011
+event: FOSS4G North America 2012
 eventlink: http://foss4g-na.org/
 tags:
 - openstreetmap
