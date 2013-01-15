@@ -3,10 +3,6 @@ layout: post
 date: 2012-08-12 14:22:25 EST
 title: Underwater Flight
 categories: blog
-tags:
-- exploration
-- research
-- science
 ---
 
 Graham Hawkes has a [fascinating approach](http://www.ted.com/talks/graham_hawkes_flies_through_the_ocean.html) to undersea research and exploration. Rather than focusing on deep ocean submersibles (which he's built [plenty](http://en.wikipedia.org/wiki/File:WASP_at_the_OSEL_Testing_tank_Gt_Yarmouth,_UK.JPG) [of](http://en.wikipedia.org/wiki/File:Mantis_at_the_OSEL_Testing_tank_Gt_Yarmouth,_UK.jpg)), his [company](http://www.deepflight.com/) is currently building underwater airplanes, craft that fly through the water with hydrodynamic wings and thrusters, capable of flying alongside dolphins and manta rays. Hawkes is obsessed with the ocean, and is fond of saying to space explorers that their "rockets are pointing in the wrong direction". It's amazing how little is known about the ocean floor, and how relatively little funding we roll into hydro-exploration.

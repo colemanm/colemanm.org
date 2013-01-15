@@ -12,8 +12,8 @@ tags:
 
 We're headed to Weeki Wachee this weekend to do some scalloping, kayaking, and diving. We'll be hanging out up at the springs and (hopefully) catching our limit in bay scallops out on the sea grass. On Sunday I was up in Dunedin helping my dad get the engine ready to put back in his boat. He's got a Shamrock, and has been putting together a new Chevy 350 to install before we head up for the weekend. There was a little fiberglass work that needed doing on the center console, too, to shore it up from water damage.
 
-<a href="http://www.flickr.com/photos/colemanm/7836054600/"><img src="/images/post-images/boat_engine_thumb.jpg" alt="Chevy V8" class="thumb left" /></a>
-<a href="http://www.flickr.com/photos/colemanm/7836051970/"><img src="/images/post-images/boat_fiberglass_thumb.jpg" alt="Fiberglassing" class="thumb right" /></a>
+<a href="http://www.flickr.com/photos/colemanm/7836054600/"><img src="/images/post-images/boat_engine_thumb.png" alt="Chevy V8" class="thumb left" /></a>
+<a href="http://www.flickr.com/photos/colemanm/7836051970/"><img src="/images/post-images/boat_fiberglass_thumb.png" alt="Fiberglassing" class="thumb right" /></a>
 
 I've built several apps in [Fulcrum](http://fulcrumapp.com/) for capturing different sorts of data while we're out and about: for bird sighting locations, one for marking scalloping spots, and another for aids to navigation and other marine features for eventual contribution as [OpenSeaMap](http://en.wikipedia.org/wiki/OpenSeaMap) features &mdash; and I also built a catchall for capturing "geonotes", blobs of text with a photo for some general comment. Can't wait to do some real field collection.
 
