@@ -10,13 +10,12 @@ layout: default
         <p>{{ post.content }}</p>
       </div>
     {% else %}
-      <span class="date">{{ post.date | date: "%m.<strong>%d</strong>.%Y"  }}</span>
       <div class="post">
         <h1><a name='{{ post.date | date: "%m.%d.%Y" }}' href="{{ post.url }}">{{ post.title }}</a></h1>
         <div class="body">
           {{ post.content }}
+          <span class="date">&mdash; {{ post.date | date: "%m.%d.%Y" }} &mdash;</span>
         </div>
-        {% include listed-post-footer.html %}
       </div>
     {% endif %}
   {% endfor %}
