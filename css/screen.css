@@ -155,7 +155,7 @@ code {
 }
 
 .post h1 {
-	margin: 8px 0;
+	margin: 10px 0;
 }
 .post h1 a {
 	border: none;
@@ -207,12 +207,9 @@ table.social-links td {
 
 /* Archive table */
 .archive {
-	margin-top:8px;
-	margin-bottom:3em;
+	margin:8px 0 3em 0;
 	background: #fff;
-	padding-left:15px;
-	padding-right: 15px;
-	padding-top: 7px;
+	padding: 7px 20px 0;
 	border-left: 2px solid #eee;
 	border-right: 2px solid #eee;
 	border-bottom: 2px solid #eee;
@@ -264,10 +261,13 @@ table.social-links td {
 .fb-like { margin-bottom: -2px; }
 .talk-title {
 	font-size: 1.1em;
-	margin-top: 18px;
+	margin-top: 10px;
 }
 .talk-table {
 	margin-bottom: 15px;
+}
+.talks a.talk-img, .talks a.talk-img:hover {
+	border:none;
 }
 
 #footer {

@@ -2,6 +2,7 @@
 layout: post
 date: 2012-08-21 16:52:31 EST
 title: Preparing for Kayaks and Scalloping in Weeki Wachee
+description: "We're headed to Weeki Wachee this weekend to do some scalloping, kayaking, and diving. We'll be hanging out up at the springs and (hopefully) catching our limit in bay scallops out on the sea grass. "
 categories: blog
 tags:
 - boats

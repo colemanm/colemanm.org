@@ -2,6 +2,7 @@
 layout: post
 date: 2013-01-15 09:21:57 EST
 title: Creating New Contributors to OpenStreetMap
+description: "What can the OSM community do to create a larger body of contributors, and get registered users to edit?"
 categories: blog
 comments: true
 ---
