@@ -129,23 +129,6 @@ code {
 	clear: left;
 	width: 550px;
 }
-
-.tags {
-	text-align: left;
-	margin-bottom: 8px;
-}
-.tags a.tag, .tags span.tag {
-	color: #fff;
-	font-size: 11px;
-	font-weight: normal;
-	text-transform: uppercase;
-	background: #4da3a3;
-	border-radius: 3px;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	padding: 1px 5px;
-}
-
 .post { 
 	margin:8px 0 2em 0;
 	background: #fff;
@@ -188,7 +171,7 @@ code {
 	padding:0;
 	font-family: Arial;
 }
-.post-footer a { color: {color:Text}; display: block; letter-spacing:.1em; text-transform: upper & lowercase; font-size:10px; padding-top:2px; margin-bottom: 10px;}
+.post-footer a { color: font-size:10px; padding-top:2px; margin-bottom: 10px; }
 .comment-thread {
 	font-size:1em;
 	margin:0em 0;
@@ -215,6 +198,9 @@ table.social-links td {
 	border-right: 2px solid #eee;
 	border-bottom: 2px solid #eee;
 }
+.archive h1 {
+	margin: 10px 0;
+}
 .archive table { width: 100%; }
 .archive table td {
 	padding: 3px 3px;
@@ -228,22 +214,12 @@ table.social-links td {
 
 /* Maps */
 .maps {
-	margin-top:8px;
-	margin-bottom:3em;
+	margin-bottom: 2em;
+	padding: 7px 20px 15px;
 	background: #fff;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 7px;
-	padding-bottom: 15px;
-	border-left: 2px solid #eee;
-	border-right: 2px solid #eee;
-	border-bottom: 2px solid #eee;
 }
-.maps table td {
-	padding-bottom: 15px;
-}
-.maps table td.right {
-	padding-left: 25px;
+.maps h1 {
+	margin: 10px 0;
 }
 .maps a img {
 	border: 2px solid #f0f0f0;
@@ -254,20 +230,32 @@ table.social-links td {
 .maps .caption {
 	text-align: center;
 	color: #777;
-	margin: 0;
+	margin: 4px 0 20px;
 	padding: 0;
 	font-style: italic;
+	font-size: 1.2em;
+}
+.maps .caption .about {
+	color: #bbb;
+	font-size: 0.8em;
 }
 
 .fb-like { margin-bottom: -2px; }
-.talk-title {
+
+.talk {
+	margin-bottom: 15px;
+}
+.talk .title {
 	font-size: 1.1em;
 	margin-top: 10px;
 }
-.talk-table {
-	margin-bottom: 15px;
+.talk .image {
+	margin-bottom: 20px;
 }
-.talks a.talk-img, .talks a.talk-img:hover {
+.talks h1 {
+	margin: 10px 0;
+}
+.talks a.img, .talks a.img:hover {
 	border:none;
 }
 

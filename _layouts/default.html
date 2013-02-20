@@ -13,6 +13,9 @@
   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
   <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
   {% include google-analytics.html %}
+  {% if page.maps %}
+  {% include map-js.html %}
+  {% endif %}
 </head>
   
 <body>
@@ -20,13 +23,12 @@
   <div id="container">
     <div id="header">
       {% include header.html %}
-    </div> <!-- end #header -->
+    </div>
     <div id="main">
       {{ content }}
-    </div> <!-- end main -->
+    </div>
     {% include footer.html %}
   </div>
-   {% include disqus-comments-link.html %}
    {% include gauges.html %}
 </body>
 </html>
