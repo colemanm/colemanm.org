@@ -4,7 +4,7 @@ date: 2011-07-28 18:00:00 EST
 title: The Value of Local Knowledge
 categories: talks
 image: /images/talks/value-of-local-knowledge.png
-permalink: /talks/value-of-local-knowledge.html
+permalink: /talks/value-of-local-knowledge/
 event: Ignite Tampa Bay 2011
 eventlink: http://ignitetampa.org/
 tags:

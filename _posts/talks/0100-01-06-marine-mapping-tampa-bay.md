@@ -4,7 +4,7 @@ date: 2012-11-06 17:30:27 EST
 title: Marine Mapping in Tampa Bay
 categories: talks
 image: /images/talks/marinemapping.png
-permalink: /talks/marine-mapping-sotmus.html
+permalink: /talks/marine-mapping-sotmus/
 event: State of the Map US 2012
 eventlink: http://www.sotm.us/
 tags:

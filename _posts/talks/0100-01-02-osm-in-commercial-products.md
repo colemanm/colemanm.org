@@ -4,7 +4,7 @@ date: 2011-09-09 10:00:00 EST
 title: OSM in Commercial Products
 categories: talks
 image: /images/talks/osm-in-commercial-products.png
-permalink: /talks/osm-in-commercial-products.html
+permalink: /talks/osm-in-commercial-products/
 event: State of the Map 2011
 eventlink: http://2011.stateofthemap.org/
 tags:

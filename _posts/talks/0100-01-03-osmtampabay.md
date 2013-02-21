@@ -4,7 +4,7 @@ date: 2012-02-10 18:00:00 EST
 title: OSM Tampa Bay
 categories: talks
 image: /images/talks/osmtampabay.png
-permalink: /talks/osm-tampa-bay.html
+permalink: /talks/osm-tampa-bay/
 event: WhereCampTB 2012
 eventlink: http://wherecamptb.org/
 tags:

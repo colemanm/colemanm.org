@@ -4,7 +4,7 @@ date: 2012-09-06 09:31:24 EST
 title: Designing Mapping Apps for Mobile
 categories: talks
 image: /images/talks/designing-for-mobile-mapping.png
-permalink: /talks/mobile-mapping.html
+permalink: /talks/mobile-mapping/
 event: Geo DC
 eventlink: http://www.meetup.com/Geo-DC/
 tags:
