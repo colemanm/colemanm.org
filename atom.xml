@@ -15,14 +15,15 @@ layout: nil
 </author>
 
 {% for post in site.posts %}
+{% if post.status != "draft" %}
 <entry>
   <title>{{ post.title }}</title>
   <link href="http://colemanm.org{{ post.url }}"/>
   <updated>{{ post.date | date_to_xmlschema }}</updated>
   <id>http://colemanm.org{{ post.id }}</id>
   <content type="html">{{ post.content | xml_escape }}</content>
-   
 </entry>
+{% endif %}
 {% endfor %}
  
 </feed>
