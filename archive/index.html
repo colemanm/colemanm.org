@@ -7,10 +7,12 @@ title: Archives
 <h1>Archive</h1>
 <table cellspacing="0" class="archive-table">
 {% for post in site.categories.blog %}
+	{% if post.status != "draft" %}
   <tr class="{% cycle 'even', 'odd' %}">
     <td><a href='{{ post.url }}'>{{ post.title }}</a></td>
     <td class="date-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
   </tr>
+  {% endif %}
 {% endfor %}
 </table>
 </div>
