@@ -153,6 +153,9 @@ code {
 	margin-bottom: 15px;
 	color: #bbb;
 }
+.post iframe {
+	margin: 8px 0;
+}
 .body {
 	margin-bottom: 15px;
 }
