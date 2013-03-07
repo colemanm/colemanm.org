@@ -6,7 +6,7 @@
         <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
       </td>
       <td class="right">
-        {% if page.next %}
+        {% if page.next and page.next.status != "draft" %}
          <span class="pagination-button">Next &rarr;</span><br />
         <a href="{{ page.next.url }}">{{ page.next.title }}</a>
         {% endif %}

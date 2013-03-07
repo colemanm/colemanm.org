@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-02-21 13:22:01 EST
+date: 2013-03-06 23:39:09 EST
 title: "On Communication"
 categories: blog
 status: draft
