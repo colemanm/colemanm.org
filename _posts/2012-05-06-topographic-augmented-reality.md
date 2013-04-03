@@ -9,7 +9,9 @@ tags:
 - augmented reality
 ---
 
-<iframe width="500" height="281" src="http://www.youtube.com/embed/j9JXtTj0mzE?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="embed">
+<iframe src="http://www.youtube.com/embed/j9JXtTj0mzE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Generating a real-time topographic map with a sandbox, Kinect, and a projector.
 

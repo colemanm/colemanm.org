@@ -8,7 +8,9 @@ tags:
 - New York City
 ---
 
-<iframe width="500" height="281" src="http://www.youtube.com/embed/M9cSxEqKQ78?rel=0" frameborder="0">NYC Drone Flight</iframe>
+<div class="embed">
+<iframe src="http://www.youtube.com/embed/M9cSxEqKQ78?rel=0" frameborder="0">NYC Drone Flight</iframe>
+</div>
 
 Dudes attached HD video cameras to an RC airplane and flew it all around the urban environments of New York City.
 

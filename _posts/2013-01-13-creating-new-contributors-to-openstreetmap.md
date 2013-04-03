@@ -11,7 +11,9 @@ I wrote a [blog post](http://spatialnetworks.com/blog/2013/01/the-first-3-months
 
 As I mentioned in [the post](http://spatialnetworks.com/blog/2013/01/the-first-3-months-of-pushpin-and-openstreetmap/), I'm fascinated and excited by how many brand new OpenStreetMap users we're creating, and how many who never edited before are taking an interest in making contributions. This has been an historic problem for the OpenStreetMap project for years now: How do you convince a casually-interested person to invest the time to learn _how to contribute themselves_?
 
-<iframe width='596' height='300' frameBorder='0' src='http://a.tiles.mapbox.com/v3/colemanm.pushpin-edits.html#2/36.0/-39.0'></iframe>
+<div class="embed">
+<iframe frameBorder='0' src='http://a.tiles.mapbox.com/v3/colemanm.pushpin-edits.html#2/36.0/-39.0'></iframe>
+</div>
 <p class="caption">3 months of OSM edits with Pushpin</p>
 
 There are two primary hurdles I've always seen with why "interested users" don't make contributions; one technical, and one more philosophical:

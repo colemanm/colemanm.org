@@ -8,7 +8,7 @@ tags:
 - maps
 ---
 
-<a href="http://www.wherecampdc.org/)"><img src="/images/post-images/wherecampdc2011.png"/></a>
+<a href="http://www.wherecampdc.org/"><img src="/images/post-images/wherecampdc2011.png"/></a>
 
 We attended the first [WhereCampDC](http://www.wherecampdc.org/) a couple weeks ago, and I wrote up [my summary](http://spatialnetworks.com/blog/2011/06/wherecampdc-wrap-up-the-geoherd-gathers/) on our blog.
 

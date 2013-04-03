@@ -7,7 +7,9 @@ categories: blog
 
 If you enjoy hearing stories from visionaries, listen to this talk that Gabe Newell (founder of [Valve](http://en.wikipedia.org/wiki/Valve_Corporation)) gave at UT Austin:
 
-<iframe width="596" height="335" src="http://www.youtube.com/embed/t8QEOBgLBQU?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="embed">
+<iframe src="http://www.youtube.com/embed/t8QEOBgLBQU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 >"It seems fairly obvious that the Internet does a better job of organizing a bunch of individuals than General Motors or Sears does. Corporations [with hierarchies] tend to be pre-internet ways of organizing production."
 

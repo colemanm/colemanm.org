@@ -8,7 +8,9 @@ tags:
 - creating
 ---
 
-<iframe width="500" height="281" src="http://www.youtube.com/embed/re_LWmRJK-g?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="embed">
+<iframe src="http://www.youtube.com/embed/re_LWmRJK-g?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Ron Gilbert and Tim Schafer have a conversation about adventure games.
 
