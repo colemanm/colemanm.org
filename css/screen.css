@@ -4,247 +4,249 @@ colors derived from: http://www.flickr.com/photos/karhan/8372828011/
 html, body, h1, h2, h3, h4, h5, h6 { margin:0;padding:0; }
 html { font-size: 87.4% }
 body {
-	background: #f6f6f6;
-	color: #333;
-	font:normal 0.9em/1.6 "Libre Baskerville", serif;
-	-webkit-text-stroke: 1px transparent;
-	margin: 0;
-	padding: 3em 0 0;
+  background: #f6f6f6;
+  color: #333;
+  font:normal 0.9em/1.6 "Libre Baskerville", serif;
+  -webkit-text-stroke: 1px transparent;
+  margin: 0;
+  padding: 3em 0 0;
 }
 a, a:visited, a:active {
-	color: #446688;
-	text-decoration: none;
+  color: #446688;
+  text-decoration: none;
 }
 a:hover {
-	color: #445555;
-	border-bottom: 1px solid #dd9922;
+  color: #445555;
+  border-bottom: 1px solid #dd9922;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: #446688;
-	font-family: "Libre Baskerville", serif;
-	font-weight: normal;
+  color: #446688;
+  font-family: "Libre Baskerville", serif;
+  font-weight: normal;
 }
 h1 span {
-	font-size: 13px;
-	font-family: "Libre Baskerville", serif;
-	color: #333;
+  font-size: 13px;
+  font-family: "Libre Baskerville", serif;
+  color: #333;
 }
 h2 {
-	margin-top: 0;
+  margin-top: 0;
 }
 p {
-	margin: 0.75em 0 0.85em;
+  margin: 0.75em 0 0.85em;
 }
 ul,ol {
-	margin: 0 0 1.5em;
-	padding-left: 2.5em;
+  margin: 0 0 1.5em;
+  padding-left: 2.5em;
 }
 blockquote {
-	border-left:2px solid #555;
-	color: #999;
-	margin: 0 1em 1.5em;
-	padding: 0 1em;
+  border-left:2px solid #555;
+  color: #999;
+  margin: 0 1em 1.5em;
+  padding: 0 1em;
 }
 img.thumb.left {
-	margin-right: 6px;
+  margin-right: 6px;
 }
 img.thumb.right {
-	margin-left: 6px;
+  margin-left: 6px;
 }
 p.caption {
-	font-style: italic;
-	font-size: 0.9em;
-	text-align: center;
-	margin-top: 0;
+  font-style: italic;
+  font-size: 0.9em;
+  text-align: center;
+  margin-top: 0;
 }
 code {
-	font-size: 1.3em;
-	padding: 3px;
-	background-color: #f2ede8;
+  font-size: 1.3em;
+  padding: 3px;
+  background-color: #f2ede8;
 }
 
 #container {
-	margin: 0 auto;
-	width: 640px;
+  margin: 0 auto;
+  width: 640px;
 }
-#header { width: 640px; }
+#header {
+  padding: 0 20px;
+}
 #header h1 {
-	margin: 0 0 0.5em;
-	padding-bottom: 10px;
-	border-bottom: 1px solid #ccc;
+  margin: 0 0 0.5em;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
 }
 #header h1 a {
-	border:0;
-	color: #446688;
-	font-weight: bold;
-	text-decoration: none;
-	text-transform: lowercase;
+  border:0;
+  color: #446688;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: lowercase;
 }
 #header h1 a:hover {
-	color: #dd9922;
+  color: #dd9922;
 }
 #header #navigation {
-	float: right;
-	list-style: none;
-	margin: 0.75em 0 3.75em;
-	padding: 0;
+  float: right;
+  list-style: none;
+  margin: 0.75em 0 3.75em;
+  padding: 0;
 }
 #header #navigation li {
-	display: inline;
-	margin: 0 0.25em;
+  display: inline;
+  margin: 0 0.25em;
 }
 #header #navigation a {
-	font-size: 1.2em;
-	line-height: 1.8em;
-	padding: 0.25em;
-	text-decoration: none;
-	color: #557788;
+  font-size: 1.3em;
+  line-height: 1.8em;
+  padding: 0.25em;
+  text-decoration: none;
+  color: #557788;
 }
 #header #navigation a:hover {
-	border-bottom: 2px solid #dd9922;
-	text-decoration: none;
+  border-bottom: 2px solid #dd9922;
+  text-decoration: none;
 }
 #header #navigation a.active {
-	border-bottom: 2px solid #dd9922;
-	text-decoration: none;
+  border-bottom: 2px solid #dd9922;
+  text-decoration: none;
 }
 #header p.tagline {
-	font-style: italic;
-	margin-bottom: 25px;
+  font-style: italic;
+  margin-bottom: 25px;
 }
 
 #posts {
-	clear: left;
-	width: 550px;
+  clear: left;
+  width: 550px;
 }
 .post { 
-	margin: 8px 0 2em 0;
-	background: #fff;
-	padding: 7px 20px 0;
-	border-left: 2px solid #eee;
-	border-right: 2px solid #eee;
-	border-bottom: 2px solid #eee;
+  margin: 8px 0 2em 0;
+  background: #fff;
+  padding: 7px 20px 0;
+  border-left: 2px solid #eee;
+  border-right: 2px solid #eee;
+  border-bottom: 2px solid #eee;
 }
 
 .post h1 {
-	margin: 10px 0;
+  margin: 10px 0;
 }
 .post h1 a {
-	border: none;
+  border: none;
 }
 .post p {
-	line-height: 1.9em;
+  line-height: 1.9em;
 }
 .post span.date {
-	display: block;
-	text-align: center;
-	margin-bottom: 15px;
-	color: #bbb;
+  display: block;
+  text-align: center;
+  margin-bottom: 15px;
+  color: #bbb;
 }
 .post iframe {
-	margin: 8px 0;
+  margin: 8px 0;
 }
 .body {
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .single p {
-	line-height: 1.9em;
+  line-height: 1.9em;
 }
 
 .post-footer {
-	background: #fff;
-	list-style: none;
-	font-size: 0.857em;
-	margin: 0 0 8px 0;
-	padding: 0;
+  background: #fff;
+  list-style: none;
+  font-size: 0.857em;
+  margin: 0 0 8px 0;
+  padding: 0;
 }
 .post-footer a {
-	font-size: 10px;
-	padding-top: 2px;
-	margin-bottom: 10px;
+  font-size: 10px;
+  padding-top: 2px;
+  margin-bottom: 10px;
 }
 .post-footer iframe {
-	vertical-align: top;
+  vertical-align: top;
 }
 
 .archive {
-	margin: 8px 0 3em 0;
-	background: #fff;
-	padding: 7px 20px 0;
-	border-left: 2px solid #eee;
-	border-right: 2px solid #eee;
-	border-bottom: 2px solid #eee;
+  margin: 8px 0 3em 0;
+  background: #fff;
+  padding: 7px 20px 0;
+  border-left: 2px solid #eee;
+  border-right: 2px solid #eee;
+  border-bottom: 2px solid #eee;
 }
 .archive h1 {
-	margin: 10px 0;
+  margin: 10px 0;
 }
 .archive table { width: 100%; }
 .archive table td {
-	padding: 3px 3px;
-	border-bottom: 1px solid #ccc;
+  padding: 3px 3px;
+  border-bottom: 1px solid #ccc;
 }
 .archive table td.date-cell { text-align: right; }
 .archive table tr.odd { background-color: #F2EDE8; }
 .archive-table {
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .maps {
-	margin-bottom: 2em;
-	padding: 7px 20px 15px;
-	background: #fff;
+  margin-bottom: 2em;
+  padding: 7px 20px 15px;
+  background: #fff;
 }
 .maps h1 {
-	margin: 10px 0;
+  margin: 10px 0;
 }
 .maps a img {
-	border: 2px solid #f0f0f0;
+  border: 2px solid #f0f0f0;
 }
 .maps a:hover img {
-	border: 2px solid #4da3a3;
+  border: 2px solid #4da3a3;
 }
 .maps .caption {
-	text-align: center;
-	color: #777;
-	margin: 4px 0 20px;
-	padding: 0;
-	font-style: italic;
-	font-size: 1.2em;
+  text-align: center;
+  color: #777;
+  margin: 4px 0 20px;
+  padding: 0;
+  font-style: italic;
+  font-size: 1.2em;
 }
 .maps .caption .about {
-	color: #bbb;
-	font-size: 0.8em;
+  color: #bbb;
+  font-size: 0.8em;
 }
 
 .talk {
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 .talk .title {
-	font-size: 1.1em;
-	margin-top: 10px;
+  font-size: 1.1em;
+  margin-top: 10px;
 }
 .talk .image {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 .talks h1 {
-	margin: 10px 0;
+  margin: 10px 0;
 }
 .talks a.img, .talks a.img:hover {
-	border:none;
+  border:none;
 }
 
 #footer {
-	margin-bottom: 35px;
-	text-align: center;
+  margin-bottom: 35px;
+  text-align: center;
 }
 .pagination { margin-bottom: 5px; }
 .pagination table { width: 100%; }
 .pagination table td {
-	padding: 3px 3px;
+  padding: 3px 3px;
 }
 .pagination td.right { text-align: right; }
 .pagination-button {
-	font-size: 0.9em;
-	text-transform: uppercase;
+  font-size: 0.9em;
+  text-transform: uppercase;
 }
