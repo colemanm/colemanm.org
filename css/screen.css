@@ -8,7 +8,7 @@ body {
   width: 640px;
   margin: 0 auto;
   color: #333;
-  font:normal 0.9em/1.6 "Libre Baskerville", serif;
+  font:normal 0.9em/2 "Libre Baskerville", serif;
   -webkit-text-stroke: 1px transparent;
   padding: 3em 0 0;
 }
@@ -63,6 +63,8 @@ code {
   padding: 3px;
   background-color: #f2ede8;
 }
+img.right { float: right; margin: 0 0 8px 8px; }
+img.left { float: left; margin: 0 8px 8px 0; }
 
 @media only screen and (max-device-width: 480px) {
   body {
@@ -190,6 +192,16 @@ code {
 }
 .post-footer iframe {
   vertical-align: top;
+}
+.post .footnotes {
+  font-size: 0.9em;
+  margin: 15px 0;
+}
+.post .footnotes ol {
+  border-top: #ddd;
+}
+.post .footnotes p {
+  margin: 2px 0;
 }
 
 .page {

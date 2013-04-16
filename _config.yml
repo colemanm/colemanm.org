@@ -5,7 +5,7 @@ auto: true
 server: true
 server_port: 4000
 pygments: true
-markdown: rdiscount
+markdown: kramdown
 url: http://colemanm.org
 author :
   name : Coleman McCormick
