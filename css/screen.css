@@ -1,14 +1,15 @@
 /*
 colors derived from: http://www.flickr.com/photos/karhan/8372828011/
 */
+
 html, body, h1, h2, h3, h4, h5, h6 { margin:0;padding:0; }
-html { font-size: 87.4% }
+html { font-size: 100% }
 body {
   background: #f6f6f6;
   width: 640px;
   margin: 0 auto;
   color: #333;
-  font:normal 0.9em/2 "Libre Baskerville", serif;
+  font:normal 0.9em/1.8 "Libre Baskerville", serif;
   -webkit-text-stroke: 1px transparent;
   padding: 3em 0 0;
 }
@@ -34,7 +35,7 @@ h2 {
   margin-top: 0;
 }
 p {
-  margin: 0.75em 0 0.85em;
+  margin: 0.95em 0;
 }
 ul,ol {
   margin: 0 0 1.5em;
@@ -46,6 +47,15 @@ blockquote {
   margin: 0 1em 1.5em;
   padding: 0 1em;
 }
+code {
+  font-size: 1.3em;
+  padding: 3px;
+  background-color: #f2ede8;
+}
+
+/* img floats */
+img.right { float: right; margin: 0 0 8px 8px; }
+img.left { float: left; margin: 0 8px 8px 0; }
 img.thumb.left {
   margin-right: 6px;
 }
@@ -58,14 +68,8 @@ p.caption {
   text-align: center;
   margin-top: 0;
 }
-code {
-  font-size: 1.3em;
-  padding: 3px;
-  background-color: #f2ede8;
-}
-img.right { float: right; margin: 0 0 8px 8px; }
-img.left { float: left; margin: 0 8px 8px 0; }
 
+/* media */
 @media only screen and (max-device-width: 480px) {
   body {
     width: 320px;
@@ -82,8 +86,10 @@ img.left { float: left; margin: 0 8px 8px 0; }
 #container {
   margin: 0 auto;
 }
+
 #header {
   padding: 0 20px;
+  margin-bottom: 25px;
 }
 #header h1 {
   margin: 0 0 0.5em;
@@ -91,7 +97,7 @@ img.left { float: left; margin: 0 8px 8px 0; }
   border-bottom: 1px solid #ccc;
 }
 #header h1 a {
-  border:0;
+  border: none;
   color: #446688;
   font-weight: bold;
   text-decoration: none;
@@ -117,20 +123,13 @@ img.left { float: left; margin: 0 8px 8px 0; }
   text-decoration: none;
   color: #557788;
 }
-#header #navigation a:hover {
+#header #navigation a:hover, #header #navigation a.active {
   border-bottom: 2px solid #dd9922;
   text-decoration: none;
 }
-#header #navigation a.active {
-  border-bottom: 2px solid #dd9922;
-  text-decoration: none;
-}
-#header p.tagline {
-  font-style: italic;
-  margin-bottom: 25px;
-}
+#header p.tagline { font-style: italic; }
 
-.post { 
+.post {
   margin: 8px 0 2em 0;
   background: #fff;
   padding: 7px 20px 0;
@@ -146,7 +145,7 @@ img.left { float: left; margin: 0 8px 8px 0; }
   border: none;
 }
 .post p {
-  line-height: 1.9em;
+  line-height: 2em;
 }
 .post span.date {
   display: block;
@@ -226,15 +225,10 @@ img.left { float: left; margin: 0 8px 8px 0; }
   margin-bottom: 15px;
 }
 
-.maps h1 {
-  margin: 10px 0;
-}
-.maps a img {
-  border: 2px solid #f0f0f0;
-}
-.maps a:hover img {
-  border: 2px solid #4da3a3;
-}
+/* maps page */
+.maps h1 { margin: 10px 0; }
+.maps a img { border: 2px solid #f0f0f0; }
+.maps a:hover img { border: 2px solid #4da3a3; }
 .maps .caption {
   text-align: center;
   color: #777;
@@ -248,32 +242,24 @@ img.left { float: left; margin: 0 8px 8px 0; }
   font-size: 0.8em;
 }
 
-.talk {
-  margin-bottom: 15px;
-}
+/* talks page */
+.talk { margin-bottom: 15px; }
+.talk .image { margin-bottom: 20px; }
+.talks h1 { margin: 10px 0; }
+.talks a.img, .talks a.img:hover { border:none; }
 .talk .title {
   font-size: 1.1em;
   margin-top: 10px;
 }
-.talk .image {
-  margin-bottom: 20px;
-}
-.talks h1 {
-  margin: 10px 0;
-}
-.talks a.img, .talks a.img:hover {
-  border:none;
-}
 
 #footer {
+  font-size: 0.8em;
   margin-bottom: 35px;
   text-align: center;
 }
 .pagination { margin-bottom: 5px; }
 .pagination table { width: 100%; }
-.pagination table td {
-  padding: 3px 3px;
-}
+.pagination table td { padding: 3px 3px; }
 .pagination td.right { text-align: right; }
 .pagination-button {
   font-size: 0.9em;
