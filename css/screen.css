@@ -47,6 +47,12 @@ blockquote {
   margin: 0 1em 1.5em;
   padding: 0 1em;
 }
+pre {
+  display: block;
+  font-family: "Inconsolata XL", monospace;
+  background: #f2ede8;
+  padding: 5px;
+}
 code {
   font-size: 1.3em;
   padding: 3px;
