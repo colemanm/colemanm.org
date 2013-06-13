@@ -40,7 +40,7 @@ My iTunes media is mostly secure at this point, with iTunes Match and iCloud, bu
 
 ### History + Logs
 
-On a daily basis, I'm all over the place with my machine &mdash; working with data in Postgres or SQLite, writing Ruby scripts, and just generally working on the shell doing tons of different things. I love having my command history for anything that has a CLI archived somewhere, so when I need to pull up some command or see how I had built a package from source, it's as simple as searching a history file. Many Linux & Mac applications keep themselves a history file inside your home directory, typically hidden, like `.bash_history` for the bash shell environment. Here's a few I keep around for posterity and convenience, in a "histories" backup[^history] directory:
+On a daily basis, I'm all over the place with my machine &mdash; working with data in Postgres or SQLite, writing Ruby scripts, and just generally working on the shell doing tons of different things. I love having my command history for anything that has a CLI archived somewhere, so when I need to pull up some command or see how I had built a package from source, it's as simple as searching a history file. Many Linux & Mac applications keep themselves a history file inside your home directory, typically hidden, like `.bash_history` for the bash shell environment. I use zsh, with the awesome [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) environment framework, highly recommended. Here's a few I keep around for posterity and convenience, in a "histories" backup[^history] directory:
 
 * `~/.zsh_history`
 * `~/.irb-history`
