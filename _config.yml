@@ -5,6 +5,7 @@ port: 4001
 pygments: true
 markdown: kramdown
 url: http://colemanm.org
+description: "Notes + Links from @colemanm"
 author :
   name : Coleman McCormick
   email : coleman@colemanm.org

@@ -2,6 +2,7 @@
 layout: post
 date: 2013-06-13 15:23:33 EST
 title: "Dropbox and Backups"
+description: "I use Dropbox as the nerve center for all of my digital goods, keeping data, configurations, histories, log files, and anything else I need access to centralized and available from my Mac or iOS devices. Here are a few of my daily tools or information trails I want to keep synced up, so anything here can be a few clicks or a search away"
 categories: blog
 ---
 
@@ -26,7 +27,7 @@ Since I want my chats to all be instantly backed up to Dropbox, I symlink the di
 
     ln -s ~/Library/Messages/Archive ~/Dropbox/backups/chats/
 
-Linking those files to a Dropbox directory will automatically sync them to your account in real time, if you have syncing enabled. These files are then backed up for good, in case I need to search later. A downside with Messages is the transcript files are `.ichat` files, not plain text. So they can't be searched from the Dropbox iOS app or mobile text readers. The in-app search works okay, but hopefully we'll see some performance improvement there in the upcoming [OS X Mavericks](http://www.apple.com/osx/preview/) release. [This piece](http://www.macworld.com/article/2012835/messages-working-with-transcripts.html) from Glen Fleishman has some other good tips on instant messaging with Messages.
+Linking those files to a Dropbox directory will automatically sync them to your account in real time, if you have syncing enabled. These files are then backed up for good, in case I need to search later. A downside with Messages is the transcript files are `.ichat` files, not plain text. So they can't be searched from the Dropbox iOS app or mobile text readers. The in-app search works okay, but hopefully we'll see some performance improvement there in the upcoming [OS X Mavericks](http://www.apple.com/osx/preview/) release. [This piece](http://www.macworld.com/article/2012835/messages-working-with-transcripts.html) from Glenn Fleishman has some other good tips on instant messaging with Messages.
 
 ### iTunes
 

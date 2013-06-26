@@ -1,0 +1,25 @@
+{% assign author = site.authors[page.author] %}
+<meta name="author" content="Coleman McCormick">
+{% if page.categories contains 'blog' %}
+<meta name="description" content="{{page.description}}">
+{% else %}
+<meta name="description" content="{{site.description}}">
+{% endif %}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% if page.categories contains 'blog' %}
+<link rel="canonical" href="{{site.url}}{{page.url}}" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="colemanm">
+<meta name="twitter:creator" content="colemanm">
+<meta name="twitter:url" content="{{site.url}}{{page.url}}">
+<meta name="twitter:description" content="{{page.description}}">
+<meta property="og:site_name" content="colemanm.org">
+<meta property="og:url" content="{{site.url}}{{page.url}}">
+<meta property="og:title" content="{{page.title}}">
+<meta property="og:type" content="article">
+<meta property="og:description" content="{{page.description}}">
+{% if page.img %}
+<meta name="twitter:image:src" content="{{page.img}}">
+<meta property="og:image" content="{{page.img}}">
+{% endif %}
+{% endif %}

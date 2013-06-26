@@ -5,8 +5,8 @@ colors derived from: http://www.flickr.com/photos/karhan/8372828011/
 html, body, h1, h2, h3, h4, h5, h6 { margin:0;padding:0; }
 html { font-size: 100% }
 body {
-  background: #f6f6f6;
   width: 640px;
+  background: #f6f6f6;
   margin: 0 auto;
   color: #333;
   font:normal 0.9em/1.8 "Libre Baskerville", serif;
@@ -52,12 +52,14 @@ pre {
   font-family: "Inconsolata XL", monospace;
   background: #f2ede8;
   padding: 5px;
+  overflow: auto;
 }
 code {
   font-size: 1.3em;
   padding: 3px;
   background-color: #f2ede8;
 }
+img { max-width: 100%; }
 
 /* img floats */
 img.right { float: right; margin: 0 0 8px 8px; }
@@ -73,20 +75,6 @@ p.caption {
   font-size: 0.9em;
   text-align: center;
   margin-top: 0;
-}
-
-/* media */
-@media only screen and (max-device-width: 480px) {
-  body {
-    width: 320px;
-  }
-  .main-nav { display: none; }
-  .mobile-nav ul { text-align: center; }
-  .mobile-nav a { display: block;
-  }
-}
-@media only screen and (min-width: 978px) {
-  .mobile-nav { display: none; }
 }
 
 #container {
@@ -270,4 +258,20 @@ p.caption {
 .pagination-button {
   font-size: 0.9em;
   text-transform: uppercase;
+}
+
+/* media */
+@media only screen and (max-device-width: 480px) {
+  body {
+    width: 320px;
+    padding-top: 1em;
+  }
+  .main-nav { display: none; }
+  .mobile-nav ul { text-align: center; }
+  .mobile-nav a { display: block;
+  }
+  .post h1 { font-size: 1.5em; }
+}
+@media only screen and (min-width: 978px) {
+  .mobile-nav { display: none; }
 }
