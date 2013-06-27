@@ -250,6 +250,7 @@ p.caption {
   font-size: 0.8em;
   margin-bottom: 35px;
   text-align: center;
+  color: #aaa;
 }
 .pagination { margin-bottom: 5px; }
 .pagination table { width: 100%; }
@@ -274,7 +275,4 @@ p.caption {
   .mobile-nav ul li { display: inline; padding: 0 5px; }
   }
   .post h1 { font-size: 1.5em; }
-}
-@media only screen and (min-width: 978px) {
-
 }

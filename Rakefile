@@ -2,9 +2,9 @@ require 'rake'
 require 'time'
 
 namespace :blog do
-  
+
   namespace :post do
-    
+
     # Usage: rake blog:post:new title="A Title" [date="2012-02-09"]
     desc "Create a New Blog Post"
     task :new do
@@ -33,7 +33,7 @@ namespace :blog do
 
       system "#{ENV['EDITOR'] || 'open'} #{filename}"
     end
-    
+
   end
-  
+
 end
