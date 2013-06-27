@@ -259,6 +259,7 @@ p.caption {
   font-size: 0.9em;
   text-transform: uppercase;
 }
+.mobile-nav { display: none; }
 
 /* media */
 @media only screen and (max-device-width: 480px) {
@@ -268,12 +269,12 @@ p.caption {
   }
   .pagination { display: none; }
   .main-nav { display: none; }
-  .mobile-nav { margin-bottom: 20px; }
+  .mobile-nav { display: block !important; margin-bottom: 20px; }
   .mobile-nav ul { list-style-type: none; text-align: center; margin: 0; padding: 0; }
   .mobile-nav ul li { display: inline; padding: 0 5px; }
   }
   .post h1 { font-size: 1.5em; }
 }
 @media only screen and (min-width: 978px) {
-  .mobile-nav { display: none; }
+
 }
