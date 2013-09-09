@@ -144,8 +144,10 @@ p.caption {
 .post span.date {
   display: block;
   text-align: center;
+  padding-top: 20px;
   margin-bottom: 15px;
   color: #bbb;
+  clear: left;
 }
 .post .embed {
   position: relative;
@@ -171,21 +173,6 @@ p.caption {
   line-height: 1.9em;
 }
 
-.post-footer {
-  background: #fff;
-  list-style: none;
-  font-size: 0.857em;
-  margin: 0 0 8px 0;
-  padding: 0;
-}
-.post-footer a {
-  font-size: 10px;
-  padding-top: 2px;
-  margin-bottom: 10px;
-}
-.post-footer iframe {
-  vertical-align: top;
-}
 .post .footnotes {
   font-size: 0.8em;
   margin: 15px 0;
@@ -244,6 +231,23 @@ p.caption {
 .talk .title {
   font-size: 1.1em;
   margin-top: 10px;
+}
+
+.share ul,li { margin: 0; padding: 0; }
+.share ul {
+  width: 170px;
+  margin-left: 0;
+  margin: 0 auto 25px;
+}
+.share li {
+  display: block;
+  float: left;
+  margin-right: 10px;
+}
+.share li:first-child { margin-right: -20px; }
+.share li:last-child { margin-right:0;}
+.share iframe {
+  vertical-align: top;
 }
 
 #footer {
