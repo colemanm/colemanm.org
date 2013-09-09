@@ -8,7 +8,8 @@ description: "notes and links from @colemanm"
       <div class="post">
         <h1><a name='{{ post.date | date: "%m.%d.%Y" }}' href="{{ post.url }}">{{ post.title }}</a></h1>
         <div class="body">
-          {{ post.content }}
+          {{ post.content | split: '<!-- more -->' | first }}
+          <strong><a href="{{post.url}}">read more &rarr;</a></strong>
           <span class="date">&mdash; {{ post.date | date: "%m.%d.%Y" }} &mdash;</span>
         </div>
       </div>
