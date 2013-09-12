@@ -277,6 +277,7 @@ p.caption {
   .mobile-nav { display: block !important; margin-bottom: 20px; }
   .mobile-nav ul { list-style-type: none; text-align: center; margin: 0; padding: 0; }
   .mobile-nav ul li { display: inline; padding: 0 5px; }
-  }
+  .post { padding:20px; }
   .post h1 { font-size: 1.5em; }
+  img.right, img.left { float:none; display:block; }
 }
