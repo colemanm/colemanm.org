@@ -2,7 +2,7 @@
 layout: post
 date: 2013-10-09 13:38:33 EST
 title: "Cabbage Key"
-description: "Mapping / relaxing at Cabbage Key."
+description: "Mapping and relaxing at Cabbage Key."
 categories: blog
 ---
 
