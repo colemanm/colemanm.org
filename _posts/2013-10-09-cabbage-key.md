@@ -8,7 +8,7 @@ categories: blog
 
 ![Egret](/images/post-images/egret.jpg)
 
-I spent last weekend with the family at [Cabbage Key](http://www.cabbagekey.com/home/), an island near Charlotte Harbor, in southwest Florida. It's only visitable by boat, so we launched the Shamrock on Friday morning to head over the the cottage, including a number of cargo trips to bring all the weekend's people and provisions.
+I spent last weekend with the family at [Cabbage Key](http://www.cabbagekey.com/home/), an island near Charlotte Harbor, in southwest Florida. It's only visitable by boat, so we launched the Shamrock on Friday morning to head over to the cottage, including a number of cargo trips to bring all the weekend's people and provisions.
 
 We had a fantastic time fishing, sailing, drinking beers, and eating. Cabbage is a great spot that's close enough to drive to, yet still detached enough to feel like a true vacation away from home.
 
