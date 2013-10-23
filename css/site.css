@@ -1,6 +1,4 @@
-/*
-colors derived from: http://www.flickr.com/photos/karhan/8372828011/
-*/
+/* colors derived from: http://www.flickr.com/photos/karhan/8372828011 */
 
 html, body, h1, h2, h3, h4, h5, h6 { margin:0;padding:0; }
 html { font-size: 100% }
@@ -70,6 +68,7 @@ img.thumb.left {
 img.thumb.right {
   margin-left: 6px;
 }
+img.bordered { border:1px solid #ddd; }
 p.caption {
   font-style: italic;
   font-size: 0.9em;
