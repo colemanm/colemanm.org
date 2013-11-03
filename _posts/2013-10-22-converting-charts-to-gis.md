@@ -24,3 +24,7 @@ You can download the raw RNC data directly [from NOAA](http://www.charts.noaa.go
 NOAA RNCs are published in [BSB file format](http://home.gdal.org/projects/bsb/). Unzipping your chart, you'll see two files, a BSB and KAP file. The KAP file is what you'll run operations on in QGIS to do the preparation and conversion. To get started, open up QGIS and drag your chart's KAP file into the workspace. You should see it load up in the viewer:
 
 ![]()
+
+Now two operations should be performed on the data: we need to **convert** the BSB file to a GeoTIFF (a much more open and widely-supported image format), and **reproject** it into a standard, common projection. In our case, what we want in the end is a GeoTIFF file in the WGS 84 projection, which is [World Geodetic](http://spatialreference.org/ref/epsg/4326/)[^projections].
+
+[^projections]: In this step, you can use whatever standard EPSG projection you want, since the QGIS tools are a simple wrapper around the GDAL program. So anything [GDAL supports](http://spatialreference.org/) can be projected in QGIS. The [web mercator](http://wiki.openstreetmap.org/wiki/EPSG:3857) projection can also be useful, particularly if you're converting the results to maps with TileMill.

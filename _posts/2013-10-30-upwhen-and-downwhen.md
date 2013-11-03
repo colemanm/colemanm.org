@@ -1,0 +1,30 @@
+---
+layout: post
+date: 2013-10-30 22:29:17 EST
+title: "Upwhen and Downwhen"
+description: "Looking back at Asimov's time travel story, The End of Eternity."
+categories:
+- blog
+- asimov
+book: "The End of Eternity"
+publish_date: 1955
+published: false
+---
+
+>This is the first part of a series of essays on Isaac Asimov's famous _[Greater Foundation](http://en.wikipedia.org/wiki/Foundation_Series#List_of_books_within_the_Foundation_Universe)_ story collection. In this first one I discuss the time travel mystery _The End of Eternity_. It's rife with spoilers, so beware.
+
+The prolific science fiction writer Isaac Asimov published an astonishing body of work in his life. Though he's probably most well-known for his stories, collections, and postulations about robots (and, therefore, artificial intelligence), he wrote a baffling amount speculating on much bigger ideas like politics, religion, and philosophy. The _[Robot](http://en.wikipedia.org/wiki/Robot_series_(Asimov))_ series is one angle on a bigger picture. Within the same loosely-connected universe sit two other series, those of the _[Empire](http://en.wikipedia.org/wiki/Galactic_Empire_(series))_ and _[Foundation](http://en.wikipedia.org/wiki/Foundation_Series)_ collections. Altogether, these span 14 full novels, with a sprinkling of several other short story collections in between.
+
+![Eternity](/images/post-images/eternity.jpg)
+
+In deciding to read all the works in the collection, I first had to decide where to begin. Is the best experience had by reading in the order he wrote them? Or to read them in story chronological order? Searching for an answer to this question, I naturally ran across the sci-fi message board discussions arguing the "chronological" versus "published" reading order, with compelling arguments both ways. I wasn't sure which had more merit until I read that Asimov himself [suggests](http://www3.sympatico.ca/n.rieck/links/cool_sci_fi.html#asimov-suggested-reading-order) a chronological approach, rather than in the order of their writing. Taking a [tip from another reader](http://scifi.stackexchange.com/a/2347), I also decided to go a step further and begin with one outside of the big series. So I started with the 1955 time travel story _[The End of Eternity](https://www.goodreads.com/book/show/509784.The_End_of_Eternity)_.
+
+The novel is primarily a mystery-slash-thriller, set in a distant future. The story follows the experiences of Andrew Harlan, a man extracted from Reality and into "Eternity", a place that exists outside of time where humans called "Eternals" have taken it upon themselves to police the timeline of human existence, altering Reality where necessary to minimize human suffering, and control the flow of history. Eternals are people recruited from various times throughout history for their particular desired skills, from the 27th century, all the way up to the 30,000th. Within Eternity is something of a class hierarchy, with Eternals dividing up the duties -- **Sociologists** use statistics to plot the lives of individuals, **Computers** calculate the effects of the Reality Changes, and **Technicians** locate the exact moments in time in which to intiate the Reality Change. By traveling time and entering at an exact pre-calculated point, Technicians strive to introduce the "minimum necessary change" to induce a "maximum desired response" -- in other words, the smallest modification to Reality possible to create the most positive outcome (a miscalculation can [lead to disaster](http://en.wikipedia.org/wiki/Butterfly_effect)). So the Eternals go about their business, traversing time "upwhen" and "downwhen", molding and shaping history like plastic. 
+
+Harlan collects artifacts from the "primitive centuries", from the time before the discovery of time travel in the 24th. 
+
+The story contains one of my favorite takes on time travel. It presents a set of rules, obeys those rules, and directly acknowledges the [time paradoxes](http://en.wikipedia.org/wiki/Ontological_paradox) it introduces. The plot itself is set up as a mystery, flinging Harlan into a _Twilight Zone_-esque narrative, leaving us as perplexed as he is as to what is actually going on, and whether he's being manipulated by those around him. Eternals are allowed no contact or personal relationship with any "Timers", people not aware of Eternity and that still exist within the timeline of Reality. Since the reality changes they induce can remove the existence of friends and family from Reality, Eternals are supposed to sever ties with family and forget that they ever existed.
+
+For a story written in 1955 (and about as "hard sci-fi" as you can get), I was pleasantly surprised with several scenes that read like a fast-paced thriller, with twists and revelations popping up every few pages for the entire final third of the book. One in particular consists of Harlan entering a point in time he had entered previously, creating the first of several ontological paradoxes that become key plot elements. The characters in the story directly acknowledge the paradoxes. They speculate on the effects of an Eternal meeting himself, and even hatch a scheme to save Eternity by intentionally creating one.
+
+The best science fiction truly shines when ruminating on the philosophical and moral implications of technology. The grand social engineering experiment created by the existence of time travel and reality change in _Eternity_ is questioned by the characters. Is the 

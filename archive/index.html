@@ -10,7 +10,7 @@ title: Archives
 	{% if post.status != "draft" %}
   <tr class="{% cycle 'even', 'odd' %}">
     <td><a href='{{ post.url }}'>{{ post.title }}</a></td>
-    <td class="date-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
+    <td class="right-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
   </tr>
   {% endif %}
 {% endfor %}

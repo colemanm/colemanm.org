@@ -186,7 +186,7 @@ p.caption {
 .page {
   margin: 8px 0 3em 0;
   background: #fff;
-  padding: 20px 50px 0;
+  padding: 20px 50px;
   border-left: 2px solid #eee;
   border-right: 2px solid #eee;
   border-bottom: 2px solid #eee;
@@ -197,13 +197,15 @@ p.caption {
 .archive table { width: 100%; }
 .archive table td {
   padding: 3px 3px;
-  border-bottom: 1px solid #ccc;
+  /*border-bottom: 1px solid #ccc;*/
 }
-.archive table td.date-cell { text-align: right; }
+.archive table td.right-cell { text-align: right; color: #555; }
 .archive table tr.odd { background-color: #F2EDE8; }
 .archive-table {
   margin-bottom: 15px;
 }
+
+.feature { margin-bottom:20px; }
 
 /* maps page */
 .maps h1 { margin: 10px 0; }
