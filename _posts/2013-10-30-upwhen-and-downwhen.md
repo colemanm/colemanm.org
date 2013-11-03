@@ -8,7 +8,6 @@ categories:
 - asimov
 book: "The End of Eternity"
 publish_date: 1955
-published: false
 ---
 
 >This is the first part of a series of essays on Isaac Asimov's famous _[Greater Foundation](http://en.wikipedia.org/wiki/Foundation_Series#List_of_books_within_the_Foundation_Universe)_ story collection. In this first one I discuss the time travel mystery _The End of Eternity_. It's rife with spoilers, so beware.
