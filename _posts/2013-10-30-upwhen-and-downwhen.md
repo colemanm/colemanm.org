@@ -3,6 +3,7 @@ layout: post
 date: 2013-10-30 22:29:17 EST
 title: "Upwhen and Downwhen"
 description: "Looking back at Asimov's time travel story, The End of Eternity."
+img: "/images/post-images/eternity.jpg"
 categories:
 - blog
 - asimov
