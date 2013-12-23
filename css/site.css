@@ -16,7 +16,7 @@ a, a:visited, a:active {
   text-decoration: none;
 }
 a:hover {
-  color: #445555;
+  color: #2d3939;
   border-bottom: 1px solid #dd9922;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -29,12 +29,9 @@ h1 span {
   font-family: "Libre Baskerville", serif;
   color: #333;
 }
-h2 {
-  margin-top: 0;
-}
-p {
-  margin: 0.95em 0;
-}
+h2 { margin-top: 0; }
+h3 { color: #333; }
+p { margin: 0.95em 0; }
 ul,ol {
   margin: 0 0 1.5em;
   padding-left: 2.5em;
