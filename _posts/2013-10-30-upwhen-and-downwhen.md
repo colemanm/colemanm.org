@@ -11,7 +11,7 @@ book: "The End of Eternity"
 publish_date: 1955
 ---
 
->This is the first part of a series of essays on Isaac Asimov's famous _[Greater Foundation](http://en.wikipedia.org/wiki/Foundation_Series#List_of_books_within_the_Foundation_Universe)_ story collection. In this first one I discuss the time travel mystery _The End of Eternity_. It's rife with spoilers, so beware.
+>This is part one of a series of essays on Isaac Asimov's famous _[Greater Foundation](http://en.wikipedia.org/wiki/Foundation_Series#List_of_books_within_the_Foundation_Universe)_ story collection. In this first one I discuss the time travel mystery _The End of Eternity_. It's rife with spoilers, so beware.
 
 The prolific science fiction writer Isaac Asimov published an astonishing body of work in his life. Though he's probably most well-known for his stories, collections, and postulations about robots (and, therefore, artificial intelligence), he wrote a baffling amount speculating on much bigger ideas like politics, religion, and philosophy. The _[Robot](http://en.wikipedia.org/wiki/Robot_series_(Asimov))_ series is one angle on a bigger picture. Within the same loosely-connected universe sit two other series, those of the _[Empire](http://en.wikipedia.org/wiki/Galactic_Empire_(series))_ and _[Foundation](http://en.wikipedia.org/wiki/Foundation_Series)_ collections. Altogether, these span 14 full novels, with a sprinkling of several other short story collections in between.
 
