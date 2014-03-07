@@ -4,6 +4,7 @@ date: 2014-03-06 19:56:17 EST
 title: "The Three Laws of Robotics"
 description: "A read of Isaac Asimov's short story collection, 'I, Robot.'"
 img: "/images/post-images/i-robot.jpg"
+permalink: /post/the-three-laws-of-robotics/
 categories:
 - blog
 - asimov
