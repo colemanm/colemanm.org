@@ -5,6 +5,7 @@ title: Future of Geo
 categories: talks
 image: /images/talks/future-of-geo.png
 permalink: /talks/future-of-geo/
+description: "I presented the day-two keynote to the CFGIS Workshop, talking about what the future of the geography and GIS discipline holds &mdash; new technologies for collaboration and sharing, the growth of the geo community and why it matters, and the importance of foundational knowledge of geography to our young people entering higher education."
 event: Central FL GIS Workshop
 eventlink: http://cfgisworkshop.org/
 tags:

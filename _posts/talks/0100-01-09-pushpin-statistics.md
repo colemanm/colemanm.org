@@ -5,6 +5,7 @@ title: Pushpin, Statistics, and Mobile OpenStreetMap Editing
 categories: talks
 image: /images/talks/pushpin-stats.png
 permalink: /talks/pushpin-stats/
+description: "This talk reviewed some of the experiences of Pushpin's development, statistics on its usage worldwide, and how Spatial Networks wants to grow the app in the coming year."
 event: State of the Map US 2013
 eventlink: http://stateofthemap.us/
 tags:

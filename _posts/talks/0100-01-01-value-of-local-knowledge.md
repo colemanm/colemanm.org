@@ -5,6 +5,7 @@ title: The Value of Local Knowledge
 categories: talks
 image: /images/talks/value-of-local-knowledge.png
 permalink: /talks/value-of-local-knowledge/
+description: "This talk from the first Ignite Tampa Bay series focused on understanding the value of localized knowledge, and why human geography matters."
 event: Ignite Tampa Bay 2011
 eventlink: http://ignitetampa.org/
 tags:

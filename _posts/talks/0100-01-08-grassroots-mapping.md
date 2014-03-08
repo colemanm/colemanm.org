@@ -5,6 +5,7 @@ title: Grassroots Mapping
 categories: talks
 image: /images/talks/grassroots-mapping.png
 permalink: /talks/grassroots-mapping/
+description: "Since OpenStreetMap is growing in leaps and bounds, I wanted to take the time to give a brief intro at Ignite Tampa. This talk introduced the project itself, the importance of OSM community growth, and the OSM Tampa Bay meetup group for locals to get involved and start contributing."
 event: Ignite Tampa 2013
 eventlink: http://www.ignitetampa.org/
 tags:

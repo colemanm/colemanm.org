@@ -5,6 +5,7 @@ title: OSM Tampa Bay
 categories: talks
 image: /images/talks/osmtampabay.png
 permalink: /talks/osm-tampa-bay/
+description: "This talk was from our first WhereCampTB event, to get our local mappers and geographers interesting in joining up."
 event: WhereCampTB 2012
 eventlink: http://wherecamptb.org/
 tags:

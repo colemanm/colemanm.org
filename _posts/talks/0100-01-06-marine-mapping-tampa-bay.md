@@ -5,6 +5,7 @@ title: Marine Mapping in Tampa Bay
 categories: talks
 image: /images/talks/marinemapping.png
 permalink: /talks/marine-mapping-sotmus/
+description: "At the State of the Map US conference in Portland, I talked about a pet project of mine: mapping marine data in OpenStreetMap to build beautiful, open data-based nautical charts."
 event: State of the Map US 2012
 eventlink: http://www.sotm.us/
 tags:

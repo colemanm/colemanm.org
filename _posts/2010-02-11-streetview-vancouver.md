@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2010-02-11 08:00:00 EST
-title: StreetView on Whistler
+title: "StreetView on Whistler"
+description: "StreetView is everywhere."
 categories: blog
 tags:
 - maps

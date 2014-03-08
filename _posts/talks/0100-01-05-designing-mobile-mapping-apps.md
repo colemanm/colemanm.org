@@ -5,6 +5,7 @@ title: Designing Mapping Apps for Mobile
 categories: talks
 image: /images/talks/designing-for-mobile-mapping.png
 permalink: /talks/mobile-mapping/
+description: "For the Geo DC September 2012 meetup I talked about our design process at Spatial Networks developing Fulcrum, and how we build highly-functional, easy-to-use mobile features for mapping work."
 event: Geo DC
 eventlink: http://www.meetup.com/Geo-DC/
 tags:

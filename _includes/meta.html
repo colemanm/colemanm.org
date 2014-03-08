@@ -1,6 +1,7 @@
 {% assign author = site.authors[page.author] %}
 <meta name="author" content="Coleman McCormick">
-<meta name="description" content="{{page.description}}">
+<!-- <meta name="description" content="{% if page.description %}{{page.description | xml_escape}}{% else %}notes and links - @colemanm{% endif %}"> -->
+<meta name="description" content="{{page.description | xml_escape}}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="canonical" href="{{site.url}}{{page.url}}" />
 <meta name="twitter:card" content="summary" />

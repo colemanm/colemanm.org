@@ -5,6 +5,7 @@ title: OSM in Commercial Products
 categories: talks
 image: /images/talks/osm-in-commercial-products.png
 permalink: /talks/osm-in-commercial-products/
+description: "I gave this talk at State of the Map 2011 in Denver to show some of the things Spatial Networks is doing leveraging OSM data."
 event: State of the Map 2011
 eventlink: http://2011.stateofthemap.org/
 tags:

@@ -1,9 +1,10 @@
 ---
 layout: post
-link: http://www.elizabethdaggar.com/calendria2010/buy_the_atlas.html
 date: 2010-02-09 08:00:00 EST
-title: Calendria
+title: "Calendria"
+description: "The imaginary land of Calendria."
 categories: blog
+link: http://www.elizabethdaggar.com/calendria2010/buy_the_atlas.html
 tags:
 - maps
 - imaginary places
