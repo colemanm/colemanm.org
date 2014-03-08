@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2010-05-14 08:00:00 EST
-title: Burj Khalifa
+title: "Burj Khalifa"
+description: "The tallest structure on Earth."
 categories: blog
 tags:
 - photography

@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2010-05-07 08:00:00 EST
-title: Honda's U3-X Personal Mobility Prototype
+title: "Honda's U3-X Personal Mobility Prototype"
+description: "A robotic mobility prototype."
 categories: blog
 tags:
 - robotics

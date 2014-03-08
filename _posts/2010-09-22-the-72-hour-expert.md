@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2010-09-22 08:00:00 EST
-title: The 72-hour Expert
+title: "The 72-hour Expert"
+description: "PJ O'Rourke on his time in Afghanistan."
 categories: blog
 tags:
 - quotes

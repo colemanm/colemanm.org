@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2011-08-05 08:00:00 EST
-title: Hipstamatistan
+title: "Hipstamatistan"
+description: "Foreign Policy photo series on Afghanistan."
 categories: blog
 tags:
 - Afghanistan

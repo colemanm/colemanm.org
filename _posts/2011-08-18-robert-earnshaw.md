@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2011-08-18 08:00:00 EST
-title: Robert Earnshaw
+title: "Robert Earnshaw"
+description: "An unbeatable soccer record."
 categories: blog
 tags:
 - soccer

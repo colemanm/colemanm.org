@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2010-05-07 08:00:00 EST
-title: Man vs. Nature
+title: "Man vs. Nature"
+description: "The ever-creeping man made landscape."
 categories: blog
 tags:
 - maps

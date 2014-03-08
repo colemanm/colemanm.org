@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2010-11-03 08:00:00 EST
-title: Spending Money
+title: "Spending Money"
+description: "On spending."
 categories: blog
 tags:
 - quotes

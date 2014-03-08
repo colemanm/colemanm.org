@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2011-08-01 08:00:00 EST
-title: The Mission to Get Osama bin Laden
+title: "The Mission to Get Osama bin Laden"
+description: "Operation Neptune's Spear, in detail."
 categories: blog
 tags:
 - Osama bin Laden

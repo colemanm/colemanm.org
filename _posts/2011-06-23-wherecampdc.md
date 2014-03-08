@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2011-06-23 08:00:00 EST
-title: WhereCampDC
+title: "WhereCampDC"
+description: "Attended the inaugural WhereCampDC to talk maps."
 categories: blog
 tags:
 - events

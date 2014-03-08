@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2011-03-14 08:00:00 EST
-title: The Modern World
+title: "The Modern World"
+description: "GK Chesterton."
 categories: blog
 tags:
 - quotes

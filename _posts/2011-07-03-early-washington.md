@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2011-07-03 08:00:00 EST
-title: Early Washington
+title: "Early Washington"
+description: "An impressive use of historic maps and data to rebuild the look of the Capital during its early years."
 categories: blog
 tags:
 - history
