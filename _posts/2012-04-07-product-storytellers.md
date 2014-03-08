@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-04-07 08:00:00 EST
-title: We Need Product Storytellers
+title: "We Need Product Storytellers"
+description: "An article makes the case for product storytellers."
 categories: blog
 tags:
 - product development

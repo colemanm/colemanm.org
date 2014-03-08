@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-07-15 20:56:52 EST
-title: The Wonderful Power of Storytelling
+title: "The Wonderful Power of Storytelling"
+description: "Bruce Sterling on storytelling."
 categories: blog
 tags:
 - authors
@@ -14,4 +15,4 @@ tags:
 
 Don't stick to tradition, and don't go halfway.
 
-I Instapaper'd this over a year ago and ran across it while reading some old stuff. 
+I Instapaper'd this over a year ago and ran across it while reading some old stuff.

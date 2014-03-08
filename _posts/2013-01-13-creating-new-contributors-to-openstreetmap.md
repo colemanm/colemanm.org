@@ -1,10 +1,9 @@
 ---
 layout: post
 date: 2013-01-15 09:21:57 EST
-title: Creating New Contributors to OpenStreetMap
+title: "Creating New Contributors to OpenStreetMap"
 description: "What can the OSM community do to create a larger body of contributors, and get registered users to edit?"
 categories: blog
-comments: true
 ---
 
 I wrote a [blog post](http://spatialnetworks.com/blog/2013/01/the-first-3-months-of-pushpin-and-openstreetmap/) last week about the first few months of usage of [Pushpin](http://pushpinosm.org/), the mobile app we built for editing OpenStreetMap data.

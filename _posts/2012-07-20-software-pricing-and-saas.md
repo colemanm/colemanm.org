@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2012-07-23 11:29:22 EST
-title: Software Pricing and SaaS
-description: "A fantastic talk from Twilio's Jeff Lawson on SaaS and pricing"
+title: "Software Pricing and SaaS"
+description: "A fantastic talk from Twilio's Jeff Lawson on SaaS and pricing."
 categories: blog
 ---
 

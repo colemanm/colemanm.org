@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2011-11-04 08:00:00 EST
-title: If the Nazis Conquered America 
+title: "If the Nazis Conquered America "
+description: "An alternate map of a Nazi-conquered America."
 categories: blog
 tags:
 - maps

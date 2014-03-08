@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-07-08 23:47:30 EST
-title: Spycraft
+title: "Spycraft"
+description: "A review of 'Spycraft', a book about the OTS."
 categories: blog
 tags:
 - espionage

@@ -2,6 +2,7 @@
 layout: post
 date: 2013-03-12 09:05:11 EST
 title: "Clarity & Simplicity"
+description: "On clarity and simplicity in communication."
 categories: blog
 ---
 
@@ -35,4 +36,4 @@ That's absolutely something you would see on a Fortune 500 company website. Ther
 
 A quality I admire most in people is an ability to be articulate, to clearly express a point or intent in few words, and to get to the point quickly. It's frustrating to have someone tell you something, or ask a question, to then find out they haven't thought through the point. The burden is then on the audience to figure out the intent, and then to respond. The notion of [Commander's Intent](http://en.wikipedia.org/wiki/Commander's_intent) can be helpful in understanding the value of clarity and articulation. In order for the listener to take your information and respond appropriately, goals, purpose, and a clear picture of what the successful "end state" looks like are critical to clear understanding.
 
-I highly recommend _Made to Stick_ to anyone interested in improving messaging, particularly in the context of products or business. It certainly helped me to get outside of my own head and think about copywriting and messaging around products with a more objective viewpoint. 
+I highly recommend _Made to Stick_ to anyone interested in improving messaging, particularly in the context of products or business. It certainly helped me to get outside of my own head and think about copywriting and messaging around products with a more objective viewpoint.

@@ -2,7 +2,7 @@
 layout: post
 date: 2013-09-09 10:14:54 EST
 title: "Bringing Geographic Data Into the Open with OpenStreetMap"
-description: ""
+description: "An essay on the value and importance of the OpenStreetMap project."
 categories: blog
 ---
 

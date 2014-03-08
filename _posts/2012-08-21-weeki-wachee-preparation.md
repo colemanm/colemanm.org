@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2012-08-21 16:52:31 EST
-title: Preparing for Kayaks and Scalloping in Weeki Wachee
-description: "We're headed to Weeki Wachee this weekend to do some scalloping, kayaking, and diving. We'll be hanging out up at the springs and (hopefully) catching our limit in bay scallops out on the sea grass. "
+title:" Preparing for Kayaks and Scalloping in Weeki Wachee"
+description: "We're headed to Weeki Wachee this weekend to do some scalloping, kayaking, and diving. We'll be hanging out up at the springs and (hopefully) catching our limit in bay scallops out on the sea grass."
 categories: blog
 tags:
 - boats
@@ -19,4 +19,4 @@ I've built several apps in [Fulcrum](http://fulcrumapp.com/) for capturing diffe
 
 <img src="/images/post-images/weeki_wachee_river.png" alt="Weeki Wachee River" />
 
-I pulled down some DOQQs from Florida's [LABINS](http://data.labins.org/2003/) site, built some nice high-resolution offline maps with [TileMill](http://mapbox.com/tilemill), and downloaded them to my phone in Fulcrum. There are tons of creeks and canals running through the wetlands near the mouth of the Weeki Wachee River, and I'll be able to catalog which ones are navigable by kayak at high or low tide. 
+I pulled down some DOQQs from Florida's [LABINS](http://data.labins.org/2003/) site, built some nice high-resolution offline maps with [TileMill](http://mapbox.com/tilemill), and downloaded them to my phone in Fulcrum. There are tons of creeks and canals running through the wetlands near the mouth of the Weeki Wachee River, and I'll be able to catalog which ones are navigable by kayak at high or low tide.

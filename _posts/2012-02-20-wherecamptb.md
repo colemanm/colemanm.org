@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-02-22 08:00:00 EST
-title: WhereCampTB
+title: "WhereCampTB"
+description: "Talk from WhereCampTB on OSM Tampa Bay."
 categories: blog
 tags:
 - events

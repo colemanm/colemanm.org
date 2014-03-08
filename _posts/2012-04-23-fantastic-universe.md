@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-04-23 13:03:48 EST
-title: Fantastic Universe
+title: "Fantastic Universe"
+description: "Inspiration for Planet of the Apes?"
 categories: blog
 tags:
 - science fiction

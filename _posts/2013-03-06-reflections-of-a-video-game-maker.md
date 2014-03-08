@@ -2,6 +2,7 @@
 layout: post
 date: 2013-03-06 14:50:02 EST
 title: "Reflections of a Video Game Maker"
+description: "Gabe Newell talks about his process in game development."
 categories: blog
 ---
 

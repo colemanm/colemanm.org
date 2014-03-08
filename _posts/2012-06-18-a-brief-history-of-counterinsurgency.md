@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-06-18 22:28:47 EST
-title: Counterinsurgency, a brief history
+title: "Counterinsurgency, a brief history"
+description: "Thoughts on counterinsurgency doctrine."
 categories: blog
 tags:
 - counterinsurgency

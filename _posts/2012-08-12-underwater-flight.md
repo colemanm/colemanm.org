@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-08-12 14:22:25 EST
-title: Underwater Flight
+title: "Underwater Flight"
+description: "Graham Hawkes wants to fly beneath the waves."
 categories: blog
 ---
 

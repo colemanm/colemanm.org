@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2012-02-29 08:00:00 EST
-title: Mapping Kabul
+title: "Mapping Kabul"
 description: "We've posted a map of Kabul, Afghanistan built from spatial networks GIS data."
 categories: blog
 ---

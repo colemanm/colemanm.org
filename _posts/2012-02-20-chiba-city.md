@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2012-02-20 08:00:00 EST
-title: Chiba City
+title: "Chiba City"
+description: "Chiba City."
 categories: blog
 tags:
 - science fiction

@@ -1,7 +1,8 @@
 ---
 layout: post
 date: 2013-02-06 17:21:35 EST
-title: Rediscovering GTD
+title: "Rediscovering GTD"
+description: "Getting back into GTD systems."
 categories: blog
 ---
 
