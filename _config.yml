@@ -4,8 +4,3 @@ markdown: kramdown
 url: http://colemanm.org
 description: "Notes + Links from @colemanm"
 relative_permalinks: false
-author :
-  name : Coleman McCormick
-  email : coleman@colemanm.org
-  github : colemanm
-  twitter : colemanm
