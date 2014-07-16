@@ -1,35 +1,31 @@
 <!DOCTYPE html>
-<html dir="ltr" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<html dir='ltr' xml:lang='en-US' xmlns='http://www.w3.org/1999/xhtml' xmlns:og='http://opengraphprotocol.org/schema/' xmlns:fb='http://www.facebook.com/2008/fbml'>
 <head>
-<meta charset="utf-8">
+<meta charset='utf-8'>
 <meta name='robots' content='index'/>
 <title>{% if page.title %}{{ page.title }} | {% endif %}Coleman McCormick</title>
-
 {% include meta.html %}
-<link rel="shortcut icon" href="/images/favicon.ico"/>
-<link rel="alternate" type="application/rss+xml" name="RSS" href="http://feeds.feedburner.com/colemanmdotorg"/>
+<link rel='shortcut icon' href='/images/favicon.ico'/>
+<link rel='alternate' type='application/rss+xml' name='RSS' href='http://feeds.feedburner.com/colemanmdotorg'/>
 <link rel='stylesheet' href='/css/site.css' type='text/css' media='screen' />
 <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
-
+{% if page.maps %}{% include map.html %}{% endif %}
+{% if page.css %}<link href='/css/{{ page.css }}' rel='stylesheet' type='text/css' />{% endif %}
 {% include google-analytics.html %}
 {% include social.html %}
-{% if page.maps %}
-  {% include map-js.html %}
-{% endif %}
-
 </head>
 <body>
-  <div id="container">
-    <div id="header">
-      <div class="main-nav">
+  <div id='container'>
+    <div id='header'>
+      <div class='main-nav'>
         {% include navigation.html %}
       </div>
       {% include header.html %}
     </div>
-    <div id="main">
+    <div id='main'>
       {{ content }}
     </div>
-    <div class="mobile-nav">
+    <div class='mobile-nav'>
       {% include navigation.html %}
     </div>
     {% include footer.html %}

@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div class="post">
+<div class='post'>
   <h1>{{ page.title }}</h1>
   <div class='body'>{{ content }}</div>
   <div class='share-button'></div>
     {% include share.html %}
-  <span class="date">&mdash; {{ page.date | date: "%m.%d.%Y" }} &mdash;</span>
+  <span class='date'>&mdash; {{ page.date | date: '%m.%d.%Y' }} &mdash;</span>
 </div>
 
 {% include pagination.html %}
