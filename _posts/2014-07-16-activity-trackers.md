@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-06-10 23:57:31 EST
+date: 2014-07-16 16:53:54 EST
 title: "A Comparison of Activity Trackers"
 permalink: /post/activity-trackers/
 description: "A comparison of activity and motion trackers: RunKeeper, Strava, MapMyRun, and Moves."
