@@ -78,6 +78,8 @@ The location data captured by the Moves app works a little differently. It split
 
 ![Moves app examples](/images/post-images/moves-app-screenshots.jpg)
 
+One caveat important to note is that Moves was [acquired by Facebook](http://www.theverge.com/2014/5/6/5688334/moves-app-will-share-user-data-with-facebook) back in May. That may turn a lot of people off to the idea of uploading their persistent motion tracking information to the Borg.
+
 ## Wrap up
 
 Strava and MapMyRun also support pulling the track info from external devices like mountable [GPS devices](https://buy.garmin.com/en-US/US/into-sports/cycling/edge-500/prod36728.html), [watches](https://shop.strava.com/collections/devices/products/magellan-echo), and [bike sensors](https://shop.strava.com/collections/devices/products/garmin-speed-cadence-sensor).
