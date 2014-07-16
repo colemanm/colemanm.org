@@ -4,7 +4,7 @@ date: 2014-06-10 23:57:31 EST
 title: "A Comparison of Activity Trackers"
 permalink: /post/activity-trackers/
 description: "A comparison of activity and motion trackers: RunKeeper, Strava, MapMyRun, and Moves."
-img: /images/post-images/
+img: /images/post-images/activity-trackers.jpg
 categories: blog
 css: motion-trackers.css
 maps: true
