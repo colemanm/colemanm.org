@@ -137,12 +137,15 @@ p.caption {
 .post p {
   line-height:2em;
 }
-.post span.date {
+.post span.meta {
   display:block;
   text-align:left;
   margin-bottom:15px;
   color:#bbb;
   clear:left;
+}
+.post span.meta a {
+  border:0;
 }
 .post .embed {
   position:relative;
