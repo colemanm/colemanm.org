@@ -12,7 +12,7 @@ maps: true
 
 The concept of activity tracking is getting ever closer to ubiquitous nowadays with the prevalence of dozens of mobile apps, wearable wristbands, and other health monitoring tools like Bluetooth-enabled [scales](http://vitrine.withings.com/eu/smart-body-analyzer.html) and [video games](http://wiifit.com/) based on exercise. Now the world's largest tech company is even [rumored](http://www.theverge.com/2014/6/6/5786456/apple-said-to-be-planning-october-event-to-unveil-wearable-device) to be working on some form of wearable hardware (and software [APIs](https://www.apple.com/ios/ios8/health/)), at which point the whole concept of "life tracking" will reach 100% penetration. Everyone will be tracking and recording their lives like [characters in cyberpunk literature](http://en.wikipedia.org/wiki/Snow_Crash#Metaverse).
 
-I'm a casual runner and cyclist, and started testing a handful of fitness tracker mobile apps to map my activity. Since I'm both a stats junkie _and_ a dataviz enthusiast, I did some extensive experimental testing with these four apps to size up the advantages of each in terms of technical capability, as well as the feature-set of services provided by each within their online social systems:
+I'm a casual runner and cyclist, and started testing a handful of fitness tracker mobile apps to map my activity. Since I'm a stats and data junkie, I did some extensive experimental testing with these four apps to size up the advantages of each in terms of technical capability, as well as the feature-set of services provided by each within their online social systems:
 
 * [RunKeeper](http://runkeeper.com/)
 * [Strava](http://www.strava.com/)
