@@ -4,7 +4,7 @@ layout: default
 
 <div class='post'>
   <h1>{{ page.title }}</h1>
-  <span class='meta'>&mdash; {{ page.date | date: '%B %-d, %Y' }} &bull; <a href='{{post.url}}' title='Permalink'>#</a></span>
+  <span class='meta'>&mdash; {{ page.date | date: '%B %-d, %Y' }} &bull; <a href='{{post.target}}' title='Permalink'>#</a></span>
   <div class='body'>{{ content }}</div>
   {% include share.html %}
 </div>

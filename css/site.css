@@ -163,6 +163,28 @@ p.caption {
   height:100%;
 }
 
+.link {
+  margin:8px 0 2em 0;
+  background:#fff;
+  padding:20px 50px;
+  border-left:2px solid #eee;
+  border-right:2px solid #eee;
+  border-bottom:2px solid #eee;
+}
+.link h1 {
+  font-size:1.3em;
+}
+.link h1 a {
+}
+.link span.meta {
+  display:block;
+  text-align:left;
+  font-size:0.8em;
+  margin-bottom:15px;
+  color:#bbb;
+  clear:left;
+}
+
 .body {
   margin-bottom:15px;
 }
