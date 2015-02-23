@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-01-20 20:34:05 EST
+date: 2015-02-23 13:56:37 EST
 title: "William Noel McCormick, Jr."
 categories: blog
 ---
