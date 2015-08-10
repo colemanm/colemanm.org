@@ -13,7 +13,7 @@ The success rate of these projects is hard to quantify, it's too early. But for 
 
 ![House number address](/images/post-images/247-address.jpg "House number address")
 
-Given the combination of expanding connectivity to disconnected places and the vacuum of reliable geodata, a [number](http://what3words.com/ "what3words") [of](http://www.mapcode.com/ "mapcode") [services](http://openlocationcode.com/ "Open Location Code") have sprung up in recent years with systems for global wayfinding and geocoding. The particularly focus here is to bring a mechanism for providing addresses in places where there are no other alternatives. When I first read that people were building new systems for geocoding it piqued my interest, so I dug into them to see what they're all about, and what they might be bringing to the table that we don't already have.
+Given the combination of expanding connectivity to disconnected places and the vacuum of reliable geodata, a [number](http://what3words.com/ "what3words") [of](http://www.mapcode.com/ "mapcode") [services](http://openlocationcode.com/ "Open Location Code") have sprung up in recent years with systems for global wayfinding and geocoding. The particular focus here is to bring a mechanism for providing addresses to places where there are no other alternatives. When I first read that people were building new systems for geocoding it piqued my interest, so I dug into them to see what they're all about, and what they might be bringing to the table that we don't already have.
 
 ## The Problem
 
