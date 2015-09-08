@@ -2,6 +2,7 @@
 layout: post
 date: 2015-07-17 16:44:46 EST
 title: "The Craft of Baseball"
+description: "I just finished reading George Will's 'Men at Work: The Craft of Baseball', his 1989 book that dives deep on the strategy of the game. He sits down with 4 separate professional baseball men to analyze the sport and its component parts: managing with Tony La Russa, hitting with Tony Gwynn, fielding with Cal Ripken, Jr., and pitching with Orel Hershiser."
 categories: blog
 ---
 
@@ -9,7 +10,7 @@ I’m a baseball fan from way back, and grew up as a Braves fan during the early
 
 ![Dodger Stadium](/images/post-images/dodger-stadium.jpg)
 
-I just finished reading George Will's _[Men at Work: The Craft of Baseball](https://www.goodreads.com/book/show/7932941-men-at-work)_,, his 1989 book that dives deep on the strategy of the game. He sits down with 4 separate professional baseball men to analyze the sport and its component parts: managing with Tony La Russa, hitting with Tony Gwynn, fielding with Cal Ripken, Jr., and pitching with Orel Hershiser. One of the first things that attracted me to this as a re-primer to a newfound interest in baseball is that it’s not new. This book is over 20 years old, so most of the players mentioned in the text are ones I grew up watching.
+I just finished reading George Will's _[Men at Work: The Craft of Baseball](https://www.goodreads.com/book/show/7932941-men-at-work)_, his 1989 book that dives deep on the strategy of the game. He sits down with 4 separate professional baseball men to analyze the sport and its component parts: managing with Tony La Russa, hitting with Tony Gwynn, fielding with Cal Ripken, Jr., and pitching with Orel Hershiser. One of the first things that attracted me to this as a re-primer to a newfound interest in baseball is that it’s not new. This book is over 20 years old, so most of the players mentioned in the text are ones I grew up watching.
 
 The book offers a deep analysis of the tactics of baseball games. Rather than write about the specifics as an armchair expert, the author leaves most of the opinion about the elements of the game to the actual practitioners. He poses the question and lets La Russa's 2,700 wins or Gwynn's 3,000 hits do the talking. Will does pepper in some of his own opinions on things like the practicality of the designated hitter rule (he thinks pitchers hitting in the NL is a waste of time), and that Walter Johnson is hands-down the best pitcher to have played the game (a bold position, but not a surprising one). But it's by no means a book of opinion on the game.
 

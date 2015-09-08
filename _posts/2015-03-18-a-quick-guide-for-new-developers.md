@@ -2,6 +2,7 @@
 layout: post
 date: 2015-03-18 13:56:37 EST
 title: "A Quick Guide for New Developers"
+description: "Young people interested in learning how to code could learn a lot by starting with the smaller steps. Instead of diving immediately into learning node.js, or beginning with “Build Your Own Rails App in 15 Minutes” blog posts, focus your energy on some foundations that will be 100% useful in building your skills as an engineer."
 categories: blog
 ---
 

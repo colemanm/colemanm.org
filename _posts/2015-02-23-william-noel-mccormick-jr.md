@@ -2,6 +2,7 @@
 layout: post
 date: 2015-02-23 13:56:37 EST
 title: "William Noel McCormick, Jr."
+description: "A few weeks ago, my grandfather passed away after a long fight with cancer and Parkinson's. He was a close part of our family, and we're sad to see him go, but I wanted to write down some thoughts here."
 categories: blog
 ---
 

@@ -4,7 +4,7 @@ date: 2014-08-18 13:30:10 EDT
 title: "Door to Hell"
 permalink: /post/the-door-to-hell/
 target: http://news.nationalgeographic.com/news/energy/2014/07/140716-door-to-hell-darvaza-crater-george-kourounis-expedition/
-description:
+description: "A drilling accident in 1971 in Turkmenistan's Karakum Desert created this 70 meter-wide crater, when a Soviet rig hit a cavernous pocket of natural gas."
 categories: blog
 ---
 

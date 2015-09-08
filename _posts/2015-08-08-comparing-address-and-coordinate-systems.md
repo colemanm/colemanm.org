@@ -2,6 +2,7 @@
 layout: post
 date: 2015-08-08 11:51:41 EST
 title: "Addresses and Geocoding: Do New Systems Improve What We Have?"
+description: "An overview of new addressing and coordinate schemes, comparison of features, and an analysis of why they matter (or not)."
 categories: blog
 ---
 

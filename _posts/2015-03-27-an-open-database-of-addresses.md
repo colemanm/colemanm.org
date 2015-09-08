@@ -2,6 +2,7 @@
 layout: post
 date: 2015-03-27 12:22:00 EST
 title: "An Open Database of Addresses"
+description: "One of the coolest open source / open data projects happening right now is OpenAddresses, a growing group effort assembling around the problem of geocoding, the process of turning human-friendly addresses into spatial coordinates. Here's a quick overview of the project."
 categories: blog
 ---
 

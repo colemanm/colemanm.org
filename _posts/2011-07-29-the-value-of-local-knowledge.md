@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2011-07-29 08:00:00 EST
-title: "The Value of Local Knowledge"
+title: "Local Knowledge"
 description: "Here are the slides from my talk at the first ever Ignite Tampa Bay. It was a blast to watch all the great talks from such a varied set of interests and passions. Great turnout, too &mdash; we drew a sellout crowd out to watch."
 categories: blog
 tags:
