@@ -5,12 +5,26 @@ title: "WhereCampDC"
 description: "Attended the inaugural WhereCampDC to talk maps."
 categories: blog
 tags:
-- events
-- maps
+  - events
+  - maps
 ---
-
-<a href="http://www.wherecampdc.org/"><img src="/images/post-images/wherecampdc2011.png"/></a>
 
 We attended the first [WhereCampDC](http://www.wherecampdc.org/) a couple weeks ago, and I wrote up [my summary](http://spatialnetworks.com/blog/2011/06/wherecampdc-wrap-up-the-geoherd-gathers/) on our blog.
 
+![WhereCampDC](/images/post-images/wherecampdc2011.png "WhereCampDC")
+
 The first night at National Geographic was a fantastic Ignite session, with the unconference on Saturday at Washington Post's headquarters. An exciting event, to be sure, and can't wait for the next one.
+
+We just returned from a fantastic weekend up in DC - first at the Ignite Spatial event on Friday night, then the WhereCampDC unconference on Saturday. Being the first event of it’s kind that I’ve attended (with the “barcamp” unconference session format), I thought I’d write up some thoughts and impressions from an amazing 2-day trip.
+
+## Ignite Spatial
+
+This was also my first experience hearing talks in the ignite format&mdash;20 slides, 15 seconds each, 5 minutes. A fantastic format to break people out of the habit of simply reading their slides off a screen. Held at [Grosvenor Auditorium](http://events.nationalgeographic.com/venue-rental/grosvenor-auditorium/) at National Geographic Society headquarters, the series was well-run, prompted and emcee’d by [Nathaniel Kelso](http://kelsocartography.com/), who did a bang-up job pulling together logistics for both days Our own [Tony Quartararo](http://twitter.com/tonyquartararo) gave his first talk in the ignite format: [Homophily](http://en.wikipedia.org/wiki/Homophily) and the “geoherd”, where he posited that if the theory of homophily (love of being alike) applies to the spread of human attitudes and behaviors, than it also can spread our community’s interest in geography and technology onto other social circles of people who haven’t yet been addicted to using Foursquare, editing [OpenStreetMap](http://openstreetmap.org/), or contributing to open source projects. Being aware of our “three degrees of influence” can help us to spread our collective interest in geospatial technology to those that may not even be aware of such things. [Vizzuality](http://www.vizzuality.com/)’s [Javier de la Torre](http://twitter.com/jatorre) presented his work on the [OldWeather](http://oldweather.org/) project, a social and community-driven effort to derive century-old historical weather data by having members transcribe Royal Navy captain’s logbooks&mdash;a clever solution to acquiring loads of data about wind, water temperature, sea conditions, and shipboard events from 100 years ago. He even showed off some stunning visualizations of the data. Definitely a crowd favorite. [Sophia Parafina](http://twitter.com/spara) declared that “WMS is Dead” (I agree!), [Mapbox](https://www.mapbox.com/) founder [Eric Gundersen](http://twitter.com/ericg) showed off making gorgeous maps with their TileMill map design studio, GeoIQ’s [Andrew Turner](http://twitter.com/ajturner) demonstrated the many, many ways he bent geodata to his will to find the perfect DC house.
+
+## WhereCamp unconference
+
+The unconference was held at the Washington Post office, which has a nice setup for the format and the attendance that showed up (200 people!). This was my first experience with the user-generated conference format, and I enjoyed it far more out of it than other formal conferences. It starts with the attendees proposing talks and discussions and scheduling them out in separate rooms throughout the day, then everyone breaks up into groups to drill down on whatever topics they find useful. I attend a lot of conferences with high-level discussion about GIS and the mapping community, so in this particular crowd I was more interested in deep diving on some technical discussions of open source stuff we’ve been using a lot of lately.
+
+![Unconference board](/images/post-images/wherecamp-dc-sessions.jpg "Session board")
+
+After meeting most of the guys from Development Seed, I knew I wanted to sit in on [Tom MacWright](http://twitter.com/tmcw)’s talk about Wax, their Javascript toolkit to extend functionality for Modest Maps, which makes it super easy to publish maps on the web. What they’re doing with Wax will be the [future of web mapping](http://developmentseed.org/blog/2011/jun/15/modest-maps-and-leaflet-new-choices-web-apis) for a lot of people. Really the only open source alternative to the commercial Google Maps API at this stage is OpenLayers, which can be overly featureful, heavy, and slow for most developers who just want some simple maps on the web. Dane Springmeyer proposed a discussion around “[Mapnik](http://mapnik.org/) Visioning”, wherein we went around the room discussing the future of our favorite renderer of beautiful map tiles. Mapnik is a critical low-level platform component for generating tiles from custom data, a foundational piece of the open source web mapping puzzle, and it was refreshing to see such technical, in-depth discussion for where to go next with the Mapnik project. Takeaway: node.js and [node-mapnik]("https://github.com/mapnik/node-mapnik) bindings are going to be the future of the platform. [AJ Ashton](http://twitter.com/aj_ashton) spun up a discussion about TileMill, the map tile design studio that Mapbox has constructed to help cartographers make beautiful maps easily with open standards and their own custom data. TileMill has definitely added a huge capability for us to style up and distribute maps of [our own](http://www.spatialnetworks.com/) data. The stack of tools that TileMill provides allows designers to create great cartography for map data quickly, and to export as a tileset for viewing on the web or mobile. TileMill has firmly planted itself in our arsenal as something we’ll continue to use for a long time, a fantastic tool for designers.

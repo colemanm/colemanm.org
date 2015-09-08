@@ -82,7 +82,7 @@ One caveat important to note is that Moves was [acquired by Facebook](http://www
 
 ## Wrap up
 
-Strava and MapMyRun also support pulling the track info from external devices like mountable [GPS devices](https://buy.garmin.com/en-US/US/into-sports/cycling/edge-500/prod36728.html), [watches](https://shop.strava.com/collections/devices/products/magellan-echo), and [bike sensors](https://shop.strava.com/collections/devices/products/garmin-speed-cadence-sensor).
+Strava and MapMyRun also support pulling the track info from external devices like mountable [GPS devices](https://buy.garmin.com/en-US/US/into-sports/cycling/edge-500/prod36728.html), [watches](http://www.magellangps.com/Echo), and [bike sensors](https://buy.garmin.com/en-US/US/shop-by-accessories/fitness-sensors/bike-speed-sensor-and-cadence-sensor/prod146897.html).
 
 Overall, my favorite is Strava as the app-of-choice for tracking activity. It performs consistently, the GPS and fitness data is high quality, and the service has a good balance of simplicity and social features that I like.
 

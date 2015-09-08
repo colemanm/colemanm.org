@@ -3,7 +3,7 @@ layout: link
 date: 2014-08-18 13:30:10 EDT
 title: "Door to Hell"
 permalink: /post/the-door-to-hell/
-target: http://www.geographical.co.uk/Magazine/Fire_crater_-_May_12.html
+target: http://news.nationalgeographic.com/news/energy/2014/07/140716-door-to-hell-darvaza-crater-george-kourounis-expedition/
 description:
 categories: blog
 ---

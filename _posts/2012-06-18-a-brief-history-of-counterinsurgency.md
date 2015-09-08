@@ -11,7 +11,7 @@ tags:
 - history
 ---
 
-I've been reading a lot lately about sociocultural geography &mdash; about how people interact with their environments and with one another across space and time. This topic is more relevant than ever with today's borderless conflicts, asymmetric warfare, and technology behind the scenes leveling the playing field for groups at all levels. On a journey across the internet reading and watching various things about human geography, I stumbled upon this [fantastic piece](http://www.bbc.co.uk/blogs/adamcurtis/2012/06/how_to_kill_a_rational_peasant.html) by Adam Curtis on his BBC blog.
+I've been reading a lot lately about sociocultural geography &mdash; about how people interact with their environments and with one another across space and time. This topic is more relevant than ever with today's borderless conflicts, asymmetric warfare, and technology behind the scenes leveling the playing field for groups at all levels. On a journey across the internet reading and watching various things about human geography, I stumbled upon this [fantastic piece](http://www.bbc.co.uk/blogs/adamcurtis/entries/93073500-9459-3bbb-a3e5-cde7a1cc2559) by Adam Curtis on his BBC blog.
 
 It tells the story and background of [counterinsurgency](http://en.wikipedia.org/wiki/Counter-insurgency) doctrine from its inception in revolutionary communist China and Indochina to implementation in modern-day Iraq and Afghanistan. Fascinating stuff.
 
