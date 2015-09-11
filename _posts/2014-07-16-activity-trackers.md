@@ -70,7 +70,7 @@ I did notice that using these apps without cellular data enabled results in _sev
 
 ![Run on the Thames](/images/post-images/thames-run.jpg)
 
-Since these motion trackers rely on the GPS track and time series data for calculating total distance (which is obviously way off with this much linear error), you end up with massively incorrect pace and calorie-burning metrics. This jagged-looking run activity in London reported itself to be 4.7 miles, and in reality it was only about 3.5. Soon I'd like to pair my iPhone up with an external GPS device I've been [testing out](http://fulcrumapp.com/blog/gps-accuracy-experimentation/) to see what the improvement in accuracy looks like.
+Since these motion trackers rely on the GPS track and time series data for calculating total distance (which is obviously way off with this much linear error), you end up with massively incorrect pace and calorie-burning metrics. This jagged-looking run activity in London reported itself to be 4.7 miles, and in reality it was only about 3.5. Soon I'd like to pair my iPhone up with an external GPS device I've been [testing out](http://www.fulcrumapp.com/blog/gps-accuracy-experimentation/) to see what the improvement in accuracy looks like.
 
 If you want to export the raw data straight from the web services, Strava and RunKeeper are the only ones that will give you a full [time series-enabled GPX track file](https://github.com/colemanm/motion-trackers/blob/gh-pages/data/snell_isle-strava.gpx) for each activity. MapMyRun only exports the [track point data](https://github.com/colemanm/motion-trackers/blob/gh-pages/data/snell_isle-mmr-raw.gpx), which without the timestamp info for each point can't be processed to calculate pace and other metrics with elapsed time as a variable.
 
@@ -87,6 +87,9 @@ Strava and MapMyRun also support pulling the track info from external devices li
 Overall, my favorite is Strava as the app-of-choice for tracking activity. It performs consistently, the GPS and fitness data is high quality, and the service has a good balance of simplicity and social features that I like.
 
 <script>
+
+L.mapbox.accessToken = 'pk.eyJ1IjoiY29sZW1hbm0iLCJhIjoieW8wN2lTNCJ9.j1zlDeYFSVAl8XWjaHY-5w';
+
 var map = L.mapbox.map('map', 'colemanm.ijkico79').setView([27.8049,-82.6225], 14);
 var layers = document.getElementById('menu-ui');
 
