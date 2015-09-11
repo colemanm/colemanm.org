@@ -4,7 +4,7 @@ date: 2014-09-29 09:11:46 EDT
 title: "The Diminishing Coast"
 permalink: /post/the-diminishing-coast/
 description: "The state of Louisiana is gradually eroding, and a number of groups are using maps to highlight the gravity of the situation."
-img: /images/post-images/louisiana-shoreline-change.jpg
+img: /images/post-images/louisiana-imagery.jpg
 categories: blog
 ---
 
