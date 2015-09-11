@@ -1,6 +1,12 @@
 permalink: /post/:title/
 port: 4001
-markdown: kramdown
-url: http://colemanm.org
-description: "Notes + Links from @colemanm"
+url: http://www.colemanm.org
 relative_permalinks: false
+markdown: kramdown
+  input: GFM
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+title: "colemanm.org"
+description: "Notes + Links from @colemanm"
