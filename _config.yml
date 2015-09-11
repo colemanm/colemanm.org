@@ -3,7 +3,6 @@ port: 4001
 url: http://www.colemanm.org
 relative_permalinks: false
 markdown: kramdown
-  input: GFM
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
