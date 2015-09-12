@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: link
 date: 2011-08-01 08:00:00 EST
 title: "The Mission to Get Osama bin Laden"
 description: "Operation Neptune's Spear, in detail."
+target: http://www.newyorker.com/magazine/2011/08/08/getting-bin-laden
 categories: blog
 tags:
-- Osama bin Laden
-- military
-- special operations
+  - Osama bin Laden
+  - military
 ---
 
-[The mission](http://www.newyorker.com/reporting/2011/08/08/110808fa_fact_schmidle?currentPage=all):
+[The mission](http://www.newyorker.com/magazine/2011/08/08/getting-bin-laden):
 
 >They observed that residents of the compound burned their trash, instead of putting it out for collection, and concluded that the compound lacked a phone or an Internet connection. Kuwaiti and his brother came and went, but another man, living on the third floor, never left. When this third individual did venture outside, he stayed behind the compound’s walls. Some analysts speculated that the third man was bin Laden, and the agency dubbed him the Pacer.
 

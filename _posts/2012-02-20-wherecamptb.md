@@ -9,10 +9,8 @@ tags:
 - maps
 ---
 
-<div class="embed">
-<iframe src="http://www.youtube.com/embed/iwoSUOPcRpk?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="596" height="335" src="https://www.youtube.com/embed/I5PpkPbdP5s?rel=0" frameborder="0" allowfullscreen></iframe>
 
-My talk from Ignite Spatial at [WhereCampTB](http://wherecamptb.org), talking about the [OSM Tampa Bay](http://osmtampabay.org) meetup group. Check out the slides in better detail [here](http://speakerdeck.com/u/colemanm/p/osm-tampa-bay).
+My talk from Ignite Spatial at [WhereCampTB](http://www.wherecamptb.org), talking about the [OSM Tampa Bay](http://www.osmtampabay.org) meetup group. Check out the slides in better detail [here](http://speakerdeck.com/u/colemanm/p/osm-tampa-bay).
 
 It was a fun event a couple weeks ago &mdash; great participation from folks in all sorts of industries involved in mapping or using GIS tools.
