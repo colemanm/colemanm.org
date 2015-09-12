@@ -3,7 +3,9 @@ layout: post
 date: 2013-02-06 17:21:35 EST
 title: "Rediscovering GTD"
 description: "Getting back into GTD systems."
-categories: blog
+categories:
+  - blog
+  - productivity
 ---
 
 For the last month or so, I've been readopting the [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) methodology for organizing my work, personal and business. I read David Allen's [book](http://www.goodreads.com/book/show/1633.Getting_Things_Done) back in 2007, and attempted to adopt the workflow. This was before having any sort of smart device, so workflow systems were much different back then. My system when I initially jumped in involved pens and pads, inboxes, folders &mdash; most of the recommended elements from the book. I didn't last long, and since then I've only dabbled around really getting back into it. Merlin Mann and Dan Benjamin's recent [podcast series](http://5by5.tv/b2w/95) on the subject spurred me back into giving it another serious go.
@@ -11,7 +13,7 @@ For the last month or so, I've been readopting the [GTD](http://en.wikipedia.org
 Without getting into the weeds of the system, I've always seen three pillars to GTD that are critical to reaping benefit:
 
 * [Ubiquitous capture](http://zenhabits.net/tips-for-gtds-ubiquitous-capture/)
-* Breaking down your work into discrete, actionable tasks (processing)
+* Breakdown your work into discrete, actionable tasks (processing)
 * Weekly review of projects and actions
 
 There are more elements to the [total system](http://wiki.43folders.com/index.php/GTD), but these are the core functional components of GTD that I've adopted, eschewing the parts about the [43 folders](http://wiki.43folders.com/index.php/Tickler_file) and some of the other fiddly things like labelmakers and lettered reference file cabinets. I think a contributor to my initial dropoff with the system was not appreciating that you _can_ adopt only some elements of the total system, as long as you're closing all the loops.
@@ -26,7 +28,7 @@ I'm a heavy user of [OmniFocus](http://www.omnigroup.com/products/omnifocus/) fo
 
 This is probably what I struggle with the most. This is where the majority of the thinking comes into play; _What project is this action part of? Should I just do it right now? How many smaller actions does it need to be broken into?_
 
-Effective processing requires regular attention. If you just load up the inbox for weeks on end without sorting through each item and determining the next action (which could be deleting it), you end up working through tasks right out of the inbox. I can sort through the cruft in my inbox with vigilance &mdash; e.g. "finger on the delete button" &mdash; but where I tend to fall off the wagon is with keeping the processing frequent enough not to get behind. I'll find myself after a few consecutive hectic days cherry-picking actions to tackle right in the inbox, instead of hitting things from a higher level based on project importance or context. This can lead to wheel-spinning and procrastination, and put you right back to thrashing around with all that data in your head.
+Effective processing requires regular attention. If you just load up the inbox for weeks on end without sorting through each item and determining the next action (which could be deleting it), you end up working through tasks right out of the inbox. I can sort through the cruft in my inbox with vigilance and a heavy delete-key finger, but where I tend to fall off the wagon is with keeping the processing frequent enough not to get behind. I'll find myself after a few consecutive hectic days cherry-picking actions to tackle right in the inbox, instead of hitting things from a higher level based on project importance or context. This can lead to wheel-spinning and procrastination, and put you right back to thrashing around with all that data in your head.
 
 This time around, I'm putting more energy into the processing steps. Failure there is a large part of why I fell out with GTD some time back.
 

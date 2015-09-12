@@ -3,7 +3,10 @@ layout: post
 date: 2013-06-13 15:23:33 EST
 title: "Dropbox and Backups"
 description: "I use Dropbox as the nerve center for all of my digital goods, keeping data, configurations, histories, log files, and anything else I need access to centralized and available from my Mac or iOS devices. Here are a few of my daily tools or information trails I want to keep synced up, so anything here can be a few clicks or a search away."
-categories: blog
+categories:
+  - blog
+  - productivity
+  - backups
 ---
 
 I use [Dropbox](http://dropbox.com/) as the nerve center for all of my digital goods, keeping data, configurations, histories, log files, and anything else I need access to centralized and available from my Mac or iOS devices.

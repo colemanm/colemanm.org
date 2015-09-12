@@ -3,14 +3,17 @@ layout: post
 date: 2013-08-07 01:48:01 EST
 title: "America's Music"
 description: "Thoughts on jazz as a genre, and Ken Burns' documentary, 'Jazz'."
-categories: blog
+img: /images/post-images/lee-morgan.jpg
+categories:
+  - blog
+  - music
 ---
 
-<img src="/images/post-images/lee-morgan.jpg" alt="Lee Morgan" title="Lee Morgan" />
+![Lee Morgan](/images/post-images/lee-morgan.jpg "Lee Morgan")
 
 Jazz is a genre of music I never used to take seriously. When I started listening to decent music around junior high (very little of it was "good"), I would mentally lump jazz music in with the standards and classical pieces &mdash; the "music we play in band class" genre. I was even an alto sax player, but had next to no interest in learning the history of the music, or a desire to understand its styles, structure, or theory. Early in college, something turned me on to the records of Coltrane and Herbie Hancock, and since then all forms of jazz have been a consistent part of my [listening habits](http://www.last.fm/user/colemanm).
 
-Since I started heavily using [Rdio](http://rdio.com) at the start of this year, I've found it to be a fantastic way to get back into listening to jazz music. Over the past six months, I've wound my way through the catalogs of a dozen of the early jazz innovators, curating playlists of favorites. Rdio is a great service for library-building, and the depth and scope of the form over a century of recordings makes it particularly useful for jazz.
+Since I started heavily using [Rdio](https://www.rdio.com) at the start of this year, I've found it to be a fantastic way to get back into listening to jazz music. Over the past six months, I've wound my way through the catalogs of a dozen of the early jazz innovators, curating playlists of favorites. Rdio is a great service for library-building, and the depth and scope of the form over a century of recordings makes it particularly useful for jazz.
 
 As an art form and culture, it's incredible how intertwined the evolution of jazz is with 20th century American history.. As the most popular form of music up until the mid- to late-1940s, it's no surprise that the music followed (and in some cases _defined_) periods of American lifestyle. Swing music came of age during the postwar 1920s, and became even more popular as an escape from the depression of the 30s. Bebop came on the scene during the late 1940s and 50s as a rebellion against the "commercial", mass-produced swing records. Hard bop and free jazz grew along with the turbulence of the 60s. As a history buff, all this music got me interested in learning more about the players in the jazz scene, who influenced who, the personal relationships between artists, and how the styles evolved over the past hundred years. I've read a couple books on jazz musicians, but I wanted a good primer from start to finish. So Colette and I watched Ken Burns' _Jazz_ documentary series over the past month.
 

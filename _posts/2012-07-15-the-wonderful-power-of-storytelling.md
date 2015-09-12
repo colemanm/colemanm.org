@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: link
 date: 2012-07-15 20:56:52 EST
 title: "The Wonderful Power of Storytelling"
+permalink: /post/the-wonderful-power-of-storytelling/
+url: https://w2.eff.org/Misc/Publications/Bruce_Sterling/comp_game_designers.article
 description: "Bruce Sterling on storytelling."
 categories: blog
 tags:
-- authors
-- bruce sterling
+  - authors
+  - bruce sterling
 ---
 
 [Bruce Sterling](http://en.wikipedia.org/wiki/Bruce_Sterling) on storytelling and the art of computer game design, [from GDC 1991](http://w2.eff.org/Misc/Publications/Bruce_Sterling/comp_game_designers.article):
