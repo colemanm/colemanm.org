@@ -6,6 +6,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-feed
 
 title: "colemanm.org"
 description: "Notes + Links from @colemanm"
