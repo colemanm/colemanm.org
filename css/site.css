@@ -55,6 +55,12 @@ code {
   padding:3px;
   background-color:#f2ede8;
 }
+sup, sub {
+   vertical-align: baseline;
+   position: relative;
+   top: -0.4em;
+}
+sub { top: 0.4em; }
 img { max-width:100%; }
 
 /* img floats */
