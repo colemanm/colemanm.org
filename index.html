@@ -7,7 +7,7 @@ description: "notes and links from @colemanm"
   {% for post in site.categories.blog limit:10 %}
   <div class='{{ post.layout }}'>
     <h1><a name='{{ post.date | date: "%m.%d.%Y" }}' href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h1>
-    <span class='meta'>&mdash; {{ post.date | date: '%B %-d, %Y' }} &bull; <a href='{{ post.url }}' title='Permalink'>#</a></span>
+    <span class='meta'>{{ post.date | date: '%B %-d, %Y' }} &bull; <a href='{{ post.url }}' title='Permalink'>#</a></span>
     <div class='body'>
       {{ post.content }}
     </div>
