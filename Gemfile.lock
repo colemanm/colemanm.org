@@ -1,31 +1,7 @@
-GEM
-  remote: http://rubygems.org/
+GIT
+  remote: git://github.com/github/pages-gem.git
+  revision: 2a97d4ecb43790896f2b49ed6fa3c4ce6afa8960
   specs:
-    RedCloth (4.2.9)
-    activesupport (4.2.4)
-      i18n (~> 0.7)
-      json (~> 1.7, >= 1.7.7)
-      minitest (~> 5.1)
-      thread_safe (~> 0.3, >= 0.3.4)
-      tzinfo (~> 1.1)
-    addressable (2.3.8)
-    blankslate (2.1.2.4)
-    celluloid (0.16.1)
-      timers (~> 4.0.0)
-    classifier-reborn (2.0.3)
-      fast-stemmer (~> 1.0)
-    coffee-script (2.4.1)
-      coffee-script-source
-      execjs
-    coffee-script-source (1.9.1.1)
-    colorator (0.1)
-    colored (1.2)
-    ethon (0.7.4)
-      ffi (>= 1.3.0)
-    execjs (2.6.0)
-    fast-stemmer (1.0.2)
-    ffi (1.9.10)
-    gemoji (2.1.0)
     github-pages (39)
       RedCloth (= 4.2.9)
       github-pages-health-check (~> 0.2)
@@ -45,14 +21,55 @@ GEM
       rdiscount (= 2.1.7)
       redcarpet (= 3.3.2)
       terminal-table (~> 1.4)
+
+GIT
+  remote: git://github.com/gjtorikian/html-proofer.git
+  revision: 34ab5e8057944e357491040b6e5de919b5e3a222
+  specs:
+    html-proofer (2.5.1)
+      addressable (~> 2.3)
+      colored (~> 1.2)
+      mercenary (~> 0.3.2)
+      nokogiri (~> 1.5)
+      parallel (~> 1.3)
+      typhoeus (~> 0.7)
+      yell (~> 2.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    RedCloth (4.2.9)
+    activesupport (4.2.4)
+      i18n (~> 0.7)
+      json (~> 1.7, >= 1.7.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
+      tzinfo (~> 1.1)
+    addressable (2.3.8)
+    blankslate (2.1.2.4)
+    celluloid (0.16.1)
+      timers (~> 4.0.0)
+    classifier-reborn (2.0.3)
+      fast-stemmer (~> 1.0)
+    coderay (1.1.0)
+    coffee-script (2.4.1)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.9.1.1)
+    colorator (0.1)
+    colored (1.2)
+    ethon (0.7.4)
+      ffi (>= 1.3.0)
+    execjs (2.6.0)
+    fast-stemmer (1.0.2)
+    ffi (1.9.10)
+    gemoji (2.1.0)
     github-pages-health-check (0.5.3)
       addressable (~> 2.3)
       net-dns (~> 0.8)
       public_suffix (~> 1.4)
       typhoeus (~> 0.7)
-    haml (4.0.7)
-      tilt
-    hitimes (1.2.2)
+    hitimes (1.2.3)
     html-pipeline (1.9.0)
       activesupport (>= 2)
       nokogiri (~> 1.4)
@@ -100,14 +117,20 @@ GEM
       rb-inotify (>= 0.9)
     maruku (0.7.0)
     mercenary (0.3.5)
+    method_source (0.8.2)
     mini_portile (0.6.2)
     minitest (5.8.0)
     net-dns (0.8.0)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
+    parallel (1.6.1)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.11)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     public_suffix (1.5.1)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
@@ -120,9 +143,9 @@ GEM
     redcarpet (3.3.2)
     safe_yaml (1.0.4)
     sass (3.4.18)
+    slop (3.6.0)
     terminal-table (1.5.2)
     thread_safe (0.3.5)
-    tilt (2.0.1)
     timers (4.0.4)
       hitimes
     toml (0.1.2)
@@ -132,15 +155,13 @@ GEM
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     yajl-ruby (1.2.1)
+    yell (2.0.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport
-  colored
-  github-pages
-  haml
-  json
-  kramdown
+  github-pages!
+  html-proofer!
+  pry
   rake

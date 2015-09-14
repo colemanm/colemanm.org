@@ -1,9 +1,9 @@
 source 'http://rubygems.org'
 
-gem 'json'
-gem 'rake'
-gem 'haml'
-gem 'kramdown'
-gem 'activesupport'
-gem 'github-pages'
-gem 'colored'
+gem 'github-pages', :github => "github/pages-gem"
+
+group :test, :development do
+  gem 'html-proofer', :github => "gjtorikian/html-proofer"
+  gem 'rake'
+  gem 'pry'
+end
