@@ -1,3 +1,7 @@
+title: "colemanm.org"
+name: "colemanm.org"
+description: "Notes + Links from @colemanm"
+author: Coleman McCormick
 permalink: /post/:title/
 port: 4001
 url: http://www.colemanm.org
@@ -8,6 +12,16 @@ gems:
   - jekyll-redirect-from
   - jekyll-feed
 
-title: "colemanm.org"
-name: "colemanm.org"
-description: "Notes + Links from @colemanm"
+collections:
+  maps:
+    output: true
+
+#files to exclude, array
+exclude:
+  - CONTRIBUTING.md
+  - README.md
+  - bundle
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - ".bundle"
