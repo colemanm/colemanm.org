@@ -19,6 +19,9 @@ collections:
   maps:
     output: true
 
+feed:
+  path: atom.xml
+
 #files to exclude, array
 exclude:
   - CONTRIBUTING.md
