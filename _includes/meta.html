@@ -5,7 +5,7 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}notes and links - @colemanm{% endif %}" />
-<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:title" content="{{ page.title | xml_escape }}" />
 <meta property="og:site_name" content="colemanm.org" />
 {% if page.img %}
 <meta property="og:image" content="{{ site.url }}{{ page.img }}" />
@@ -14,6 +14,6 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@colemanm" />
 <meta name="twitter:creator" content="@colemanm" />
-<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:title" content="{{ page.title | xml_escape }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ page.img }}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}notes and links - @colemanm{% endif %}" />

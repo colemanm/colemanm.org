@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -ex
+
+echo "Checking site..."
+bundle exec rake test
+
+echo "Checking DNS"
+bundle exec github-pages health-check
+
+echo "Cleaning up..."
+rm -Rf _site

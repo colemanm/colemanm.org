@@ -1,9 +1,12 @@
 source 'http://rubygems.org'
 
-gem 'json'
-gem 'rake'
-gem 'haml'
-gem 'kramdown'
-gem 'activesupport'
-gem 'github-pages'
-gem 'colored'
+gem 'github-pages', :github => "github/pages-gem"
+gem "jekyll-feed", :github => "jekyll/jekyll-feed"
+gem "jekyll-sitemap", :github => "jekyll/jekyll-sitemap"
+gem "jekyll-redirect-from", :github => "jekyll/jekyll-redirect-from"
+
+
+group :test, :development do
+  gem 'html-proofer', :github => "gjtorikian/html-proofer"
+  gem 'rake'
+end

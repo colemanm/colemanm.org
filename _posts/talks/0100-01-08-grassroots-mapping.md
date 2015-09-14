@@ -9,8 +9,8 @@ description: "Since OpenStreetMap is growing in leaps and bounds, I wanted to ta
 event: Ignite Tampa 2013
 eventlink: http://www.ignitetampa.org/
 tags:
-- openstreetmap
-- mapping
+  - openstreetmap
+  - mapping
 ---
 
 Since [OpenStreetMap](http://www.openstreetmap.org/) is growing in leaps and bounds, I wanted to take the time to give a brief intro at Ignite Tampa. This talk introduced the project itself, the importance of OSM community growth, and the [OSM Tampa Bay](http://www.osmtampabay.org/) meetup group for locals to get involved and start contributing.
@@ -19,4 +19,4 @@ Since [OpenStreetMap](http://www.openstreetmap.org/) is growing in leaps and bou
 
 Video:
 
-<iframe width="596" height="335" src="http://www.youtube.com/embed/kkhuUMxyXoI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe title="Grassroots Mapping" width="596" height="335" src="http://www.youtube.com/embed/kkhuUMxyXoI?rel=0" frameborder="0" allowfullscreen></iframe>
