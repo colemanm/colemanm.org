@@ -165,3 +165,6 @@ DEPENDENCIES
   html-proofer!
   pry
   rake
+
+BUNDLED WITH
+   1.10.6
