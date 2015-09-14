@@ -8,3 +8,5 @@ script: "./script/cibuild"
 language: ruby
 rvm:
   - 2.1.2
+
+sudo: false
