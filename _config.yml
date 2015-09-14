@@ -21,7 +21,9 @@ exclude:
   - CONTRIBUTING.md
   - README.md
   - bundle
+  - script
   - CNAME
   - Gemfile
   - Gemfile.lock
   - ".bundle"
+  - vendor
