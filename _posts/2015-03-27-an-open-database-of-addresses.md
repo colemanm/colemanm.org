@@ -14,7 +14,7 @@ The project was started last year and is happening over [on GitHub](https://gith
 
 Here’s how it works:
 
-Contributors identify data out in the wild online, and contribute small [index files](https://github.com/openaddresses/openaddresses/blob/master/sources/us-fl-pinellas.json) with some pointers to where the data is hosted, and some other details indicating how to merge it with the rest of the project’s data format. There’s no need to download any of the data, only find where the CSV file or web service lives and how to get to it. The technique for this is neat in its simplicity, more on this later.
+Contributors identify data out in the wild online, and contribute small [index files](https://github.com/openaddresses/openaddresses/blob/master/sources/us/fl/pinellas.json) with some pointers to where the data is hosted, and some other details indicating how to merge it with the rest of the project’s data format. There’s no need to download any of the data, only find where the CSV file or web service lives and how to get to it. The technique for this is neat in its simplicity, more on this later.
 
 It sounds weird to think something as basic as address data could be so fascinating and exciting. Most people in the geo community understand the potential impact of projects like this on our industry, but let me review for the uninitiated why this is cool.
 

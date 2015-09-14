@@ -11,4 +11,4 @@ tags:
   - maps
 ---
 
-A New York Times visualization of most-queued films by US zip code. A cool example of what can be done with 100% free data. The queue data is accessible through Netflix's [API](http://developer.netflix.com/) and zip code boundaries from the [US Census](https://www.census.gov/geo/maps-data/data/tiger.html).
+A New York Times visualization of most-queued films by US zip code. A cool example of what can be done with 100% free data. The queue data is accessible through Netflix's API and zip code boundaries from the [US Census](https://www.census.gov/geo/maps-data/data/tiger.html).
