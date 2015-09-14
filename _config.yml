@@ -1,7 +1,10 @@
 title: "colemanm.org"
 name: "colemanm.org"
 description: "Notes + Links from @colemanm"
-author: Coleman McCormick
+author:
+  name: Coleman McCormick
+  email: coleman@colemanm.org
+  uri: http://www.colemanm.org
 permalink: /post/:title/
 port: 4001
 url: http://www.colemanm.org
