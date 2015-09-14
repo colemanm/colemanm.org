@@ -2,7 +2,7 @@
 layout: default
 title: Archives
 permalink: /archive/
-description: "Post archives."
+description: "Blog post archives."
 ---
 
 <div class="page archive">
@@ -16,7 +16,7 @@ description: "Post archives."
     {% else %}
     <td><i class="fa fa-coffee fa-fw"></i></td>
     {% endif %}
-    <td><a href='{{ post.url }}'>{{ post.title }}</a></td>
+    <td><a href='{{ post.url }}'>{{ post.title | xml_escape }}</a></td>
     <td class="right-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
   </tr>
   {% endif %}

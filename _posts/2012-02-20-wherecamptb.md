@@ -9,7 +9,7 @@ tags:
 - maps
 ---
 
-<iframe width="596" height="335" src="https://www.youtube.com/embed/I5PpkPbdP5s?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe title="WhereCampTB" width="596" height="335" src="https://www.youtube.com/embed/I5PpkPbdP5s?rel=0" frameborder="0" allowfullscreen></iframe>
 
 My talk from Ignite Spatial at [WhereCampTB](http://www.wherecamptb.org), talking about the [OSM Tampa Bay](http://www.osmtampabay.org) meetup group. Check out the slides in better detail [here](http://speakerdeck.com/u/colemanm/p/osm-tampa-bay).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-03-12 09:05:11 EST
-title: "Clarity & Simplicity"
+title: "Clarity &amp; Simplicity"
 description: "On clarity and simplicity in communication."
 categories:
   - blog
@@ -15,7 +15,7 @@ The book postulates that "sticky" ideas have six core properties: they're _simpl
 I recently watched a talk given by Supreme Court Justice Clarence Thomas at Harvard, and he nails what it means to communicate clearly, in his case when publishing [opinions of the court](http://www.supremecourt.gov/opinions/opinions.aspx) (around 58:30).
 
 <div class="embed">
-<iframe src="http://www.youtube.com/embed/heQjKdHu1P4?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe title="Clarence Thomas interview" src="http://www.youtube.com/embed/heQjKdHu1P4?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The entire talk is fascinating, but this part stands out &mdash; on editing for clarity:

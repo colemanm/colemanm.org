@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="embed">
-<iframe src="http://www.youtube.com/embed/eKY45I9Bsho?rel=0" frameborder="0">Early DC.</iframe>
+<iframe title="Early Washington DC" src="http://www.youtube.com/embed/eKY45I9Bsho?rel=0" frameborder="0">Early DC.</iframe>
 </div>
 
 [Visualizing Washington, DC — circa 1800](http://www.maproomblog.com/2011/06/visualizing_early_washington.php).

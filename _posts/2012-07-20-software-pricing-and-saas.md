@@ -10,7 +10,7 @@ categories:
 
 Jeff Lawson of [Twilio](https://www.twilio.com/) gave this talk on SaaS pricing at the [Business of Software conference](http://businessofsoftware.org/2012/07/jeff-lawson-jeffiel-ceo-of-twilio-at-business-of-software-2011-saas-and-the-art-of-pricing/) last year:
 
-<iframe src="https://player.vimeo.com/video/67664394?title=0&byline=0&portrait=0" width="596" height="403" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe title="Jeff Lawson on SaaS pricing" src="https://player.vimeo.com/video/67664394?title=0&byline=0&portrait=0" width="596" height="403" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 _Everyone_ in the [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service) product business should watch this. Great approach to thinking through putting prices on your SaaS service.
 
