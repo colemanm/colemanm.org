@@ -3,7 +3,7 @@
 <head>
 <meta charset='utf-8'>
 <meta name='robots' content='index'/>
-<title>{% if page.title %}{{ page.title }} | {% endif %}Coleman McCormick</title>
+<title>{% if page.title %}{{ page.title | xml_escape}} | {% endif %}Coleman McCormick</title>
 {% include meta.html %}
 <link rel='shortcut icon' href='/images/favicon.ico'/>
 {% feed_meta %}
@@ -13,13 +13,13 @@
 {% if page.maps %}{% include map.html %}{% endif %}
 {% if page.css %}<link href='/css/{{ page.css }}' rel='stylesheet' type='text/css' />{% endif %}
 {% include google-analytics.html %}
-{% include social.html %}
 </head>
 <body>
+  {% include social.html %}
   <div id='container'>
     <div id='header'>
       <div class='main-nav'>
-        {% include navigation.html %}
+        {% include nav.html %}
       </div>
       {% include header.html %}
     </div>
@@ -27,10 +27,9 @@
       {{ content }}
     </div>
     <div class='mobile-nav'>
-      {% include navigation.html %}
+      {% include mobile-nav.html %}
     </div>
     {% include footer.html %}
   </div>
-   {% include gauges.html %}
 </body>
 </html>
