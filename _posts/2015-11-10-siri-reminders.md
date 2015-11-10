@@ -2,7 +2,6 @@
 layout: post
 date: 2015-11-10
 title: "Task Capture with Siri & OmniFocus"
-img:
 categories: blog
 tags:
   - productivity
