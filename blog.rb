@@ -28,7 +28,11 @@ class Blog < Thor
       exit -1
     end
 
-    file = File.join("./_posts/", "#{date}-#{slug}.md")
+    if options[:link]
+      file = File.join("./_posts/links/", "#{date}-#{slug}.md")
+    else
+      file = File.join("./_posts/", "#{date}-#{slug}.md")
+    end
 
     open(file, 'w') do |post|
       if !options[:link]
@@ -58,7 +62,11 @@ eos
       end
     end
 
-    puts "Post file '#{date}-#{slug}.md'"
+    if !options[:link]
+      puts "Post '#{date}-#{slug}.md' created."
+    else
+      puts "Link '#{date}-#{slug}.md' created."
+    end
   end
 
 end
