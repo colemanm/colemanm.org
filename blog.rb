@@ -48,7 +48,6 @@ eos
 layout: link
 date: #{date}
 title: "#{title.gsub(/-/,' ')}"
-permalink: url
 target: url
 description: ""
 categories: blog
