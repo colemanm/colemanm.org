@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-12-09
+date: 2015-12-13
 title: "Writing Workflow"
 categories: blog
 tags:
