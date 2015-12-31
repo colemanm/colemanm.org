@@ -232,6 +232,12 @@ p.caption {
 .archive-table {
   margin-bottom:15px;
 }
+.browse-archive {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
 
 .feature { margin-bottom:20px; }
 
@@ -258,25 +264,13 @@ p.caption {
 .talks h1 { margin:10px 0; }
 .talks a.img, .talks a.img:hover { border:none; }
 .talk .title {
-  font-size:1.1em;
-  margin-top:10px;
+  font-size: 1.1em;
+  margin-top: 10px;
 }
 
-.share { display:block; clear:left; }
-.share ul,li { margin:0; padding:0; }
-.share ul {
-  width:170px;
-  margin-left:0;
-  margin:0 auto 25px;
-}
-.share li {
-  display:block;
-  float:left;
-}
-.share li:first-child { margin-right:-20px; }
-.share li:last-child { margin-right:0; margin-top:-5px; }
+.share { display: block; text-align: center; }
 .share iframe {
-  vertical-align:top;
+  vertical-align: top;
 }
 
 #footer {
@@ -285,25 +279,16 @@ p.caption {
   text-align:center;
   color:#aaa;
 }
-.pagination { margin-bottom:5px; }
-.pagination table { width:100%; }
-.pagination table td { padding:3px 3px; }
-.pagination td.right { text-align:right; }
-.pagination-button {
-  font-size:0.9em;
-  text-transform:uppercase;
-}
 .mobile-nav { display:none; }
 
 /* media */
 @media only screen and (max-device-width:480px) {
   body {
-    width:320px;
-    padding-top:1em;
+    width: 400px;
+    padding-top: 1em;
   }
-  .pagination { display:none; }
-  .main-nav { display:none; }
-  .mobile-nav { display:block !important; margin-bottom:20px; }
+  .main-nav { display: none; }
+  .mobile-nav { display: block !important; margin-bottom: 20px; }
   .mobile-nav ul { list-style-type:none; text-align:center; margin:0; padding:0; }
   .mobile-nav ul li { display:inline; padding:0 5px; }
   .post { padding:20px; }
