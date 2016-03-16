@@ -2,6 +2,8 @@
 layout: post
 date: 2016-03-15
 title: "Annals of the Former World"
+description: "A review of John McPhee's book and resparking an interest in geology."
+img: /images/post-images/geologic-strata.jpg
 categories: blog
 tags:
   - books
