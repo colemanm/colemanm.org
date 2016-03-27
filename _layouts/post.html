@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class='post'>
+<div class="post">
   <h1>{{ page.title | xml_escape }}</h1>
-  <span class='meta'>{{ page.date | date: '%B %-d, %Y' }} &bull; <a href='{{ page.url }}' title='Permalink'>#</a></span>
-  <div class='body'>{{ content }}</div>
+  <span class="meta">{{ page.date | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
+  <div class="body">{{ content }}</div>
   {% include share.html %}
 </div>
