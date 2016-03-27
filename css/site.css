@@ -1,33 +1,27 @@
 /* colors derived from: http: //www.flickr.com/photos/karhan/8372828011 */
 
-html, body, h1, h2, h3, h4, h5, h6 { margin:  0; padding:  0; }
+html, body, h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
 html { font-size: 100% }
 body {
-  width: 700px;
-  background: #f6f6f6;
   margin: 0 auto;
   color: #333;
   font: normal 1.1em/1.8 "Crimson Text", serif;
-  -webkit-text-stroke: 1px transparent;
-  padding: 3em 0 0;
 }
 a, a:visited, a:active {
   color: #446688;
   text-decoration: none;
   border-bottom: 1px solid #bcd;
 }
-a: hover {
+a:hover {
   color: #2d3939;
   border-bottom: 1px solid #dd9922;
 }
 h1, h2, h3, h4, h5, h6 {
   color: #446688;
-  font-family: "Crimson Text", serif;
   font-weight: normal;
 }
 h1 span {
   font-size: 13px;
-  font-family: "Crimson Text", serif;
   color: #333;
 }
 h2 { margin-top:  0; }
@@ -51,7 +45,6 @@ pre {
   overflow: auto;
 }
 code {
-  font-size: 1.3em;
   padding: 3px;
   background-color: #f2ede8;
 }
@@ -81,17 +74,20 @@ p.caption {
 }
 
 #container {
+  width: 700px;
   margin: 0 auto;
 }
-
+#headerwrap {
+  width: 100%;
+  padding: 20px 0;
+}
 #header {
-  padding: 0 20px;
-  margin-bottom: 25px;
+  width: 700px;
+  margin: 0 auto;
 }
 #header h1 {
   margin:  0 0 0.5em;
   padding-bottom: 10px;
-  border-bottom: 1px solid #ccc;
 }
 #header h1 a {
   border: none;
@@ -125,15 +121,9 @@ p.caption {
   text-decoration: none;
 }
 
-#header p.tagline { font-style: italic; }
-
 .post {
   margin: 8px 0 2em 0;
   background: #fff;
-  padding: 20px 50px;
-  border-left: 2px solid #eee;
-  border-right: 2px solid #eee;
-  border-bottom: 2px solid #eee;
 }
 .post h1 {
   margin-top: 10px;
@@ -173,10 +163,6 @@ p.caption {
 .link {
   margin: 8px 0 2em 0;
   background: #fff;
-  padding: 20px 50px;
-  border-left: 2px solid #eee;
-  border-right: 2px solid #eee;
-  border-bottom: 2px solid #eee;
 }
 .link h1 {
   font-size: 1.3em;
@@ -214,10 +200,6 @@ p.caption {
 .page {
   margin: 8px 0 3em 0;
   background: #fff;
-  padding: 20px 50px;
-  border-left: 2px solid #eee;
-  border-right: 2px solid #eee;
-  border-bottom: 2px solid #eee;
 }
 .archive h1 {
   margin: 10px 0;
@@ -258,7 +240,6 @@ p.caption {
   font-size: 0.8em;
 }
 
-/* talks page */
 .talk { margin-bottom: 15px; }
 .talk .image { margin-bottom: 20px; }
 .talks h1 { margin: 10px 0; }
