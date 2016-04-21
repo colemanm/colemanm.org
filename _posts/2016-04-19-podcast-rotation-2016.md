@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-04-04
+date: 2016-04-19
 title: "Podcast Rotation, 2016"
 description: "An update on my current podcast rotation as of early 2016."
 img: ""
