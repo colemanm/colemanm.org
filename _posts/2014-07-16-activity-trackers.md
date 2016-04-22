@@ -87,10 +87,8 @@ Strava and MapMyRun also support pulling the track info from external devices li
 Overall, my favorite is Strava as the app-of-choice for tracking activity. It performs consistently, the GPS and fitness data is high quality, and the service has a good balance of simplicity and social features that I like.
 
 <script>
-
 L.mapbox.accessToken = 'pk.eyJ1IjoiY29sZW1hbm0iLCJhIjoieW8wN2lTNCJ9.j1zlDeYFSVAl8XWjaHY-5w';
-
-var map = L.mapbox.map('map', 'colemanm.ijkico79').setView([27.8049,-82.6225], 14);
+var map = L.mapbox.map('map', 'mapbox.satellite').setView([27.8049,-82.6225], 14);
 var layers = document.getElementById('menu-ui');
 
 addLayer(L.mapbox.tileLayer('colemanm.j0wfjemi'), 'Strava', 1);
