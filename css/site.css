@@ -152,6 +152,7 @@ p.caption {
   overflow: hidden;
   margin: 8px 0;
 }
+
 .embed iframe, .embed object, .embed embed {
   position: absolute;
   top: 0;
@@ -176,6 +177,12 @@ p.caption {
   margin-bottom: 15px;
   color: #bbb;
   clear: left;
+}
+
+.end {
+  text-align: center;
+  color: #ddd;
+  font-size: 18px;
 }
 
 .body {
