@@ -1,5 +1,5 @@
 title: colemanm.org
-name: colemanm.org
+name: gcolemanm.org
 description: "Notes + Links from @colemanm"
 author:
   name: Coleman McCormick
@@ -7,7 +7,7 @@ author:
   uri: http://www.colemanm.org
 permalink: /post/:title/
 port: 4001
-url: http://www.colemanm.org
+url: http://localhost:4001
 relative_permalinks: false
 markdown: kramdown
 gems:
