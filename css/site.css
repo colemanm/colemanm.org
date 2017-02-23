@@ -5,7 +5,7 @@ html { font-size: 100% }
 body {
   margin: 0 auto;
   color: #333;
-  font: normal 1.1em/1.8 "Crimson Text", serif;
+  font: normal 1.1em/1.8 "Lato", sans-serif;
 }
 a, a:visited, a:active {
   color: #446688;
