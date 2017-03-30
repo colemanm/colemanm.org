@@ -5,7 +5,7 @@ title: "Weekly Links: AI, APFS, and MBA Mondays"
 categories: blog
 ---
 
-_Trying out a new thing here to document 3 links that caught my interest over the past week. Sometimes they might be related, sometimes not. It'll be an experiment to journal the things I was reading at the time._
+_Trying out a new thing here to document 3 links that caught my interest over the past week. Sometimes they might be related, sometimes not. It'll be an experiment to journal the things I was reading at the time, for posterity._
 
 ### 🔮 [The Arrival of Artificial Intelligence](https://stratechery.com/2017/the-arrival-of-artificial-intelligence/)
 
