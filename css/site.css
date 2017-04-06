@@ -83,8 +83,6 @@ p.caption {
   margin: 0 auto;
 }
 #header h1 {
-  margin:  0 0 0.5em;
-  padding-bottom: 10px;
 }
 #header h1 a {
   border: none;
@@ -96,16 +94,13 @@ p.caption {
 #header h1 a: hover {
   color: #dd9922;
 }
+#header table { width: 100%; }
 #header #navigation {
   float: right;
   list-style: none;
-  margin: 0.75em 0 3.75em;
-  padding: 0;
 }
-#header #navigation li {
-  display: inline;
-  margin: 0 0.25em;
-}
+#header #navigation { margin: 0; }
+#header #navigation li { }
 #header #navigation a {
   font-size: 1.3em;
   line-height: 1.8em;
