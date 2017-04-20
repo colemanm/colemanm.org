@@ -268,22 +268,13 @@ p.caption {
 .mobile-nav { display: none; }
 
 @media screen and (max-width: 640px) {
-    .limiter {
-        width: auto;
-        padding: 0 20px
-    }
-}
-
-/*@media only screen and (max-device-width: 480px) {
-  body {
-    width: 400px;
-    padding-top: 1em;
+  #container, #header {
+    width: auto;
   }
-  .main-nav { display:  none; }
-  .mobile-nav { display:  block !important; margin-bottom:  20px; }
-  .mobile-nav ul { list-style-type: none; text-align: center; margin: 0; padding: 0; }
-  .mobile-nav ul li { display: inline; padding: 0 5px; }
-  .post { padding: 20px; }
-  .post h1 { font-size: 1.5em; }
-  img.right, img.left { float: none; display: block; }
-}*/
+  #header { padding: 0 15px; }
+  .post img { width: 100%; left: 0; }
+  .limiter {
+    width: auto;
+    padding: 0 20px
+  }
+}
