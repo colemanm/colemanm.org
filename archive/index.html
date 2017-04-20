@@ -12,9 +12,9 @@ description: "Blog post archives."
 	{% if post.status != "draft" %}
   <tr class="{% cycle 'even', 'odd' %}">
     {% if post.layout == "link" %}
-    <td><i class="fa fa-link fa-fw"></i></td>
+    <td class="archive-icon"><i class="fa fa-link fa-fw"></i></td>
     {% else %}
-    <td><i class="fa fa-coffee fa-fw"></i></td>
+    <td class="archive-icon"><i class="fa fa-coffee fa-fw"></i></td>
     {% endif %}
     <td><a href='{{ post.url }}'>{{ post.title | xml_escape }}</a></td>
     <td class="right-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>

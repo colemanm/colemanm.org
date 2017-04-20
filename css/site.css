@@ -94,20 +94,18 @@ p.caption {
   color: #dd9922;
 }
 #header table { width: 100%; }
-#header #navigation {
-  float: right;
-  list-style: none;
+#navigation {
+  text-align: right;
 }
-#header #navigation { margin: 0; }
-#header #navigation li { }
-#header #navigation a {
+#navigation ul { padding: 0; margin: 0; list-style: none; display: inline-block; }
+#navigation a {
   font-size: 1.3em;
   line-height: 1.8em;
   padding: 0.25em;
   text-decoration: none;
   color: #557788;
 }
-#header #navigation a: hover, #header #navigation a.active {
+#navigation a: hover, #header #navigation a.active {
   border-bottom: 2px solid #dd9922;
   text-decoration: none;
 }
@@ -271,10 +269,15 @@ p.caption {
   #container, #header {
     width: auto;
   }
+  #headerwrap { padding-bottom: 5px; }
   #header { padding: 0 15px; }
+  #navigation a { font-size: 1.1em; }
   .post img { width: 100%; left: 0; }
   .limiter {
     width: auto;
     padding: 0 20px
   }
+  .archive-icon { display: none; }
+  h1 { font-size: 1.6em; }
+  blockquote { margin: 0; }
 }
