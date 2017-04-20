@@ -269,10 +269,10 @@ p.caption {
 
 /* media */
 @media only screen and (max-device-width: 480px) {
-  body {
+  /*body {
     width: 400px;
     padding-top: 1em;
-  }
+  }*/
   .main-nav { display:  none; }
   .mobile-nav { display:  block !important; margin-bottom:  20px; }
   .mobile-nav ul { list-style-type: none; text-align: center; margin: 0; padding: 0; }
