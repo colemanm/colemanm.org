@@ -267,12 +267,11 @@ p.caption {
 }
 .mobile-nav { display: none; }
 
-/* media */
-@media only screen and (max-device-width: 480px) {
-  /*body {
+/*@media only screen and (max-device-width: 480px) {
+  body {
     width: 400px;
     padding-top: 1em;
-  }*/
+  }
   .main-nav { display:  none; }
   .mobile-nav { display:  block !important; margin-bottom:  20px; }
   .mobile-nav ul { list-style-type: none; text-align: center; margin: 0; padding: 0; }
@@ -280,4 +279,4 @@ p.caption {
   .post { padding: 20px; }
   .post h1 { font-size: 1.5em; }
   img.right, img.left { float: none; display: block; }
-}
+}*/
