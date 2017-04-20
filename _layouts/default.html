@@ -13,15 +13,16 @@
 {% if page.maps %}{% include map.html %}{% endif %}
 {% if page.css %}<link href='/css/{{ page.css }}' rel='stylesheet' type='text/css' />{% endif %}
 {% include google-analytics.html %}
-</head>
+</head
+
 <body>
   {% include social.html %}
   {% include header.html %}
-  <div id='container'>
-    <div id='main'>
+  <div id="container">
+    <div id="main">
       {{ content }}
     </div>
-    <div class='mobile-nav'>
+    <div class="mobile-nav">
       {% include mobile-nav.html %}
     </div>
     {% include footer.html %}
