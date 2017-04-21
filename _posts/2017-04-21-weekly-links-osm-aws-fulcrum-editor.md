@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-04-20
+date: 2017-04-21
 title: "Weekly Links: OSM on AWS, Fulcrum Editor, & Real-time Drone Maps"
 categories: blog
 ---
