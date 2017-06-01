@@ -1,0 +1,27 @@
+---
+---
+
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "{{ site.title }}",
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/feed.json",
+  "author": {
+    "url": "https://twitter.com/colemanm",
+    "name": "Coleman McCormick"
+  },
+  "icon": "{{ site.url }}/images/favicon.ico",
+  "favicon": "{{ site.url }}/images/favicon.ico",
+  "items": [
+    {% for post in site.posts %}
+    {
+      "title": "{{ post.title }}",
+      "content_html": "{{ post.content | jsonify }}",
+      "url": "{{ site.url }}{{ post.url }}",
+      "summary": "{{ post.excerpt | smartify | jsonify }}",
+      "date_published": "{{ post.date }}"
+      "author":
+    }{% unless forloop.last == true %},{% endunless %}
+    {% endfor %}
+  ]
+}
