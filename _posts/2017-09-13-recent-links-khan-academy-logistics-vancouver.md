@@ -5,7 +5,7 @@ title: "Recent Links: Playing with Numbers, Logistics Networks, Vancouver Island
 categories: blog
 ---
 
-### 🎓 [Numbers at Play: Dynamic Toys Make the Invisble Visible](https://www.khanacademy.org/research/reports/cantor)
+### 🎓 [Numbers at Play: Dynamic Toys Make the Invisible Visible](https://www.khanacademy.org/research/reports/cantor)
 
 > Great tools keep up with their users. They operate at the speed of thought,
 > ever shrinking the feedback loop between conceiving of an idea and exploring

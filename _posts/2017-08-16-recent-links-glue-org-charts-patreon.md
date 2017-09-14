@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-08-16
-title: "Weekly Links: Glue, Org Charts, and Patreon’s Growth"
+title: "Recent Links: Glue, Org Charts, and Patreon’s Growth"
 categories: blog
 ---
 
