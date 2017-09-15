@@ -7,6 +7,13 @@ description: "Blog post archives."
 
 <div class="page archive">
 <h1>Archive</h1>
+
+<!-- <div class="archive-select">
+  <a href="">Posts</a>
+  <a href="">Links</a>
+  <a href="">All</a>
+</div> -->
+
 <table cellspacing="0" class="archive-table">
 {% for post in site.categories.blog %}
 	{% if post.status != "draft" %}

@@ -69,16 +69,21 @@ p.caption {
   margin-top: 0;
 }
 
+.aqua { color: #446688; }
+
 #container {
   width: 700px;
   margin: 0 auto;
 }
 #headerwrap {
   width: 100%;
-  padding: 20px 0;
+  padding: 8px 0;
+  background: #f2f3f3;
+  border-bottom: 2px solid #e5e7e7;
+  margin-bottom: 40px;
 }
 #header {
-  width: 700px;
+  width: 850px;
   margin: 0 auto;
 }
 #header h1 {
@@ -88,7 +93,6 @@ p.caption {
   color: #446688;
   font-weight: bold;
   text-decoration: none;
-  text-transform: lowercase;
 }
 #header h1 a: hover {
   color: #dd9922;
@@ -98,15 +102,21 @@ p.caption {
   text-align: right;
 }
 #navigation ul { padding: 0; margin: 0; list-style: none; display: inline-block; }
+#navigation ul li {
+  display: inline;
+  padding-left: 20px;
+}
 #navigation a {
-  font-size: 1.3em;
+  font-size: 0.95em;
+  font-weight: bold;
   line-height: 1.8em;
-  padding: 0.25em;
   text-decoration: none;
+  border: none;
+  text-transform: uppercase;
   color: #557788;
 }
-#navigation a: hover, #header #navigation a.active {
-  border-bottom: 2px solid #dd9922;
+#navigation a:hover, #navigation a.active {
+  border-bottom: 1px solid #dd9922;
   text-decoration: none;
 }
 
@@ -207,6 +217,30 @@ p.caption {
 .archive h1 {
   margin: 10px 0;
 }
+
+.archive-select {
+  text-align: center;
+}
+.archive-select a {
+  background-color: #fff;
+  padding: .45em .55em;
+  text-decoration: none;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  display: inline-block;
+}
+
+.archive ul {
+  list-style-type: none;
+  margin: 0 0 15px 0;
+  padding: 0;
+}
+.archive li a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  border: 1px solid #ccc;
+}
 .archive table { width: 100%; }
 .archive table td {
   padding: 3px 3px;
@@ -218,10 +252,10 @@ p.caption {
   margin-bottom: 15px;
 }
 .browse-archive {
-  text-align:  center;
-  font-weight:  bold;
-  font-size:  1.1em;
-  margin-bottom:  10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 10px;
 }
 
 .feature { margin-bottom: 20px; }
@@ -263,6 +297,7 @@ p.caption {
   text-align: center;
   color: #aaa;
 }
+#footer a { border: none;}
 .mobile-nav { display: none; }
 
 @media screen and (max-width: 640px) {

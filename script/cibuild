@@ -1,12 +1,25 @@
 #!/bin/sh
 
-set -ex
+set -e
 
-echo "Checking site..."
+title () {
+  echo ""
+  echo "-------------------------------"
+  echo $1
+  echo "-------------------------------"
+  echo ""
+}
+
+export CI=1
+
+title "Checking site..."
 bundle exec rake test
 
-echo "Checking DNS"
+title "checking ruby"
+bundle exec rubocop -D -S
+
+title "Checking DNS"
 bundle exec github-pages health-check
 
-echo "Cleaning up..."
+title "Cleaning up..."
 rm -Rf _site
