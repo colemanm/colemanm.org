@@ -1,10 +1,10 @@
-url: ""
+url: "http://localhost:4001"
 
 proofer:
   href_ignore:
     - !ruby/regexp '/https?:\/\/(www)?\.youtube\.com\/watch\?v=.*/i'
-  check_html: true
-  disable_external: true
+  :check_html: true
+  :disable_external: true
 
 github:
   repository_nwo: "colemanm/colemanm.github.com"

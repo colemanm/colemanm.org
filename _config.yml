@@ -3,17 +3,13 @@ name: colemanm.org
 description: "Notes + Links from @colemanm"
 author:
   name: Coleman McCormick
-  email: coleman@colemanm.org
+  email: coleman@mcco.me
   uri: http://www.colemanm.org
 permalink: /post/:title/
 port: 4001
 url: http://www.colemanm.org
-relative_permalinks: false
-markdown: kramdown
-gems:
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
+# relative_permalinks: false
+# markdown: kramdown
 
 collections:
   maps:
@@ -33,3 +29,11 @@ exclude:
   - Gemfile.lock
   - ".bundle"
   - vendor
+
+plugins:
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-admin

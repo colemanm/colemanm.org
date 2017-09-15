@@ -1,4 +1,3 @@
-require 'html/proofer'
 require 'yaml'
 require 'jekyll'
 require 'cgi'
@@ -26,14 +25,24 @@ def config
   config["proofer"] = config["proofer"].inject({}){|memo,(k,v)| memo[k.to_sym] = v; memo}
   config
 end
+# 
+# def build_site
+#   sh "bundle exec jekyll build -c _config.yml,_config_test.yml"
+# end
 
-def build_site
-  sh "bundle exec jekyll build -c _config.yml,_config_test.yml"
+# def html_proofer
+#   puts "HTML Proofer version: #{HTML::Proofer::VERSION}"
+#   HTML::Proofer.new("./_site", config["proofer"]).run
+# end
+
+def token
+  path = File.expand_path('~/.token')
+  File.read(path) if File.exist?(path)
 end
 
-def html_proofer
-  puts "HTML Proofer version: #{HTML::Proofer::VERSION}"
-  HTML::Proofer.new("./_site", config["proofer"]).run
+task :set_env do
+  ENV['DISABLE_WHITELIST']   = 'true'
+  ENV['JEKYLL_GITHUB_TOKEN'] = token
 end
 
 task :build do
