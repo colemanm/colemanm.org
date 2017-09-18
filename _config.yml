@@ -7,7 +7,7 @@ author:
   uri: http://www.colemanm.org
 permalink: /post/:title/
 port: 4001
-url: http://www.colemanm.org
+url: https://www.colemanm.org
 
 collections:
   maps:
