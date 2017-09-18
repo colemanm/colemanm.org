@@ -53,8 +53,8 @@ sup, sub {
 sub { top:  0.4em; }
 
 /* img floats */
-img.right { float: right; margin: 0 0 12px 12px; }
-img.left { float: left; margin: 0 12px 12px 0; }
+.post img.right { float: right; margin: 0 0 12px 12px; left:0 }
+.post img.left { float: left; margin: 0 12px 12px 0; left: 0 }
 img.thumb.left {
   margin-right: 6px;
 }
