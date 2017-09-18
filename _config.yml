@@ -8,8 +8,6 @@ author:
 permalink: /post/:title/
 port: 4001
 url: https://www.colemanm.org
-# relative_permalinks: false
-# markdown: kramdown
 
 collections:
   maps:
