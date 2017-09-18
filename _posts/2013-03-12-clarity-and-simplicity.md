@@ -14,7 +14,7 @@ The book postulates that "sticky" ideas have six core properties: they're _simpl
 
 I recently watched a talk given by Supreme Court Justice Clarence Thomas at Harvard, and he nails what it means to communicate clearly, in his case when publishing [opinions of the court](http://www.supremecourt.gov/opinions/opinions.aspx) (around 58:30).
 
-<iframe width="850" height="478" src="https://www.youtube.com/embed/heQjKdHu1P4" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/heQjKdHu1P4" frameborder="0" allowfullscreen></iframe>
 
 The entire talk is fascinating, but this part stands out &mdash; on editing for clarity:
 
