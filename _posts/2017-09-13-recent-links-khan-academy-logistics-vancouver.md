@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-09-12
+date: 2017-09-13
 title: "Recent Links: Playing with Numbers, Logistics Networks, Vancouver Island"
 categories: blog
 ---
