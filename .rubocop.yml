@@ -4,6 +4,7 @@ AllCops:
     - _site/**/*
     - node_modules/**/*
     - vendor/**/*
+    - blog.rb
 
 Style/Documentation:
   Enabled: false
