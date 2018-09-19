@@ -6,7 +6,7 @@ description: "We started building Fulcrum in 2011. 7 years in I look back at how
 categories: blog
 ---
 
-Fulcrum, our SaaS product for field data collection, is coming up on its 7th birthday this year. We’ve come a long way: from a bootstrapped, barely-functional system at launch in 2011 to a platform with over 1700 customers, healthy revenue, and a growing team expanding it to ever larger clients around the world. I thought I’d step back and recall its origins from a product management perspective.
+Fulcrum, our SaaS product for field data collection, is coming up on its 7th birthday this year. We’ve come a long way: from a bootstrapped, barely-functional system at launch in 2011 to a platform with over 1800 customers, healthy revenue, and a growing team expanding it to ever larger clients around the world. I thought I’d step back and recall its origins from a product management perspective.
 
 We created [Fulcrum](https://www.fulcrumapp.com/) to address a need we had in [our business](https://spatialnetworks.com/foresight/), and quickly realized its application to dozens of other markets with a slightly different color of the same issue: **getting accurate field reporting from a deskless, mobile workforce back to a centralized hub for reporting and analysis**. While we knew it wasn't a brand new invention to create a data collection platform, we knew we could bring a novel solution combining our strengths, and that other existing tools on the market had fundamental holes we saw as essential to our own business. We had a few core ideas, all of which combined would give us a unique and powerful foundation we didn't see elsewhere:
 
