@@ -8,7 +8,7 @@ categories: blog
 
 ### 🎛 [Geocomputation with R](http://geocompr.robinlovelace.net/) 
 
-I’ve had R on my list for a long time to dig deeper with. A while back I set myself up with RStudio and went through some Datacamp stuff. This online book seems like excellent material in how to apply R to geostatistics.
+I’ve had R on my list for a long time to dig deeper with. A while back I set myself up with RStudio and went through some [DataCamp]() stuff. This online book seems like excellent material in how to apply R to geostatistics.
 
 ### ☎️ [Listening to Customers At Scale](https://medium.learningbyshipping.com/listening-to-customers-b0d4f6a3b275)
 
