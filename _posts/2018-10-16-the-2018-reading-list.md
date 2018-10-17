@@ -6,6 +6,8 @@ description: “Books I’ve read and have on my list for 2018.”
 categories: blog
 ---
 
+I'm on pace this year to read 40 books this year. Here's a quick snapshot of the list so far, in rough order from beginning to end of year. I'm looking forward to writing up a week's worth of posts this year on my favorites by genre.
+
 [Homo Deus](https://www.goodreads.com/book/show/31138556-homo-deus) — Yuval Noah Harari
 [The Stone Sky](https://www.goodreads.com/book/show/31817749-the-stone-sky) — N.K. Jemisin
 [Elements of Eloquence](https://www.goodreads.com/book/show/17415726-the-elements-of-eloquence) — Mark Forsyth
