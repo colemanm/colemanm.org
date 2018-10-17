@@ -9,9 +9,13 @@ categories: blog
 I'm on pace this year to read 40 books this year. Here's a quick snapshot of the list so far, in rough order from beginning to end of year. I'm looking forward to writing up a week's worth of posts this year on my favorites by genre.
 
 [Homo Deus](https://www.goodreads.com/book/show/31138556-homo-deus) — Yuval Noah Harari
+
 [The Stone Sky](https://www.goodreads.com/book/show/31817749-the-stone-sky) — N.K. Jemisin
+
 [Elements of Eloquence](https://www.goodreads.com/book/show/17415726-the-elements-of-eloquence) — Mark Forsyth
+
 [Robot Visions](https://www.goodreads.com/book/show/18752201-robot-visions) — Isaac Asimov
+
 [Scale](https://www.goodreads.com/book/show/31670196-scale) — Geoffrey West
 [Artemis](https://www.goodreads.com/book/show/34928122-artemis) — Andy Weir
 [Astrophysics for People in a Hurry](https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry) — Neil deGrasse Tyson
