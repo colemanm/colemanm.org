@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-10-17
+date: 2018-10-16
 title: "2018 Reading List"
 description: “Books I’ve read and have on my list for 2018.”
 categories: blog
