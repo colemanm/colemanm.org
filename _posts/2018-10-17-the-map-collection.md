@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-10-18
+date: 2018-10-17
 title: "The Map Collection"
 description: “Cataloging my map collection using Fulcrum.”
 categories: blog
