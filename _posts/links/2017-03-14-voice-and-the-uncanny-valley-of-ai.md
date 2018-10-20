@@ -5,6 +5,9 @@ title: "Voice and the uncanny valley of AI"
 target: http://ben-evans.com/benedictevans/2017/2/22/voice-and-the-uncanny-valley-of-ai
 description: "Benedict Evans on voice as the next big computing platform"
 categories: blog
+tags:
+- voice
+- ai
 ---
 
 Great post from Benedict Evans on the state of voice computing in 2017. On wider answer domains and creating the uncanny valley:

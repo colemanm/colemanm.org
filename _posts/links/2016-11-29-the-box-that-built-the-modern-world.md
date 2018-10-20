@@ -5,6 +5,9 @@ title: "The Box That Built the Modern World"
 target: http://nautil.us/issue/29/scaling/the-box-that-built-the-modern-world-rp
 description: "Great piece about the modularization of shipping and how it powered global trade."
 categories: blog
+- business
+- trade
+- books
 ---
 
 Great piece about the modularization of shipping and how it powered global trade.
