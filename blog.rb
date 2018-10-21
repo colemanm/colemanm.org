@@ -28,7 +28,10 @@ class Blog < Thor
         layout: post
         date: #{date}
         title: "#{title.tr('-', ' ')}"
+        description: ""
         categories: blog
+        tags:
+        - 
         ---
 
         Content for blog post.
@@ -45,7 +48,7 @@ class Blog < Thor
     title = options[:title]
     slug  = title.downcase.strip.tr(' ', '-').gsub(/[^\w-]/, '')
     date  = generate_date(options[:date])
-    file = File.join('./_posts/links/', "#{date}-#{slug}.md")
+    file = File.join('./_posts/', "#{date}-#{slug}.md")
     open(file, 'w') do |link|
       link.puts <<~LINKPOST
         ---
@@ -55,6 +58,8 @@ class Blog < Thor
         target: url
         description: ""
         categories: blog
+        tags:
+        - 
         ---
 
         Content for link post.
