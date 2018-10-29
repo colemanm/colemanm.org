@@ -13,6 +13,7 @@ description: "Reading log."
 	{% if post.status != "draft" %}
   <tr class="{% cycle 'even', 'odd' %}">
     <td><a href='{{ page.url }}'>{{ page.title | xml_escape }}</a></td>
+    <td>{{ page.author }}</td>
     <td class="right-cell">{{ page.date_read | date: "%m.%d.%Y"  }}</td>
   </tr>
   {% endif %}
