@@ -1,0 +1,21 @@
+---
+layout: default
+title: Books
+permalink: /books/
+description: "Reading log."
+---
+
+<div class="page archive">
+<h1>Reading Log</h1>
+
+<table cellspacing="0" class="archive-table">
+{% for page in site.categories.book %}
+	{% if post.status != "draft" %}
+  <tr class="{% cycle 'even', 'odd' %}">
+    <td><a href='{{ page.url }}'>{{ page.title | xml_escape }}</a></td>
+    <td class="right-cell">{{ page.date_read | date: "%m.%d.%Y"  }}</td>
+  </tr>
+  {% endif %}
+{% endfor %}
+</table>
+</div>

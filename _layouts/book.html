@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="book">
+  <h1><a href="{{ page.url }}">{{ page.title | xml_escape }}</a></h1>
+  <h3>by <strong>{{ page.author }}</strong></h3>
+  <span class="meta">Finished: {{ page.date_read | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
+  <p>Rating:
+  {% if page.rating == '5' %}⭐️⭐️⭐️⭐️⭐️{% endif %}
+  {% if page.rating == '4' %}⭐️⭐️⭐️⭐️{% endif %}
+  {% if page.rating == '3' %}⭐️⭐️⭐️{% endif %}
+  {% if page.rating == '2' %}⭐️⭐️{% endif %}
+  {% if page.rating == '1' %}⭐️{% endif %}
+  </p>
+  <div class="body">{{ content }}</div>
+  {% include share.html %}
+</div>
