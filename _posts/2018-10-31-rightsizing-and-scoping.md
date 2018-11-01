@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-11-01
+date: 2018-10-31
 title: "Right-sizing and Product Scoping"
 description: "Thoughts on the process of right-sizing product features and defining scope."
 categories: blog
