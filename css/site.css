@@ -144,13 +144,13 @@ p.caption {
 .post span.meta a {
   border: 0;
 }
-.post img {
+.post img, .link img {
   width: 850px;
   position: relative;
   left: -75px;
   margin: 15px auto;
 }
-.post .embed {
+.post .embed, .link .embed {
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 30px;
