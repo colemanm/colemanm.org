@@ -9,9 +9,9 @@ tags:
 - news
 ---
 
-The heyday of RSS is long behind us. Ever since the shutdown of [Google Reader](https://en.wikipedia.org/wiki/Google_Reader) in 2013, the crown of feed-based content consumption has been taken by Twitter. There’s something about the heavily personalized nature of RSS that keeps me using it consistently, at least as often as I go to Twitter these days.
+The heyday of RSS is long behind us. Ever since the shutdown of [Google Reader](https://en.wikipedia.org/wiki/Google_Reader) in 2013, the crown of feed-based content consumption has been taken by Twitter. There’s something about the heavily personalized nature of RSS that keeps me using it consistently, though, at least as often as I go to Twitter these days.
 
-The way I have always used RSS, I tend to subscribe to “trickle” feeds — blogs of individual writers or smaller publications that don’t suffer from the compulsion to post 20 times a day. There’s a calmness with using RSS feeds that you never get on Twitter. A combination of longer-form writing (at least in my feeds) and the lack of endless retweeting and amplification of the same things keeps the peace when catching up on the latest updates.
+The way I have always used RSS, I tend to subscribe to “trickle” feeds — blogs of individual writers or smaller publications that don’t suffer from the compulsion to post 20 times a day. There’s a calmness with using RSS feeds that you never get on Twitter. A combination of longer-form writing and the lack of endless retweeting and amplification of the same things keeps the peace when catching up on the latest updates.
 
 Since the sting of the free Google Reader getting sunset unexpectedly, I’ve been paying for Feedbin as my reader of choice, with Reeder on iOS for mobile use. I’ve been very happy with both.
 
