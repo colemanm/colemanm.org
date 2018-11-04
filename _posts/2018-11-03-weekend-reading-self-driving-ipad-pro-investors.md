@@ -21,7 +21,7 @@ Jason Snell’s thoughts on the new iPad Pro release last week:
 
 > I love the new design of the iPad Pro models. The flat back with the flat sides, which remind me of the original iPad design and the iPhone 4/5/SE, is a delight. But when you pick one up, the first thing you notice is that the bezels are even all the way around—and they’re almost, but not quite, gone entirely
 
-An improved keyboard case, new revision to the Pencil, reduced bezel width, and Face ID support are all the right updates to make to get me closer to the goal of iPad Pro over laptop. The Folio idea for the case sounds fantastic, and with the Pencil, it's amazing how innovative it can seem to add a small flat segment to keep it from rolling off the table.
+An improved keyboard case, new revision to the Pencil, reduced bezel width, and Face ID support are all the right updates to make to get me [closer to the goal]({{ site.url }}/post/a-week-with-ipad/) of iPad Pro over laptop. The Folio idea for the case sounds fantastic, and with the Pencil, it's amazing how innovative it can seem to add a small flat segment to keep it from rolling off the table.
 
 ### 💵 [We Spent $3.3M Buying Out Investors](https://open.buffer.com/buying-out-investors/ "Buffer Buying Out Investors")
 
