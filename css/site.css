@@ -62,11 +62,12 @@ img.thumb.right {
   margin-left: 6px;
 }
 img.bordered { border: 1px solid #ddd; }
-p.caption {
+.caption {
   font-style: italic;
   font-size: 0.9em;
   text-align: center;
-  margin-top: 0;
+  display: block;
+  margin-top: -15px;
 }
 
 .aqua { color: #446688; }
