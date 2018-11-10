@@ -67,7 +67,7 @@ img.bordered { border: 1px solid #ddd; }
   font-size: 0.9em;
   text-align: center;
   display: block;
-  margin-top: -15px;
+  margin-top: 5px;
 }
 
 .aqua { color: #446688; }
@@ -146,11 +146,18 @@ img.bordered { border: 1px solid #ddd; }
 .post span.meta a {
   border: 0;
 }
-.post img, .link img {
-  width: 850px;
+.post img.full, .link img.full {
   position: relative;
+  text-align: center;
+  display: block;
   left: -75px;
-  margin: 15px auto;
+  margin: 0 auto;
+}
+.post img.partial, link img.partial {
+  position: relative;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 .video {
