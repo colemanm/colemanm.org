@@ -18,7 +18,7 @@ publish_date: 1954
 
 We're still early in the timeline of Asimov's epic saga. The short stories in _I, Robot_ set the stage for dozens of future novels that take place in the same universe and along the same timeline. The far-future stories of the famous _Foundation_ series have threads leading all the way back to the "[3 Laws]({{ site.url }}/post/the-three-laws-of-robotics/)" and the _Robot_ series, which starts off the action on Earth. _The Caves of Steel_ is the first _Robot_ entry, introducing the recurring character of Lije Baley. With this one, we set the stage for humanity’s eventual galactic expansion.
 
-![Caves of Steel]({{ site.url }}/images/post-images/caves-of-steel.jpg "Caves of Steel")
+{% include image.html file="caves-of-steel.jpg" description="Caves of Steel" caption="no" %}
 
 While _I, Robot_ and Asimov's other [robot](https://www.goodreads.com/book/show/41818.Robot_Dreams) [story](https://www.goodreads.com/book/show/41823.Robot_Visions) [collections](https://www.goodreads.com/book/show/50091.The_Complete_Robot) lean toward the cerebral and philosophical, _The Caves of Steel_ is a murder mystery, buddy cop procedural.
 

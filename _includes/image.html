@@ -1,3 +1,5 @@
 <img class="full" src="/images/post-images/{{ include.file }}" alt="{{ include.description }}"
 {% if include.width %}width="{{ include.width }}"{% else %}width="850"{% endif %}>
+{% if caption != "no" %}
 <span class="caption">{{ include.description }}</span>
+{% endif %}
