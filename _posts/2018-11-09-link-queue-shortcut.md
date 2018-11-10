@@ -16,7 +16,7 @@ I use Ulysses for most note-taking and writing purposes on the iPad. It syncs wi
 
 First I set up a sheet in Ulysses called “Link Queue” where I'd keep a running list of URLs to save for later. After that placeholder is there, I pulled up the Share view on that Sheet (by sliding left to see more options), then tapped the “Copy Callback URL” option to grab the Sheet ID. That’s what’s needed in the action used in the Shortcut.
 
-{% include image.html file="ulysses-share-sheet.jpg" description="Ulysses Share Sheet" %}
+{% include image.html file="ulysses-share-sheet.jpg" description="Ulysses Share Sheet" width="350" %}
 
 In Shortcuts you only need a couple of steps. I set the shortcut to accept Text or URLs (in case I also want to append selected text blocks to the same file) and pass that to the “Add to Ulysses Sheet” action. This is where the ID copied above is entered. That’s all — link appended to the end, with a new line after, ready for the next in the queue.
 

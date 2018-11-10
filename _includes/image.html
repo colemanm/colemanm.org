@@ -1,2 +1,2 @@
-<img src="/images/post-images/{{ include.file }}" alt="{{ include.description }}">
+<img src="/images/post-images/{{ include.file }}" alt="{{ include.description }}" {% if include.width %}width="{{ include.width }}"{% endif %}>
 <span class="caption">{{ include.description }}</span>
