@@ -34,6 +34,6 @@ Using a set of 94 images from a test flight over a [job site](https://www.google
 
 That project with the default settings took about 30 minutes. It generates the mosaicked orthophoto (TIF, PNG, and even MBTiles), surface model, and point cloud. Here’s a short clip of what the results look like:
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/FF56MRI-BU4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include video.html id="FF56MRI-BU4" %}
 
 This is why open source is so interesting. The team behind the project has put together great documentation and resources to help users get it running on all platforms, including running everything on your own cloud server infrastructure with extended processing resources. I see OpenAerialMap integration was just added, so I’ll have to check that out next.

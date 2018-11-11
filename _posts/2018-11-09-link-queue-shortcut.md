@@ -14,7 +14,7 @@ Most reading on my iPad happens in Reeder, Instapaper, or a browser. I wanted to
 
 I use Ulysses for most note-taking and writing purposes on the iPad. It syncs with iCloud between desktop and mobile, has good organization support, and is a good Markdown editor. it also is integrated with Shortcuts.
 
-First I set up a sheet in Ulysses called “Link Queue” where I'd keep a running list of URLs to save for later. After that placeholder is there, I pulled up the Share view on that Sheet (by sliding left to see more options), then tapped the “Copy Callback URL” option to grab the Sheet ID. That’s what’s needed in the action used in the Shortcut.
+First I set up a sheet in Ulysses called “Link Queue” where I'd keep a running list of URLs to save for later. After that placeholder is there, I pulled up the Share view on that Sheet (by sliding left to see more options), then tapped the “Copy Callback Identifier” option to grab the Sheet ID. That’s what’s needed in the action used in the Shortcut.
 
 {% include image-partial.html file="ulysses-share-sheet.jpg" description="Ulysses Share Sheet" width="350" %}
 
