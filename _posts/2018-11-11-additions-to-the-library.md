@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-11-12
+date: 2018-11-11
 title: "Additions to the Library"
 description: “The latest haul from Chamblin Bookmine in Jacksonville.”
 categories: blog
