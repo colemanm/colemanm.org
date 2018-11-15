@@ -3,6 +3,7 @@ layout: post
 date: 2018-11-13
 title: "New York City"
 description: “Up in New York City for Geography 2050.”
+img: /images/post-images/times-square.jpg
 categories: blog
 tags:
 - travel
