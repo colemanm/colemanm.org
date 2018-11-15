@@ -1,3 +1,3 @@
 <img class="partial" src="/images/post-images/{{ include.file }}" alt="{{ include.description }}"
 {% if include.width %}width="{{ include.width }}"{% else %}width="850"{% endif %}>
-<span class="caption">{{ include.description }}</span>
+{% if include.caption != "no" %}<span class="caption">{{ include.description }}</span>{% endif %}
