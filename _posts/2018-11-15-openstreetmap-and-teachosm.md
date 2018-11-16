@@ -3,6 +3,7 @@ layout: post
 date: 2018-11-15
 title: "OpenStreetMap and TeachOSM"
 description: “Teaching teachers OpenStreetMap at Columbia University.”
+img: /images/post-images/teachosmp-mapathon.jpg
 categories: blog
 tags:
 - education
