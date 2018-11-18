@@ -3,6 +3,9 @@ layout: post
 date: 2018-10-10
 title: "Economics & Product Management"
 categories: blog
+tags:
+- economics
+- product management
 ---
 
 A continuous challenge in product development (perhaps _the ultimate_ challenge) is the balancing of many wants and needs with an inability to have everything. You never have the resources to build everything you want into your product — be it labor, capital, or time.

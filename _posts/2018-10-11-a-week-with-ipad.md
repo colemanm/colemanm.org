@@ -4,6 +4,10 @@ date: 2018-10-11
 title: "A Week with the iPad"
 description: "Notes on 7 days of working on the iPad as a replacement for the Mac."
 categories: blog
+tags:
+- iPad
+- habits
+- technology
 ---
 
 For the last 7 days I've only been using the iPad. I've had a 12.9” iPad Pro for about a year, but have only used it in “work mode” occasionally so I don't have to lug the laptop home all the time. Most of what I do these days doesn't require full macOS capability, so I'm experimenting in developing the workflow to go tablet-only.

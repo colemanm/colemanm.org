@@ -6,8 +6,8 @@ description: "A review of John McPhee's book and resparking an interest in geolo
 img: /images/post-images/geologic-strata.jpg
 categories: blog
 tags:
-  - books
-  - geology
+- books
+- geology
 ---
 
 {% include image.html file="geologic-strata.jpg" description="Strata" caption="no" %}

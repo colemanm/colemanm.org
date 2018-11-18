@@ -4,6 +4,9 @@ date: 2018-10-17
 title: "The Map Collection"
 description: “Cataloging my map collection using Fulcrum.”
 categories: blog
+tags:
+- maps
+- habits
 ---
 
 I’ve been collecting paper maps for years. It’s one of the few collection habits I’ve allowed myself to keep (well, including books). Some time back I wanted to inventory all of them. So I built an app in Fulcrum to log the title, source, publishing date, and photos of each.

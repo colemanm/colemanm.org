@@ -4,6 +4,8 @@ date: 2018-10-16
 title: "2018 Reading List"
 description: “Books I’ve read and have on my list for 2018.”
 categories: blog
+tags:
+- books
 ---
 
 I'm on pace this year to read 40 books this year. Here's a quick snapshot of the list so far, in rough order from beginning to end of year. I'm looking forward to writing up a week's worth of posts this year on my favorites by genre.

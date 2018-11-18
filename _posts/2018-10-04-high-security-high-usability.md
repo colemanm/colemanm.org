@@ -4,6 +4,10 @@ date: 2018-10-04
 title: "High Security, High Usability"
 description: "Maintaining high security of your accounts gets easier with modern tools."
 categories: blog
+tags:
+- technology
+- security
+- workflow
 ---
 
 As computing platforms get more complex and critical to daily life, maintaining secure usage gets more challenging.

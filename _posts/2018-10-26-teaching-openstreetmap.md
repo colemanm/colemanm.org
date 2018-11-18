@@ -5,7 +5,7 @@ title: "Teaching OpenStreetMap"
 description: "Attending the OSM mapathon during Geography2050 in November."
 categories: blog
 tags:
-- openstreetmap
+- OpenStreetMap
 - geography
 - education
 - events

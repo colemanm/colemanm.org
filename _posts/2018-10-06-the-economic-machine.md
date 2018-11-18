@@ -4,6 +4,10 @@ date: 2018-10-06
 title: "How the Economic Machine Works"
 description: "A concise explanation of an economy."
 categories: blog
+tags:
+- video
+- economics
+- education
 ---
 
 Learn the foundations of how an economy works, in only 30 minutes.
