@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h2>{{ page.tag | upcase }}</h2>
+{% for post in page.posts %}
+<div class="post">
+  <h1>{{ post.title | xml_escape }}</h1>
+  <span class="meta">{{ post.date | date: '%B %-d, %Y' }} &bull; <a href="{{ post.url }}" title="Permalink">#</a></span>
+  <div class="body">{{ post.content | markdownify }}</div>
+  {% include share.html %}
+</div>
+{% endfor %}
