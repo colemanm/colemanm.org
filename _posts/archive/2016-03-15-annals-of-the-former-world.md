@@ -10,13 +10,13 @@ tags:
   - geology
 ---
 
-![Strata](/images/post-images/geologic-strata.jpg "Strata")
+{% include image.html file="geologic-strata.jpg" description="Strata" caption="no" %}
 
 I majored in geography in college and always liked earth sciences. I dabbled a bit with classes that were related, but not core to geography study &mdash; your basic geology courses and a class in [geodesy](https://en.wikipedia.org/wiki/Geodesy). One of the classes I took called "Geology of the National Parks" had an applied approach to explaining the foundations of geology. Something about hopping from Katmai to Yosemite to the Everglades made me see geology as more than rocks and minerals. I loved the massive scope and scale of the Earth's 4.5 billion years. Normally anything with a magnitude starting with a B or T is intangible (distances in deep space) or minuscule (numbers of molecules in a human body). But when talking about rocks, rivers, continents, strata, sediments &mdash; these things are very tangible and static, at least in passive observation. A year is a long time at the human scale, but a blink on the geologic. When comparing human and geologic timelines, it takes a while for this to sink in.
 
 I've never read anything on the subject of geology. I previously enjoyed John McPhee's _[The Control of Nature](https://www.goodreads.com/book/show/77.The_Control_of_Nature)_, and had _[Annals of the Former World](https://www.goodreads.com/book/show/78.Annals_of_the_Former_World)_ on my reading list after browsing some of his other work. It's a tome, but I decided to download it on my Kindle and give it a shot.
 
-![Annals of the Former World](/images/post-images/annals-of-the-former-world.jpg "Annals of the Former World")
+{% include image.html file="annals-of-the-former-world.jpg" description="Annals of the Former World" caption="no" %}
 
 The book is a Pulitzer Prize-winning collection of 4 books independently researched, written, and published over the course of 20 years starting in the late 1970s. It's an incredible piece of nonfiction writing, with just the right balance of well-researched science, facts and figures, storytelling, and narrative[^mcphee]. The author tells a geologic history of the North American continent by way of the [I-80 corridor](https://en.wikipedia.org/wiki/Interstate_80) across the lower 48 from New York to San Francisco, studying roadcuts and outcrops along the way. Each piece paints a picture of a slice of geologic science, with an emphasis on different landforms and processes. McPhee does an excellent job exposing the deep vocabulary of the geologist without being overwhelmingly technical. He's traveling with (and quoting) scientists, and the book pushes 700 pages, so there's no need for brevity.
 
@@ -24,7 +24,7 @@ In each section he splices together a healthy dose of history with scientific ex
 
 By the end of the book I was just beginning to get comfortable with the order and structure of the geologic time scale. The terms are so numerous that it takes repition to remember which came first, which age is within which epoch, and so on. Precambrian, Eocene, Devonian, Permian, Pennsylvanian, Proterozoic, Hadean, Ordovician &mdash; I had to have the trusty [time scale](https://en.wikipedia.org/wiki/Geologic_time_scale) at hand for constant reference.
 
-![Geologic time](/images/post-images/geologic-time-scale.jpg "Geologic time")
+{% include image.html file="geologic-time-scale.jpg" description="Geologic Time" caption="no" %}
 
 _Basin and Range_ starts things off with a study of the geologic province [of the same name](https://en.wikipedia.org/wiki/Basin_and_Range_Province), mostly coinciding in the US with the state of Nevada. The expanse lies between the Great Salt Lake and the Sierra Nevada, with rolling folds of hills and valleys.
 
@@ -44,7 +44,7 @@ McPhee peppers his writing with great little anecdotes that make the abstract sc
 
 _In Suspect Terrain_ introduces the final formation of [plate tectonic theory](https://en.wikipedia.org/wiki/Plate_tectonics) in the 1960s. Nuclear proliferation in the 1950s had governments investing in seismic monitoring stations all over the world to feel for blast shocks. As a side effect, geologists detected and recorded earthquakes on a global scale, over the course of several years. Tossing those records on a map gives you a clear picture of the eggshell-like plates of crust, with thousands of vibrations marking the slip and slide of the plates against one another.
 
-![Quakes](https://upload.wikimedia.org/wikipedia/commons/d/db/Quake_epicenters_1963-98.png)
+{% include image.html file="quake-epicenters.png" description="Quake epicenters" caption="no" %}
 
 Part three, _Rising from the Plains_, takes us to the Rocky Mountains in the company of Wyoming native David Love. This part contains probably the least science, and instead substitutes some excellent tales of Love's upbringing on his family's isolated ranch in central Wyoming. In the early 20th century Wyoming was still very much the frontier, sparsely populated with little industry until the coal and uranium mining businesses boomed in the middle of the century. I love the title's double meaning &mdash; Love and the Rockies formations he studied both spring from the eastern Wyoming flatness. The stories of his family roots hammer home how inhospitable and disconnected the West still was at the time.
 
