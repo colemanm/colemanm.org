@@ -3,6 +3,10 @@ layout: post
 date: 2017-09-13
 title: "Recent Links: Playing with Numbers, Logistics Networks, Vancouver Island"
 categories: blog
+tags:
+- education
+- logistics
+- travel
 ---
 
 ### 🎓 [Numbers at Play: Dynamic Toys Make the Invisible Visible](https://www.khanacademy.org/research/reports/cantor)

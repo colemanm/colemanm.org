@@ -3,6 +3,10 @@ layout: post
 date: 2017-08-31
 title: "Recent Links: Waymo’s Cars, ARCore, and Fantasy Maps"
 categories: blog
+tags:
+- automated vehicles
+- cartography
+- augmented reality
 ---
 
 ### 📱 [Google Announces ARCore](https://www.theverge.com/2017/8/29/16219696/google-arcore-augmented-reality-platform-announce-release-pixel-samsung)

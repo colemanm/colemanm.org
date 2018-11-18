@@ -3,6 +3,9 @@ layout: post
 date: 2017-09-08
 title: "Subscription Pricing Models"
 categories: blog
+tags:
+- saas
+- business
 ---
 
 Since Apple changed their subscription pricing options for App Store developers [back in 2016](https://daringfireball.net/2016/06/the_new_app_store), several high-profile apps that have made the switch from fixed pricing to the subscription model. [TextExpander](https://smilesoftware.com/textexpander/entry/textexpander-adjustments), [Day One](http://dayoneapp.com/2017/06/day-one-goes-premium/), and [Ulysses](https://medium.com/building-ulysses/why-were-switching-ulysses-to-subscription-47f80b07a9cd) are just three that I know of and use.

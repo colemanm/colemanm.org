@@ -3,6 +3,10 @@ layout: post
 date: 2017-06-01
 title: "Weekly Links: Ambient Computers, Drones, and Focus"
 categories: blog
+tags:
+- technology
+- drones
+- business
 ---
 
 ### 💻 [The Disappearing Computer](https://www.recode.net/2017/5/25/15689094/mossberg-final-column)

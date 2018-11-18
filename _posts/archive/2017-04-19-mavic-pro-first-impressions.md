@@ -4,12 +4,15 @@ date: 2017-04-19
 title: "Mavic Pro First Impressions"
 description: "Field report after the first few Mavic flights."
 categories: blog
-img: /images/post-images/mavic-pro.jpg
+img: /images/post-images/mavic-pro.jp
+tags:
+- drones
+- maps
 ---
 
 I bought a Mavic Pro a couple weeks ago and just got a chance to take my first flights this past weekend. In short, it's the most impressive technology product I've used in years. I've never owned any drone, so this is pretty cool for someone in the mapping industry. Let's dive in.
 
-![Mavic Pro]({{ site.url }}/images/post-images/mavic-pro.jpg "Mavic Pro")
+{% include image.html file="mavic-pro.jpg" description="Mavic Pro" caption="no" %}
 
 Since going out to fly aerial mapping missions with some partners [of ours](http://www.fulcrumapp.com) a couple months back, I wanted to buy one of DJI's drones &mdash; either the larger Phantom 4 Pro, or the smaller Mavic. Extensive research led me to the portability and almost-equivalent technical specs of the Mavic over the P4. It's so close in most of its capabilities, but the compactness of it is remarkable. I got the kit with the [carrying bag](https://store.dji.com/product/mavic-shoulder-bag), and it's so small you could literally take it anywhere. I love the prospect of having this as a photography platform while traveling.
 

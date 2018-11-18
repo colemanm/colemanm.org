@@ -6,8 +6,12 @@ categories: blog
 description: "Asimov's Caves of Steel and the beginnings of the Robot trilogy."
 img: /images/post-images/
 categories:
-  - blog
-  - asimov
+- blog
+- asimov
+tags:
+- science fiction
+- books
+- Isaac Asimov
 book: "The Caves of Steel"
 publish_date: 1954
 ---
