@@ -36,12 +36,10 @@ end
 
 task :serve do
   Rake::Task[:set_env].invoke
-  options = {
-    'serving'     => true,
-    'watch'       => true,
-    'incremental' => true,
-    'config'      => %w[_config.yml _config_local.yml]
-  }
+  options = { 'serving'     => true,
+              'watch'       => true,
+              'incremental' => true,
+              'config'      => %w[_config.yml _config_local.yml] }
   Jekyll::Commands::Build.process(options)
   Jekyll::Commands::Serve.process(options)
 end
