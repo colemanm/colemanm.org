@@ -9,7 +9,7 @@ tags:
 - photography
 ---
 
-{% include image-partial.html file="hipstamatic-af.jpg" description="Hipstamatic Afghanistan caption="no" width="500" %}
+{% include image-partial.html file="hipstamatic-af.jpg" description="Hipstamatic Afghanistan" caption="no" width="500" %}
 
 Foreign Policy series of [photos from Afghanistan, through Hipstamatic](http://www.foreignpolicy.com/articles/2011/08/01/see_no_evil).
 
