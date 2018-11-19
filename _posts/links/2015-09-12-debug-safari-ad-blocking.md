@@ -5,6 +5,9 @@ title: "Melton + Ray on Safari, standards, and ad blocking"
 target: https://overcast.fm/+I_IAnJ5Y/1:25:46
 description: "The latest episode of Debug had a great discussion with Don Melton and Jim Ray on Safari's development, web standards, and the state of web advertising."
 categories: blog
+tags:
+- podcasts
+- technology
 ---
 
 The latest episode of [Debug](http://www.imore.com/debug) had a great discussion with Don Melton and Jim Ray on Safari's development, web standards, and the state of web advertising.

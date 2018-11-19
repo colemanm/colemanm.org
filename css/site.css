@@ -121,6 +121,10 @@ img.bordered { border: 1px solid #ddd; }
   text-decoration: none;
 }
 
+span.topic {
+  color: #999;
+}
+
 
 .post {
   margin: 8px 0 2em 0;

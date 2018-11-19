@@ -2,10 +2,11 @@
 layout: link
 date: 2014-12-13 13:59:06 EST
 title: "Working Remotely"
-permalink: /post/working-remotely/
-target: http://www.fulcrumapp.com/blog/remote-reunion-Q4-2014/
+target: https://www.fulcrumapp.com/blog/remote-reunion-Q4-2014/
 description: "Designer Tim Campbell on working remotely for our company."
 categories: blog
+tags:
+- work
 ---
 
 Great post from [Tim](https://twitter.com/timcampbell17) on our recent all-hands sprint at our [new office](http://www.fulcrumapp.com/blog/open-for-business-in-downtown-st-pete/).
