@@ -34,6 +34,7 @@ task :build do
   Jekyll::Commands::Build.process(options)
 end
 
+# rubocop:disable AlignHash
 task :serve do
   Rake::Task[:set_env].invoke
   options = { 'serving'     => true,
@@ -43,6 +44,7 @@ task :serve do
   Jekyll::Commands::Build.process(options)
   Jekyll::Commands::Serve.process(options)
 end
+# rubocop:enable AlignHash
 
 task :test do
   Rake::Task[:spec].invoke
