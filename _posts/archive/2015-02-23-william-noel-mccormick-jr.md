@@ -12,7 +12,7 @@ A few weeks ago, my grandfather passed away after a long fight with cancer and P
 
 His list of good qualities and accomplishments is almost too much to mention. During my childhood and after, we spent lots of time with my grandparents, and my grandpa was always a man of action. That's one of the most memorable parts of growing up with him. In his presence, you couldn't be bored.
 
-{% include image.html file="grandpa" description="Bill McCormick" caption="no" %}
+{% include image.html file="grandpa.jpg" description="Bill McCormick" caption="no" %}
 
 For my whole life he was an avid boater, carpenter, fisherman, engineer, and builder, with a seemingly-endless knowledge of how things worked. As boys we grew up always excited to spend time in his shop building things (the Mecca for kids wanting to tinker); he always had a project for us, whether it was making wooden guns, boxes, model boats, or just messing around helping out with whatever his current project was. He was a master carpenter, and produced hundreds of pieces of furniture, tools, containers, and even boats.
 

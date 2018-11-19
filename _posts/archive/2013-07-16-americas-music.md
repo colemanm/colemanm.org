@@ -10,7 +10,7 @@ tags:
 - jazz
 ---
 
-{% include image.html file="lee-morgan.jpg" description="" caption="no" %}
+{% include image.html file="lee-morgan.jpg" description="Lee Morgan" caption="no" %}
 
 Jazz is a genre of music I never used to take seriously. When I started listening to decent music around junior high (very little of it was "good"), I would mentally lump jazz music in with the standards and classical pieces &mdash; the "music we play in band class" genre. I was even an alto sax player, but had next to no interest in learning the history of the music, or a desire to understand its styles, structure, or theory. Early in college, something turned me on to the records of Coltrane and Herbie Hancock, and since then all forms of jazz have been a consistent part of my [listening habits](https://www.last.fm/user/colemanm).
 
