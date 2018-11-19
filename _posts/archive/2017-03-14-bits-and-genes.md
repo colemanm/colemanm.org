@@ -3,6 +3,10 @@ layout: post
 date: 2017-03-14
 title: "Bits & Genes"
 categories: blog
+tags:
+- books
+- genetics
+- science
 ---
 
 As I started  _[The Gene](https://www.goodreads.com/book/show/27276428-the-gene)_, I was assuming it’d be framed as a history of genetics. There’s a significant amount of history on the discoveries made the last few centuries as scientists gained an understanding of how hereditary traits are encoded and transmitted. But my favorite parts of the narrative are when Mukherjee seeks to look at the gene as the fundamental building block, making comparisons to bits and atoms.

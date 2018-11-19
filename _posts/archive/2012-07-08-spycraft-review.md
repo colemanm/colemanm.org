@@ -20,6 +20,6 @@ The story of OTS is fascinating and full of all sorts of straight-out-of-the-mov
 
 The book tells stories of operations in Moscow involving several famous Soviet spies, and the field tradecraft and technical tools that CIA case officers used to communicate with their agents. With its focus on technical devices of the Cold War era, much of the book describes audio taps and clandestine audio recording.
 
-Toward the end of the book, there's an extensive section reviewing the principles of tradecraft&mdash;things like the use of disguises, assessment of recruitment targets, covert communications, and concealment devices&mdash;in the context of technology and devices involved.
+Toward the end of the book, there's an extensive section reviewing the principles of tradecraft &mdash; things like the use of disguises, assessment of recruitment targets, covert communications, and concealment devices &mdash; in the context of technology and devices involved.
 
 The book does occasionally stray into the weeds a little, getting somewhat dry in parts, but it's well worth the read for those interested in history and espionage.

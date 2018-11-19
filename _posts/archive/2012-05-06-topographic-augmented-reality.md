@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2012-05-06 08:00:00 EST
-title: "Topography &amp; Augmented Reality"
+title: "Topography & Augmented Reality"
 description: "Generating a real-time topographic map with a sandbox, Kinect, and a projector."
 categories: blog
 tags:
@@ -10,9 +10,7 @@ tags:
 - augmented reality
 ---
 
-<div class="embed">
-<iframe title="Topography and AR" src="http://www.youtube.com/embed/j9JXtTj0mzE?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html id="j9JXtTj0mzE" %}
 
 Generating a real-time topographic map with a sandbox, Kinect, and a projector.
 

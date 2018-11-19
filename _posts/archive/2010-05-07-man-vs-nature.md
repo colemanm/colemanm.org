@@ -6,7 +6,7 @@ description: "The ever-creeping man made landscape."
 categories: blog
 tags:
 - maps
-- growth
+- human geography
 ---
 
 <a href="http://raonurcouch.tumblr.com/post/562159375/man-v-nature-the-front-line-our-ever-growing"><img src="/images/post-images/man_vs_nature.jpg" alt="Man vs. Nature" /></a>

@@ -1,9 +1,13 @@
 ---
 layout: post
-date: 2015-03-18 13:56:37 EST
+date: 2015-03-18
 title: "A Quick Guide for New Developers"
 description: "Young people interested in learning how to code could learn a lot by starting with the smaller steps. Instead of diving immediately into learning node.js, or beginning with “Build Your Own Rails App in 15 Minutes” blog posts, focus your energy on some foundations that will be 100% useful in building your skills as an engineer."
 categories: blog
+tags:
+- business
+- education
+- software development
 ---
 
 _This entire post comes with a caveat: I am **not** a software engineer. I do build a [software product](http://www.fulcrumapp.com/), and work with a [bunch of people](http://www.fulcrumapp.com/about/team/) way smarter than me, though. I’m experienced enough to have an opinion on the topic._
@@ -14,19 +18,19 @@ Young people interested in learning how to code could learn a lot by starting wi
 
 In no particular order:
 
-![The terminal]({{ site.url }}/images/post-images/the-terminal.jpg)
+{% include image.html file="the-terminal.jpg" description="The terminal" caption="no" %}
 
 ## Learn how to use the Linux command line
 
 It almost doesn’t even matter what exactly you do with Linux to get started on this. Install some variant of the OS on a computer or virtual machine, and start trying to do stuff. Install packages, set up PHP, get Postgres running. Most importantly: learn the basic command line tools that you’ll use for the rest of your working life &mdash; things like grep, sed, cat, ack, curl, find. Think of these as tools of the trade; once you know how to work them, you’ll use them every day. Compare your craft to cooking. It’s possible to create good food without a razor sharp chef's knife, a large rigid cutting board, and fresh ingredients, but it's _a lot easier_ when you have them.
 
-![Work on tools]({{ site.url }}/images/post-images/tools.jpg)
+{% include image.html file="tools.jpg" description="Work on tools" caption="no" %}
 
 ## Work on tools instead of systems
 
 Starting out by building entire products is a bad idea. The most readily available [ideas](http://paulgraham.com/startupideas.html) are ones that require a lot of moving parts, typically. These are the ones that sound fun. Starting to assemble some knowledge by building your own blog engine or social sharing site or photo database system won't teach you _nothing_, but it puts the cart before the horse. A few hours into building your photo sharing site (with an objective of making something to _share photos_) you’ll be working on a login system and a way to reset passwords, instead addressing the problem you identified to solve in the first place. The easier place to start is to identify small pain points in your technology life, and build utilities to fill these voids. A [script](http://ctrlq.org/code/19747-google-forms-upload-files) for uploading files to Google Drive. [Wrappers](https://github.com/colemanm/ogrtool) to simplify other utilities. A command line tool to [strip whitespace from files](https://github.com/zhm/kw). You’ll be biting off something you can actually build as a novice, _and_ you might be able to ship and open source something useful to others (one of the bar-none best resume builders around). Scratching small itches is your friend when you’re learning.
 
-![The Cloud, c. 1990](/images/post-images/the-cloud.jpg)
+{% include image.html file="the-cloud.jpg" description="The Cloud, c. 1990" caption="no" %}
 
 ## Prime yourself on “devops” knowledge
 

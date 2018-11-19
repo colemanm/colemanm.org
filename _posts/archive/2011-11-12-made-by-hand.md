@@ -5,7 +5,7 @@ title: "Made By Hand"
 description: "Made by Hand video series."
 categories: blog
 tags:
-- creating
+- creativity
 ---
 
 <div class="embed">

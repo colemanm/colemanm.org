@@ -5,17 +5,21 @@ title: "The Three Laws of Robotics"
 description: "A read of Isaac Asimov's short story collection, I, Robot."
 img: /images/post-images/i-robot.jpg
 categories:
-  - blog
-  - asimov
+- blog
+- asimov
+tags:
+- books
+- Isaac Asimov
+- science fiction
 book: "I, Robot"
 publish_date: 1950
 ---
 
->This is part two of a [series](/features/asimov/) on Isaac Asimov's _Greater Foundation_ story collection. This part is about the short story collection, _I, Robot_.
+>This is part two of a [series]({{ site.url }}/features/asimov/) on Isaac Asimov's _Greater Foundation_ story collection. This part is about the short story collection, _I, Robot_.
 
 Picking up with the next entry in the Asimov read-through, I read a book I last picked up in college, _I, Robot_. This is the book that cemented his reputation in science fiction. His works on robots are probably his most well-known. He was an early thinker in the space (he even coined the term "robotics"), and wrote extensively on the subject of artificial intelligence. After reading this again, it's incredible how much influence a 60 year old collection of pulpy science fiction thought experiments ended up having on the sci-fi genre, and arguably on real-world engineering technical development itself.
 
-![I, Robot](/images/post-images/i-robot.jpg)
+{% include image.html file="i-robot.jpg" description="I, Robot" caption="no" %}
 
 _I, Robot_ isn't a novel, but a collection of 9 short stories, each of which were published independently in several science fiction publications throughout the 1950s. The parts are stitched together within a framing story of Dr. Susan Calvin, the "robopsychologist" that makes appearances in several of Asimov's robot stories, recounting her experiences with robot behavior working for US Robots and Mechanical Men, from the time of the earliest models to extremely advanced humanoid versions. Fundamentally, _I, Robot_ is a philosophical study of Asimov's famous [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics), laws that dictate the allowable behavior of robots and which form the basis of much of his exploratory thinking on the nature of intelligence:
 
@@ -33,6 +37,6 @@ My favorite of the stories center around US Robots' field engineers, Mike Powell
 
 In the final story, "[The Evitable Conflict](https://en.wikipedia.org/wiki/The_Evitable_Conflict)", Asimov even hints at what our modern AIs will look like, with positronic brains embedded in even non-humanoid machines, a 1950s vision of Siri or Watson. These computers of the future are critical in managing the world's economy, mass-production, and coordination. The computers begin experiencing minor glitches in decision-making that seem to be minor violations of the First Law. But it turns out that the computers have effectively invented a "Zeroth Law" by reinterpreting the First: _A robot may not harm humanity, or, by inaction, allow humanity to come to harm_&mdash;making minor exceptions to the First Law to save humanity from themselves. Between Calvin and Byerley, there's a sense of despair as humanity has given its future over to the machines. Would we be okay dispensing with free will in order to avoid war and conflict? It punctuates the final evolutionary path of robotic development, and provides a nice segue into the _Robot_ novels in the future chronology of his universe.
 
->“Think, that for all time, all conflicts are finally evitable. Only the Machines, from now on, are inevitable!”
+> “Think, that for all time, all conflicts are finally evitable. Only the Machines, from now on, are inevitable!”
 
 I'm interested to see where the path leads as I continue to read more of his work, and to find out how these robot stories interconnect with his wider universe. Overall, I thoroughly enjoyed this book. It's clever, thought-provoking, humorous, and will make you realize how many of our favorite works of science fiction in writing and film owe a tremendous debt to this book.

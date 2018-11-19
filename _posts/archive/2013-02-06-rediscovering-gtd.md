@@ -3,12 +3,14 @@ layout: post
 date: 2013-02-06 17:21:35 EST
 title: "Rediscovering GTD"
 description: "Getting back into GTD systems."
-categories:
-  - blog
-  - productivity
+categories: blog
+tags:
+- productivity
+- workflow
+- habits
 ---
 
-For the last month or so, I've been readopting the [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) methodology for organizing my work, personal and business. I read David Allen's [book](http://www.goodreads.com/book/show/1633.Getting_Things_Done) back in 2007, and attempted to adopt the workflow. This was before having any sort of smart device, so workflow systems were much different back then. My system when I initially jumped in involved pens and pads, inboxes, folders &mdash; most of the recommended elements from the book. I didn't last long, and since then I've only dabbled around really getting back into it. Merlin Mann and Dan Benjamin's recent [podcast series](http://5by5.tv/b2w/95) on the subject spurred me back into giving it another serious go.
+For the last month or so, I've been readopting the [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology for organizing my work, personal and business. I read David Allen's [book](https://www.goodreads.com/book/show/1633.Getting_Things_Done) back in 2007, and attempted to adopt the workflow. This was before having any sort of smart device, so workflow systems were much different back then. My system when I initially jumped in involved pens and pads, inboxes, folders &mdash; most of the recommended elements from the book. I didn't last long, and since then I've only dabbled around really getting back into it. Merlin Mann and Dan Benjamin's recent [podcast series](http://5by5.tv/b2w/95) on the subject spurred me back into giving it another serious go.
 
 Without getting into the weeds of the system, I've always seen three pillars to GTD that are critical to reaping benefit:
 

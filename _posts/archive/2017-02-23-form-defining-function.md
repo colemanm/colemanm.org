@@ -4,7 +4,8 @@ date: 2017-02-16
 title: "Form Defining Function"
 categories: blog
 tags:
-  - quotes
+- quotes
+- books
 ---
 
 I'm currently reading Siddhartha Mukherjee's _[The Gene](https://www.goodreads.com/book/show/27276428-the-gene)_, a history of the building block of living things. A great read, the right mix of history and discussion of future possibilities like gene manipulation, splicing, and cloning (good or bad).
