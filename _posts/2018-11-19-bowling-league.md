@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-11-20
+date: 2018-11-19
 title: "Bowling League"
 description: “Joining a bowling league in St. Pete.”
 img: /images/post-images/bowling-league-week12-trends.png
