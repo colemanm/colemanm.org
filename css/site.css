@@ -71,6 +71,9 @@ img.bordered { border: 1px solid #ddd; }
 }
 
 .aqua { color: #446688; }
+.orange { color: coral; }
+.yellow { color: gold;  }
+.green  { color: green; }
 
 #container {
   width: 700px;
@@ -162,6 +165,20 @@ span.topic {
   text-align: center;
   display: block;
   margin: 0 auto;
+}
+.post table {
+  margin: 25px auto;
+  border-collapse: collapse;
+}
+.post table td, .post table th  {
+  padding: 3px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+.post table td.right-cell { text-align: right; color: #555; }
+.post table tr.odd { background-color: #F2EDE8; }
+.post-table {
+  margin-bottom: 15px;
 }
 
 .video {
