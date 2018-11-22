@@ -10,9 +10,6 @@ host: 0.0.0.0
 port: 4001
 url: http://localhost:4001
 
-tag_page_layout: tag
-tag_page_dir: topics
-
 collections:
   maps:
     output: true
@@ -38,5 +35,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll/tagging
   # - jekyll-admin
