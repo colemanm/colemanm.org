@@ -6,7 +6,7 @@ description: “Ford's self-driving car efforts, Buffer buying out investors, an
 categories: blog
 tags:
 - automated vehicles
-- iPad Pro
+- iPad
 - Apple
 - investing
 - business

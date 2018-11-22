@@ -9,7 +9,7 @@ categories:
 - asimov
 tags:
 - books
-- sciece fiction
+- science fiction
 - Isaac Asimov
 book: "The End of Eternity"
 publish_date: 1955

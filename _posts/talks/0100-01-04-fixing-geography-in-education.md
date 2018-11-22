@@ -9,7 +9,7 @@ description: "This was a talk from the FOSS4G Ignite session on my thoughts abou
 event: FOSS4G North America 2012
 eventlink: http://foss4g-na.org/
 tags:
-- openstreetmap
+- OpenStreetMap
 - open data
 - community
 ---

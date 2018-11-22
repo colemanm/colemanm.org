@@ -7,7 +7,7 @@ img: /images/post-images/acoustic-kitty.jpg
 categories: blog
 tags:
 - espionage
-- review
+- reviews
 - books
 - history
 ---

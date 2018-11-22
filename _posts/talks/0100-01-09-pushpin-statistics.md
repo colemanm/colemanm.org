@@ -9,7 +9,7 @@ description: "This talk reviewed some of the experiences of Pushpin's developmen
 event: State of the Map US 2013
 eventlink: http://stateofthemap.us/
 tags:
-  - openstreetmap
+  - OpenStreetMap
   - mapping
   - mobile apps
 ---

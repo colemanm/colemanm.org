@@ -7,7 +7,7 @@ img: /images/post-images/teachosmp-mapathon.jpg
 categories: blog
 tags:
 - education
-- openstreetmap
+- OpenStreetMap
 ---
 
 I’ve hosted many OSM mapathons in the past, and today’s event with AGS and the Geo2050 conference was a huge success. It’s hard to create an engaging, productive environment that’s conducive to new mappers learning about OpenStreetMap. Today’s objective was to highlight how teachers can involve students in active work + contribution in a valuable context.

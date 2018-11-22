@@ -9,7 +9,7 @@ description: "This talk was from our first WhereCampTB event, to get our local m
 event: WhereCampTB 2012
 eventlink: http://wherecamptb.org/
 tags:
-- openstreetmap
+- OpenStreetMap
 - open data
 - community
 ---
