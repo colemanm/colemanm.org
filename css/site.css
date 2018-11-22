@@ -240,10 +240,15 @@ span.topic {
   margin: 2px 0;
 }
 
-.topics {
+.topics h1 { margin: 10px 0; }
+.topic {
   font-size: 0.75em;
   color: #aaa;
   margin: 0 auto 15px auto;
+}
+
+.tag-count {
+  font-size: 0.75em;
 }
 
 .page {
