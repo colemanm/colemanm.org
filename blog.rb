@@ -69,6 +69,18 @@ class Blog < Thor
     puts "Link '#{date}-#{slug}.md' created."
   end
 
+  desc 'generate_topics', 'Generate topics pages.'
+  def generate_topics
+    post_dir = '_posts/'
+    topics_dir = '_topics/'
+    files = Dir.glob(post_dir + '*.md')
+    all_topics = []
+    files.each do |f|
+      yaml = YAML.load_file(f)
+      puts yaml["tags"].count
+    end
+  end
+
   no_tasks do
     def generate_date(postdate)
       (postdate ? Time.parse(postdate) : Time.now).strftime('%F')
