@@ -2,7 +2,7 @@
 layout: post
 date: 2018-10-20
 title: "Weekend Reading: Terminals, Cryptography, and Products as Functions"
-description: ""
+description: "Terminals as interfaces, quantum cryptography, and products as mathematical functions."
 categories: blog
 tags:
 - links

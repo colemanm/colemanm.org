@@ -6,6 +6,8 @@ description: "Gil Scott-Heron live."
 categories: blog
 tags:
 - music
+- video
+- jazz
 ---
 
 {% include video.html id="kfy6ig4koPM" %}

@@ -7,6 +7,7 @@ categories: blog
 tags:
 - automated vehicles
 - iPad Pro
+- Apple
 - investing
 - business
 ---
