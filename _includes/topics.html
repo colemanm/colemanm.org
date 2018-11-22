@@ -1,8 +1,9 @@
 <div class="topic">
-    Topics:&nbsp;&nbsp;
-    {% for tag in page.tags %}
-      <span>
-        <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>&nbsp;&nbsp;
-      </span>
-    {% endfor %}
-  </div>
+Topics:&nbsp;&nbsp;
+<span>
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/topics/{{ tag_name | slugify: 'pretty' }}">{{ tag_name }}&nbsp;&nbsp;</a>
+  {% endfor %}
+</span>
+</div>
