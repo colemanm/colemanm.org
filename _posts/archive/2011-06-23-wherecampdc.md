@@ -5,8 +5,9 @@ title: "WhereCampDC"
 description: "Attended the inaugural WhereCampDC to talk maps."
 categories: blog
 tags:
-  - events
-  - maps
+- events
+- maps
+- open source
 ---
 
 We just returned from a fantastic weekend up in DC - first at the Ignite Spatial event on Friday night, then the WhereCampDC unconference on Saturday. Being the first event of it’s kind that I’ve attended (with the “barcamp” unconference session format), I thought I’d write up some thoughts and impressions from an amazing 2-day trip.

@@ -3,6 +3,10 @@ layout: post
 date: 2017-04-27
 title: "Weekly Links: Cartography's Future, Interactive Maps, and Building Moats"
 categories: blog
+tags:
+- cartography
+- maps
+- business
 ---
 
 ### 🚙 [Cartography in the Age of Autonomous Vehicles](https://www.justinobeirne.com/cartography-in-the-age-of-autonomous-vehicles)

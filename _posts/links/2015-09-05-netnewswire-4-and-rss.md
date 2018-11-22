@@ -2,15 +2,16 @@
 layout: link
 date: 2015-09-05
 title: "The Return of NetNewsWire"
-permalink: /post/netnewswire-4-and-rss/
 target: http://sixcolors.com/post/2015/09/return-of-the-netnewswire/
 description: "NetNewsWire 4.0 is out for iOS and Mac, and people are talking about RSS again."
 categories: blog
+tags:
+- apps
 ---
 
 [NetNewsWire 4.0](http://netnewswireapp.com/) just dropped for Mac and iOS, after two years in a beta. Dan Moren is skeptical:
 
->...the real question is whether an RSS reader is still software that people get worked up about. With the demise of longtime RSS staple Google Reader and the incursion of social networks and alternative news reading apps like Flipboard, Nuzzel, and soon Apple News, an RSS reader seems decidedly last decade.
+> ...the real question is whether an RSS reader is still software that people get worked up about. With the demise of longtime RSS staple Google Reader and the incursion of social networks and alternative news reading apps like Flipboard, Nuzzel, and soon Apple News, an RSS reader seems decidedly last decade.
 
 I started using NNW long ago, but only for a short while since Google Reader got good around that time (2008?). It was nice to have cached offline versions of articles on the desktop. I'm interested to check out what's different this time around. The screenshots look like a very stripped down and simplified reader interface.
 

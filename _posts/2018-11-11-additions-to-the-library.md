@@ -3,6 +3,7 @@ layout: post
 date: 2018-11-11
 title: "Additions to the Library"
 description: “The latest haul from Chamblin Bookmine in Jacksonville.”
+img: /images/post-images/chamblin-book-haul-1.jpg
 categories: blog
 tags:
 - books
@@ -20,4 +21,3 @@ As always during trips to Jacksonville, I made a visit to [Chamblin Bookmine](ht
 {% include image.html file="chamblin-book-haul-1.jpg" description="Latest in the library" caption="no" %}
 
 A few of these I've read (Sowell and Effinger’s _Budayeen_ trilogy), but wanted to add them to the library for future re-reads.
-

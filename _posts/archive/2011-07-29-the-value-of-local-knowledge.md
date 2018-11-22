@@ -7,6 +7,7 @@ categories: blog
 tags:
 - talks
 - human geography
+- open data
 ---
 
 <script async class="speakerdeck-embed" data-id="4efcdb997717a3004c00e02d" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>

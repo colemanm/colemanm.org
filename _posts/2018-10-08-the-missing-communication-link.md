@@ -4,6 +4,10 @@ date: 2018-10-08
 title: "The Missing Communication Link"
 description: "Reconsidering the value of Slack and live chat communication tools."
 categories: blog
+tags:
+- communication
+- work
+- business
 ---
 
 Slack grew huge on the idea that it would “replace email” and become the digital hub for your whole company. In some organizations (like ours), it certainly has, or has at least subsumed most all internal-only communication. Email still rules for long form official stuff. It’s booming into a multi-billion dollar valuation on its way to an IPO on this adoption wave. 

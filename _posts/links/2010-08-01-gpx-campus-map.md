@@ -7,12 +7,12 @@ img: /images/post-images/traverse_me.jpg
 target: http://www.gpsdrawing.com/maps/traverse-me.html
 categories: blog
 tags:
-  - maps
-  - GPS
+- maps
+- GPS
 ---
 
-![GPX map of campus](/images/post-images/traverse_me.jpg "GPX map of campus")
+{% include image-partial.html file="traverse-me.jpg" description="GPX map of campus" caption="no" width="350" %}
 
->The University of Warwick campus map was drawn on foot at 1:1 scale with 238 miles of GPS tracks walked over 17 days.
+> The University of Warwick campus map was drawn on foot at 1:1 scale with 238 miles of GPS tracks walked over 17 days.
 
 I love the compass rose, scale, and signature.

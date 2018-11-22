@@ -3,6 +3,11 @@ layout: post
 date: 2017-05-18
 title: "Weekly Links: LiDAR, WannaCry, and OSM Imagery"
 categories: blog
+tags:
+- security
+- satellite
+- imagery
+- data
 ---
 
 ### 🗺 [LiDAR Data for DC Available as an AWS Public Dataset](https://aws.amazon.com/blogs/publicsector/lidar-data-for-washington-dc-is-available-as-an-aws-public-dataset/)

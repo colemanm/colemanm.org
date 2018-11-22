@@ -4,6 +4,12 @@ date: 2018-09-11
 title: "A Product Origin Story"
 description: "We started building Fulcrum in 2011. 7 years in I look back at how we started and what's changed."
 categories: blog
+tags:
+- work
+- product development
+- product management
+- technology
+- Fulcrum
 ---
 
 Fulcrum, our SaaS product for field data collection, is coming up on its 7th birthday this year. We’ve come a long way: from a bootstrapped, barely-functional system at launch in 2011 to a platform with over 1,800 customers, healthy revenue, and a growing team expanding it to ever larger clients around the world. I thought I’d step back and recall its origins from a product management perspective.

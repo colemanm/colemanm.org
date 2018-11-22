@@ -4,6 +4,8 @@ date: 2018-10-05
 title: "Breakthrough and Follow-through"
 description: "The importance of follow-through innovation."
 categories: blog
+tags:
+- business
 ---
 
 On a [recent episode](https://fs.blog/atul-gawande/) of the Knowledge Project podcast, Dr. Atul Gawande compared the relative importance “breakthrough” versus “follow through” innovation:

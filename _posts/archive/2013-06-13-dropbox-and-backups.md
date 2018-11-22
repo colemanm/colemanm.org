@@ -3,13 +3,15 @@ layout: post
 date: 2013-06-13 15:23:33 EST
 title: "Dropbox and Backups"
 description: "I use Dropbox as the nerve center for all of my digital goods, keeping data, configurations, histories, log files, and anything else I need access to centralized and available from my Mac or iOS devices. Here are a few of my daily tools or information trails I want to keep synced up, so anything here can be a few clicks or a search away."
-categories:
-  - blog
-  - productivity
-  - backups
+categories: blog
+tags:
+- productivity
+- apps
+- workflow
+- security
 ---
 
-I use [Dropbox](http://dropbox.com/) as the nerve center for all of my digital goods, keeping data, configurations, histories, log files, and anything else I need access to centralized and available from my Mac or iOS devices.
+I use [Dropbox](https://dropbox.com/) as the nerve center for all of my digital goods, keeping data, configurations, histories, log files, and anything else I need access to centralized and available from my Mac or iOS devices.
 
 Here are a few of my daily tools or information trails I want to keep synced up, so anything here can be a few clicks or a search away:
 
@@ -20,9 +22,9 @@ Here are a few of my daily tools or information trails I want to keep synced up,
 
 ### Chat Archiving
 
-I use [Messages](http://en.wikipedia.org/wiki/Messages_(application)) on the desktop for all chat conversations with my Jabber and Google accounts. I access the transcript history daily to find things I told people in chat conversations, look up links I sent, and other things. So much of my communication happens via instant messaging that I rely on it to keep logs of interactions (albeit securely).
+I use [Messages](https://en.wikipedia.org/wiki/Messages_(application)) on the desktop for all chat conversations with my Jabber and Google accounts. I access the transcript history daily to find things I told people in chat conversations, look up links I sent, and other things. So much of my communication happens via instant messaging that I rely on it to keep logs of interactions (albeit securely).
 
-Backing up chat transcripts is simple with [symlinks](http://en.wikipedia.org/wiki/Symbolic_link). For me, I want all chat logs to be archived into a Dropbox directory continuously, so I don't have to remember to back them up. Messages stores its transcript files here:
+Backing up chat transcripts is simple with [symlinks](https://en.wikipedia.org/wiki/Symbolic_link). For me, I want all chat logs to be archived into a Dropbox directory continuously, so I don't have to remember to back them up. Messages stores its transcript files here:
 
     ~/Library/Messages/Archive/
 

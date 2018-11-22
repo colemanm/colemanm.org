@@ -4,10 +4,12 @@ date: 2015-11-10
 title: "Task Capture with Siri & OmniFocus"
 categories: blog
 tags:
-  - productivity
+- productivity
+- Apple
+- workflow
 ---
 
-I've [talked before](/post/rediscovering-gtd/) about the concept of "ubiquitous capture" and how achieving a system where you never lose an item is an ideal for a seamless GTD setup. No matter what task management tool you use of the hundreds of options, both automatic or analog, there are still moments when a fleeting piece of info we want to remember &mdash; either something new to do or an idea or breakthrough on an existing project task &mdash; slips through the cracks. The best system for managing all of your collective "stuff" is any that you trust to be the go-to place for all the things that require your attention.
+I've [talked before]({{ site.url }}/post/rediscovering-gtd/) about the concept of "ubiquitous capture" and how achieving a system where you never lose an item is an ideal for a seamless GTD setup. No matter what task management tool you use of the hundreds of options, both automatic or analog, there are still moments when a fleeting piece of info we want to remember &mdash; either something new to do or an idea or breakthrough on an existing project task &mdash; slips through the cracks. The best system for managing all of your collective "stuff" is any that you trust to be the go-to place for all the things that require your attention.
 
 In any GTD-esque system, the two core concepts are **capture** and **review**:
 

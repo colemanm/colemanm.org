@@ -4,6 +4,11 @@ date: 2018-10-13
 title: "Weekend Reading: Geocomputation, Customers, and Linear Growth"
 description: “Geocomputation with R, listening to customers, and the value of linear growth.”
 categories: blog
+tags:
+- statistics
+- R
+- product development
+- business
 ---
 
 ### 🎛 [Geocomputation with R](http://geocompr.robinlovelace.net/) 

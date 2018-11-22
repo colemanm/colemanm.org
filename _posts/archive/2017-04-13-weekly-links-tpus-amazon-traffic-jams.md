@@ -3,6 +3,11 @@ layout: post
 date: 2017-04-13
 title: "Weekly Links: Tensor Processing, Amazon, and Preventing Traffic Jams"
 categories: blog
+tags:
+- Google
+- machine learning
+- Amazon
+- economics
 ---
 
 ### [Google's "Tensor Processing Unit"](https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/) 💻

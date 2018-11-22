@@ -1,16 +1,20 @@
 ---
 layout: post
-date: 2015-03-27 12:22:00 EST
+date: 2015-03-27
 title: "An Open Database of Addresses"
 description: "One of the coolest open source / open data projects happening right now is OpenAddresses, a growing group effort assembling around the problem of geocoding, the process of turning human-friendly addresses into spatial coordinates. Here's a quick overview of the project."
 categories: blog
+tags:
+- addresses
+- geocoding
+- open data
 ---
 
 One of the coolest open source / open data projects happening right now is [OpenAddresses](http://openaddresses.io/), a growing group effort assembling around the problem of [geocoding](http://en.wikipedia.org/wiki/Geocoding), the process of turning human-friendly addresses into spatial coordinates (and its [reverse](http://en.wikipedia.org/wiki/Reverse_geocoding)). I’ve been following the project for close to a year now, but it seems to have really gained momentum in the last 6 months.
 
 The project was started last year and is happening over [on GitHub](https://github.com/openaddresses/). It now has over 60 contributors, with over 100 million aggregated address points from 20 countries, and growing by the day. There’s also a live-updating [data repository](http://data.openaddresses.io/) where you can download the entire OpenAddresses dataset online&mdash;it’s currently at about 1.1 gigabytes of address points.
 
-![Pinellas addresses](/images/post-images/pinellas-addresses.png)
+{% include image.html file="pinellas-addresses.png" description="Pinellas addresses" caption="no" %}
 
 Here’s how it works:
 
@@ -26,7 +30,7 @@ There are existing [APIs](https://developers.google.com/maps/documentation/geoco
 
 There is the [OpenStreetMap](http://openstreetmap.org/) project, the free and open map database for the globe, which has tons of potential as a resource for geocoding. By a quick estimate, the OSM database contains something like 50 million specific address points for the globe. But its [license](http://wiki.openstreetmap.org/wiki/Open_Database_License) is not compatible with most commercial requirements for republication of data, so developers looking for an open resource have had to look elsewhere. There’s still no good worldwide, open resource for address geocoding that app developers and mappers can use with no strings attached. _(OSM’s license and its “friendliness” for commercial use has a long history of debate and argument in the community. It’s complicated. I’m not a lawyer.)_
 
-![Address data is harder than it looks](/images/post-images/parcel-map.jpg)
+{% include image.html file="parcel-map.jpg" description="Address data harder than it looks" caption="no" %}
 
 ## Simple data, big problem
 
@@ -38,7 +42,7 @@ In the US, for example, one of the biggest challenges is that there isn’t a si
 
 To me this is where the OpenAddresses model gets interesting. The project is bringing a powerful capability for building a massive open dataset, a distributed network of contributors, and focusing their resources around a common goal. Creating a central place around which the [contributors](https://github.com/openaddresses/openaddresses/graphs/contributors) can mobilize and gradually accrete data into a larger and larger whole, that’s the unique angle to this project. Anyone with enough time and energy can go chase down hundreds of datasets, but it’s much easier when a group with a defined mission can divide and conquer — intersecting the open source contribution model with a data production line. It’s not just a platform for aggregating this data into a single database, it’s a petitioning system to start the process of tracking down the data, and to [advocate](https://github.com/openaddresses/openaddresses/blob/master/OUTREACH_EXAMPLE.md) for it to be made open if it currently isn’t publicly available.
 
-![Current US status](/images/post-images/us-status.png)
+{% include image.html file="us-status.png" description="OpenAddresses US status" caption="no" %}
 
 ## Building the glue
 

@@ -4,6 +4,7 @@ date: 2018-11-07
 title: "Earth's Wonders Like You've Never Seen Them"
 target: https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56
 description: "Amazing oblique satellite photos from Planet."
+img: /images/post-images/planet-doha-pearl.jpg
 categories: blog
 tags:
 - satellite

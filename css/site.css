@@ -124,6 +124,10 @@ img.bordered { border: 1px solid #ddd; }
   text-decoration: none;
 }
 
+span.topic {
+  color: #999;
+}
+
 
 .post {
   margin: 8px 0 2em 0;
@@ -234,6 +238,17 @@ img.bordered { border: 1px solid #ddd; }
 }
 .post .footnotes p {
   margin: 2px 0;
+}
+
+.topics h1 { margin: 10px 0; }
+.topic {
+  font-size: 0.75em;
+  color: #aaa;
+  margin: 0 auto 15px auto;
+}
+
+.tag-count {
+  font-size: 0.75em;
 }
 
 .page {

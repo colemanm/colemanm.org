@@ -4,6 +4,9 @@ date: 2018-02-01
 title: "The Power of the SaaS Business Model"
 description: "Some thoughts on SaaS business model advantages, aligning incentives, and predictable revenue."
 categories: blog
+tags:
+- business
+- saas
 ---
 
 We’re about to head to [SaaStr Annual](https://www.saastrannual.com/) again this year, an annual gathering of companies all focused on the same challenges of how to build and grow SaaS businesses. I’ve had some thoughts on SaaS business models that I wanted write down as they’ve matured over the years of building [a SaaS product](http://www.fulcrumapp.com/).

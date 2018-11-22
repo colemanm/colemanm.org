@@ -4,11 +4,11 @@ date: 2015-12-13
 title: "Writing Workflow"
 categories: blog
 tags:
-  - productivity
-  - writing
+- productivity
+- writing
 ---
 
-I write a ton on the computer, whether it's for our [product blog](http://www.fulcrumapp.com/blog), internal documents, product [help guides](http://www.fulcrumapp.com/help), this blog (rarely), or many other things, I tend to stick to the same set of tools for different pieces of my writing workflow.
+I write a ton on the computer, whether it's for our [product blog](https://www.fulcrumapp.com/blog), internal documents, product [help guides](https://www.fulcrumapp.com/help), this blog (rarely), or many other things, I tend to stick to the same set of tools for different pieces of my writing workflow.
 
 Everything I write, even things like meeting notes only for myself, I write in [Markdown](https://en.wikipedia.org/wiki/Markdown). It's essentially muscle memory at this point. I write for [Jekyll](http://jekyllrb.com/)-based websites quite a bit, I write issues and wiki pages on GitHub, I keep my personal journal in [Day One](http://dayoneapp.com/), and several other places. All of them accept Markdown as input, so I've just formed a habit over the years where I write everything that way. So when I paste an unordered list from a note I made somewhere into a web document, it's already formatted. If the destination for a block of content I wrote doesn't work with Markdown, most tools have a "copy plain text" option that I'll use if I want the raw words to format inside of another application (_*cough*_ Microsoft Word _*cough*_).
 
@@ -36,6 +36,6 @@ Many people like Evernote and other cloud-based services for dealing with notes,
 
 One thing that my personal workflow doesn't support directly (or at least I haven't found a way) is on-the-fly collaborative editing. Most of the content I write is for myself, or at least doesn't need to have other editors for most of its existence until it's ready, but maybe there are tools out there I've not yet discovered. Currently for anything that needs to be collaborative from the get go I would use Google Docs, since it's unmatched when it comes to real-time simultaneous multiuser editing. Other than that, anything that happens for publishing via GitHub already can be collaborated on asynchronously using pull requests and commit references, which our team uses constantly.
 
-If readers have any suggestions of other methods for augmenting things, particularly collaborative editing a la Google Docs, ping me on [Twitter](http://twitter.com/colemanm), I'd love to find more options to make my flow even better.
+If readers have any suggestions of other methods for augmenting things, particularly collaborative editing a la Google Docs, ping me on [Twitter](https://twitter.com/colemanm), I'd love to find more options to make my flow even better.
 
 [^b2w25]: [This episode of Back to Work](http://5by5.tv/b2w/25) has an excellent discussion of the line between distraction and productivity when it comes to trying new tools.

@@ -4,6 +4,9 @@ date: 2018-10-15
 title: "Gary Neville on Mourinho"
 description: “Former United right back calls out the club for wanting to sack Mourinho.”
 categories: blog
+tags:
+- sports
+- soccer
 ---
 
 Gary Neville’s thoughts on the rumors of a Jose Mourinho firing:

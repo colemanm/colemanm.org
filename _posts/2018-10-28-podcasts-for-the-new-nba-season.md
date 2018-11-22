@@ -6,7 +6,7 @@ description: "A rundown of podcasts I'm back onto with the start of the new NBA 
 categories: blog
 tags:
 - basketball
-- nba
+- NBA
 - podcasts
 ---
 

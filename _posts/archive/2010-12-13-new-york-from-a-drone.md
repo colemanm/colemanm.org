@@ -9,9 +9,7 @@ tags:
 - New York City
 ---
 
-<div class="embed">
-<iframe title="NYC Drone Flight" src="http://www.youtube.com/embed/M9cSxEqKQ78?rel=0" frameborder="0">NYC Drone Flight</iframe>
-</div>
+{% include video.html id="M9cSxEqKQ78" %}
 
 Someone attached HD video cameras to an RC airplane and flew it all around the urban environments of New York City.
 

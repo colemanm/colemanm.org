@@ -3,6 +3,11 @@ layout: post
 date: 2017-11-29
 title: "Recent Links: Mapping Air Quality, the Problem with Agile, Indie Jazz"
 categories: blog
+tags:
+- maps
+- product development
+- music
+- jazz
 ---
 
 ### ⏱ [Mapping Street-Level Air Quality in California](https://blog.google/products/maps/getting-hyper-local-mapping-street-level-air-quality-across-california/)

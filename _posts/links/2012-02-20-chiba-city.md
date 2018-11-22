@@ -6,9 +6,10 @@ description: "Chiba City concept art."
 target: http://surrogate-self.com/
 categories: blog
 tags:
-  - science fiction
+- science fiction
+- cities
 ---
 
-![Chiba City](/images/post-images/chiba-city.jpg "Chiba City")
+{% include image.html file="chiba-city.jpg" description="Chiba City" caption="no" %}
 
 Great Chiba City concept art for _Neuromancer_.

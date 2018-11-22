@@ -3,6 +3,10 @@ layout: post
 date: 2017-03-30
 title: "Weekly Links: AI, APFS, and MBA Mondays"
 categories: blog
+tags:
+- artificial intelligence
+- Apple
+- business
 ---
 
 _Trying out a new thing here to document 3 links that caught my interest over the past week. Sometimes they might be related, sometimes not. It'll be an experiment to journal the things I was reading at the time, for posterity._

@@ -2,10 +2,11 @@
 layout: link
 date: 2015-09-11
 title: "musicForProgramming();"
-permalink: /post/musicforprogramming/
 target: http://musicforprogramming.net/
 description: "Ambient mixes for listening while concentrating."
 categories: blog
+tags:
+- music
 ---
 
 Music for Programming is a series of ambient audio mixes curated by [@datassette](https://twitter.com/datassette/), distributed as a [podcast](http://itunes.apple.com/us/podcast/music-for-programming/id500565620), but also downloadable mp3s.

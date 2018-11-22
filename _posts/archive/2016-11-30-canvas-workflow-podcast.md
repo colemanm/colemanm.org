@@ -6,8 +6,9 @@ description: "Federico Vittici and Fraser Spiers, iPad productivity gurus, cover
 img:
 categories: blog
 tags:
-  - apps
-  - workflow
+- apps
+- workflow
+- podcasts
 ---
 
 If you’re a podcast listener and an iOS user of productivity apps, you should subscribe to the [Canvas](https://www.relay.fm/canvas) podcast. Hosted by Federico Vittici (of [MacStories](http://www.macstories.net/)) and Fraser Spiers, these guys know all there is about making the iPad into a tool for getting real work done.

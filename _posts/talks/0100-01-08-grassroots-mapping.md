@@ -9,7 +9,7 @@ description: "Since OpenStreetMap is growing in leaps and bounds, I wanted to ta
 event: Ignite Tampa 2013
 eventlink: http://www.ignitetampa.org/
 tags:
-  - openstreetmap
+  - OpenStreetMap
   - mapping
 ---
 

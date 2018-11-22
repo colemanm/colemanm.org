@@ -3,11 +3,12 @@ layout: post
 date: 2016-04-15
 title: "Nine Months"
 description: "On the first 9 months being a dad."
-img:
+img: /images/post-images/elyse-and-dahli.jpg
 categories: blog
 tags:
-  - parenting
-  - family
+- parenting
+- family
+- kids
 ---
 
 I haven't written anything yet about becoming a dad. Let this be the first post of (hopefully) many chronicling the experience.
@@ -18,7 +19,7 @@ When we decided to try for a baby I was excited, as excited as you can be when y
 
 To be sure, the hard parts are hard. The conscious decision to have a child should mean you're okay with forfeiting your personal time, some or all of your sleep schedule, and adding a pile of constant worry for the health and safety of someone who needs you 24/7. Knowing all those things ahead of time doesn't help much in preparation; it's still hard. It takes incredible energy to commit to doing things right. I'd also add that the definition of _what's right_ is completely unclear at points, no matter what sources of advice you have. Should the baby be making that sound? Why is she crying differently now? She sounds raspy... what should we do? These moments happen all the time, especially in the first few months, and you have to get good at rolling with it and figuring it out. Colette and I have always relied on self-sufficiency and solved our own problems and still, not easy.
 
-![Elyse and her cousin]({{ site.url }}/images/post-images/elyse-and-dahli.jpg)
+{% include image.html file="elyse-and-dahli.jpg" description="Elyse and her cousin" caption="no" %}
 
 With all the strain a baby puts on various parts of your life, there are, of course, the good parts. And the good parts are _really_ good.
 

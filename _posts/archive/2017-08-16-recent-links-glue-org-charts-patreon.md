@@ -3,6 +3,10 @@ layout: post
 date: 2017-08-16
 title: "Recent Links: Glue, Org Charts, and Patreon’s Growth"
 categories: blog
+tags:
+- workflow
+- Amazon
+- business
 ---
 
 ### ⚗️ [Amazon Announces AWS Glue](https://aws.amazon.com/glue/ "Amazon announces Glue")

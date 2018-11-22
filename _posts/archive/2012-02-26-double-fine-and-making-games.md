@@ -1,14 +1,15 @@
 ---
 layout: post
 date: 2012-02-26 08:00:00 EST
-title: "Double Fine &amp; Making Games"
+title: "Double Fine: Making Games"
 description: "Ron Gilbert and Tim Schafer have a conversation about adventure games."
 categories: blog
 tags:
-  - games
+- games
+- video
 ---
 
-<iframe title="Double Fine" width="596" height="335" src="https://www.youtube.com/embed/re_LWmRJK-g?rel=0" frameborder="0" allowfullscreen></iframe>
+{% include video.html id="re_LWmRJK-g" %}
 
 Ron Gilbert and Tim Schafer have a conversation about adventure games.
 

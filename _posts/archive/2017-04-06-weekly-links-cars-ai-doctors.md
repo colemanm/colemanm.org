@@ -3,6 +3,10 @@ layout: post
 date: 2017-04-06
 title: "Weekly Links: Cars, AI Doctors, and the Mac Pro's Future"
 categories: blog
+tags:
+- automated vehicles
+- artificial intelligence
+- Apple
 ---
 
 ### [Cars and Second Order Consequences](http://ben-evans.com/benedictevans/2017/3/20/cars-and-second-order-consequences) 🚙

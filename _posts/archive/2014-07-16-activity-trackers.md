@@ -2,10 +2,13 @@
 layout: post
 date: 2014-07-16 16:53:54 EST
 title: "A Comparison of Activity Trackers"
-permalink: /post/activity-trackers/
 description: "A comparison of activity and motion trackers: RunKeeper, Strava, MapMyRun, and Moves."
 img: /images/post-images/activity-trackers.jpg
 categories: blog
+tags:
+- health
+- maps
+- apps
 css: motion-trackers.css
 maps: true
 ---
@@ -14,8 +17,8 @@ The concept of activity tracking is getting ever closer to ubiquitous nowadays w
 
 I'm a casual runner and cyclist, and started testing a handful of fitness tracker mobile apps to map my activity. Since I'm a stats and data junkie, I did some extensive experimental testing with these four apps to size up the advantages of each in terms of technical capability, as well as the feature-set of services provided by each within their online social systems:
 
-* [RunKeeper](http://runkeeper.com/)
-* [Strava](http://www.strava.com/)
+* [RunKeeper](https://runkeeper.com/)
+* [Strava](https://www.strava.com/)
 * [MapMyRun](http://www.mapmyrun.com/)
 * [Moves](http://www.moves-app.com/)
 
@@ -29,7 +32,7 @@ Each of these apps has its focus, but they all promise the same basic set of fea
 
 1. Allow user to **log an activity** of specific type &mdash; running, walking, cycling, hiking, kayaking, skiing, etc.
 2. **Calculate metrics** about the activity including time, distance, map location (in the form of a GPS track), speed, pace, calories, elevation, etc.
-3. **Share** your activities with friends, and join a social network of other active people (including [professional athletes](http://www.strava.com/activities/165962851))
+3. **Share** your activities with friends, and join a social network of other active people (including [professional athletes](https://www.strava.com/activities/165962851))
 4. **Compete** against others in various ways
 5. **Set goals** and measure your progress toward said goals
 
@@ -39,7 +42,7 @@ Moves is a different style of app. It's a persistent motion tracker that runs co
 
 I'm an iPhone user, and iOS has matured to the point that serious, veteran app developers have ironed out most of the annoyances and kinks of basic app design concepts. Most of the conventions around app UI have arrived at general consensus in presentation, using a couple of well-known paradigms for structuring the user interface. Both RunKeeper and Strava use the home-row tab button UI layout, with standard "5-button" options list across the bottom. MapMyRun uses the sidebar/tray strategy to house its options, like most of Google's iOS apps.
 
-![Activity trackers](/images/post-images/activity-apps.jpg)
+{% include image.html file="activity-apps.jpg" description="Activity trackers" caption="no" %}
 
 The basic interfaces of all three of these apps are nice. RunKeeper and Strava are almost exactly level on features on the mobile side. They both have a basic social presence or feed of your friends' activity, activity type selectors, and big "Start" buttons to get going with minimal fiddling. MMR's look is a little [cluttered](https://cloudup.com/co0J-H_iN0t) for me, but it does include other functions on the mobile side like weight entry and nutrition logging.
 
@@ -59,16 +62,16 @@ Each service offers a premium paid tier with additional features. Strava and Run
 
 ## Data Quality / Maps
 
-My primary interest in analyzing these services was to check out the quality of the GPS data logging. I ran all three of them on the same ride through [Snell Isle](http://en.wikipedia.org/wiki/Snell_Isle) so I could overlay them together and see what the variance was in location accuracy. Even though iOS is ultimately logging the same data from the same sensor, and offering that up to the applications via the [Core Location](https://developer.apple.com/library/ios/documentation/userexperience/Conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html) API, the data shows that all three apps must be processing and storing the location values differently. Here's a map showing the GPS track lines recorded in each &mdash; Strava, MapMyRun, and RunKeeper. Click the buttons below the map to toggle them on and off to see how the geometry compares. If you zoom in close, you'll see the lines stray apart in some areas:
+My primary interest in analyzing these services was to check out the quality of the GPS data logging. I ran all three of them on the same ride through [Snell Isle](https://en.wikipedia.org/wiki/Snell_Isle) so I could overlay them together and see what the variance was in location accuracy. Even though iOS is ultimately logging the same data from the same sensor, and offering that up to the applications via the [Core Location](https://developer.apple.com/library/ios/documentation/userexperience/Conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html) API, the data shows that all three apps must be processing and storing the location values differently. Here's a map showing the GPS track lines recorded in each &mdash; Strava, MapMyRun, and RunKeeper. Click the buttons below the map to toggle them on and off to see how the geometry compares. If you zoom in close, you'll see the lines stray apart in some areas:
 
 <div id='map'></div>
 <div id='menu-ui' class='menu-ui'></div>
 
-Each app performs roughly the same in terms of location data quality. The small variances in precision seem to trend together for the most part, which makes sense. When the signal gets bad, or the sky is slightly occluded, the Location APIs are going to return worse data for all running applications. One noticable difference between the track geometry (in this example, at least) is that the MapMyRun track alignment tends to vary in different ways than the other two. It looks like there might be some sort of server-side [smoothing or splining](http://gis.stackexchange.com/questions/24827/how-to-smooth-the-polygons-in-a-contour-map) going on to make the data look better after processing, but it doesn't dramatically change the accuracy of the data overall.
+Each app performs roughly the same in terms of location data quality. The small variances in precision seem to trend together for the most part, which makes sense. When the signal gets bad, or the sky is slightly occluded, the Location APIs are going to return worse data for all running applications. One noticable difference between the track geometry (in this example, at least) is that the MapMyRun track alignment tends to vary in different ways than the other two. It looks like there might be some sort of server-side [smoothing or splining](https://gis.stackexchange.com/questions/24827/how-to-smooth-the-polygons-in-a-contour-map) going on to make the data look better after processing, but it doesn't dramatically change the accuracy of the data overall.
 
-I did notice that using these apps without cellular data enabled results in _severe_ degradation of quality, I think due to the fact that the [Assisted GPS](http://en.wikipedia.org/wiki/Assisted_GPS) services are unavailable, forcing the phone to rely on a raw GPS satellite fix. When using any location logging app without cellular data switched on, the device has to take longer to get a position lock. A couple of runs from my Europe trip exhibited this, like my run [along the Thames](http://www.strava.com/activities/143259424) in London, and one in [Lucerne](http://www.strava.com/activities/145669617).
+I did notice that using these apps without cellular data enabled results in _severe_ degradation of quality, I think due to the fact that the [Assisted GPS](https://en.wikipedia.org/wiki/Assisted_GPS) services are unavailable, forcing the phone to rely on a raw GPS satellite fix. When using any location logging app without cellular data switched on, the device has to take longer to get a position lock. A couple of runs from my Europe trip exhibited this, like my run [along the Thames](https://www.strava.com/activities/143259424) in London, and one in [Lucerne](https://www.strava.com/activities/145669617).
 
-![Run on the Thames](/images/post-images/thames-run.jpg)
+{% include image.html file="thames-run.jpg" description="Run on the Thames" caption="no" %}
 
 Since these motion trackers rely on the GPS track and time series data for calculating total distance (which is obviously way off with this much linear error), you end up with massively incorrect pace and calorie-burning metrics. This jagged-looking run activity in London reported itself to be 4.7 miles, and in reality it was only about 3.5. Soon I'd like to pair my iPhone up with an external GPS device I've been [testing out](http://www.fulcrumapp.com/blog/gps-accuracy-experimentation/) to see what the improvement in accuracy looks like.
 
@@ -76,7 +79,7 @@ If you want to export the raw data straight from the web services, Strava and Ru
 
 The location data captured by the Moves app works a little differently. It splits your persistent movement activity up into day and week views, with totals of steps taken and calories burned, by type of activity. It does some cool auto-detection of activity type to try and classify car transport, cycling, running, and walking automatically. Because it's always running in the background, though, the location data isn't quite as granular as from the other three applications, probably due to less frequent logging using the location APIs.
 
-![Moves app examples](/images/post-images/moves-app-screenshots.jpg)
+{% include image.html file="moves-app-screenshots.jpg" description="Moves app examples" caption="no" %}
 
 One caveat important to note is that Moves was [acquired by Facebook](http://www.theverge.com/2014/5/6/5688334/moves-app-will-share-user-data-with-facebook) back in May. That may turn a lot of people off to the idea of uploading their persistent motion tracking information to the Borg.
 

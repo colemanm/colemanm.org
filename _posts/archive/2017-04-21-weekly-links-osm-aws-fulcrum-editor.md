@@ -3,6 +3,12 @@ layout: post
 date: 2017-04-21
 title: "Weekly Links: OSM on AWS, Fulcrum Editor, & Real-time Drone Maps"
 categories: blog
+tags:
+- OpenStreetMap
+- maps
+- data
+- Fulcrum
+- drones
 ---
 
 ### [Querying OpenStreetMap with Amazon Athena](https://aws.amazon.com/blogs/big-data/querying-openstreetmap-with-amazon-athena/) 🗺

@@ -6,14 +6,15 @@ description: "About the overall security of Touch ID for iOS, and using it in 1P
 img: /images/post-images/touch-id.png
 categories: blog
 tags:
-  - security
+- security
+- apps
 ---
 
 I recently wrote [a review](http://www.fulcrumapp.com/blog/review-staying-secure-with-1password/) on the Fulcrum blog for one of my favorite pieces of software, [1Password](https://agilebits.com/onepassword). It's a password management app to help you keep better organized with your hundreds of passwords, codes, and secure data that you typically have laying around in emails, documents, and post-it notes on your desk[^gobuyit].
 
 I'm a heavy user of 1Password on my iPhone to look up accounts while I'm mobile. Because 1Password vault security is only as secure as your [master password](https://support.1password.com/strong-master-password/), the natural tendency is to have a long, complex, intricate passphrase to type to unlock the vault. And from the iPhone, you want your vault to _re-lock_ pretty rapidly so the door to your digital safe isn't left swinging open while your phone's sitting on the table. The net result is having to constantly type a hard-to-type passphrase on a _hard-to-type-on_ device. No good and no fun.
 
-![Touch ID](/images/post-images/touch-id.png "Touch ID for iOS")
+{% include image.html file="touch-id.png" description="Touch ID for iOS" caption="no" %}
 
 My problems were solved a few weeks ago I finally enabled the Touch ID functionality in 1Password 5 for accessing your vault using your fingerprint, versus typing the 30-character password[^1password5]. After using it like this for a few days, it seemed less secure to me, since it wasn't even requiring my impressively-complicated password to get in. I dug into some of the documentation to find out how secure the implementation of Touch ID authorization is in 1Password, and how Touch ID works in iOS.
 

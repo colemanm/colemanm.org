@@ -9,13 +9,13 @@ categories: blog
 tags:
 - maps
 - cartography
-- apple maps
-- google maps
+- Apple Maps
+- Google Maps
 ---
 
 Another great cartographic analysis from Justin O'Beirne, this time on the latest updates to Apple Maps. Their new data and styling covers mostly northern California, and has some gorgeous computer-extracted natural land cover, derived from satellite imagery. The golf courses look particularly impressive:
 
-![Apple Maps new design]({{ site.url }}/images/post-images/apple-maps-golf-courses.jpg "Apple Maps new design")
+{% include image.html file="apple-maps-golf-courses.jpg" description="Apple Maps new design" caption="no" %}
 
 >But even ignoring Apple’s competitiveness with Google, Apple’s inferior place database also impacts its own stated ambitions in augmented reality (AR) and autonomous vehicles (AVs)—both of which heavily rely on accurate and comprehensive place information.
 

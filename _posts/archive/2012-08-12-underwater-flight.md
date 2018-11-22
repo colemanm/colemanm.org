@@ -4,14 +4,14 @@ date: 2012-08-12 14:22:25 EST
 title: "Underwater Flight"
 description: "Graham Hawkes wants to fly beneath the waves."
 img: /images/post-images/deep-flight-challenger.jpg
-categories:
-  - blog
-  - science
+categories: blog
+tags:
+- science
 ---
 
-Graham Hawkes has a [fascinating approach](http://www.ted.com/talks/graham_hawkes_flies_through_the_ocean.html) to undersea research and exploration. Rather than focusing on deep ocean submersibles (which he's built [plenty](http://en.wikipedia.org/wiki/File:WASP_at_the_OSEL_Testing_tank_Gt_Yarmouth,_UK.JPG) [of](http://en.wikipedia.org/wiki/File:Mantis_at_the_OSEL_Testing_tank_Gt_Yarmouth,_UK.jpg)), his [company](http://www.deepflight.com/) is currently building underwater airplanes, craft that fly through the water with hydrodynamic wings and thrusters, capable of flying alongside dolphins and manta rays. Hawkes is obsessed with the ocean, and is fond of saying to space explorers that their "rockets are pointing in the wrong direction". It's amazing how little is known about the ocean floor, and how relatively little funding we roll into hydro-exploration.
+Graham Hawkes has a [fascinating approach](http://www.ted.com/talks/graham_hawkes_flies_through_the_ocean.html) to undersea research and exploration. Rather than focusing on deep ocean submersibles (which he's built [plenty](https://en.wikipedia.org/wiki/File:WASP_at_the_OSEL_Testing_tank_Gt_Yarmouth,_UK.JPG) [of](https://en.wikipedia.org/wiki/File:Mantis_at_the_OSEL_Testing_tank_Gt_Yarmouth,_UK.jpg)), his [company](http://www.deepflight.com/) is currently building underwater airplanes, craft that fly through the water with hydrodynamic wings and thrusters, capable of flying alongside dolphins and manta rays. Hawkes is obsessed with the ocean, and is fond of saying to space explorers that their "rockets are pointing in the wrong direction". It's amazing how little is known about the ocean floor, and how relatively little funding we roll into hydro-exploration.
 
-![Deep Flight Challenger](/images/post-images/deep-flight-challenger.jpg "Deep Flight Challenger")
+{% include image.html file="deep-flight-challenger.jpg" description="Deep Flight Challenger" caption="no" %}
 
 The R&D work Hawkes is doing is amazing, focusing more effort on underwater flight than deep ocean dives. While they have built craft for the purpose of superdeep dives, that doesn't seem to be Hawkes' passion. They've designed and built several craft to study hydrodynamics, provide research platforms for scientists, and modes of transportation for recreation or studying the seafloor. The [Merlin](https://en.wikipedia.org/wiki/DeepFlight_Merlin) and the [Challenger](https://en.wikipedia.org/wiki/DeepFlight_Challenger) are two vessels funded by Richard Branson, under the moniker _[Virgin Oceanic](http://www.virginoceanic.com/)_.
 
