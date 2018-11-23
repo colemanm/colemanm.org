@@ -73,12 +73,14 @@ class Blog < Thor
   def generate_topics
     post_dir = '_posts/'
     topics_dir = '_topics/'
-    files = Dir.glob(post_dir + '*.md')
+    files = Dir.glob(post_dir + '**/*.md')
     all_topics = []
     files.each do |f|
       yaml = YAML.load_file(f)
-      puts yaml["tags"].count
+      all_topics << yaml["tags"]
     end
+    all_topics = all_topics.sort
+    puts all_topics
   end
 
   no_tasks do
