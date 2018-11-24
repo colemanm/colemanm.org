@@ -5,6 +5,7 @@ title: "Weekend Reading: Terminals, Cryptography, and Products as Functions"
 description: "Terminals as interfaces, quantum cryptography, and products as mathematical functions."
 categories: blog
 tags:
+- weekend reading
 - links
 - cryptography
 - products

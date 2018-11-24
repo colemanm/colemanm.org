@@ -5,6 +5,7 @@ title: "Weekend Reading: CAC, Alexander Hamilton, and Flow"
 description: “Intercom on CAC, Hamilton's Legacy, and Microsoft's Flow service.”
 categories: blog
 tags:
+- weekend reading
 - saas
 - business
 - government

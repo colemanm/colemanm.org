@@ -5,6 +5,7 @@ title: "Weekend Reading: Forecasting, Raster CV, Free University Courses"
 description: "Forecasting, raster analysis, and online courses."
 categories: blog
 tags:
+- weekend reading
 - links
 - education
 - satellite

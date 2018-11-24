@@ -5,6 +5,7 @@ title: "Weekend Reading: Wind Turbines, Bruce Sterling, and Economic Ideas"
 description: "The US Wind Turbine Database, an interview with Bruce Sterling, and EconTalk's Russ Roberts on economic history."
 categories: blog
 tags:
+- weekend reading
 - energy
 - interviews
 - economics

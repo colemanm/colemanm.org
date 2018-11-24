@@ -5,6 +5,7 @@ title: "Weekend Reading: Geocomputation, Customers, and Linear Growth"
 description: “Geocomputation with R, listening to customers, and the value of linear growth.”
 categories: blog
 tags:
+- weekend reading
 - statistics
 - R
 - product development

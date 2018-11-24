@@ -5,6 +5,7 @@ title: "Weekend Reading: AV-Human Interaction, iPad Pro, and Buying Out Investor
 description: “Ford's self-driving car efforts, Buffer buying out investors, and thoughts on the new iPad Pro.”
 categories: blog
 tags:
+- weekend reading
 - automated vehicles
 - iPad
 - Apple
