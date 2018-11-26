@@ -5,6 +5,7 @@ layout: default
 <div class="book">
   {% assign book = page %}
   <h1>{{ book.title | xml_escape }}</h1>
+  <h2 class="subtitle">{{ book.subtitle | xml_escape }}</h2>
   <h3>by <span class="author">{{ book.author }}</span></h3>
   <span class="meta">Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; Published: {{ book.publish_year }} &bull; <a href="{{ book.url }}" title="Permalink">#</a></span>
   {% include bookrating.html %}

@@ -82,7 +82,7 @@ class Blog < Thor
         ---
         layout: book
         title: "#{title}"
-        title_full: "#{title}"
+        subtitle: ""
         author: 
         author_last: #{author_last}
         slug: #{slug}

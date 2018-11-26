@@ -211,6 +211,11 @@ span.topic {
   color: #bbb;
   clear: left;
 }
+.book .subtitle {
+  font-size: 1.2em;
+  line-height: 1.4em;
+  margin-bottom: 10px;
+}
 .book-meta {
   font-size: 0.8em;
   color: #aaa;
@@ -257,6 +262,8 @@ span.topic {
   margin: 8px 0 3em 0;
   background: #fff;
 }
+
+/* archives */
 .archive h1 {
   margin: 10px 0;
 }
@@ -287,7 +294,6 @@ span.topic {
 .archive table { width: 100%; }
 .archive table td {
   padding: 3px 3px;
-  /*border-bottom: 1px solid #ccc;*/
 }
 .archive table td.right-cell { text-align: right; color: #555; }
 .archive table tr.odd { background-color: #F2EDE8; }
@@ -301,6 +307,7 @@ span.topic {
   margin-bottom: 10px;
 }
 
+/* feature pages */
 .feature { margin-bottom: 20px; }
 
 /* maps page */
@@ -320,6 +327,7 @@ span.topic {
   font-size: 0.8em;
 }
 
+/* talks page */
 .talk { margin-bottom: 15px; }
 .talk .image { margin-bottom: 20px; }
 .talks h1 { margin: 10px 0; }

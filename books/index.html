@@ -13,9 +13,9 @@ description: "My personal library."
 {% for book in books %}
 	{% if book.status != "draft" %}
   <tr class="{% cycle 'even', 'odd' %}">
-    <td class="archive-icon"><i class="fa fa-coffee fa-fw"></i></td>
     <td><a href='{{ book.url }}'>{{ book.title | xml_escape }}</a></td>
     <td>{% include bookrating.html %}</td>
+    <td>{{ book.date_completed | date: '%B %Y' }}</td>
     <td class="right-cell">{{ book.publish_year }}</td>
   </tr>
   {% endif %}
