@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "The Map That Changed the World"
-title_full: "The Map That Changed the World"
+subtitle:
 author: Simon Winchester
 author_last: Winchester
 slug: winchester-the-map-that-changed-the-world

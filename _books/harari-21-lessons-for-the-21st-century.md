@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "21 Lessons for the 21st Century"
-title_full: "21 Lessons for the 21st Century"
+subtitle:
 author: "Yuval Noah Harari"
 author_last: Harari
 slug: 21-lessons-for-the-21st-century

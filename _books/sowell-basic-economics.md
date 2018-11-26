@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "Basic Economics"
-title_full: "Basic Economics"
+subtitle:
 author: Thomas Sowell
 author_last: Sowell
 slug: sowell-basic-economics

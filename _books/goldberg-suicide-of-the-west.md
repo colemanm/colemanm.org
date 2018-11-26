@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "Suicide of the West"
-title_full: "Suicide of the West: How the Rebirth of Tribalism, Populism, Nationalism, and Identity Politics is Destroying American Democracy"
+subtitle: "How the Rebirth of Tribalism, Populism, Nationalism, and Identity Politics is Destroying American Democracy"
 author: Jonah Goldberg
 author_last: Goldberg
 slug: goldberg-suicide-of-the-west

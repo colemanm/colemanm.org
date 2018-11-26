@@ -1,7 +1,7 @@
 ---
 layout: book
-title: "Energy: A Human History"
-title_full: "Energy: A Human History"
+title: "Energy"
+subtitle: "A Human History"
 author: Richard Rhodes
 author_last: Rhodes
 slug: rhodes-energy-a-human-history

@@ -1,7 +1,7 @@
 ---
 layout: book
-title: "Chaos: Making a New Science"
-title_full: "Chaos: Making a New Science"
+title: "Chaos"
+subtitle: "Making a New Science"
 author: James Gleick
 author_last: Gleick
 slug: gleick-chaos-making-a-new-science

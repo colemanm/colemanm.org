@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "Team of Rivals"
-title_full: "Team of Rivals: The Political Genius of Abraham Lincoln"
+subtitle: "The Political Genius of Abraham Lincoln"
 author: "Doris Kearns Goodwin"
 author_last: Goodwin
 slug: team-of-rivals
