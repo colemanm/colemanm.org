@@ -197,16 +197,14 @@ span.topic {
 	height: 100%;
 }
 
-.link {
+.link, .book {
   margin: 8px 0 2em 0;
   background: #fff;
 }
 .link h1 {
   font-size: 1.3em;
 }
-.link h1 a {
-}
-.link span.meta {
+.link .meta, .book .meta {
   display: block;
   text-align: left;
   font-size: 0.8em;
@@ -214,6 +212,11 @@ span.topic {
   color: #bbb;
   clear: left;
 }
+.book-meta {
+  font-size: 0.8em;
+  color: #aaa;
+}
+.rating { color: #333; }
 
 .end {
   text-align: center;
