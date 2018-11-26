@@ -1,0 +1,23 @@
+---
+layout: book
+title: "Team of Rivals"
+title_full: "Team of Rivals: The Political Genius of Abraham Lincoln"
+author: "Doris Kearns Goodwin"
+author_last: Goodwin
+slug: team-of-rivals
+type: nonfiction
+genres:
+- history
+- biography
+- government
+- politics
+- us history
+isbn: 9780743270755
+rating: 5
+pages: 916
+format: audiobook
+publish_year: 2005
+date_started: 2018-09-19
+date_completed: 2018-11-25
+goodreads_id: 2199
+---
