@@ -1,0 +1,18 @@
+{% assign rawgenres = "" %}
+{% for post in site.posts %}
+  {% assign genres = post.genres | join:'|' | append:'|' %}
+  {% assign rawgenres = rawgenres | append:genres %}
+{% endfor %}
+{% assign rawgenres = rawgenres | split:'|' | sort %}
+
+{% assign site.genres = "" %}
+{% for genre in rawgenres %}
+  {% if genre != "" %}
+    {% if genres == "" %}
+      {% assign genres = genre | split:'|' %}
+    {% endif %}
+    {% unless genres contains genre %}
+      {% assign genres = genres | join:'|' | append:'|' | append:genre | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
