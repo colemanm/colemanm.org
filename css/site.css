@@ -216,6 +216,10 @@ span.topic {
   line-height: 1.4em;
   margin-bottom: 10px;
 }
+.book .series {
+  color: #999;
+  font-size: 0.85em;
+}
 .book-meta {
   font-size: 0.8em;
   color: #aaa;

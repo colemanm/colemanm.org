@@ -8,6 +8,8 @@ description: "My personal library."
 <div class="page archive">
 <h1>Books</h1>
 
+<p>A reading log with thoughts and highlights from books in my library.</p>
+
 <table cellspacing="0" class="archive-table">
 {% assign books = site.books | sort: 'date_completed' | reverse %}
 {% for book in books %}

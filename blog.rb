@@ -86,7 +86,10 @@ class Blog < Thor
         author: 
         author_last: #{author_last}
         slug: #{slug}
-        type: 
+        type: nonfiction
+        img: 
+        series: 
+        part: 
         genres:
         - 
         isbn: 
@@ -94,8 +97,8 @@ class Blog < Thor
         pages: 
         format: 
         publish_year: 
-        date_started: 
-        date_completed: 
+        date_started: 2018-
+        date_completed: 2018-
         goodreads_id: 
         ---
       BOOK
