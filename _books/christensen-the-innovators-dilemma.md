@@ -2,7 +2,7 @@
 layout: book
 title: "The Innovator's Dilemma"
 subtitle: "The Revolutionary Book that Will Change the Way You Do Business"
-author: Clayton M. Christensen
+author: "Clayton M. Christensen"
 author_last: Christensen
 slug: christensen-the-innovators-dilemma
 type: nonfiction

@@ -17,7 +17,7 @@ rating: 5
 pages: 354
 format: paperback
 publish_year: 2014
-date_started: 2018-
-date_completed: 2018-
+date_started: 2018-04-30
+date_completed: 2018-05-25
 goodreads_id: 21504315
 ---

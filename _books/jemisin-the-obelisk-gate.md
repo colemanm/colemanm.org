@@ -1,24 +1,24 @@
 ---
 layout: book
-title: "The Stone Sky"
+title: "The Obelisk Gate"
 subtitle: ""
 author: "N.K. Jemisin"
 author_last: Jemisin
-slug: jemisin-the-stone-sky
+slug: jemisin-the-obelisk-gate
 type: fiction
 img: 
 series: The Broken Earth
-part: 3
+part: 2
 genres:
 - science fiction
 - fantasy
 - apocalyptic
-isbn: 9780356508689
+isbn: 9780356508368
 rating: 5
-pages: 464
+pages: 448
 format: kindle
-publish_year: 2017
-date_started: 2017-12-27
-date_completed: 2018-01-15
-goodreads_id: 36691812
+publish_year: 2016
+date_started: 2017-10-29
+date_completed: 2017-11-16
+goodreads_id: 28147302
 ---
