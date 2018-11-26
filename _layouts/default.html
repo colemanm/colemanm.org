@@ -12,6 +12,9 @@
 <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 {% if page.maps %}{% include map.html %}{% endif %}
 {% if page.css %}<link href='/css/{{ page.css }}' rel='stylesheet' type='text/css' />{% endif %}
+{% if site.genres != "" %}
+  {% include bookgenres.html %}
+{% endif %}
 {% include google-analytics.html %}
 </head>
 
