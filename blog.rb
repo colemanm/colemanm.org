@@ -69,6 +69,44 @@ class Blog < Thor
     puts "Link '#{date}-#{slug}.md' created."
   end
 
+  desc 'book', 'Create a new book in library.'
+  method_option :title, aliases: '-t', desc: 'Book title', default: 'New book'
+  method_option :author, aliases: '-a', desc: 'Book author last name'
+  def book
+    title       = options[:title]
+    author_last = options[:author]
+    slug        = author_last.downcase.strip.tr(' ', '-').gsub(/[^\w-]/, '') + "-" + title.downcase.strip.tr(' ', '-').gsub(/[^\w-]/, '')
+    file        = File.join('./_books/', "#{slug}.md")
+    open(file, 'w') do |link|
+      link.puts <<~BOOK
+        ---
+        layout: book
+        title: "#{title}"
+        subtitle: ""
+        author: 
+        author_last: #{author_last}
+        slug: #{slug}
+        type: nonfiction
+        img: 
+        series: 
+        part: 
+        genres:
+        - 
+        isbn: 
+        rating: 
+        pages: 
+        format: 
+        publish_year: 
+        date_started: 2017-
+        date_completed: 2017-
+        goodreads_id: 
+        ---
+      BOOK
+    end
+
+    puts "Book '#{slug}.md' created."
+  end
+
   no_tasks do
     def generate_date(postdate)
       (postdate ? Time.parse(postdate) : Time.now).strftime('%F')

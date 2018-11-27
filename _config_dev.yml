@@ -16,6 +16,9 @@ tag_page_dir: topics
 collections:
   maps:
     output: true
+  books:
+    output: true
+    permalink: /books/:title/
 
 feed:
   path: atom.xml
