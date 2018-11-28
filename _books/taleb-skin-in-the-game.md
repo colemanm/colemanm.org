@@ -2,7 +2,7 @@
 layout: book
 title: "Skin in the Game"
 subtitle: "The Hidden Asymmetries in Daily Life"
-author: 
+author: Nassim Nicholas Taleb
 author_last: Taleb
 slug: taleb-skin-in-the-game
 type: nonfiction
