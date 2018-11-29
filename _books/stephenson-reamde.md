@@ -5,7 +5,7 @@ subtitle: ""
 author: Neal Stephenson
 author_last: Stephenson
 slug: stephenson-reamde
-type: nonfiction
+type: fiction
 img: 
 series: 
 part: 
