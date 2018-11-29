@@ -5,6 +5,9 @@ layout: default
 <div class="post">
   <h1>{{ page.title | xml_escape }}</h1>
   <span class="meta">{{ page.date | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
+  {% if page.book-id %}
+  {% include book-info.html %}
+  {% endif %}
   <div class="body">{{ content }}</div>
   <!-- {% include topics.html %} -->
   {% include share.html %}

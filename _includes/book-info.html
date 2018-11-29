@@ -1,0 +1,15 @@
+{% assign book = site.books | where: 'slug', page.book-id | first %}
+<div class="book clearfix">
+  <img src="{{ site.url }}/images/books/{{ book.img }}" alt="{{ book.title }}" />
+  <span class="book-title">{{ book.title | xml_escape }}</span>
+  <span class="subtitle">{{ book.subtitle | xml_escape }}</span>
+  <span>by <span class="author">{{ book.author }}</span></span>
+  {% if book.series %}<h4 class="series">part {{ book.part }} of <em>{{ book.series }}</em></h4>{% endif %}
+  <span class="book-meta">Published: {{ book.publish_year }} &bull; Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; <a href="{{ book.url }}" title="Permalink">#</a></span>
+  {% include book-rating.html %}
+  <ul class="book-data">
+    <li>Shelves: {{ book.genres | join: ", " }}</li>
+    <li>ISBN: <a href="https://worldcat.org/isbn/{{ book.isbn }}">{{ book.isbn }}</a> (<a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a>)</li>
+    <li>Format: {{ book.format | capitalize }}</li>
+  </ul>
+</div>

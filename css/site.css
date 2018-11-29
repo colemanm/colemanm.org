@@ -70,10 +70,14 @@ img.bordered { border: 1px solid #ddd; }
   margin-top: 5px;
 }
 
+/* utility classes */
+
 .aqua { color: #446688; }
 .orange { color: coral; }
 .yellow { color: gold;  }
 .green  { color: green; }
+
+.clearfix { overflow: auto; }
 
 #container {
   width: 700px;
@@ -181,6 +185,27 @@ span.topic {
   margin-bottom: 15px;
 }
 
+.post .book {
+  position: relative;
+  left: -75px;
+  width: 850px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  clear: both;
+}
+.post .book-title {
+  font-size: 1.25em;
+  color: #dd9922;
+  display: block;
+}
+.post .author {
+  font-size: 0.9em;
+}
+.post .book img {
+  height: 230px;
+  float: right;
+}
+
 .video {
   position: relative;
   left: -75px;
@@ -203,13 +228,16 @@ span.topic {
 .link h1 {
   font-size: 1.3em;
 }
-.link .meta, .book .meta {
+.link .meta {
   display: block;
   text-align: left;
   font-size: 0.8em;
   margin-bottom: 15px;
   color: #bbb;
   clear: left;
+}
+.book-archive {
+  font-size: 0.85em;
 }
 .book .subtitle {
   font-size: 1.2em;
@@ -221,6 +249,11 @@ span.topic {
   font-size: 0.85em;
 }
 .book-meta {
+  display: block;
+  font-size: 0.8em;
+  color: #bbb;
+}
+.book-data {
   font-size: 0.8em;
   color: #aaa;
 }

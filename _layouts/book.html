@@ -8,10 +8,10 @@ layout: default
   <h2 class="subtitle">{{ book.subtitle | xml_escape }}</h2>
   <h3>by <span class="author">{{ book.author }}</span></h3>
   {% if book.series %}<h4 class="series">part {{ book.part }} of <em>{{ book.series }}</em></h4>{% endif %}
-  <span class="meta">Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; Published: {{ book.publish_year }} &bull; <a href="{{ book.url }}" title="Permalink">#</a></span>
-  {% include bookrating.html %}
+  <span class="book-meta">Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; Published: {{ book.publish_year }} &bull; <a href="{{ book.url }}" title="Permalink">#</a></span>
+  {% include book-rating.html %}
   <div class="body">{{ content }}</div>
-  <div class="book-meta">
+  <div class="book-data">
     <ul>
       <li>{{ book.type | capitalize }}</li>
       <li>Shelves: {{ book.genres | join: ", " }}</li>

@@ -11,13 +11,15 @@ description: "My personal library."
 
 <p>A reading log with thoughts and highlights from books in my library.</p>
 
-<table cellspacing="0" class="archive-table">
+<table cellspacing="0" class="archive-table book-archive">
 {% assign books = site.books | sort: 'date_completed' | reverse %}
 {% for book in books %}
-	{% if book.status != "draft" %}
+  {% if book.status != "draft" %}
+  {% assign review = site.posts | where: 'book-id', book.slug | first %}
   <tr class="{% cycle 'even', 'odd' %}">
-    <td><a href='{{ book.url }}'>{{ book.title | xml_escape }}</a></td>
-    <td>{% include bookrating.html %}</td>
+    <td class="title"><a href='{{ book.url }}'>{{ book.title | xml_escape }}</a></td>
+    <td>{% if review %}<em><a href="{{ review.url }}">Review</a></em>{% endif %}</td>
+    <td>{% include book-rating.html %}</td>
     <td>{{ book.date_completed | date: '%B %Y' }}</td>
     <td class="right-cell">{{ book.publish_year }}</td>
   </tr>
