@@ -8,6 +8,8 @@ categories: blog
 tags:
 - books
 - reviews
+- geography
+- maps
 
 book-id: brown-the-story-of-maps
 ---
