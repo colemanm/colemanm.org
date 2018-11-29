@@ -4,8 +4,11 @@ title: "Team of Rivals"
 subtitle: "The Political Genius of Abraham Lincoln"
 author: "Doris Kearns Goodwin"
 author_last: Goodwin
-slug: team-of-rivals
+slug: goodwin-team-of-rivals
 type: nonfiction
+img: 
+series: 
+part: 
 genres:
 - history
 - biography
