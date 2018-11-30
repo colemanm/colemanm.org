@@ -9,6 +9,8 @@ tags:
 - reviews
 - baseball
 - sports
+
+book-id: will-men-at-work
 ---
 
 I’m a baseball fan from way back, and grew up as a Braves fan during the early years of their 1990s NL East dominance. As much as I always enjoyed following the sport as a casual fan, I’d never studied the game much, nor its history beyond the bits that are conventional knowledge to anyone with an interest in the sport (the seminal records, player achievements, and legends of the game). I’ve been on a kick lately of reading about sports I enjoy&mdash;baseball and soccer&mdash;and have picked up a few books on the subjects to find out what I’ve been missing.
