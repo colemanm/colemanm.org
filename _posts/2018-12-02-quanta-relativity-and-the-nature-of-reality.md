@@ -12,7 +12,7 @@ tags:
 book-id: rovelli-reality-is-not-what-it-seems
 ---
 
-It’s quite a daunting task to explain anything in theoretical physics in 250 pages, but this is just what I like about Carlo Rovelli’s books. Earlier this year I read _The Order of Time_, and like that book, _Reality is Not What it Seems_ gets right to the point. No time is wasted or point too embellished.
+It’s quite a daunting task to explain anything in theoretical physics in 250 pages, but this is just what I like about Carlo Rovelli’s books. Earlier this year I read _[The Order of Time]({{ site.url }}/books/rovelli-the-order-of-time/ "The Order of Time")_, and like that book, _Reality is Not What it Seems_ gets right to the point. No time is wasted or point too embellished.
 
 This time around Rovelli tackles his specialty: [quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity "Quantum gravity"). While it is a work of popular science, he does an admirable job of explaining wildly complex theories — made all the more difficult because a cumulative understanding in sequence is required to keep following the thread.
 
