@@ -23,7 +23,7 @@ One of the biggest takeaways so far, somewhat unexpected to me, is the depth of 
 
 Seeking to validate or reject aspects of governing models looks for the greatest evidence and the right approach for our new government; the record of trial and error is immensely helpful if you respect and understand the context. A look back at varied governing structures to index on those that proved successful, while also maintaining the freedom of the individual so important to the Founders.
 
-In _Federalist No. 20_, Madison even references this fact directly:
+In _[Federalist No. 20](https://www.congress.gov/resources/display/content/The+Federalist+Papers#TheFederalistPapers-20)_, Madison even references this fact directly:
 
 > I make no apology for having dwelt so long on the contemplation of these federal precedents. Experience is the oracle of truth; and where its responses are unequivocal, they ought to be conclusive and sacred.
 
