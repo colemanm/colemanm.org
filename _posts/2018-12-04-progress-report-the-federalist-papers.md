@@ -27,4 +27,4 @@ In _[Federalist No. 20](https://www.congress.gov/resources/display/content/The+F
 
 > I make no apology for having dwelt so long on the contemplation of these federal precedents. Experience is the oracle of truth; and where its responses are unequivocal, they ought to be conclusive and sacred.
 
-“Experience is the oracle of truth.” Model systems around what works, make adjustments, and ensure the system is an “[anti-fragile](https://en.wikipedia.org/wiki/Antifragility "Antifragility")” one that responds and gets stronger over time.
+“Experience is the oracle of truth.” Model new systems around what has previously worked, make adjustments, and ensure the system is an “[anti-fragile](https://en.wikipedia.org/wiki/Antifragility "Antifragility")” one that responds and gets stronger over time.
