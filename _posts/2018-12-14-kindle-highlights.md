@@ -13,6 +13,7 @@ I started making [this tool](https://github.com/colemanm/kindle-excerpts "kindle
 
 Eric Farkas has [another tool](https://github.com/speric/kindle-highlights "kindle-highlights") that looks like it does this, as well, so that’s worth checking out as a possible replacement. What I really want is my own private archive of the data, not really my own custom extraction tool. The gem I was using for mine might’ve been the same one, or does something similar reading from Amazon’s API. It’s nice because it outputs the data in JSON, so then it can be easily parsed apart into yaml or Markdown to use elsewhere. Each excerpt looks like this:
 
+```
 {
   "asin": "B005H0O8KQ",
   "customerId": "A28I9D90ISXNT6",
@@ -23,5 +24,6 @@ Eric Farkas has [another tool](https://github.com/speric/kindle-highlights "kind
   "startLocation": 72539,
   "timestamp": 1446421339000
 }
+```
 
 If I can soon I’ll spend some time tinkering and see if I can pull some for other books I’ve read since.
