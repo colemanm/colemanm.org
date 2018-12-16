@@ -5,6 +5,7 @@ title: "Weekend Reading: Exploring Zanzibar, Singapore of the Future, & Watching
 description: “A couple of links about cities and places, and one on watching basketball.”
 categories: blog
 tags:
+- weekend reading
 - OpenStreetMap
 - Zanzibar
 - Singapore
