@@ -5,6 +5,7 @@ title: "Weekend Reading: Railway Logos, Meditation, and the Next Feature Fallacy
 description: "Andrew Chen on the 'Next Feature Fallacy', Bill Gates on meditation, and some cool railway logo redesigns."
 categories: blog
 tags:
+- weekend reading
 - product management
 - meditation
 - design
@@ -23,4 +24,3 @@ I’ve been giving [Headspace](https://www.headspace.com/ "Headspace") a try to 
 ### 🚂 [Reagan Ray's Railway Logos](http://reaganray.com/2018/02/20/railway-logos.html "Railway Logos")
 
 These are all fantastic. I even see my [favorite hat](https://www.instagram.com/p/Bl4IQCnhgcN/ "Canadian Pacific") represented in there.
-
