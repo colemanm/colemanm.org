@@ -11,7 +11,7 @@ series:
 part: 
 genres:
 - linguistics
-isbn: 
+isbn: 9781627794718
 rating: 4
 pages: 257
 format: audiobook
