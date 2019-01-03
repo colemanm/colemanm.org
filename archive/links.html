@@ -1,0 +1,20 @@
+---
+layout: default
+title: Links
+permalink: /links/
+description: "Links."
+---
+
+<div class="page archive">
+<h1>Links</h1>
+
+<table cellspacing="0" class="archive-table">
+{% for post in site.posts %}
+  {% for link in post.links %}
+  <tr class="{% cycle 'even', 'odd' %}"></tr>
+  <td><a href='{{ link.url }}'>{{ link.title }}</a></td>
+  </tr>
+  {% endfor %}
+{% endfor %}
+</table>
+</div>
