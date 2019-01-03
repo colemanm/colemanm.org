@@ -11,6 +11,14 @@ tags:
 - git
 - video games
 - maps
+
+links:
+- url: https://postlight.com/trackchanges/podcast/computing-is-everywhere
+  title: "Bret Victor interview on Track Changes"
+- url: https://caitlinhudon.com/2018/11/28/git-sql-together/
+  title: "Git Your SQL Together"
+- url: https://www.eurogamer.net/articles/2018-12-12-the-brilliance-of-video-game-maps
+  title: "The Brilliance of Video Game Maps"
 ---
 
 ### 🎙 [Computing is Everywhere](https://postlight.com/trackchanges/podcast/computing-is-everywhere "Bret Victor interview on Track Changes")

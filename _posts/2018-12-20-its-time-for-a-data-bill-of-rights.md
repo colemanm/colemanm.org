@@ -10,14 +10,15 @@ tags:
 - privacy
 - government
 
-urls:
-- https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/
+links:
+- url: https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/
+  title: "It's Time for a Data Bill of Rights"
 ---
 
 This is a fascinating idea, arguing that we should shift our thinking about privacy and data away from “ownership.” Since owning / renting data doesn’t afford the privacy and agency control people actually want, the author argues for a broader set of rights 
 
 > Clear, broad principles are needed around the world, in ways that fit into the legal systems of individual countries. In the US, existing constitutional provisions—like equal protection under the law and prohibitions against “unreasonable searches and seizures”—are insufficient. It is, for instance, difficult to argue that continuous, persistent tracking of a person’s movements in public is a search. And yet such surveillance is comparable in its intrusive effects to an “unreasonable search.”  It’s not enough to hope that courts will come up with favorable interpretations of 18th-century language applied to 21st-century technologies.
-> 
+>
 > A Bill of Data Rights should include rights like these:
 >
 > * The right of the people to be secure against unreasonable surveillance shall not be violated.

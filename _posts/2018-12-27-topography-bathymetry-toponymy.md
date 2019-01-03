@@ -9,10 +9,13 @@ tags:
 - cartography
 - open data
 
-urls:
-- https://www.gebco.net/data_and_products/gridded_bathymetry_data/
-- https://viewer.nationalmap.gov/basic/
-- http://www.geonames.org/
+links:
+- url: https://www.gebco.net/data_and_products/gridded_bathymetry_data/
+  title: "GEBCO Bathymetry Data"
+- url: https://viewer.nationalmap.gov/basic/
+  title: "USGS National Map Downloader"
+- url: http://www.geonames.org/
+  title: "GeoNames"
 ---
 
 In this latest cartography project I'm working on, I'm rediscovering the tedium of searching for appropriate data. I'll grant that it's amazing how much high quality data is produced and freely distributed, but given the advances of web technology, it's frustrating to see how bad many of the web map content management systems are.

@@ -9,6 +9,10 @@ categories: blog
 tags:
 - art
 - biology
+
+links:
+- url: https://en.wikipedia.org/wiki/Kunstformen_der_Natur
+  title: "Kunstformen der Natur"
 ---
 
 {% include image.html file="haeckel-discomedusae.jpg" description="Discomedusae" caption="no" %}

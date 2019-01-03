@@ -10,6 +10,14 @@ tags:
 - cartography
 - places
 - open data
+
+links:
+- url: https://mapmaker.myshopify.com/collections/frontpage/products/hundred-largest-islands-of-the-world-poster
+  title: "100 Largest Islands Map"
+- url: https://somethingaboutmaps.wordpress.com/2018/05/15/on-airline-mapping/
+  title: "On Airline Mapping"
+- url: http://www.projectlinework.org/
+  title: "Project Linework"
 ---
 
 _This week is some reading, but some simple admiring. I wanted to highlight the work of two cartographers I follow that is fantastic. We live in a great world that people can still make a living producing such work._

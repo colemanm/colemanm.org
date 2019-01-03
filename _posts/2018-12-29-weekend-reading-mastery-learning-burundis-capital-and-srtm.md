@@ -13,10 +13,13 @@ tags:
 - places
 - imagery
 
-urls:
-- https://medium.com/khan-academy-early-product-development/mastery-learning-and-creative-tasks-97c4a11f8364
-- https://qz.com/africa/1507779/burundi-moves-capital-from-bujumbura-to-gitega/
-- http://dwtkns.com/srtm/
+links:
+- url: https://medium.com/khan-academy-early-product-development/mastery-learning-and-creative-tasks-97c4a11f8364
+  title: "Mastery Learning and Creative Tasks"
+- url: https://qz.com/africa/1507779/burundi-moves-capital-from-bujumbura-to-gitega/
+  title: "Burundi Moves Capital from Bujumbura to Gitega"
+- url: http://dwtkns.com/srtm/
+  title: "SRTM Tile Grabber"
 ---
 
 ### 🎓 [Mastery Learning and Creative Tasks](https://medium.com/khan-academy-early-product-development/mastery-learning-and-creative-tasks-97c4a11f8364 "Mastery Learning and Creative Tasks")
