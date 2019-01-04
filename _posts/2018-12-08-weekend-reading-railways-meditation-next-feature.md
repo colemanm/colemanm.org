@@ -9,6 +9,14 @@ tags:
 - product management
 - meditation
 - design
+
+links:
+- url: https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/
+  title: "The Next Feature Fallacy"
+- url: https://www.gatesnotes.com/Books/The-Headspace-Guide-to-Meditation-and-Mindfulness
+  title: "Why I'm Into Meditation"
+- url: http://reaganray.com/2018/02/20/railway-logos.html
+  title: "Reagan Ray's Railway Logos"
 ---
 
 ### 🔩 [The Next Feature Fallacy](https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/ "Next Feature Fallacy")

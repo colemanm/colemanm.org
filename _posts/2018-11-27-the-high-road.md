@@ -8,6 +8,10 @@ categories: blog
 tags:
 - psychology
 - habits
+
+links:
+- url: https://fs.blog/2018/11/high-road/
+  title: "The High Road"
 ---
 
 A great reminder for those of us that can get spun up and anxious about the unimportant, from Shane Parrish:

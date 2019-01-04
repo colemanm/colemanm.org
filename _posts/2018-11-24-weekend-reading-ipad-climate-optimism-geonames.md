@@ -12,9 +12,17 @@ tags:
 - places
 - geography
 - open data
+
+links:
+- url: https://www.macstories.net/stories/ipad-diaries-typing-on-the-ipad-pro-with-the-smart-keyboard-folio/
+  title: "iPad Diaries: Typing on the iPad Pro with the Smart Keyboard Folio"
+- url: https://quillette.com/2018/11/15/in-defense-of-climate-optimism/
+  title: "In Defense of Climate Optimism"
+- url: https://medium.com/@tjukanov/places-and-their-names-observations-from-11-million-place-names-8ea34cf61da4
+  title: "Observations from 11 Million Place Names"
 ---
 
-### 📱[iPad Diaries: Typing on the iPad Pro with the Smart Keyboard Folio ](https://www.macstories.net/stories/ipad-diaries-typing-on-the-ipad-pro-with-the-smart-keyboard-folio/)
+### 📱[iPad Diaries: Typing on the iPad Pro with the Smart Keyboard Folio](https://www.macstories.net/stories/ipad-diaries-typing-on-the-ipad-pro-with-the-smart-keyboard-folio/)
 
 I swung through an Apple Store a couple of weeks ago to check out the new hardware. The Smart Keyboard Folio has been hard to imagine the experience with in reviews without handling one. Same with the Pencil. I was particularly impressed with the magnetic hold of the Pencil on the side of the device — it’s darn strong. The current Smart Keyboard has some deficiencies, as pointed out in this article. No instant access to Siri or at least Siri Dictation, no system shortcut keys for things like volume control and playback, and 
 

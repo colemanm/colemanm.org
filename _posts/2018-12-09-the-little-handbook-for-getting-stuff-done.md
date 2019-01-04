@@ -8,6 +8,10 @@ categories: blog
 tags:
 - productivity
 - habits
+
+links:
+- url: https://zenhabits.net/gsd/
+  title: "The Little Handbook for Getting Stuff Done"
 ---
 
 From Zen Habits comes a nice a summary of common hangups to productivity, and a list of quick reminders to help overcome.

@@ -8,6 +8,10 @@ categories: blog
 tags:
 - Fulcrum
 - product
+
+links:
+- url: https://www.fulcrumapp.com/blog/introducing-photo-annotations/
+  title: "Fulcrum Photo Annotations"
 ---
 
 This was a long time in the making. We’ve launched our latest big feature in Fulcrum: [photo annotations](https://www.fulcrumapp.com/blog/introducing-photo-annotations/).

@@ -2,7 +2,7 @@
 layout: post
 date: 2018-11-29
 title: "Francis Fukuyama on The Origins of Political Order"
-description: ""
+description: "Fukuyama presentation on the Origins of Political Order."
 categories: blog
 tags:
 - video
