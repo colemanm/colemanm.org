@@ -15,7 +15,7 @@ tags:
 
 links:
 - url: https://www.macstories.net/stories/ipad-diaries-typing-on-the-ipad-pro-with-the-smart-keyboard-folio/
-  title: "iPad Diaries: Typing on the iPad Pro with the Smart Keyboard Folio"
+  title: "iPad Diaries: Typing on the iPad Pro with the Smart Keyboard Folio"
 - url: https://quillette.com/2018/11/15/in-defense-of-climate-optimism/
   title: "In Defense of Climate Optimism"
 - url: https://medium.com/@tjukanov/places-and-their-names-observations-from-11-million-place-names-8ea34cf61da4

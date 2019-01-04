@@ -14,7 +14,7 @@ tags:
 
 links:
 - url: https://eerscmap.usgs.gov/uswtdb/viewer/#3/37.25/-96.25
-  title: "US Wind Turbine Database"
+  title: "US Wind Turbine Database"
 - url: https://ppe.mercatus.org/podcast/2012/05/31/lawrence-white-podcast-econtalk-clash-economic-ideas
   title: "The Clash of Economic Ideas"
 ---

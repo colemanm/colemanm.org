@@ -15,7 +15,7 @@ tags:
 
 links:
 - url: https://blog.mapillary.com/update/2018/11/22/exploring-zanzibar-part-1.html
-  title: "Exploring Zanzibar with Mapillary"
+  title: "Exploring Zanzibar with Mapillary"
 - url: https://youtu.be/xi6r3hZe5Tg
   title: "City of the Future: Singapore"
 - url: https://cleaningtheglass.com/how-to-watch-basketball/
