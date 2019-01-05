@@ -10,6 +10,14 @@ tags:
 - education
 - satellite
 - forecasting
+
+links:
+- url: https://eng.uber.com/forecasting-introduction/
+  title: "Forecasting at Uber"
+- url: https://github.com/azavea/raster-vision
+  title: "raster-vision"
+- url: https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/
+  title: "600 Free Online Courses"
 ---
 
 ### 🔮 [Forecasting at Uber](https://eng.uber.com/forecasting-introduction/)

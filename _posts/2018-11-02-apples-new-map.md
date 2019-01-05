@@ -11,6 +11,10 @@ tags:
 - cartography
 - Apple Maps
 - Google Maps
+
+links:
+- url: https://www.justinobeirne.com/new-apple-maps
+  title: "Apple's New Map"
 ---
 
 Another great cartographic analysis from Justin O'Beirne, this time on the latest updates to Apple Maps. Their new data and styling covers mostly northern California, and has some gorgeous computer-extracted natural land cover, derived from satellite imagery. The golf courses look particularly impressive:

@@ -9,6 +9,14 @@ tags:
 - links
 - cryptography
 - products
+
+links:
+- url: https://brandur.org/interfaces
+  title: "Learning from Terminals to Design Future User Interfaces"
+- url: https://www.schneier.com/blog/archives/2018/09/quantum_computi_2.html
+  title: "Quantum Computers and Cryptography"
+- url: https://www.feltpresence.com/functions.html
+  title: "Products Are Functions"
 ---
 
 ### 💻 [Learning from Terminals to Design Future User Interfaces](https://brandur.org/interfaces)
@@ -23,7 +31,7 @@ Bruce Schneier:
 > one-way functions. For symmetric cryptography, this isn't too bad. Grover's algorithm shows that a quantum computer speeds up these attacks to 
 > effectively halve the key length. This would mean that a 256-bit key is as strong against a quantum computer as a 128-bit key is against a conventional 
 > computer; both are secure for the foreseeable future.
-> 
+>
 > For public-key cryptography, the results are more dire. Shor's algorithm can easily break all of the commonly used public-key algorithms based on both 
 > factoring and the discrete logarithm problem. Doubling the key length increases the difficulty to break by a factor of eight. That's not enough of a 
 > sustainable edge.

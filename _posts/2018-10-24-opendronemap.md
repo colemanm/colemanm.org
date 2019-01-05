@@ -20,7 +20,7 @@ Since I [got the Mavic](/post/aerial-imagery-with-the-mavic-and-dronedeploy/ "Ma
 
 The WebODM setup process was remarkably smooth, using Docker to stand-up the stack automatically. All the prerequisites you need are git, Python, and pip running to get started, which I already had. With only these three commands, I had the whole stack set up and ready to process:
 
-```
+```shell
 git clone https://github.com/OpenDroneMap/WebODM --config core.autocrlf=input --depth 1
 cd WebODM
 ./webodm.sh start

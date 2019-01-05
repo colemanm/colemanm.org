@@ -10,7 +10,7 @@ tags:
 
 links:
 - url: http://randsinrepose.com/archives/everything-breaks/
-  title: "Everything Breaks"
+  title: "Everything Breaks"
 ---
 
 This is such a [stellar piece](http://randsinrepose.com/archives/everything-breaks/) from Michael Lopp. With a growing business, pains in process are utterly unavoidable, yet critical to be addressed. A couple of highlights — the first on the “rule of 3 and 10”, which is a vivid way to describe what anyone in a growing company has seen first-hand:

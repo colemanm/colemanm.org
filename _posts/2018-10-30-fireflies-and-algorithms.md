@@ -8,6 +8,10 @@ categories: blog
 tags:
 - business
 - automation
+
+links:
+- url: https://medium.com/@opencorporates/fireflies-and-algorithms-the-coming-explosion-of-companies-9d53cdb8738f
+  title: "Fireflies and Algorithms"
 ---
 
 This is an interesting piece from [OpenCorporates](https://opencorporates.com/) on tech disruption in corporate infrastructure:

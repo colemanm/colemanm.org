@@ -10,6 +10,14 @@ tags:
 - R
 - product development
 - business
+
+links:
+- url: http://geocompr.robinlovelace.net/
+  title: "Geocomputation with R"
+- url: https://medium.learningbyshipping.com/listening-to-customers-b0d4f6a3b275
+  title: "Listening to Customers at Scale"
+- url: https://m.signalvnoise.com/the-world-needs-more-modest-linear-growth-companies-please-make-some-609b5a10a9e0
+  title: "Linear Growth Companies"
 ---
 
 ### 🎛 [Geocomputation with R](http://geocompr.robinlovelace.net/) 
@@ -23,4 +31,3 @@ Given where we are with [Fulcrum](https://www.fulcrumapp.com) in the product lif
 ### 📈 [Linear Growth Companies](https://m.signalvnoise.com/the-world-needs-more-modest-linear-growth-companies-please-make-some-609b5a10a9e0)
 
 This piece from David Heinemeier Hansson is a good reminder that steady, linear growth is still great performance for a business. Every business puts itself in a different situation, and certainly many are in debt or investment positions that linear growth isn’t good enough for. Even so, consistent growth in the positive direction should always be commended.
-

@@ -10,6 +10,10 @@ tags:
 - satellite
 - imagery
 - maps
+
+links:
+- url: https://medium.com/planet-stories/earths-wonders-like-you-ve-never-seen-them-before-ac9e2f39aa56
+  title: "Earth's Wonders Like You've Never Seen Them"
 ---
 
 The team from Planet, maker of microsatellites for remote sensing, shared this set of images taken by their SkySat constellation. As this technology advances, it's going be a phenomenal resource to make high-accuracy 3D models of cities and terrain.

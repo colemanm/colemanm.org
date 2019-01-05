@@ -11,7 +11,7 @@ tags:
 
 links:
 - url: https://aws.amazon.com/blogs/aws/amazon-sagemaker-ground-truth-build-highly-accurate-datasets-and-reduce-labeling-costs-by-up-to-70/
-  title: "Amazon SageMaker Ground Truth"
+  title: "Amazon SageMaker Ground Truth"
 ---
 
 This week was Amazon's annual re:Invent conference, where they release _n + 10_ new products for AWS (where _n_ is the number of products launched at last year's event). It's mind-boggling how many new things they can ship each year.

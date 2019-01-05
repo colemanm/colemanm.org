@@ -8,6 +8,10 @@ categories: blog
 tags:
 - research
 - open source
+
+links:
+- url: https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/
+  title: "Jupyter, Mathematica, and the Future of the Research Paper"
 ---
 
 Paul Romer has an interesting take on [this piece](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) from the Atlantic:

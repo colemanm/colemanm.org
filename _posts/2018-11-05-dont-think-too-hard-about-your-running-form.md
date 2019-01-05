@@ -8,6 +8,10 @@ categories: blog
 tags:
 - running
 - health
+
+links:
+- url: https://www.outsideonline.com/2359986/dont-think-too-hard-about-your-running-form
+  title: "Don't Think Too Hard About Your Running Form"
 ---
 
 > The experiment was designed to test a theory in motor learning that distinguishes between directing your focus internally or externally. A large body of research suggests that focusing externally, on the consequences of your actions rather than on the actions themselves, produces better results. For example, you’ll do better shooting a basketball free throw if you’re told to focus on seeing the ball go through the rim than if you’re told to focus on the angle of your elbow or the motion of your wrist. Focusing internally on the details of your movements disrupts the “automaticity” of these familiar actions.

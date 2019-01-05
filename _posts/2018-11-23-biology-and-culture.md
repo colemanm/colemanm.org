@@ -14,7 +14,7 @@ tags:
 
 links:
 - url: https://samharris.org/podcasts/109-biology-culture/
-  title: "Biology and Culture"
+  title: "Biology and Culture"
 ---
 
 In going through the backlog of Sam Harris’s [Waking Up](https://samharris.org/podcast/ "Waking Up") podcast, I put on this not-too-recent episode with [Bret Weinstein](https://twitter.com/BretWeinstein), evolutionary biologist, free thinker, and polymath that I’ve heard in a number of other interviews before. This one in particular was fascinating since it went fairly deep on his area of expertise in biology, evolution, adaptation, and genetics.

@@ -14,4 +14,3 @@ This series with dialect coach Erik Singer is great, I could watch dozens of the
 {% include video.html id="NvDvESEXcgE" %}
 
 Maybe it's related to my interest in geography, but I'm always curious to learn how to differentiate accents from different countries and localities.
-

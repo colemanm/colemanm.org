@@ -10,7 +10,7 @@ tags:
 
 links:
 - url: http://www.econtalk.org/rodney-brooks-on-artificial-intelligence/
-  title: "Rodney Brooks on Artificial Intelligence"
+  title: "Rodney Brooks on Artificial Intelligence"
 ---
 
 I enjoyed this interview with robotics professor Rodney Brooks on EconTalk. The conversation around AI and automation in the popular conversation is so charged, it's good to hear a perspective that brings some reason into the discussion. The collective conversation on the subject of AI, driverless vehicles, and other forms of automation leans toward "it'll be here tomorrow" or "we'll never have any automation." I think there's too much pessimism in the former view, and too little optimism in the latter.

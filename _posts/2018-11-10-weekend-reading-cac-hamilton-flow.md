@@ -11,6 +11,14 @@ tags:
 - government
 - Alexander Hamilton
 - automation
+
+links:
+- url: https://www.intercom.com/blog/what-is-customer-acquisition-cost/
+  title: "What is Customer Acquisition Cost?"
+- url: https://theimaginativeconservative.org/2012/07/legacy-of-alexander-hamilton.html
+  title: "The Legacy of Alexander Hamilton"
+- url: https://flow.microsoft.com/en-us/
+  title: "Microsoft Flow"
 ---
 
 ### 🛒 [What is Customer Acquisition Cost?](https://www.intercom.com/blog/what-is-customer-acquisition-cost/ "Intercom on CAC")

@@ -9,6 +9,10 @@ tags:
 - video
 - maps
 - meditation
+
+links:
+- url: https://kottke.org/18/11/hours-and-hours-of-relaxing-meditative-videos
+  title: "Orbiting the Earth, and Other Zen Videos"
 ---
 
 This is a 92 minute 4K video taken from the International Space Station as it orbits Earth, in real-time:
