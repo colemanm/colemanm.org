@@ -13,7 +13,7 @@ description: "Links."
 <table cellspacing="0" class="archive-table">
 {% for post in site.posts %}
   {% for link in post.links %}
-  <tr></tr>
+  <tr>
   <td><a href='{{ link.url }}'>{{ link.title }}</a></td>
   </tr>
   {% endfor %}
