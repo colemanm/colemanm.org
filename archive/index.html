@@ -8,20 +8,18 @@ description: "Blog post archives."
 <div class="page archive">
 <h1>Archive</h1>
 
-<!-- <div class="archive-select">
-  <a href="">Posts</a>
-  <a href="">Links</a>
-  <a href="">All</a>
-</div> -->
-
 <table cellspacing="0" class="archive-table">
 {% for post in site.categories.blog %}
 	{% if post.status != "draft" %}
   <tr class="{% cycle 'even', 'odd' %}">
     {% if post.layout == "link" %}
-    <td class="archive-icon"><i class="fa fa-link fa-fw"></i></td>
+    <td class="archive-icon">🔗</td>
+    {% elsif post.tags contains "video" %}
+    <td class="archive-icon">📺</td>
+    {% elsif post.tags contains "weekend reading" %}
+    <td class="archive-icon">📰</td>
     {% else %}
-    <td class="archive-icon"><i class="fa fa-coffee fa-fw"></i></td>
+    <td class="archive-icon">☕️</td>
     {% endif %}
     <td><a href='{{ post.url }}'>{{ post.title | xml_escape }}</a></td>
     <td class="right-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
