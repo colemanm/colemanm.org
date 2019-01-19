@@ -22,7 +22,7 @@ links:
 
 ### 📱 [CES 2019: A Show Report](https://medium.learningbyshipping.com/ces-85ca9f07c08a "CES 2019 Show Report")
 
-This year’s excellent report from the show floor from Steven Sinofsky. It's extensive and covers the a-to-z show floor breaking down the trends by category. I'd also recommend the [companion podcast](https://a16z.com/2019/01/16/consumer-electronics-trends-ces-2019/ "a16z podcast on CES") conversation between Sinofsky and Benedict Evans.
+This year’s excellent report from the show floor from Steven Sinofsky. It's extensive and covers the products a-to-z, breaking down the trends by category. I'd also recommend the [companion podcast](https://a16z.com/2019/01/16/consumer-electronics-trends-ces-2019/ "a16z podcast on CES") conversation between Sinofsky and Benedict Evans.
 
 ### 🗺 [Satellite Image Guide for Journalists and Media](https://pierre-markuse.net/2018/12/18/satellite-image-guide-for-journalists-and-media/ "Satellite Image Guide for Journalists and Media")
 
