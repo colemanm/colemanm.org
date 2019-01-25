@@ -11,6 +11,10 @@ tags:
 - geography
 - Spatial Networks
 - Fulcrum
+
+links:
+- url: https://blog.spatialnetworks.com/foresight-data-will-change-the-way-you-do-business-524e329c5af6
+  title: "A Primer on Foresight"
 ---
 
 The last several months I've been spending quite a bit of time working on this: our geospatial data and analytical product line called [Foresight](https://spatialnetworks.com/foresight/). We've been in this business dating back to 2000 in various forms and using the technologies of the era, but empowered by [today's technology](https://www.fulcrumapp.com/), decision support tools, and the open source geo stack, it's evolved to something novel and unmatched for our customers.
