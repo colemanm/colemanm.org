@@ -4,7 +4,7 @@ description: "Notes + Links from @colemanm"
 author:
   name: Coleman McCormick
   email: coleman@mcco.me
-  uri: http://www.colemanm.org
+  uri: https://www.colemanm.org
 permalink: /post/:title/
 port: 4001
 url: https://www.colemanm.org
