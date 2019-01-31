@@ -1,4 +1,4 @@
-/* colors derived from: http: //www.flickr.com/photos/karhan/8372828011 */
+/* Styles by me, colors derived from: https://www.flickr.com/photos/karhan/8372828011 */
 
 html, body, h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
 html { font-size: 100% }
@@ -94,8 +94,6 @@ img.bordered { border: 1px solid #ddd; }
   width: 850px;
   margin: 0 auto;
 }
-#header h1 {
-}
 #header h1 a {
   border: none;
   color: #446688;
@@ -132,7 +130,6 @@ span.topic {
   color: #999;
 }
 
-
 .post {
   margin: 8px 0 2em 0;
   background: #fff;
@@ -163,12 +160,14 @@ span.topic {
   display: block;
   left: -75px;
   margin: 0 auto;
+  padding: 10px 0;
 }
 .post img.partial, link img.partial {
   position: relative;
   text-align: center;
   display: block;
   margin: 0 auto;
+  padding: 10px 0;
 }
 .post table {
   margin: 25px auto;
@@ -394,7 +393,6 @@ span.topic {
   }
   #headerwrap { padding-bottom: 5px; }
   #header { padding: 0 15px; }
-  #navigation a { font-size: 1.1em; }
   #navigation .nav-books,
   #navigation .nav-links,
   #navigation .nav-tw { display: none; }
@@ -423,6 +421,41 @@ span.topic {
   }
   .archive { font-size: 0.9em; }
   .archive .right-cell  { display: none; }
+  h1 { font-size: 1.6em; }
+  blockquote { margin: 0; }
+}
+
+@media only screen and (min-device-width : 640px) and (max-device-width : 1024px) {
+  #container, #header {
+    width: 620px;
+  }
+  #headerwrap { padding-bottom: 5px; }
+  #header { padding: 0 15px; }
+  .post, .link { font-size: 0.9em; }
+  .post img.full, .link img.full { width: 100%; left: 0; }
+  .post img.partial, link img.partial {
+    position: relative;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+  .post .book {
+    width: 100%;
+    left: -20px;
+  }
+  .post .book ul { margin-bottom: 5px; }
+  .post .book img {
+    width: auto;
+    height: 230px;
+    float: right;
+  }
+  .video { width: 100%; left: 0; }
+  .limiter {
+    width: auto;
+    padding: 0 20px
+  }
+  /*.archive { font-size: 0.9em; }
+  .archive .right-cell  { display: none; }*/
   h1 { font-size: 1.6em; }
   blockquote { margin: 0; }
 }
