@@ -10,7 +10,7 @@ tags:
 - apps
 ---
 
-I recently wrote [a review](http://www.fulcrumapp.com/blog/review-staying-secure-with-1password/) on the Fulcrum blog for one of my favorite pieces of software, [1Password](https://agilebits.com/onepassword). It's a password management app to help you keep better organized with your hundreds of passwords, codes, and secure data that you typically have laying around in emails, documents, and post-it notes on your desk[^gobuyit].
+I recently wrote [a review](https://www.fulcrumapp.com/blog/review-staying-secure-with-1password/) on the Fulcrum blog for one of my favorite pieces of software, [1Password](https://agilebits.com/onepassword). It's a password management app to help you keep better organized with your hundreds of passwords, codes, and secure data that you typically have laying around in emails, documents, and post-it notes on your desk[^gobuyit].
 
 I'm a heavy user of 1Password on my iPhone to look up accounts while I'm mobile. Because 1Password vault security is only as secure as your [master password](https://support.1password.com/strong-master-password/), the natural tendency is to have a long, complex, intricate passphrase to type to unlock the vault. And from the iPhone, you want your vault to _re-lock_ pretty rapidly so the door to your digital safe isn't left swinging open while your phone's sitting on the table. The net result is having to constantly type a hard-to-type passphrase on a _hard-to-type-on_ device. No good and no fun.
 
@@ -26,7 +26,7 @@ The intersection of convenience and security [is interesting](https://blog.agile
 
 The security of how Touch ID's technology works is another matter, one of hardware and storage. With the release of the A7 processor in 2013, Apple introduced something called the Secure Enclave[^apple-security], which allows applications to store bits completely outside the scope of the kernel on a physically isolated area of the chip. This is where biometrics get stored, along with cryptographic data for other applications. Apple's [technical documentation](https://support.apple.com/en-us/HT204587) about Touch ID security covers in minute detail exactly how iOS devices store your fingerprint data on the Secure Enclave, and the ultimate reason why Touch ID is actually _more secure_ than not using it:
 
->"Since security is only as secure as its weakest point, you can choose to increase the security of a 4-digit passcode by using a complex alphanumeric passcode. To do this, go to Settings > Touch ID & Passcode and turn Simple Passcode off. This will allow you to create a longer, more complex passcode that is inherently more secure."
+> "Since security is only as secure as its weakest point, you can choose to increase the security of a 4-digit passcode by using a complex alphanumeric passcode. To do this, go to Settings > Touch ID & Passcode and turn Simple Passcode off. This will allow you to create a longer, more complex passcode that is inherently more secure."
 
 This is a key point that's relevant at the OS level and within apps like 1Password or banking apps using biometrics. If, because of the convenience factor, biometrics enable people to keep their encryption passphrases more secure at the core, then we're all better off.
 
