@@ -12,7 +12,6 @@ tags:
 - product development
 - documentation
 - open source
-- video
 
 links:
 - url: https://www.dezeen.com/2019/01/15/195-gigapixel-high-resolution-photo-shaghai-bigpixel/

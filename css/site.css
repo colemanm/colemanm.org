@@ -395,12 +395,34 @@ span.topic {
   #headerwrap { padding-bottom: 5px; }
   #header { padding: 0 15px; }
   #navigation a { font-size: 1.1em; }
-  .post img { width: 100%; left: 0; }
+  #navigation .nav-books,
+  #navigation .nav-links,
+  #navigation .nav-tw { display: none; }
+  .post, .link { font-size: 0.9em; }
+  .post img, .post img.full, .link img, .link img.full { width: 100%; left: 0; }
+  .post .book {
+    width: 100%;
+    left: -20px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 20px;
+  }
+  .post .book ul { margin-bottom: 5px; }
+  .post .book img { display: none; }
+  .post ul, .post ol { padding-left: 1.5em; }
+  .video { width: 100%; left: 0; }
+  .book-archive .right-cell,
+  .book-archive .book-date-completed { display: none; }
+  .book { font-size: 0.9em; }
+  .book ul { padding-left: 1.5em; }
   .limiter {
     width: auto;
     padding: 0 20px
   }
-  .archive-icon { display: none; }
+  .archive { font-size: 0.9em; }
+  .archive .right-cell  { display: none; }
   h1 { font-size: 1.6em; }
   blockquote { margin: 0; }
 }
