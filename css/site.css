@@ -76,6 +76,7 @@ img.bordered { border: 1px solid #ddd; }
 .orange { color: coral; }
 .yellow { color: gold;  }
 .green  { color: green; }
+.red    { color: red; }
 
 .clearfix { overflow: auto; }
 
@@ -178,6 +179,7 @@ span.topic {
   text-align: center;
   border-bottom: 1px solid #ccc;
 }
+.post table td { font-size: 0.9em; }
 .post table td.right-cell { text-align: right; color: #555; }
 .post table tr.odd { background-color: #F2EDE8; }
 .post-table {
