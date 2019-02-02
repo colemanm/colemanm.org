@@ -5,6 +5,7 @@ title: "Weekend Reading: Shanghai, Basecamp, and DocuSaurus"
 description: "Hi-res photo of Shanghai, Basecamp's product process, and Docusaurus for software project documentation."
 categories: blog
 tags:
+- weekend reading
 - China
 - Shanghai
 - photography
