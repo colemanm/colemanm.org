@@ -425,7 +425,7 @@ span.topic {
   blockquote { margin: 0; }
 }
 
-@media only screen and (min-device-width : 640px) and (max-device-width : 1024px) {
+@media only screen and (min-width: 640px) and (max-width: 1024px) {
   #container, #header {
     width: 620px;
   }
