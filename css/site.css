@@ -417,6 +417,49 @@ span.topic {
   .book-archive .book-date-completed { display: none; }
   .book { font-size: 0.9em; }
   .book ul { padding-left: 1.5em; }
+  .post table { border: 0; }
+  .post table thead {
+    position: absolute;
+    border: 0;
+    clip: rect(1px 1px 1px 1px);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    overflow: hidden;
+    top: -9999em;
+    left: -9999em;
+    padding: 0;
+  }
+  .post table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  .post table th {
+    display: block;
+    padding: 0;
+    text-align: left;
+    white-space: normal;
+  }
+  .post table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .9em;
+    text-align: center;
+  }
+  .post table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .post table td:last-child {
+    border-bottom: 0;
+  }
   .limiter {
     width: auto;
     padding: 0 20px

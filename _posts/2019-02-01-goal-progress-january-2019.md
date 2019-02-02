@@ -16,8 +16,8 @@ This is the first year I [set some goals]({{ site.url }}/post/2019/ "2019 Goals"
 
 For the month of January, here’s how things stack up with each area. We’ve got my progress in the first column, the pace mark I should be at to keep on target, the total goal, and “plus-minus” is where I net out against the goal:
 
-|                | Progress    | Pace        | Goal         | Plus-Minus                       |
-|------------------------------|-------------|--------------|----------------------------------|
+| Activity       | Progress    | Pace        | Goal         | Plus-Minus                       |
+|----------------|-------------|-------------|--------------|----------------------------------|
 | **Running**    | 41.77 miles | 42.47 miles | 500 miles    | <span class="red">-0.7</span>    |
 | **Meditation** | 340 minutes | 320 minutes | 3650 minutes | <span class="green">+40</span>   |
 | **Reading**    | 5 books     | 3.82 books  | 50 books     | <span class="green">+1.18</span> |
