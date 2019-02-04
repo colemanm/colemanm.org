@@ -12,6 +12,14 @@ tags:
 - disaster response
 - Fulcrum Community
 - open data
+
+links:
+- url: http://www.santabarbarafamilylife.com/news/county-using-new-app-developed-to-help-log-evacuations/
+  title: "Santa Barbara Evac with Fulcrum"
+- url: https://registry.opendata.aws/usgs-lidar/
+  title: "USGS 3DEP LiDAR Data"
+- url: https://github.com/Microsoft/USBuildingFootprints
+  title: "Microsoft's US Building Footprints"
 ---
 
 ### 👨🏽‍🚒 [Santa Barbara County Evac with Fulcrum Community](http://www.santabarbarafamilylife.com/news/county-using-new-app-developed-to-help-log-evacuations/ "Santa Barbara Evac with Fulcrum")
