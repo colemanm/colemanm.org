@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-02-0
+date: 2019-02-05
 title: "Kicking Off SaaStr"
 description: “Day one of the SaaStr Annual 2019.”
 categories: blog
