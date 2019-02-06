@@ -15,7 +15,7 @@ map:
   title: "Salton Sea"
 ---
 
-I don't remember what got me to it, but the other day I found this short documetary video about Southern California's Salton Sea, a saline lake about 80 miles inland from San Diego:
+I don't remember what got me to it, but the other day I found this short documetary video about Southern California's [Salton Sea](https://en.wikipedia.org/wiki/Salton_Sea "Salton Sea"), a saline lake about 80 miles inland from San Diego:
 
 {% include video.html id="wCYcSbCR6z4" %}
 
