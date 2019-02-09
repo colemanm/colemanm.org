@@ -2,7 +2,7 @@
 layout: post
 date: 2019-02-09
 title: "Weekend Reading: LiDAR, Auto Generated Textbooks, and Paleo Plate Tectonics"
-description: ""
+description: "LiDAR, Auto Generated Textbooks, and Paleo Plate Tectonics"
 categories: blog
 tags:
 - weekend reading
