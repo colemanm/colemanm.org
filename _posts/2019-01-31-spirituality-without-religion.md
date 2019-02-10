@@ -6,7 +6,7 @@ description: "A quick review of Sam Harris's 'Waking Up'."
 categories: blog
 tags:
 - books
-- review
+- reviews
 - meditation
 - Sam Harris
 

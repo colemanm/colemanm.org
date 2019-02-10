@@ -3,6 +3,7 @@ layout: post
 date: 2019-02-06
 title: "The Salton Sea"
 description: “Flying over Southern California's Salton Sea.”
+img: /images/post-images/salton-sea.jpg
 categories: blog
 tags:
 - geography

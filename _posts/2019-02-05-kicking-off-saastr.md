@@ -3,6 +3,7 @@ layout: post
 date: 2019-02-05
 title: "Kicking Off SaaStr"
 description: “Day one of the SaaStr Annual 2019.”
+img: /images/post-images/saastr-2019.jpg
 categories: blog
 tags:
 - events

@@ -2,10 +2,10 @@
 layout: post
 date: 2019-01-07
 title: "Building a Link Archive"
-description: ""
+description: "How I created my link archive pages."
 categories: blog
 tags:
-- 
+- personal
 ---
 
 Since I started my [daily writing routine]({{ site.url }}/post/a-post-each-day/ "A Post Each Day") a few months ago, I’ve posted tons of links to interesting things. Sometimes I do “link posts” (like [this one]({{ site.url }}/post/topoview/ "topoView")), and I’ve been consistently doing my “Weekend Reading” series on Saturdays.

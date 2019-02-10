@@ -3,6 +3,7 @@ layout: post
 date: 2019-02-08
 title: "Sierra Nevada, Basin and Range"
 description: “Viewing some of my favorite American geography from the air.”
+img: /images/post-images/sierra-nevada-2019.jpg
 categories: blog
 tags:
 - geography
