@@ -6,7 +6,7 @@ author: John McPhee
 author_last: McPhee
 slug: mcphee-coming-into-the-country
 type: nonfiction
-img: 
+img: mcphee-coming-into-the-country.jpg
 series: 
 part: 
 genres:

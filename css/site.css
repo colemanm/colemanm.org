@@ -202,9 +202,16 @@ span.topic {
 .post .author {
   font-size: 0.9em;
 }
-.post .book img {
+.book img {
   height: 230px;
   float: right;
+}
+.book .book-full-img {
+  height: 300px;
+  float: right;
+}
+blockquote.twitter-tweet {
+  margin: 0 auto;
 }
 
 .video {
@@ -410,7 +417,7 @@ span.topic {
     padding: 10px 20px;
   }
   .post .book ul { margin-bottom: 5px; }
-  .post .book img { display: none; }
+  .book img { display: none; }
   .post ul, .post ol { padding-left: 1.5em; }
   .video { width: 100%; left: 0; }
   .book-archive .right-cell,
