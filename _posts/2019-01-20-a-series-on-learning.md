@@ -8,7 +8,7 @@ tags:
 - education
 ---
 
-_This is part 1 of a series on learning, education, and what we can do to improve our systems._
+_This is part 1 of a series on learning, education, and what we can do to improve our systems. Read [part 2]({{ site.url }}/post/flexible-education/ "Flexible Education") here._
 
 The most effective learning relies on curiosity, a required characteristic to grow emotionally and intellectually over time. Teaching, on the other hand, is the act of steering this process. The best teaching provides fundamental “first principle” building blocks, lays down a breadcrumb trail, and lets the student discover their own path through trial and error. But we don't teach children the value of curiosity; we often feel compelled to jump straight to direct information transfer. “We already know these facts, here they are, remember them.” 
 
