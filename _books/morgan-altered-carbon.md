@@ -6,7 +6,7 @@ author: "Richard K. Morgan"
 author_last: Morgan
 slug: morgan-altered-carbon
 type: fiction
-img: 
+img: true
 series: Takeshi Kovacs
 part: 1
 genres:

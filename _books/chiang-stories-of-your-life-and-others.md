@@ -6,7 +6,7 @@ author: Ted Chiang
 author_last: Chiang
 slug: chiang-stories-of-your-life-and-others
 type: fiction
-img: 
+img: true
 series: 
 part: 
 genres:

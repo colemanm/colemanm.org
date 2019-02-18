@@ -6,7 +6,7 @@ author: Kim Zetter
 author_last: Zetter
 slug: zetter-countdown-to-zero-day
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

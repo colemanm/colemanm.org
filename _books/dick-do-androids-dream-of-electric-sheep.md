@@ -5,8 +5,8 @@ subtitle: ""
 author: "Philip K. Dick"
 author_last: Dick
 slug: dick-do-androids-dream-of-electric-sheep
-type: nonfiction
-img: 
+type: fiction
+img: true
 series: 
 part: 
 genres:

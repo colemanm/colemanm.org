@@ -6,7 +6,7 @@ author: Gretchen Bakke
 author_last: Bakke
 slug: bakke-the-grid
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

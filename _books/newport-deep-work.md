@@ -6,7 +6,7 @@ author: Cal Newport
 author_last: Newport
 slug: newport-deep-work
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

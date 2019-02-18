@@ -6,7 +6,7 @@ author: Nicole Fenton, Kate Kiefer Lee
 author_last: Fenton
 slug: fenton-nicely-said
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

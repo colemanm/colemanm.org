@@ -7,7 +7,10 @@ img: /images/post-images/geologic-strata.jpg
 categories: blog
 tags:
 - books
+- reviews
 - geology
+
+book-id: mcphee-annals-of-the-former-world
 ---
 
 {% include image.html file="geologic-strata.jpg" description="Strata" caption="no" %}

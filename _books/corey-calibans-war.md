@@ -5,8 +5,8 @@ subtitle: ""
 author: "James S.A. Corey"
 author_last: Corey
 slug: corey-calibans-war
-type: nonfiction
-img: 
+type: fiction
+img: true
 series: The Expanse
 part: 2
 genres:

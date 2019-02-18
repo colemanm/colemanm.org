@@ -6,7 +6,7 @@ author: Ben Horowitz
 author_last: Horowitz
 slug: horowitz-the-hard-thing-about-hard-things
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

@@ -6,6 +6,7 @@ author: Jonathan Haidt, Greg Lukianoff
 author_last: Haidt
 slug: haidt-the-coddling-of-the-american-mind
 type: nonfiction
+img: true
 genres:
 - psychology
 - education

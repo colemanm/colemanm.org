@@ -6,7 +6,7 @@ author: Geoff Smart
 author_last: Smart
 slug: smart-who
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

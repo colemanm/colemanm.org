@@ -6,7 +6,7 @@ author: Parag Khanna
 author_last: Khanna
 slug: khanna-connectography
 type: nonfiction
-img: khanna-connectography.jpg
+img: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Vernor Vinge
 author_last: Vinge
 slug: vinge-a-fire-upon-the-deep
 type: fiction
-img: 
+img: true
 series: Zones of Thought
 part: 1
 genres:

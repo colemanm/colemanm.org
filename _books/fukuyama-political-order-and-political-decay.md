@@ -6,7 +6,7 @@ author: Francis Fukuyama
 author_last: Fukuyama
 slug: fukuyama-political-order-and-political-decay
 type: nonfiction
-img: 
+img: true
 series: Political Order
 part: 2
 genres:

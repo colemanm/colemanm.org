@@ -6,7 +6,7 @@ author: Roger Angell
 author_last: Angell
 slug: angell-the-summer-game
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

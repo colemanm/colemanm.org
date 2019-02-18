@@ -6,7 +6,7 @@ author: Neil Fiore
 author_last: Fiore
 slug: fiore-the-now-habit
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

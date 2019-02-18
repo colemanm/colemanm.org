@@ -6,7 +6,7 @@ author: Walter Isaacson
 author_last: Isaacson
 slug: isaacson-leonardo-da-vinci
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: John McPhee
 author_last: McPhee
 slug: mcphee-the-pine-barrens
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

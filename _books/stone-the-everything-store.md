@@ -6,7 +6,7 @@ author: Brad Stone
 author_last: Stone
 slug: stone-the-everything-store
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

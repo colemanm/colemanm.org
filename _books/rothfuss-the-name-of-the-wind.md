@@ -5,8 +5,8 @@ subtitle: ""
 author: Patrick Rothfuss
 author_last: Rothfuss
 slug: rothfuss-the-name-of-the-wind
-type: nonfiction
-img: 
+type: fiction
+img: true
 series: The Kingkiller Chronicle
 part: 1
 genres:

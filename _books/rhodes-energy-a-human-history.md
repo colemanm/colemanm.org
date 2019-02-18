@@ -6,6 +6,7 @@ author: Richard Rhodes
 author_last: Rhodes
 slug: rhodes-energy-a-human-history
 type: nonfiction
+img: true
 genres:
 - history
 - science

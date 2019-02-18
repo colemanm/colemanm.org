@@ -6,7 +6,7 @@ author: "Gregory D. Johnsen"
 author_last: Johnsen
 slug: johnsen-the-last-refuge
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

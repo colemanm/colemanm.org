@@ -4,8 +4,8 @@ layout: default
 
 <div class="book">
   {% assign book = page %}
-  {% if book.img !=  blank %}
-  <img class="book-full-img" src="{{ site.url }}/images/books/{{ book.img }}" alt="{{ book.title }}" />
+  {% if book.img == true %}
+  <img class="book-full-img" src="{{ site.url }}/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
   {% endif %}
   <h1>{{ book.title | xml_escape }}</h1>
   <h2 class="subtitle">{{ book.subtitle | xml_escape }}</h2>

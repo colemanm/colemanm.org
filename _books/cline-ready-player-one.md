@@ -5,8 +5,8 @@ subtitle: ""
 author: Ernest Cline
 author_last: Cline
 slug: cline-ready-player-one
-type: nonfiction
-img: 
+type: fiction
+img: true
 series: 
 part: 
 genres:

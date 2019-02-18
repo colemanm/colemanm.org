@@ -6,7 +6,7 @@ author: Reed Holden
 author_last: Holden
 slug: holden-pricing-with-confidence
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

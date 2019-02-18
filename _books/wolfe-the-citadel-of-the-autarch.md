@@ -6,7 +6,7 @@ author: Gene Wolfe
 author_last: Wolfe
 slug: wolfe-the-citadel-of-the-autarch
 type: fiction
-img: 
+img: true
 series: The Book of the New Sun
 part: 4
 genres:

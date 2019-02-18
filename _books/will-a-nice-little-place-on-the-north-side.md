@@ -6,7 +6,7 @@ author: George Will
 author_last: Will
 slug: will-a-nice-little-place-on-the-north-side
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

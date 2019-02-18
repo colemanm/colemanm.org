@@ -6,7 +6,7 @@ author: Neal Stephenson
 author_last: Stephenson
 slug: stephenson-reamde
 type: fiction
-img: 
+img: true
 series: 
 part: 
 genres:

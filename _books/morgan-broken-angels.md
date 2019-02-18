@@ -6,7 +6,7 @@ author: "Richard K. Morgan"
 author_last: Morgan
 slug: morgan-broken-angels
 type: fiction
-img: 
+img: true
 series: Takeshi Kovacs
 part: 2
 genres:

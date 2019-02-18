@@ -6,7 +6,7 @@ author: Gene Wolfe
 author_last: Wolfe
 slug: wolfe-calde-of-the-long-sun
 type: fiction
-img: 
+img: true
 series: "The Book of the Long Sun"
 part: 3
 genres:

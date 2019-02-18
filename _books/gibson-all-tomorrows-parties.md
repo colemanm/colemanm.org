@@ -6,7 +6,7 @@ author: William Gibson
 author_last: Gibson
 slug: gibson-all-tomorrows-parties
 type: fiction
-img: 
+img: true
 series: The Bridge Trilogy
 part: 3
 genres:

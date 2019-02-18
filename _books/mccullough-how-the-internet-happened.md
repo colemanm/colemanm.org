@@ -6,7 +6,7 @@ author: Brian McCullough
 author_last: McCullough
 slug: mccullough-how-the-internet-happened
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

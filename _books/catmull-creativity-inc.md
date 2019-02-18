@@ -6,7 +6,7 @@ author: Ed Catmull
 author_last: Catmull
 slug: catmull-creativity-inc
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

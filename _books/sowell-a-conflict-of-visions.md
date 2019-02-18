@@ -6,6 +6,7 @@ author: Thomas Sowell
 author_last: Sowell
 slug: sowell-a-conflict-of-visions
 type: nonfiction
+img: true
 genres:
 - economics
 - politics

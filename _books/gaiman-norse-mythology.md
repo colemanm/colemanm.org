@@ -6,7 +6,7 @@ author: Neil Gaiman
 author_last: Gaiman
 slug: gaiman-norse-mythology
 type: fiction
-img: 
+img: true
 series: 
 part: 
 genres:

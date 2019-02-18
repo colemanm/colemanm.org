@@ -6,7 +6,7 @@ author: William Gibson
 author_last: Gibson
 slug: gibson-virtual-light
 type: fiction
-img: 
+img: true
 series: The Bridge Trilogy
 part: 1
 genres:

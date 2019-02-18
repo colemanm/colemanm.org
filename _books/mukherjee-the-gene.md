@@ -6,7 +6,7 @@ author: Siddhartha Mukherjee
 author_last: Mukherjee
 slug: mukherjee-the-gene
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

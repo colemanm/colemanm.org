@@ -6,7 +6,7 @@ author: Isaac Asimov
 author_last: Asimov
 slug: asimov-the-currents-of-space
 type: nonfiction
-img: 
+img: true
 series: Galactic Empire
 part: 2
 genres:

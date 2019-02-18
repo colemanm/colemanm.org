@@ -6,7 +6,7 @@ author: Geoffrey West
 author_last: West
 slug: west-scale
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

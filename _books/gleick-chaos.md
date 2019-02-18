@@ -4,8 +4,9 @@ title: "Chaos"
 subtitle: "Making a New Science"
 author: James Gleick
 author_last: Gleick
-slug: gleick-chaos-making-a-new-science
+slug: gleick-chaos
 type: nonfiction
+img: true
 genres:
 - science
 - physics

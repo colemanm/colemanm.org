@@ -6,6 +6,7 @@ author: Brian Greene
 author_last: Greene
 slug: greene-the-elegant-universe
 type: nonfiction
+img:
 genres:
 - science
 - physics

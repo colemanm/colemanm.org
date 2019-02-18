@@ -6,7 +6,7 @@ author: Parag Khanna
 author_last: Khanna
 slug: khanna-the-second-world
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

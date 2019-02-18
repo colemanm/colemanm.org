@@ -6,7 +6,7 @@ author: Yuval Noah Harari
 author_last: Harari
 slug: harari-sapiens
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

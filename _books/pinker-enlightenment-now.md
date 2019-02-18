@@ -6,6 +6,7 @@ author: Steven Pinker
 author_last: Pinker
 slug: pinker-enlightenment-now
 type: nonfiction
+img: true
 genres:
 - sociology
 - science

@@ -6,7 +6,7 @@ author: Neil DeGrasse-Tyson
 author_last: Tyson
 slug: tyson-astrophysics-for-people-in-a-hurry
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

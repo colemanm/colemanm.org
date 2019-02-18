@@ -6,7 +6,7 @@ author: Bruce Sterling
 author_last: Sterling
 slug: sterling-globalhead
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

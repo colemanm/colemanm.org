@@ -6,7 +6,7 @@ author: Des Traynor
 author_last: Traynor
 slug: traynor-intercom-on-marketing
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

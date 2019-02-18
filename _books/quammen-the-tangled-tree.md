@@ -6,7 +6,7 @@ author: David Quammen
 author_last: Quammen
 slug: quammen-the-tangled-tree
 type: nonfiction
-img: quammen-the-tangled-tree.jpg
+img: true
 series: 
 part: 
 genres:

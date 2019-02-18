@@ -6,7 +6,7 @@ author: Jon Pessah
 author_last: Pessah
 slug: pessah-the-game
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

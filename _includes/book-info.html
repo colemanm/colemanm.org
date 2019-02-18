@@ -1,6 +1,6 @@
 {% assign book = site.books | where: 'slug', page.book-id | first %}
 <div class="book clearfix">
-  <img src="{{ site.url }}/images/books/{{ book.img }}" alt="{{ book.title }}" />
+  <img src="{{ site.url }}/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
   <span class="book-title">{{ book.title | xml_escape }}</span>
   <span class="subtitle">{{ book.subtitle | xml_escape }}</span>
   <span>by <span class="book-author">{{ book.author }}</span></span>

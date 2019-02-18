@@ -6,7 +6,7 @@ author: Marcus Aurelius
 author_last: Aurelius
 slug: aurelius-meditations
 type: nonfiction
-img: aurelius-meditations.jpg
+img: true
 series: 
 part: 
 genres:

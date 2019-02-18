@@ -6,7 +6,7 @@ author: George Alec Effinger
 author_last: Effinger
 slug: effinger-a-fire-in-the-sun
 type: fiction
-img: 
+img: true
 series: The Budayeen Cycle
 part: 2
 genres:

@@ -6,7 +6,7 @@ author: Jeffrey Bussgang
 author_last: Bussgang
 slug: bussgang-mastering-the-vc-game
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

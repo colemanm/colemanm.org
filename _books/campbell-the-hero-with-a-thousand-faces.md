@@ -6,6 +6,7 @@ author: Joseph Campbell
 author_last: Campbell
 slug: campbell-the-hero-with-a-thousand-faces
 type: nonfiction
+img: true
 genres:
 - mythology
 - philosophy

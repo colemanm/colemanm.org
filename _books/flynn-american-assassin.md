@@ -6,7 +6,7 @@ author: Vince Flynn
 author_last: Flynn
 slug: flynn-american-assassin
 type: fiction
-img: 
+img: true
 series: Mitch Rapp
 part: 1
 genres:

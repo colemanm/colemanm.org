@@ -6,7 +6,7 @@ author: Raymond Chandler
 author_last: Chandler
 slug: chandler-the-long-goodbye
 type: nonfiction
-img: 
+img: true
 series: Philip Marlowe
 part: 6
 genres:

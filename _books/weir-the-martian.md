@@ -6,7 +6,7 @@ author: Andy Weir
 author_last: Weir
 slug: weir-the-martian
 type: fiction
-img: 
+img: true
 series: 
 part: 
 genres:

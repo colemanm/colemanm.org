@@ -6,6 +6,7 @@ author: Carlo Rovelli
 author_last: Rovelli
 slug: rovelli-the-order-of-time
 type: nonfiction
+img: true
 genres:
 - science
 - physics

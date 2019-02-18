@@ -6,7 +6,7 @@ author: "N.K. Jemisin"
 author_last: Jemisin
 slug: jemisin-the-obelisk-gate
 type: fiction
-img: 
+img: true
 series: The Broken Earth
 part: 2
 genres:

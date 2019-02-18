@@ -6,7 +6,7 @@ author: Jonathan Haidt
 author_last: Haidt
 slug: haidt-the-righteous-mind
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Nassim Nicholas Taleb
 author_last: Taleb
 slug: taleb-skin-in-the-game
 type: nonfiction
-img: 
+img: true
 series: Incerto
 part: 5
 genres:

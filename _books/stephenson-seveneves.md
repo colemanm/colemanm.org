@@ -6,6 +6,7 @@ author: Neal Stephenson
 author_last: Stephenson
 slug: stephenson-seveneves
 type: fiction
+img: true
 series: 
 part: 
 genres:

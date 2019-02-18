@@ -6,7 +6,7 @@ author: George Alec Effinger
 author_last: Effinger
 slug: effinger-the-exile-kiss
 type: fiction
-img: 
+img: true
 series: The Budayeen Cycle
 part: 3
 genres:

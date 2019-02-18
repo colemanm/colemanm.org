@@ -6,7 +6,7 @@ author: Michael Lewis
 author_last: Lewis
 slug: lewis-moneyball
 type: nonfiction
-img: 
+img: true
 series: 
 part: 
 genres:
