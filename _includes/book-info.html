@@ -1,4 +1,8 @@
+{% if include.book-id %}
+{% assign book = site.books | where: 'slug', include.book-id | first %}
+{% else %}
 {% assign book = site.books | where: 'slug', page.book-id | first %}
+{% endif %}
 <div class="book clearfix">
   <img src="{{ site.url }}/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
   <span class="book-title">{{ book.title | xml_escape }}</span>
