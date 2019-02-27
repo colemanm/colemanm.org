@@ -11,7 +11,7 @@ tags:
 - email
 ---
 
-Email is seeing a resurgence in an age when everyone's been crying that email is dead. The comeback is not so much as a tool for intra-office communication (though it’s still alive and well in most organizations, Slack has [overtaken email in ours]({ site.url }}/post/the-missing-communication-link/ "The Missing Communication Link")), but as a publishing medium.
+Email is seeing a resurgence in an age when everyone's been crying that email is dead. The comeback is not so much as a tool for intra-office communication (though it’s still alive and well in most organizations, Slack has [overtaken email in ours]({{ site.url }}/post/the-missing-communication-link/ "The Missing Communication Link")), but as a publishing medium.
 
 Newsletters have become a popular means for connecting with readers, helping publishers (and especially independent writers) cut through the noise that pervades social media channels. The constant feed of non-stop, clickbait-ish content makes it hard to cut through that waterfall with deep analysis or thoughtful writing.
 
