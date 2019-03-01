@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2019-02-01
-title: "Goal Progress"
-description: "Tracking my progress toward personal goal targets for the year."
+title: "Goal Progress: January"
+description: "Tracking my January progress toward personal goal targets for the year."
 categories: blog
 tags:
 - habits
