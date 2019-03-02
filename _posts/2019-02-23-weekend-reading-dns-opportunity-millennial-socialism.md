@@ -5,6 +5,7 @@ title: "Weekend Reading: Private DNS, Opportunity, and Millennial Socialism"
 description: "Cloudflare's private DNS system, the Mars rover Opportunity is no more, and the rise of millennial socialism."
 categories: blog
 tags:
+- weekend reading
 - technology
 - politics
 - space
