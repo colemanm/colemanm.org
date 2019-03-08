@@ -19,7 +19,7 @@ links:
 
 I’ve been thinking and reading more about [OKRs](https://en.wikipedia.org/wiki/OKR "OKRs") and how I might be able to implement them effectively — both professionally and personally. The idea of having clearly defined goals over bounded timelines is something we could all use to better manage time, especially in abstract “knowledge work” where it’s hard to see the actual _work product_ of a day or a week’s activity.
 
-This is an old workshop put on by [GV](https://www.gv.com/ "GV")’s [Rick Klau](https://twitter.com/rklau "Rick Klau on Twitter"). He does a good job doing a bird’s eye view of how to set OKRs and the importance of linking them through the organizational hierarchy:
+This is an old workshop put on by [GV](https://www.gv.com/ "GV")’s [Rick Klau](https://twitter.com/rklau "Rick Klau on Twitter"). He does a good job giving a bird’s eye view of how to set OKRs and the importance of linking them through the organizational hierarchy:
 
 {% include video.html id="mJB83EZtAjc" %}
 
