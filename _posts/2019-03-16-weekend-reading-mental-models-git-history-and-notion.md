@@ -5,6 +5,7 @@ title: "Weekend Reading: Mental Models, Git History, and Notion"
 description: "Shane Parrish's archive of mental models, visualizing git history, and page templates for Notion."
 categories: blog
 tags:
+- weekend reading
 - Notion
 - mental models
 - thinking
