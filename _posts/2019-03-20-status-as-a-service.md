@@ -22,7 +22,7 @@ This post from Eugene Wei has been making the rounds in tech. It's a lengthy art
 >
 > As with cryptocurrency, if it were so easy, it wouldn't be worth anything. Value is tied to scarcity, and scarcity on social networks derives from proof of work. Status isn't worth much if there's no skill and effort required to mine it. It's not that a social network that makes it easy for lots of users to perform well can't be a useful one, but competition for relative status still motivates humans. Recall our first tenet: humans are status-seeking monkeys. Status is a relative ladder. By definition, if everyone can achieve a certain type of status, it’s no status at all, it’s a participation trophy.
 
-The metaphor of thinking about social capital and its build-up, transference, and investment like that of financial capital is apt for seeing how it applies to social network services:
+It's an apt metaphor to think about social capital, its build-up, transference, and investment like that of financial capital:
 
 > I can still remember posting the same photos to Flickr and Instagram for a while and seeing how quickly the latter passed the former in feedback. If I were an investor or even an employee, I might have something like a representative basket of content that I'd post from various test accounts on different social media networks just to track social capital interest rates and liquidity among the various services.
 
