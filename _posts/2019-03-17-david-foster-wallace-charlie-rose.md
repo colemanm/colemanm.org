@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-17
-title: "David Foster Wallace interview with Charlie Rose."
+title: "David Foster Wallace Interview with Charlie Rose"
 description: “An insightful interview with the late David Foster Wallace.”
 categories: blog
 tags:
