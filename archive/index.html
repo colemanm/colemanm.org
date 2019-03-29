@@ -18,6 +18,8 @@ description: "Blog post archives."
     <td class="archive-icon">📺</td>
     {% elsif post.tags contains "music" %}
     <td class="archive-icon">🎵</td>
+    {% elsif post.tags contains "quotes" %}
+    <td class="archive-icon">💬</td>
     {% elsif post.tags contains "weekend reading" %}
     <td class="archive-icon">📰</td>
     {% elsif post.tags contains "books" and post.tags contains "reviews" %}
