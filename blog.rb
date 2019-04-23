@@ -60,6 +60,10 @@ class Blog < Thor
         categories: blog
         tags:
         - 
+
+        links:
+        - url: 
+          title: 
         ---
 
         Content for link post.
