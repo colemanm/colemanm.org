@@ -5,6 +5,7 @@ title: "Weekend Reading: Running Maps, Thinking, and Remote Work"
 description: "Planning runs, Vannevar Bush on the future of thinking, and best practices for remote work."
 categories: blog
 tags:
+- weekend reading
 - maps
 - health
 - running
