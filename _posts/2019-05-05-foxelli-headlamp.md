@@ -13,7 +13,7 @@ tags:
 
 Since I do so many of my runs at night (even as late as 10-10:30pm), I've always been mindful of being visible for safety. Until we moved last month, I used to drive down to the Coffee Pot Bayou area and run on what's called the [North Bay Trail](https://www.alltrails.com/trail/us/florida/north-bay-trail "North Bay Trail"), since runs in my old neighborhood were boring. That whole route was on a dedicated trail set back from the street, so visibility was less of an issue. Now that I'm doing most runs in the neighborhood, even though the sidewalks are good, there are plenty of crossings that can be sketchy in the dark. So I [bought a headlamp](https://www.amazon.com/Foxelli-Headlamp-Flashlight-Lightweight-Waterproof/dp/B014JUMTXM/ "Foxelli Headlamp") to try out.
 
-{% include image.html file="foxelli-headlamp.jpg" description="" caption="no" %}
+{% include image.html file="foxelli-headlamp.jpg" description="Headlamp" caption="no" %}
 
 I haven't gotten to use it yet, but will likely be doing some runs in the evenings over the next week.
 
