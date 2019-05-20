@@ -17,6 +17,5 @@ For the past 9 months or so I've been pretty consistently running at night time 
 Most of the miles I've done late were down on the waterfront toward downtown St. Pete. There's a nice set back trail down there which is well-lit, so safety and visibility never worried me that much. After the move though I'm running mostly in the neighborhood where the street lighting is a lot less consistent and the sidewalks aren't always great. I posted last week about the headlamp I got, which I tested out last night:
 
 {% include image.html file="headlamp-night-running.jpg" description="Headlamp for night running" %}
-img
 
 It worked great — comfortable to wear, plenty bright without being overkill, and adjustable to point down in front of me for good visibility. Today was a 90 degree heater, so it feels good to have an added level of safety for keeping up the night runs where I can get in miles without melting in the sun
