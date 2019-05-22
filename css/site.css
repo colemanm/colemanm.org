@@ -267,6 +267,8 @@ blockquote.twitter-tweet {
 }
 .rating { color: #333; }
 
+.place { text-align: center; }
+
 .end {
   text-align: center;
   color: #ddd;

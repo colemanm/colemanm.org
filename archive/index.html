@@ -24,6 +24,8 @@ description: "Blog post archives."
     <td class="archive-icon">📰</td>
     {% elsif post.tags contains "books" and post.tags contains "reviews" %}
     <td class="archive-icon">📚</td>
+    {% elsif post.tags contains "places" %}
+    <td class="archive-icon">🗺</td>
     {% else %}
     <td class="archive-icon">☕️</td>
     {% endif %}
