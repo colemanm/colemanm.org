@@ -163,7 +163,7 @@ span.topic {
   margin: 0 auto;
   padding: 10px 0;
 }
-.post img.partial, link img.partial {
+.post img.partial, .link img.partial {
   position: relative;
   text-align: center;
   display: block;
