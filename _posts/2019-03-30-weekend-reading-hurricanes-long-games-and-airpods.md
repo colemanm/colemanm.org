@@ -32,7 +32,7 @@ The [NSF StEER program](https://web.fulcrumapp.com/communities/nsf-rapid/ "StEER
 
 ### 🧘🏻‍♂️ [The Surprising Power of the Long Game](https://fs.blog/2018/10/long-game/ "The Surprising Power of the Long Game")
 
-Ever since my [health issues]({{ site.url }}/post/2018-in-review/ "2018 in Review") in 2017, the value of the little things has become much more apparent. I came out of that with a renewed interest in investing in mental and physical health for the future. Reading about, thinking about, and practicing meditation have really helped to put the things that matter in perspective when I consider consciously how I spend my time. This piece is a simple reminder of the comparative valye of the "long game".
+Ever since my [health issues]({{ site.url }}/post/2018-in-review/ "2018 in Review") in 2017, the value of the little things has become much more apparent. I came out of that with a renewed interest in investing in mental and physical health for the future. Reading about, thinking about, and practicing meditation have really helped to put the things that matter in perspective when I consider consciously how I spend my time. This piece is a simple reminder of the comparative value of the "long game".
 
 ### 🎧 [AiriPods](http://www.asymco.com/2019/03/28/airipods/ "AiriPods")
 

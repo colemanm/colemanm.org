@@ -20,7 +20,7 @@ I've never been a particularly goal-oriented person. Putting big numbers on the 
 
 I took a [new approach this year]({{ site.url }}/post/2019/ "2019") by picking some things and tying numbers to them to see how it'd go. So far at about the 4+ month mark, results [look promising]({{ site.url }}/post/goal-progress-april/ "April Goal Progress"). Because I'm such a data-driven person, I knew that not only was it critical to have the target mark set, but to be able to measure the progress toward those marks over the course of the year. Building this spreadsheet to keep track of my pace against the trendline has helped. I look at it all the time to keep up with it:
 
-{% include image.html file="habits-goal-pacing.png" description="" caption="no" %}
+{% include image.html file="habits-goal-pacing.png" description="Goal tracking" caption="no" %}
 
 One of the keys was to pick only a few goals and focus on them — running, meditation, reading books, and blogging. Those are what I've got on the board that I'm measuring. Trying to also add weightlifting, getting an MBA, or swimming to that list would overload the available resources and none of it would happen. I intentionally picked things that fit a specific class: not too time consuming, still enjoyable activities in their own right, fit my day-to-day pattern of life, and healthy over the long run.
 
