@@ -2,7 +2,7 @@
 layout: post
 date: 2019-04-24
 title: "Best Songs, Pt. 5: I Remember Clifford"
-description: ""
+description: "A tribute to the late trumpeter, composed by saxophonist Benny Golson."
 categories: blog
 tags:
 - music
