@@ -3,7 +3,7 @@ layout: link
 date: 2019-06-09
 title: "Five Lessons from History"
 target: https://www.collaborativefund.com/blog/five-lessons-from-history/
-description: "Morgan Housel zooms out on how we can take away large, generalizable lessons from history.
+description: "Morgan Housel zooms out on how we can take away large, generalizable lessons from history."
 categories: blog
 tags:
 - history
