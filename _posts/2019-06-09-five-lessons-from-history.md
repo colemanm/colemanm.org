@@ -7,6 +7,10 @@ description: "Morgan Housel zooms out on how we can take away large, generalizab
 categories: blog
 tags:
 - history
+
+links:
+- url: https://www.collaborativefund.com/blog/five-lessons-from-history/
+  title: "Five Lessons from History"
 ---
 
 Another great piece from Morgan Housel, this one on what we can learn from history.
