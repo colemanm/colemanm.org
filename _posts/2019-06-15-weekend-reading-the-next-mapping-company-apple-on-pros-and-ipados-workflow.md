@@ -5,6 +5,7 @@ title: "Weekend Reading: The Next Mapping Company, Apple on Pros, and iPadOS Wor
 description: "Who might be the next mapping company, Apple's response to pro demands, and working workflow on iPadOS."
 categories: blog
 tags:
+- weekend reading
 - maps
 - data
 - Apple
