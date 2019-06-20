@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 date: 2019-06-19
 title: "The Bing of Maps"
 target: https://om.co/2019/06/13/the-bing-of-maps/
