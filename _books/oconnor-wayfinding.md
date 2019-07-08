@@ -14,7 +14,7 @@ genres:
 - science
 - history
 isbn: 9781250096968
-rating: 3
+rating: 2
 pages: 368
 format: audiobook
 publish_year: 2019

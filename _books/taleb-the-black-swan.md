@@ -16,7 +16,7 @@ genres:
 - psychology
 - science
 isbn: 9781400063512
-rating: 3
+rating: 34
 pages: 366
 format: paperback
 publish_year: 2007
