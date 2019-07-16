@@ -10,6 +10,7 @@ tags:
 - rivers
 - Myanmar
 - archipelago
+- geography
 ---
 
 On this edition of Places is the [Mergui Archipelago](https://en.wikipedia.org/wiki/Mergui_Archipelago), a string of coastal islands off of southern Myanmar in the Andaman Sea.
