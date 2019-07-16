@@ -9,8 +9,8 @@ permalink: /post/:title/
 port: 4001
 url: https://www.colemanm.org
 
-tag_page_layout: tag
-tag_page_dir: topics
+# tag_page_layout: tag
+# tag_page_dir: topics
 
 collections:
   maps:
