@@ -5,7 +5,9 @@ title: "Neuralink"
 description: "Neuralink's launch event for their brain-computer interface device."
 categories: blog
 tags:
-- 
+- neuroscience
+- biology
+- technology
 ---
 
 Yesterday was [Neuralink](https://www.neuralink.com/ "Neuralink")'s unveiling of what they've been working on. Their team of engineers, neurosurgeons, and computer science experts are working on a "neural lace" brain-computer interface.
