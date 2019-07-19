@@ -283,14 +283,14 @@ blockquote.twitter-tweet {
   line-height: 1.9em;
 }
 
-.post .footnotes {
+.post .footnotes, .link .footnotes {
   font-size: 0.8em;
   margin: 15px 0;
 }
-.post .footnotes ol {
+.post .footnotes ol, .link .footnotes ol {
   border-top: #ddd;
 }
-.post .footnotes p {
+.post .footnotes p, .link .footnotes p {
   margin: 2px 0;
 }
 
