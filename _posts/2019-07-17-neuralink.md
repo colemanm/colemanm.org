@@ -5,6 +5,7 @@ title: "Neuralink"
 description: "Neuralink's launch event for their brain-computer interface device."
 categories: blog
 tags:
+- video
 - neuroscience
 - biology
 - technology
