@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-07-23
-title: "Garmin fēnix 5"
+title: "Garmin fenix 5"
 description: "A review of the Garmin fēnix 5 after two years of heavy use."
 img: /images/post-images/garmin-fenix-5.jpg
 categories: blog
