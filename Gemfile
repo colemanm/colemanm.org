@@ -8,7 +8,6 @@ gem 'thor'
 group :jekyll_plugins do
   gem 'github-pages'
   gem 'jekyll-admin'
-  gem 'jekyll-tagging'
 end
 
 group :test, :development do
