@@ -15,7 +15,7 @@ url: https://www.colemanm.org
 collections:
   maps:
     output: true
-  books:
+  books: a
     output: true
     permalink: /books/:title/
 
@@ -40,5 +40,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll/tagging
+  # - jekyll/tagging
   # - jekyll-admin
