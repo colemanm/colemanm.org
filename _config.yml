@@ -15,7 +15,7 @@ url: https://www.colemanm.org
 collections:
   maps:
     output: true
-  books: a
+  books:
     output: true
     permalink: /books/:title/
 
