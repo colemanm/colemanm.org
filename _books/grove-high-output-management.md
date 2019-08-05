@@ -14,7 +14,7 @@ genres:
 - management
 - productivity
 isbn: 9780679762881
-rating: 4
+rating: 5
 pages: 272
 format: paperback
 publish_year: 1983
