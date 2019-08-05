@@ -13,7 +13,7 @@ tags:
 
 You hear the criticism all the time around the business world about meetings being useless, a waste of time, and filling up schedules unnecessarily.
 
-A different point of view on this topic comes from [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove "Andy Grove") in his book _[High Output Management]({{ site.url }}/books/grove-high-output-management/ "High Output Management")_. It's 35 years old, but much of it is just as relevant today as back then, with timeless principles on work.
+A different point of view on this topic comes from [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove "Andy Grove") in his book _[High Output Management]({{ site.url }}/post/managerial-leverage/ "Managerial Leverage")_. It's 35 years old, but much of it is just as relevant today as back then, with timeless principles on work.
 
 Grove is adamant that for the manager, the "meeting" is an essential piece in the [managerial leverage toolkit]({{ site.url }}/post/modes-of-control/ "Modes of Control"). From page 53:
 
