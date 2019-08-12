@@ -3,6 +3,7 @@ layout: post
 date: 2019-08-08
 title: "Places: The Kolyma River"
 description: "Sediment flow from the mouth of a Siberian River."
+img: /images/post-images/places-kolyma-river.jpg
 categories: blog
 tags:
 - places
