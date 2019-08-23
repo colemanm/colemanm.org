@@ -7,7 +7,6 @@ categories: blog
 tags:
 - music
 - favorite songs
-- video
 - post-rock
 - Explosions in the Sky
 ---
