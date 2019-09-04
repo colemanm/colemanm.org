@@ -9,9 +9,7 @@ tags:
 - Washington, DC
 ---
 
-<div class="embed">
-<iframe title="Early Washington DC" src="http://www.youtube.com/embed/eKY45I9Bsho?rel=0" frameborder="0">Early DC.</iframe>
-</div>
+{% include video.html id="eKY45I9Bsho" %}
 
 [Visualizing Washington, DC — circa 1800](http://www.maproomblog.com/2011/06/visualizing_early_washington.php).
 
