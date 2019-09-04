@@ -1,6 +1,7 @@
 <meta property="author" content="Coleman McCormick" />
 <meta name="description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}notes and links - @colemanm{% endif %}">
 <meta name=viewport content="width=device-width,minimum-scale=1">
+<meta name="keywords" content="{{ page.tags | join: ', ' }}" />
 <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
 <meta property="og:type" content="article" />
