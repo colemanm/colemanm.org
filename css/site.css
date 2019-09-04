@@ -131,15 +131,18 @@ span.topic {
   color: #999;
 }
 
+/* regular posts */
 .post {
   margin: 8px 0 2em 0;
   background: #fff;
   position: relative;
 }
-.post h1 {
+.post h2 {
+  font-size: 2em;
   margin-top: 10px;
+  line-height: 1.3em;
 }
-.post h1 a {
+.post h2 a {
   border: none;
 }
 .post p {
@@ -185,7 +188,6 @@ span.topic {
 .post-table {
   margin-bottom: 15px;
 }
-
 .post .book {
   position: relative;
   left: -75px;
@@ -214,26 +216,12 @@ blockquote.twitter-tweet {
   margin: 0 auto;
 }
 
-.video {
-  position: relative;
-  left: -75px;
-  width: 850px;
-	padding-bottom: 56.25%; /* 16:9 */
-  padding-top: 25px;
-}
-.video iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-
+/* link posts */
 .link, .book {
   margin: 8px 0 2em 0;
   background: #fff;
 }
-.link h1 {
+.link h2 {
   font-size: 1.3em;
 }
 .link .meta {
@@ -244,6 +232,8 @@ blockquote.twitter-tweet {
   color: #bbb;
   clear: left;
 }
+
+/* books */
 .book-archive {
   font-size: 0.85em;
 }
@@ -266,6 +256,21 @@ blockquote.twitter-tweet {
   color: #aaa;
 }
 .rating { color: #333; }
+
+.video {
+  position: relative;
+  left: -75px;
+  width: 850px;
+	padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+}
+.video iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
 
 .place { text-align: center; }
 
@@ -387,6 +392,28 @@ blockquote.twitter-tweet {
 .share { display:  block; text-align:  center; }
 .share iframe {
   vertical-align:  top;
+}
+
+/* search */
+.search-input {
+  -webkit-appearance: none;
+  border: 1px solid #e5e7e7;
+  font-family: inherit;
+  font-size: 1.3em;
+  width: 100%;
+  padding: 0.25em;
+}
+.result .post-title {
+}
+.result .post-date {
+  font-size: 0.8em;
+  color: #bbb;
+}
+.result p {
+  font-size: 0.9em;
+}
+#results {
+  margin-bottom: 30px
 }
 
 #footer {

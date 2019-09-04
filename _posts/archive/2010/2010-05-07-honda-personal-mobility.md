@@ -8,8 +8,6 @@ tags:
 - robotics
 ---
 
-<div class="embed">
-<iframe title="Mobility robot" src="http://www.youtube.com/embed/cuIJRsAuCHQ?rel=0" frameborder="0">Mobility Prototype</iframe>
-</div>
+{% include video.html id="cuIJRsAuCHQ" %}
 
 My favorite part of the design of this thing is its ability to move in two dimensions without rotating, with its large wheel made out of small perpendicular wheels.  Amazing engineering.
