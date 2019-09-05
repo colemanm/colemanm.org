@@ -2,3 +2,15 @@
 <script src="/js/lunr.min.js"></script>
 <script src="/js/lunr-feed.js"></script>
 {% endif %}
+
+<script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
