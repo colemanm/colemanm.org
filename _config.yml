@@ -22,7 +22,6 @@ collections:
 feed:
   path: atom.xml
 
-#files to exclude, array
 exclude:
   - CONTRIBUTING.md
   - README.md
@@ -40,5 +39,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  # - jekyll/tagging
-  # - jekyll-admin
