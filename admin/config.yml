@@ -4,7 +4,7 @@ backend:
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
-media_folder: "images"
+media_folder: "images/post-images"
 
 collections:
   - name: "blog"
@@ -13,4 +13,29 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "", default: ""}
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - { label: "Post", value: "post" }
+          - { label: "Link", value: "link" }
+        default: ["post"]
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Title", name: "title", widget: "string", default: "Title" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Categories", name: "categories", widget: "hidden", default: "blog" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+      - { label: "Content", name: "body", widget: "markdown" }
+      - label: "Links"
+        name: "links"
+        widget: "list"
+        fields:
+          - label: "Link"
+            name: "url"
+            widget: "string"
+          - label: "Title"
+            name: "title"
+            widget: "string"
