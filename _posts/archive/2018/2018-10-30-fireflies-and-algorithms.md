@@ -14,7 +14,7 @@ links:
   title: "Fireflies and Algorithms"
 ---
 
-This is an interesting piece from [OpenCorporates](https://opencorporates.com/) on tech disruption in corporate infrastructure:
+This is an interesting piece from [OpenCorporates](https://opencorporates.com/ "OpenCorporates") on tech disruption in corporate infrastructure:
 
 > Companies are nothing more than legal constructs. They are artificial persons created by states or courts, and given the power to enter into contracts, own assets, take on debt. You can’t see or touch them — though you can see the things they make, or the offices they own or rent — they only exist in the legal world.
 

@@ -26,5 +26,5 @@ Another great cartographic analysis from Justin O'Beirne, this time on the lates
 Most of the analysis digs into how they might be deriving this new data: some algorithmically, but some through manual human extraction. The most interesting bits, though, are comparison's to where Apple sits relative to their competition (Google) on preparedness for the world of automated vehicles. With the changes Apple and Google are making to their products, it seems Google is headed in the direction of human-oriented map data ("where do you want to go?") versus the type of data required in getting there ("what's the next turn?"). Of course the latter category will gradually become obsolete as machines take over the process of navigation.
 
 > Unless they’re already listed on Yelp, none of the shapes Apple has added appear in its search results or are labeled on its map. And this is a problem for Apple because AR is all about labels—but Apple’s new map is all about shapes.
-> 
+>
 > So is Apple making the right map?

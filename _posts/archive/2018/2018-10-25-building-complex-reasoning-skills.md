@@ -15,7 +15,7 @@ links:
   title: "Building Complex Reasoning Skills Online Through Open-Ended Activities"
 ---
 
-The Khan Academy's [Long-term Research](https://www.khanacademy.org/research) group studies new strategies for teaching and learning. This paper presents a method for freeform response and feedback on open-ended  The dynamism and interactivity of these tools for teaching are fantastic. I haven't seen some of these modern e-learning platforms in a long time, things like Blackboard or Canvas. I have used Khan Academy extensively and am always impressed. My childhood self would've really taken to the engaging presentation style of the content.
+The Khan Academy's [Long-term Research](https://www.khanacademy.org/research "Khan Academy Long Term Research") group studies new strategies for teaching and learning. This paper presents a method for freeform response and feedback on open-ended  The dynamism and interactivity of these tools for teaching are fantastic. I haven't seen some of these modern e-learning platforms in a long time, things like Blackboard or Canvas. I have used Khan Academy extensively and am always impressed. My childhood self would've really taken to the engaging presentation style of the content.
 
 > Students shouldn’t have to wait until their adulthood to pursue open-ended problems and improve their ideas through discourse with others. Indeed, as we’ve discussed, contemporary learning standards insist that students develop these skills earlier than ever. Skillfully-orchestrated classroom  activities can successfully build these practices, but teachers across the country have lamented to us about how challenging and time-consuming these sessions are to facilitate.
 >

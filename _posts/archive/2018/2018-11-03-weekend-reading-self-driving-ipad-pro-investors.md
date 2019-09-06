@@ -11,6 +11,14 @@ tags:
 - Apple
 - investing
 - business
+
+links:
+- url: https://medium.com/self-driven/how-self-driving-cars-could-communicate-with-you-in-the-future-e814d276937f
+  title: "How Self-Driving Cars Could Communicate with You"
+- url: https://sixcolors.com/post/2018/10/brooklyn-event-impressions-the-ipad-pro-is-a-computer/
+  title: "iPad Pro Event"
+- url: https://open.buffer.com/buying-out-investors/
+  title: "Buffer Buying Out Investors"
 ---
 
 ### 🚙 [How Self-Driving Cars Could Communicate with You](https://medium.com/self-driven/how-self-driving-cars-could-communicate-with-you-in-the-future-e814d276937f "How Self-Driving Cars Could Communicate with You")
