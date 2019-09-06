@@ -9,8 +9,7 @@ require 'yaml'
 require 'rake'
 require 'haml'
 require 'fileutils'
-require 'active_support/core_ext/object'
-require 'active_support/core_ext/hash'
+require 'active_support/all'
 require 'kramdown'
 
 class Blog < Thor
