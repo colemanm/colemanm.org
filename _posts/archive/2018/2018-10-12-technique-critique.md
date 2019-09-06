@@ -7,6 +7,7 @@ categories: blog
 tags:
 - video
 - film
+- linguistics
 ---
 
 This series with dialect coach Erik Singer is great, I could watch dozens of these. He critiques renditions of different accents, some of them specific regional dialects:

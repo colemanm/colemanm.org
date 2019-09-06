@@ -19,11 +19,11 @@ links:
   title: "Products Are Functions"
 ---
 
-### 💻 [Learning from Terminals to Design Future User Interfaces](https://brandur.org/interfaces)
+### 💻 [Learning from Terminals to Design Future User Interfaces](https://brandur.org/interfaces "Learning from Terminals to Design Future User Interfaces")
 
 Pieces like this often come off like geeks calling for a return to how it "used to be" — "HyperCard was the peak of dev tools". But this author makes some excellent points about performance, responsiveness, and control. As a frequent terminal user, there's a tactility to it that comes from its fast response to input, but it is true that consoles have lagged behind in other ways like media richness and user interface display.
 
-### 🔐 [Quantum Computers and Cryptography](https://www.schneier.com/blog/archives/2018/09/quantum_computi_2.html)
+### 🔐 [Quantum Computers and Cryptography](https://www.schneier.com/blog/archives/2018/09/quantum_computi_2.html "Quantum Computers and Cryptography")
 
 Bruce Schneier:
 
@@ -36,6 +36,6 @@ Bruce Schneier:
 > factoring and the discrete logarithm problem. Doubling the key length increases the difficulty to break by a factor of eight. That's not enough of a 
 > sustainable edge.
 
-### 🚦 [Products Are Functions](https://www.feltpresence.com/functions.html)
+### 🚦 [Products Are Functions](https://www.feltpresence.com/functions.html "Products Are Functions")
 
 Ryan Singer on the concept of products behaving like mathematical functions; they sit between an input and output, processing one into the other. Having known input and known desired output serves as a mental aid to "solve for" `f(x)` in the middle.
