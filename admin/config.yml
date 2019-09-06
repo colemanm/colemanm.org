@@ -25,9 +25,7 @@ collections:
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Image", name: "img", widget: "image" }
       - { label: "Categories", name: "categories", widget: "hidden", default: "blog" }
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Content", name: "body", widget: "markdown" }
       - label: "Links"
         name: "links"
@@ -39,3 +37,38 @@ collections:
           - label: "Title"
             name: "title"
             widget: "string"
+  - name: "books"
+    label: "Books"
+    folder: "_books"
+    create: true
+    slug: "{{author_last}}-{{title}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "book" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Author Last Name", name: "author_last", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options: ["nonfiction", "fiction"]
+      - { label: "Image", name: "img", widget: "boolean", default: true }
+      - { label: "Series", name: "series", widget: "string" }
+      - { label: "Part", name: "part", widget: "number" }
+      - { label: "Genres", name: "genres", widget: "list" }
+      - { label: "ISBN", name: "isbn", widget: "string" }
+      - { label: "Rating", name: "rating", widget: "number" }
+      - { label: "Pages", name: "pages", widget: "number" }
+      - label: "Format"
+        name: "rating"
+        widget: "select"
+        options:
+          - { label: "Audiobook", name: "audiobook" }
+          - { label: "Kindle", name: "kindle" }
+          - { label: "Paperback", name: "paperback" }
+          - { label: "Hardcover", name: "hardcover" }
+      - { label: "Publish Year", name: "publish_year", widget: "date", format: "YYYY" }
+      - { label: "Date Started", name: "date_started", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "Date Completed", name: "date_completed", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "Goodreads ID", name: "goodreads_id", widget: "number" }
