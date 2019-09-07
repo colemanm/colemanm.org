@@ -32,7 +32,7 @@ Easily the most impressive interactive notebook I've ever seen. This one from To
 
 Another great example of the power of interactive programs. This one lets you compute bicycle chainring gear ratios by speed setting. You can add multiple cassettes and chainrings to compare:
 
-{% include image.html file="bicycle-gear-ratios.jpg" description="" caption="no" %}
+{% include image.html file="bicycle-gear-ratios.jpg" description="Bicycle drivetrain analysis" caption="no" %}
 
 ### 🌍 [Mapping the Mediterranean](https://observablehq.com/@toja/mapping-the-mediterranean "Mapping the Mediterranean")
 
