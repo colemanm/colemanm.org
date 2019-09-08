@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "A Conflict of Visions"
-subtitle: ""
+subtitle: "Ideological Origins of Political Struggles"
 author: Thomas Sowell
 author_last: Sowell
 slug: sowell-a-conflict-of-visions
