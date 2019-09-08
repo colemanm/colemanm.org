@@ -4,10 +4,12 @@ source 'http://rubygems.org'
 
 gem 'haml'
 gem 'thor'
-
-group :jekyll_plugins do
-  gem 'github-pages'
-end
+gem 'jekyll'
+gem 'jekyll-redirect-from'
+gem 'jekyll-feed'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
+gem 'jemoji'
 
 group :test, :development do
   gem 'html-proofer'

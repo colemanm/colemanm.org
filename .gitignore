@@ -2,5 +2,6 @@
 .DS_Store
 /images/.DS_Store
 .jekyll-metadata
+.jekyll-cache
 .bundle
 Gemfile.lock
