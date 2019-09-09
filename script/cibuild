@@ -18,8 +18,5 @@ bundle exec rake test
 title "checking ruby"
 bundle exec rubocop -D -S
 
-title "Checking DNS"
-bundle exec github-pages health-check
-
 title "Cleaning up..."
 rm -Rf _site
