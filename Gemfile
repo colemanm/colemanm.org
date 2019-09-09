@@ -11,7 +11,6 @@ gem 'jekyll-sitemap'
 gem 'jemoji'
 gem 'thor'
 
-
 group :test, :development do
   gem 'html-proofer'
   gem 'nokogiri'
