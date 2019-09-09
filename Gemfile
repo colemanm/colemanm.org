@@ -3,13 +3,14 @@
 source 'http://rubygems.org'
 
 gem 'haml'
-gem 'thor'
 gem 'jekyll'
-gem 'jekyll-redirect-from'
 gem 'jekyll-feed'
-gem 'jekyll-sitemap'
+gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
 gem 'jemoji'
+gem 'thor'
+
 
 group :test, :development do
   gem 'html-proofer'
