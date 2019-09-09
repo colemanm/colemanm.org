@@ -16,7 +16,7 @@ map:
 
 I’ve discovered a phenomenon on YouTube of these types of videos — long many-hour clips of calm scenery or environments for the purposes of relaxation or background ambience.
 
-{% include video.html id="HSsqzzuGTPo" %}
+{% include video.html id="HSsqzzuGTPo" title="Aerial Video for Geography Nerds" %}
 
 Like I said in a post [about cycling]({{ site.url }}/post/cycling-a-sport-for-geographers/ "Cycling for Geographers") a few posts ago, these aerial views are incredibly pleasing to watch and nerd out over the topography and landscapes they’re flying over. The clip above contains footage over Croatia, but isn’t specific about where. I did some searching around on the web and Google Earth and narrowed it down to [Krka National Park](https://en.wikipedia.org/wiki/Krka_National_Park "Krka National Park") (the first 45 minutes or so). Those waterfalls and river valleys are incredible.
 

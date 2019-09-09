@@ -13,7 +13,7 @@ tags:
 
 From one of my new favorite YouTube channels, [The B1M](https://www.youtube.com/user/TheB1MLtd), comes this list of the most remote buildings.
 
-{% include video.html id="wGS53t8ZbO8" %}
+{% include video.html id="wGS53t8ZbO8" title="The World's Most Remote Buildings" %}
 
 The [Svalbard Global Seed Vault](https://www.croptrust.org/our-work/svalbard-global-seed-vault/) is straight out of science fiction.
 

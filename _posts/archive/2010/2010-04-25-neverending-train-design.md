@@ -9,6 +9,6 @@ tags:
 - design
 ---
 
-{% include video.html id="p9Ig19gYP9o" %}
+{% include video.html id="p9Ig19gYP9o" title="A Never-Ending Train" %}
 
 An amazing train station design &mdash; the trains don't have to stop.

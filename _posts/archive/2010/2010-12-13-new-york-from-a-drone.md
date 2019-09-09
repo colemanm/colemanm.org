@@ -9,7 +9,7 @@ tags:
 - New York City
 ---
 
-{% include video.html id="M9cSxEqKQ78" %}
+{% include video.html id="M9cSxEqKQ78" title="New York City Flyover" %}
 
 Someone attached HD video cameras to an RC airplane and flew it all around the urban environments of New York City.
 

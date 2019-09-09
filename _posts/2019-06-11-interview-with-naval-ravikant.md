@@ -10,7 +10,7 @@ tags:
 - Naval Ravikant
 ---
 
-{% include video.html id="3qHkcs3kG44" %}
+{% include video.html id="3qHkcs3kG44" title="Interview with Naval Ravikant" %}
 
 Naval’s thoughtful, measured perspective on most issues I find insightful and novel in a sea of people with hot takes and commentary around political issues in the zeitgeist. He’s got an interesting “long view” on a range of things from automation to economics to thinking and more.
 

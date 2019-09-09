@@ -19,4 +19,4 @@ Since [OpenStreetMap](http://www.openstreetmap.org/) is growing in leaps and bou
 
 Video:
 
-{% include video.html id="kkhuUMxyXoI" %}
+{% include video.html id="kkhuUMxyXoI" title="Grassroots Mapping" %}

@@ -21,4 +21,4 @@ Our friends over at the [American Geographical Society](https://twitter.com/Amer
 
 Check out the introduction video:
 
-{% include video.html id="ZxPUegn12GY" %}
+{% include video.html id="ZxPUegn12GY" title="EthicalGEO" %}

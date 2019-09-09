@@ -11,7 +11,7 @@ tags:
 - startups
 ---
 
-{% include video.html id="j0MKhlLTav4" %}
+{% include video.html id="j0MKhlLTav4" title="Keith Rabois on This Week in Startups" %}
 
 When I first heard about his company [Opendoor](https://www.opendoor.com/ "Opendoor") (a real estate startup with the goal of creating faster liquidity for home sellers), I started following [Keith Rabois](https://twitter.com/rabois "Keith Rabois on Twitter"). His Twitter account is a good follow.
 

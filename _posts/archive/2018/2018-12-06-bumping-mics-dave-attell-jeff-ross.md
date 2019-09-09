@@ -11,6 +11,6 @@ tags:
 - Dave Attell
 ---
 
-{% include video.html id="TLZgdmGN2JQ" %}
+{% include video.html id="TLZgdmGN2JQ" title="Dave Attell & Jeff Ross" %}
 
 I loved this recent podcast with Dave Attell and Jeff Ross, promoting their new Netflix special _[Bumping Mics](https://www.netflix.com/title/80216094)_. This is a great freeform conversation (like most of Rogan's shows) with three veteran comedians with a lot of banter about the industry, reminiscing about other comic legends. We watched their new special last night. Hilarious stuff.

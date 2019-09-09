@@ -13,7 +13,7 @@ tags:
 
 In college I'd listened to KRS-One's solo albums before I ever heard his original work with Boogie Down Productions. One of my top songs is the landmark track from their 1988 album _By All Means Necessary_:
 
-{% include video.html id="h1vKOchATXs" %}
+{% include video.html id="h1vKOchATXs" title="Best Songs, Part 2: My Philosophy" %}
 
 "My Philosophy" is the opener that sets the tone for the record, just like "Poetry" from their first album.
 

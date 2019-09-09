@@ -10,6 +10,6 @@ tags:
 - Marty Cagan
 ---
 
-{% include video.html id="gCYFmrvPI8Q" %}
+{% include video.html id="gCYFmrvPI8Q" title="Product is Hard" %}
 
 I linked a couple weeks ago [to a piece]({{ site.url }}/post/the-vp-product-role/ "VP Product Role") from Marty Cagan. That led me to this talk that covers a lot of his thoughts on approaching product issues. Wide ranging and thought provoking stuff for product managers.

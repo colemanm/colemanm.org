@@ -13,4 +13,4 @@ tags:
 
 This is a 2005 commencement address delivered by the late David Foster Wallace at Kenyon College. Worth going back and listening to from time to time.
 
-{% include video.html id="PhhC_N6Bm_s" %}
+{% include video.html id="PhhC_N6Bm_s" title="This is Water" %}

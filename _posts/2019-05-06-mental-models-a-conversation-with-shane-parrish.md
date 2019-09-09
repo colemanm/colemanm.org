@@ -19,4 +19,4 @@ links:
 
 This is a great episode between two guys with interesting perspectives. Parrish's [Farnam Street](https://fs.blog/blog/) blog is one of my favorites out there, along with his podcast, [The Knowledge Project](https://fs.blog/the-knowledge-project/). This conversation covers a lot on the FS ["mental models" series](https://fs.blog/mental-models/).
 
-{% include video.html id="xYoecW3j7u0" %}
+{% include video.html id="xYoecW3j7u0" title="Mental Models: A Conversation with Shane Parrish" %}

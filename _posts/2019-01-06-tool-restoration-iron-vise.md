@@ -9,7 +9,7 @@ tags:
 - craftsmanship
 ---
 
-{% include video.html id="rwGlBH7YJPg" %}
+{% include video.html id="rwGlBH7YJPg" title="Restoring Antique Tools" %}
 
 This guy has an interesting channel with metalwork, restoration, and blacksmithing. In a day I watched all of his tool restoration videos. This one is a massive 500lb vise he found, dating from the 18th century in an Italian foundry. The restorations use acids, elbow grease, electrolysis, custom iron or brass casting, and even 3D printing to fashion replacement parts. Mesmerizing stuff.
 

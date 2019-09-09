@@ -11,6 +11,6 @@ tags:
 - Art Blakey
 ---
 
-{% include video.html id="uKOoxgI_xfQ" %}
+{% include video.html id="uKOoxgI_xfQ" title="Best Songs, Part 3: Moanin’" %}
 
 This live rendition by The Jazz Messengers is a great version of an even better song. It was composed by Art Blakey’s sideman and pianist Bobby Timmons (on the keys in this session). I love the blues-infected build and refrain. Lee Morgan’s blasting first solo is one of the best out there.

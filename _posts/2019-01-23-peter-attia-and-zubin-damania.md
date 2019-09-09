@@ -13,7 +13,7 @@ tags:
 - video
 ---
 
-{% include video.html id="IiuJZbxqkMg" %}
+{% include video.html id="IiuJZbxqkMg" title="Peter Attia and Zubin Damania Conversation" %}
 
 I’ve listened to a few of Peter Attia’s _[The Drive](https://peterattiamd.com/podcast/)_ podcast episodes. This one was a [stand-out conversation](https://peterattiamd.com/podcast/) between him and Dr. Zubin Damania. It’s a wide-ranging discussion about the health care system, diet, creativity, and meditation (among other things).
 

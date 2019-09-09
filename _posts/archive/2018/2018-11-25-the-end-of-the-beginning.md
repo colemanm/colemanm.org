@@ -13,4 +13,4 @@ tags:
 
 An excellent talk from [a16z](https://a16z.com/)’s [Benedict Evans](https://www.ben-evans.com/) on what’s next for tech and the internet.
 
-{% include video.html id="RF5VIwDYIJk" %}
+{% include video.html id="RF5VIwDYIJk" title="The End of the Beginning" %}

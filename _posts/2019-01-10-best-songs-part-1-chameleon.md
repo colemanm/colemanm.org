@@ -17,7 +17,7 @@ I started putting together my own playlist and thought I’d share them here in 
 
 The first on my list is Herbie Hancock’s “Chameleon”, from the 1973 album _[Head Hunters](https://en.wikipedia.org/wiki/Head_Hunters "Herbie Hancock's Head Hunters")_.
 
-{% include video.html id="UbkqE4fpvdI" %}
+{% include video.html id="UbkqE4fpvdI" title="Best Songs, Part 1: Chameleon" %}
 
 So many excellent elements in this song, which is now a standard covered by jazz bands at festivals year in and year out. The walking bass line, the synths, wild electric piano solo, and my personal favorite: Harvey Mason’s backbeat snare followed by double bass kick.
 

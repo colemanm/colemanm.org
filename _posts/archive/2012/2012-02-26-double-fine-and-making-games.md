@@ -9,7 +9,7 @@ tags:
 - video
 ---
 
-{% include video.html id="re_LWmRJK-g" %}
+{% include video.html id="re_LWmRJK-g" title="Double Fine: Making Games" %}
 
 Ron Gilbert and Tim Schafer have a conversation about adventure games.
 

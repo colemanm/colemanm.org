@@ -11,7 +11,7 @@ tags:
 - design
 ---
 
-{% include video.html id="aR5N2Jl8k14" %}
+{% include video.html id="aR5N2Jl8k14" title="Generative AI" %}
 
 This talk on "generative AI" was interesting. One bit stuck out to me as really thought-provoking:
 

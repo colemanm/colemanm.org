@@ -10,7 +10,7 @@ tags:
 - open source
 ---
 
-{% include video.html id="I5PpkPbdP5s" %}
+{% include video.html id="I5PpkPbdP5s" title="WhereCampTB" %}
 
 My talk from Ignite Spatial at [WhereCampTB](http://www.wherecamptb.org), talking about the [OSM Tampa Bay](http://www.osmtampabay.org) meetup group. Check out the slides in better detail [here](https://speakerdeck.com/u/colemanm/p/osm-tampa-bay).
 

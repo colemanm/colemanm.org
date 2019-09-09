@@ -13,7 +13,7 @@ tags:
 
 Yesterday was [Neuralink](https://www.neuralink.com/ "Neuralink")'s unveiling of what they've been working on. Their team of engineers, neurosurgeons, and computer science experts are working on a "neural lace" brain-computer interface.
 
-{% include video.html id="r-vbh3t7WVI?start=5427" %}
+{% include video.html id="r-vbh3t7WVI?start=5427" title="Neuralink" %}
 
 
 Elon Musk announced the launch of a company to work on this problem back in 2016. Seeing this amount of progress, it's clear now that the science fiction story of a cybernetic implant looks like a possible near future reality. The idea itself conjures images of *[Neuromancer](https://en.wikipedia.org/wiki/Neuromancer "Neuromancer")*'s console cowboys and Effinger's "[moddies](https://en.wikipedia.org/wiki/When_Gravity_Fails "When Gravity Fails")", neural augmentations that enable things like plugging into the matrix and personality modification.

@@ -9,7 +9,7 @@ tags:
 - technology
 ---
 
-{% include video.html id="P73REgj-3UE" %}
+{% include video.html id="P73REgj-3UE" title="Primitive Technology" %}
 
 I just ran across this YouTube channel called [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA "Primitive Technology"), created by an Australian from the North Queensland bush country who attempts to recreate building things with Stone Age technology. He makes his own charcoal, fires clay hardware, makes tools, and supplies himself with mud, clay, wood, and everything else right out of the local environment.
 

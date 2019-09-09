@@ -14,7 +14,7 @@ tags:
 
 A wide-ranging conversation on linguistics, human scientific advancement, and enlightenment thinking with Steven Pinker and John McWhorter.
 
-{% include video.html id="NeHW0MJSxMs" %}
+{% include video.html id="NeHW0MJSxMs" title="Language and Progress" %}
 
 Linguistics is endlessly fascinating.
 

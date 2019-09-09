@@ -16,7 +16,7 @@ links:
   title: "Clippy: The Unauthorized Biography"
 ---
 
-{% include video.html id="8bhjNvSSuLM" %}
+{% include video.html id="8bhjNvSSuLM" title="Clippy: The Unauthorized Biography" %}
 
 One of my favorite tech figures, a16z's [Steven Sinofsky](https://twitter.com/stevesi "Steven Sinofsky"), gives a [history of "Clippy"](https://a16z.com/2019/04/27/clippy-unauthorized-biography/ "History of Clippy"), the helpful anthropomorphic office supply from Microsoft Office. As the product leader of the Office group in the 90s, he gives some interesting background to how Clippy came to be. I found most fascinating the time machine look back at what personal computing was like back then — how different it was to develop a software product in a world of boxed software.
 

@@ -12,7 +12,7 @@ tags:
 - marketing
 ---
 
-{% include video.html id="fK5YUIS86SY" %}
+{% include video.html id="fK5YUIS86SY" title="Growth, Sales, and a New Era of B2B" %}
 
 This talk from [a16z](https://a16z.com/ "a16z")'s [Martin Casado](https://twitter.com/martin_casado "Martin Casado") covers how the market for B2B SaaS go-to-market is changing from sales-driven to a marketing-driven. We've been thinking a lot about this lately in the context of [Fulcrum](https://www.fulcrumapp.com "Fulcrum") — how the "consumerization of IT" plays into how business users today are finding, evaluating, purchasing, and expanding their usage of software.
 

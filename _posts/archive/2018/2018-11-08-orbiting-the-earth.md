@@ -17,7 +17,7 @@ links:
 
 This is a 92 minute 4K video taken from the International Space Station as it orbits Earth, in real-time:
 
-{% include video.html id="Xjs6fnpPWy4" %}
+{% include video.html id="Xjs6fnpPWy4" title="Orbiting the Earth, and Other Zen Videos" %}
 
 If you've got an Apple TV and used their "Aerial" screensavers, this'll look familiar. Most of those ones are drone footage or other things close to the ground, but recently they've got a couple done from space. This one is even better, though. It's mesmerizing to see how small everything looks from this perspective, with no borders or "human" landscapes. Just the Earth and its natural chaos and beauty.
 

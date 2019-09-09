@@ -10,7 +10,7 @@ tags:
 - augmented reality
 ---
 
-{% include video.html id="j9JXtTj0mzE" %}
+{% include video.html id="j9JXtTj0mzE" title="Topography & Augmented Reality" %}
 
 Generating a real-time topographic map with a sandbox, Kinect, and a projector.
 

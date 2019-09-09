@@ -12,7 +12,7 @@ tags:
 - ambient
 ---
 
-{% include video.html id="m6HaXmN2Mpo" %}
+{% include video.html id="m6HaXmN2Mpo" title="Best Songs, Pt. 4: Blade Runner Blues" %}
 
 _Blade Runner_ is one of the best movies, but I actually enjoy the soundtrack even more. This one is my favorite, probably the centerpiece of the score that embodies the vibe of the 2019 dystopian Los Angeles from the film. This whole album is in regular rotation for me.
 

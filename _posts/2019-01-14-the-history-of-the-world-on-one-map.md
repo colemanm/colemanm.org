@@ -11,7 +11,7 @@ tags:
 - maps
 ---
 
-{% include video.html id="-6Wu0Q7x5D0" %}
+{% include video.html id="-6Wu0Q7x5D0" title="The History of the World on One Map" %}
 
 Every year since the pre-Stone Age area, visualized as a time lapse on a map.
 

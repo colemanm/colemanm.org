@@ -18,7 +18,7 @@ map:
 
 I don't remember what got me to it, but the other day I found this short documetary video about Southern California's [Salton Sea](https://en.wikipedia.org/wiki/Salton_Sea "Salton Sea"), a saline lake about 80 miles inland from San Diego:
 
-{% include video.html id="wCYcSbCR6z4" %}
+{% include video.html id="wCYcSbCR6z4" title="The Salton Sea" %}
 
 I knew about its infamy as a failed resort destination, with planned developments like Desert Shores and Salton City that popped up on its edge in the 1950s. What I didn't know was the sea's history as the result of an engineering accident, induced by the California Development Company trying to divert the Colorado for irrigation purposes, back in 1905. That accident, high rains and snowmelt, and subsequent attempts to control the high waters resulted in the basin filling up. The geothermal activity in the valley gave the lake a salty, sulfurous quality that since ruined its chances as a vacation attraction.
 

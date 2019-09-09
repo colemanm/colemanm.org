@@ -13,7 +13,7 @@ tags:
 - Madlib
 ---
 
-{% include video.html id="2s02qPFXyDE" %}
+{% include video.html id="2s02qPFXyDE" title="Best Songs, Pt. 6: Montara" %}
 
 The title track from vibraphonist Bobby Hutcherson's 1975 album *[Montara](https://en.wikipedia.org/wiki/Montara_(album) "Montara")*. I love the gentle electric piano, muted horns, and of course Bobby's vibes.
 

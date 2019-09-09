@@ -13,4 +13,4 @@ tags:
 
 During this TED talk from 2003, Jeff Bezos compares the Internet revolution to the early years of electrification. Even 15 years ago he was already describing the core philosophy behind his future products, like Amazon Web Services. AWS is like electricity for technology companies: paying the AWS bill is like paying your utility bill.
 
-{% include video.html id="vMKNUylmanQ" %}
+{% include video.html id="vMKNUylmanQ" title="The Electricity Metaphor" %}

@@ -11,7 +11,7 @@ tags:
 - places
 ---
 
-{% include video.html id="yU2kANHyF1w" %}
+{% include video.html id="yU2kANHyF1w" title="The Deadly Logistics of Everest" %}
 
 Earlier this week I finished reading Jon Krakauer's _[Into Thin Air]({{ site.url }}/books/krakauer-into-thin-air/ "Into Thin Air")_, his account of climbing Mount Everest and surviving the [1996 Everest disaster](https://en.wikipedia.org/wiki/1996_Mount_Everest_disaster "1996 Everest Disaster"). The book reads like a thriller, giving the account of how an expedition team prepares for the climb, including the experience in country beforehand and acclimatization process for weeks leading up to the climb.
 

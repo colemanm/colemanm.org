@@ -11,7 +11,7 @@ tags:
 
 If you enjoy hearing stories from visionaries, listen to this talk that Gabe Newell (founder of [Valve](https://en.wikipedia.org/wiki/Valve_Corporation)) gave at UT Austin:
 
-{% include video.html id="t8QEOBgLBQU" %}
+{% include video.html id="t8QEOBgLBQU" title="Reflections of a Video Game Maker" %}
 
 In it he discusses economies within [Steam](https://en.wikipedia.org/wiki/Steam_(software)), where Steam is headed as a central core of APIs for game publishing, and a good bit about how the company operates.
 

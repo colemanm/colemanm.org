@@ -16,6 +16,6 @@ There are several excellent renditions of this tribute to the late trumpeter [Cl
 
 My favorite version is this live cut from Freddie Hubbard, 1984. Captures the soul of the original perfectly, on stage and with little accompaniment.
 
-{% include video.html id="kuGO8IY50b4" %}
+{% include video.html id="kuGO8IY50b4" title="Best Songs, Pt. 5: I Remember Clifford" %}
 
 See also the excellent [original studio recording](https://www.youtube.com/watch?v=o_XDEStRF88) from Donald Byrd's _Jazz Lab_, 1957.

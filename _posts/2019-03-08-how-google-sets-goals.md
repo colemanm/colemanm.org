@@ -21,6 +21,6 @@ I’ve been thinking and reading more about [OKRs](https://en.wikipedia.org/wiki
 
 This is an old workshop put on by [GV](https://www.gv.com/ "GV")’s [Rick Klau](https://twitter.com/rklau "Rick Klau on Twitter"). He does a good job giving a bird’s eye view of how to set OKRs and the importance of linking them through the organizational hierarchy:
 
-{% include video.html id="mJB83EZtAjc" %}
+{% include video.html id="mJB83EZtAjc" title="How Google Sets Goals" %}
 
 He also has a [good post](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82 "Superpowers at Work: OKRs") on the subject from a few years later.

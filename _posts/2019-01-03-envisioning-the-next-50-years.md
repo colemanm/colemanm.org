@@ -10,6 +10,6 @@ tags:
 - futurism
 ---
 
-{% include video.html id="iAMxQG_buag" %}
+{% include video.html id="iAMxQG_buag" title="Envisioning the next 50 years" %}
 
 One of my favorite science fiction authors, now a self-described "futurist", Bruce Sterling, on how to think about the future.

@@ -12,6 +12,6 @@ tags:
 
 This series with dialect coach Erik Singer is great, I could watch dozens of these. He critiques renditions of different accents, some of them specific regional dialects:
 
-{% include video.html id="NvDvESEXcgE" %}
+{% include video.html id="NvDvESEXcgE" title="Technique Critique" %}
 
 Maybe it's related to my interest in geography, but I'm always curious to learn how to differentiate accents from different countries and localities.

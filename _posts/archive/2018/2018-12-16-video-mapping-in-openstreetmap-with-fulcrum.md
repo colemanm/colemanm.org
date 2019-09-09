@@ -19,7 +19,7 @@ I’ve been collecting street-level imagery for years [using windshield mounts](
 
 This is a quick sample of what video looks like from my dash mount. It’s fairly stable, and the mounts are low-cost. This is the SV player in the Fulcrum Editor review tool:
 
-{% include video.html id="c6F301y0T0M" %}
+{% include video.html id="c6F301y0T0M" title="Video Mapping in OpenStreetMap with Fulcrum" %}
 
 One of the cool things about the Fulcrum format is that it’s video, so that smoothness can help make sure you’ve got each frame needed — particularly on high speed thoroughfares. We built in a feature to control the frame rate and resolution of the video recording, so what I do is maximize the resolution but drop the frame rate well below 30 fps. This helps tremendously to minimize the data quantity that’s got to get back to the server. Even 3 or 5 fps can be plenty for mapping purposes. I usually go with 10 or so just to smooth it out a little bit; the size doesn’t get too bad until you go past 15 or so.
 

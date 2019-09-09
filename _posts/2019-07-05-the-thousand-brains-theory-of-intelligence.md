@@ -27,4 +27,4 @@ He recently published a paper on the â€œThousand Brains Theory of Intelligenceâ€
 
 [Sandy](https://twitter.com/sandykory "Sandy Kory") sent me to this [MIT AI podcast interview](https://lexfridman.com/jeff-hawkins/ "Jeff Hawkins on AI Podcast") with Hawkins that goes deep on the Thousand Brains Theory and many other interesting related subjects of neuroscience and brain research.
 
-{% include video.html id="-EVqrDlAqYo" %}
+{% include video.html id="-EVqrDlAqYo" title="The Thousand Brains Theory of Intelligence" %}
