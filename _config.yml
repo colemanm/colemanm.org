@@ -18,6 +18,9 @@ collections:
   books:
     output: true
     permalink: /books/:title/
+  articles:
+    output: true
+    permalink: /articles/:title/
 
 feed:
   path: atom.xml
