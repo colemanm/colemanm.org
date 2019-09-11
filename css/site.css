@@ -215,6 +215,9 @@ span.topic {
 blockquote.twitter-tweet {
   margin: 0 auto;
 }
+.article h2 {
+  font-family: Georgia, serif;
+}
 
 /* link posts */
 .link, .book {
