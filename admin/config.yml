@@ -27,6 +27,7 @@ collections:
       - { label: "Categories", name: "categories", widget: "hidden", default: "blog" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Content", name: "body", widget: "markdown" }
+      - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
       - label: "Links"
         name: "links"
         widget: "list"
