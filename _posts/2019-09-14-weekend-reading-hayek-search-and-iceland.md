@@ -23,7 +23,7 @@ links:
   title: "fzf — a fuzzy finder for the command line"
 ---
 
-###  [The Use of Knowledge in Society](https://www.kysq.org/docs/Hayek_45.pdf "The Use of Knowledge in Society")
+### ⚖️ [The Use of Knowledge in Society](https://www.kysq.org/docs/Hayek_45.pdf "The Use of Knowledge in Society")
 
 I've been reading some of Hayek's famous articles this week. This one is all about what he probably considered one of the most important concepts, since these basic ideas form a central thesis for most of his works. His argument was for bottoms-up, decentralized systems of decision-making instead of centralized, top-down systems:
 
