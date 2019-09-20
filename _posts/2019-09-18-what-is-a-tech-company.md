@@ -3,13 +3,14 @@ layout: link
 date: 2019-09-18 15:54:20 EST
 title: "What is a Tech Company?"
 target: https://stratechery.com/2019/what-is-a-tech-company/
-description: ""
+description: "Ben Thompson on the defining characteristics of modern tech companies."
 categories: blog
 tags:
-- 
+- business
+- analysis
 
 links:
-- url: 
+- url: https://stratechery.com/2019/what-is-a-tech-company/
   title: "What is a Tech Company?"
 ---
 
