@@ -21,6 +21,9 @@ collections:
   articles:
     output: true
     permalink: /articles/:title/
+  quotes:
+    output: true
+    permalink: /quotes/:title/
 
 feed:
   path: atom.xml

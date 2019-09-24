@@ -11,7 +11,7 @@ tags:
 <p>Quotations worth remembering.</p>
 
 <div class='posts'>
-  {% assign quotes = site.quotes %}
+  {% assign quotes = site.quotes | sort: 'person' %}
   {% for quote in quotes %}
   <div>
     <div class="quote">"{{ quote.content | strip }}"</div>
