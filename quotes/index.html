@@ -14,7 +14,7 @@ tags:
   {% assign quotes = site.quotes | sort: 'person' %}
   {% for quote in quotes %}
   <div>
-    <div class="quote">"{{ quote.content | strip}}"</div>
+    <div class="quote">{{ quote.content | strip }}</div>
     <div class="person">— <strong>{{ quote.person }}</strong></div>
     <div class="end">&#10022;</div>
   </div>
