@@ -260,6 +260,11 @@ blockquote.twitter-tweet {
 }
 .rating { color: #333; }
 
+/* quotes */
+.quote {
+  font-size: 1.2em;
+}
+
 .video {
   position: relative;
   left: -75px;
