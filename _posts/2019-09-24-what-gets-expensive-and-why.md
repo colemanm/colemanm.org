@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-24 23:28:05 EST
+date: 2019-09-24 21:28:05 EST
 title: "What Gets Expensive, and Why?"
 target: https://medium.com/@arnoldkling/what-gets-expensive-and-why-33bf4b891be2
 description: "Economist Arnold Kling on why certain areas of the economy increase in cost while others drop."
