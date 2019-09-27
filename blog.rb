@@ -20,12 +20,13 @@ class Blog < Thor
     title = options[:title]
     slug  = title.downcase.strip.tr(' ', '-').gsub(/[^\w-]/, '')
     date  = generate_date(options[:date])
+    datetime = generate_datetime(options[:date])
     file  = File.join('./_posts/', "#{date}-#{slug}.md")
     open(file, 'w') do |post|
       post.puts <<~BLOGPOST
         ---
         layout: post
-        date: #{date}
+        date: #{datetime}
         title: "#{title.tr('-', ' ')}"
         description: ""
         categories: blog
@@ -47,12 +48,13 @@ class Blog < Thor
     title = options[:title]
     slug  = title.downcase.strip.tr(' ', '-').gsub(/[^\w-]/, '')
     date  = generate_date(options[:date])
+    datetime = generate_datetime(options[:date])
     file = File.join('./_posts/', "#{date}-#{slug}.md")
     open(file, 'w') do |link|
       link.puts <<~LINKPOST
         ---
         layout: link
-        date: #{date}
+        date: #{datetime}
         title: "#{title.tr('-', ' ')}"
         target: url
         description: ""
@@ -113,6 +115,10 @@ class Blog < Thor
   no_tasks do
     def generate_date(postdate)
       (postdate ? Time.parse(postdate) : Time.now).strftime('%F')
+    end
+
+    def generate_datetime(postdate)
+      (postdate ? Time.parse(postdate) : Time.now).strftime('%F %R %Z')
     end
   end
 end
