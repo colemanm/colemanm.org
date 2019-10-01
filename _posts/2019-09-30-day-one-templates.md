@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-30 22:14:09 EST
+date: 2019-09-30 22:14:09
 title: "Day One Templates"
 target: https://dayoneapp.com/2019/09/its-time-for-templates/
 description: "A new templating feature for regular journaling in Day One."

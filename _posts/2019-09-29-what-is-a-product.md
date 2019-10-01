@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-29 20:13:00 EST
+date: 2019-09-29 20:13:00
 title: "What is a Product?"
 target: https://svpg.com/what-is-a-product/
 description: "Marty Cagan's simple definition of what constitutes a thriving product team."

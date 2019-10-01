@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-28 21:14:53 EST
+date: 2019-09-28 21:14:53
 title: "Weekend Reading: Signaling, Busyness, and Magic Ink"
 description: "Virtue signaling, busyness as a proxy for productivity, and Bret Victor's analysis of information design."
 categories: blog
