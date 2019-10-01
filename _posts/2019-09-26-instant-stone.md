@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-26 20:16:17 EST
+date: 2019-09-26 18:16:17 EST
 title: "Instant Stone"
 target: https://rootsofprogress.org/instant-stone-just-add-water
 description: "Roots of Progress on the history of cement and concrete."
