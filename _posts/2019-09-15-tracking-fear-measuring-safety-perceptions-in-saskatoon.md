@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-15
+date: 2019-09-15 14:23:00
 title: "Tracking Fear: Measuring Safety Perceptions in Saskatoon"
 target: https://safe-growth.blogspot.com/2019/09/tracking-fear-measuring-safety.html
 description: "A cool post on a study done by a research team in the City of Saskatoon, looking at the perceptions of safety in a downtown area using Fulcrum."

@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-22 21:21:27 EST
+date: 2019-09-22 21:21:27
 title: "Green Tech Bringing Life Back to the Sea"
 description: "An Israeli startup building a new kind of marine-safe concrete."
 categories: blog

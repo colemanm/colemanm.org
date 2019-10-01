@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-20 17:10:42 EST
+date: 2019-09-20 17:10:42
 title: "Data as a Living Asset"
 description: "Thoughts on data warehouse archives, the living, institutional knowledge you’ve invested in over years or decades of doing business, full of latent value."
 img: /images/post-images/data-as-an-asset.jpg

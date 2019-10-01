@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-21 15:02:33 EST
+date: 2019-09-21 15:02:33
 title: "Weekend Reading: Ted Chiang, Renewable Energy, and ColorBox"
 description: "An interview with Ted Chiang, renewables outlook around the world, and a tool for color generation."
 img: /images/post-images/renewables-map.jpg

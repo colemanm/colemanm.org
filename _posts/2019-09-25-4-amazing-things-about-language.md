@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-25 22:09:11 EST
+date: 2019-09-25 22:09:11
 title: "4 Amazing Things About Language"
 description: "Dialect expert Erik Singer and 4 amazing things about languages."
 categories: blog

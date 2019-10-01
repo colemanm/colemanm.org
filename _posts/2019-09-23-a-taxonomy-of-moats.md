@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-23 17:08:46 EST
+date: 2019-09-23 17:08:46
 title: "A Taxonomy of Moats"
 target: http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html
 description: "An analysis of competitive advantages."

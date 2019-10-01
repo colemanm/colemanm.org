@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-17 20:53:42 EST
+date: 2019-09-17 20:53:42
 title: "The Magic of Recurring Revenue"
 description: "Thoughts on recurring revenue, SaaS, and the power of incentives."
 img: /images/post-images/recurring-revenue.jpg

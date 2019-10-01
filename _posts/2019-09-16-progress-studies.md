@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-16 22:15:53 EST
+date: 2019-09-16 22:15:53
 title: "Progress Studies"
 description: "On the budding subject of Progress Studies, to understand better how society makes advances in science and technology."
 categories: blog

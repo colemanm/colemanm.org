@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-09-19 22:41:46 EST
+date: 2019-09-19 22:41:46
 title: "The Full Reset"
 target: https://www.collaborativefund.com/blog/the-full-reset/
 description: "On the power of starting with no baggage, sunk costs, or past poor decisions."

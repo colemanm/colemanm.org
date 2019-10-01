@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-14 08:40:18 EST
+date: 2019-09-14 08:40:18
 title: "Weekend Reading: Iceland, the Use of Knowledge, and CLI Search"
 description: "Hayek on society's use of knowledge, a fuzzy finder for the command line, and beautiful footage of Iceland's geography."
 categories: blog
