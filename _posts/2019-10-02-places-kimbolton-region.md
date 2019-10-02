@@ -13,7 +13,7 @@ tags:
 
 I first saw this through Google's [Earth View](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh "Earth View") a few months back. It's a coastal area of the Kimberly Region in Western Australia.
 
-{% include image.html file="places-kimbolton.jpg" description="" caption="no" %}
+{% include image.html file="places-kimbolton.jpg" description="Kimbolton" caption="no" %}
 
 Bands of low-lying mountain ranges run from southeast to northwest, jutting out into the Timor Sea. The striated bands of folded rock formations create low-elevation channels, and where these meet the ocean you get fjord-like features slicing into the coastline. It reminds me of [The Vale](https://gameofthrones.fandom.com/wiki/The_Vale_of_Arryn "The Vale") from the map of Westeros.
 
