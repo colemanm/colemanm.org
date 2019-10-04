@@ -118,7 +118,7 @@ class Blog < Thor
     end
 
     def generate_datetime(postdate)
-      (postdate ? Time.parse(postdate) : Time.now).strftime('%F %R %Z')
+      (postdate ? Time.parse(postdate) : Time.now).strftime('%F %R %H:%M:%S')
     end
   end
 end
