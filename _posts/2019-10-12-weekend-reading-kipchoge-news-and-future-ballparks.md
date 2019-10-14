@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2019-10-12 16:53:05
-title: "Weekend Reading: Kipchoge’s 2 Hours, Future Ballparks, and the World in Data"
-description: "Kipchoge breaks 2 hours, designing future ballparks, and causes of death in the news.
+title: "Weekend Reading: Kipchoge's 2 Hours, Future Ballparks, and the World in Data"
+description: "Kipchoge breaks 2 hours, designing future ballparks, and causes of death in the news."
 categories: blog
 tags:
 - weekend reading
@@ -39,4 +39,3 @@ An architect’s manifesto on how teams can rethink the design of baseball stadi
 ### 📰 [Does the News Reflect What We Die From?](https://ourworldindata.org/does-the-news-reflect-what-we-die-from "News Accuracy")
 
 Analysis of how media over-represents rare causes, and represents almost not at all the most common causes of death.
-
