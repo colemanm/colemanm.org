@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "Basic Economics"
-subtitle:
+subtitle: "A Common Sense Guide to the Economy"
 author: Thomas Sowell
 author_last: Sowell
 slug: sowell-basic-economics
