@@ -2,7 +2,7 @@
 layout: post
 date: 2019-10-19 16:53:44
 title: "Weekend Reading: Baseball Graphics, the Mind Illuminated, and the Crucial Century"
-description: "Comparing baseball broadcast graphics, a review of The Mind Illuminated, and thinking about the most likely sites for the Industrial Revolution.
+description: "Comparing baseball broadcast graphics, a review of The Mind Illuminated, and thinking about the most likely sites for the Industrial Revolution."
 categories: blog
 tags:
 - weekend reading
