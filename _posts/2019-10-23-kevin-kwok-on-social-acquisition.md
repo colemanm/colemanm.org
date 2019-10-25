@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2019-10-23 22:04 22:04:58
+date: 2019-10-23 22:04:58
 title: "Kevin Kwok on Social Acquisition Loops"
 target: https://kwokchain.com/2019/10/24/notes-on-superhumans-acquisition-loops/
 description: "Kevin Kwok's observations on how Superhuman is creating a feedback loop for user acquisition."
