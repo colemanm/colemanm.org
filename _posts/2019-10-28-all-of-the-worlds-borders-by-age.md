@@ -16,7 +16,6 @@ links:
   title: "All of the World’s Borders by Age"
 ---
 
-
 In preparation for this year’s [Geography 2050](http://2019.geography2050.org/ "Geography 2050") theme (“borders in a borderless world”), this map gives a helpful sense of how relatively young most of the world’s international boundaries are. Outside of Europe, most boundaries are shades of red or blue (dating from 1800 or later).
 
 {% include image.html file="borders-by-age.jpg" description="Borders by Age" caption="no" %}
