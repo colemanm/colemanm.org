@@ -20,7 +20,7 @@ The big achievement this month was the culmination of the half marathon training
 | **Meditation** | 3208 minutes | 3040 minutes | 3650 minutes | <span class="green">+168</span>    |
 | **Reading**    | 47 books     | 37.48 books  | 50 books     | <span class="green">+9.52</span>   |
 
-The other notable movement was surpassing the 500 mile goal, which happened on this run and I didn’t even realize it at the time. I was able to knock out the mileage goal 2 1/2 months early. Back in March I definitely didn’t expect to be much over the target at all, let alone a full 100 miles beyond the pace mark. At this rate I’m pretty confident in hitting the 600 mile mark, especially with the nicer weather around the corner. I might do one more race in December, likely only a 10 or 15K.
+The other notable movement was surpassing the 500 mile goal, which happened on [this run](https://www.strava.com/activities/2804708135/overview "Warm") and I didn’t even realize it at the time. I was able to knock out the mileage goal 2 1/2 months early. Back in March I definitely didn’t expect to be much over the target at all, let alone a full 100 miles beyond the pace mark. At this rate I’m pretty confident in hitting the 600 mile mark, especially with the nicer weather around the corner. I might do one more race in December, likely only a 10 or 15K.
 
 This month I finally finished _[The Federalist](/books/hamilton-the-federalist-papers/ "The Federalist")_, which I’d put down for a while. I made extensive notes throughout it. I’m looking forward to flipping back through for a refresher soon. Such a phenomenal work to put together such a deep, thoughtful, still-relevant rationale for strong but limited governance.
 
