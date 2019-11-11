@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+
+source .env-native
+
+ROOT=$(pwd)
+
+echo "========================"
+echo $PATH
+echo "========================"
+
+function print_versions() {
+  echo "============================="
+  echo "| directory: $(pwd)"
+  echo "| ruby:      $(asdf exec ruby -v)"
+  echo "| gem:       $(asdf exec gem -v)"
+  echo "| bundler:   $(asdf exec bundle -v)"
+  echo "| "
+  echo "============================="
+}
+
+function navigate() {
+  cd $ROOT/$1
+  print_versions
+}
+
+function bundle_install() {
+  BUNDLE_ARGS=""
+
+  if [[ -n "${FORCE}" ]]; then
+    rm -rf .bundle
+    BUNDLE_ARGS="--force"
+  fi
+
+  asdf exec bundle install --path .bundle $BUNDLE_ARGS
+}
+
+asdf exec gem uninstall bundler
+asdf exec gem install bundler -v 2.0.1
+
+navigate ./
+bundle_install

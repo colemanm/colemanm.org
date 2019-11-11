@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+source .env-native
+
+echo "Checking dependencies..."
+echo "========================"
+echo $PATH
+echo "========================"
+
+printf "Checking for asdf..."
+command -v asdf >/dev/null 2>&1 || { echo >&2 "asdf must be installed first. brew install asdf."; exit 1; }
+echo "[👌]"
+
+printf "Checking for forego... "
+command -v forego >/dev/null 2>&1 || { echo >&2 "forego must be installed: brew install forego"; exit 1; }
+echo "[👌]"
+
+asdf plugin-add ruby
+
+asdf install
+
+./install
