@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+source .env-native
+
+asdf exec bundle exec jekyll serve --watch --incremental $@
