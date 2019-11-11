@@ -2,4 +2,4 @@
 
 source .env-native
 
-asdf exec bundle exec jekyll serve --watch --incremental $@
+asdf exec bundle exec jekyll serve --watch --force_polling --profile --incremental --config _config_dev.yml $@
