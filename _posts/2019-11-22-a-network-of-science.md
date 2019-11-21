@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-11-21 15:38:39
+date: 2019-11-22 15:38:39
 title: "A Network of Science"
 description: "Visualizing the interconnected record of 150 years of scientific research."
 categories: blog
@@ -9,6 +9,8 @@ tags:
 - science
 - research
 - papers
+
+published: false
 ---
 
 {% include video.html id="GW4s58u8PZo" %}
