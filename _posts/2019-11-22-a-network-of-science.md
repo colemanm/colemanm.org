@@ -9,8 +9,6 @@ tags:
 - science
 - research
 - papers
-
-published: false
 ---
 
 {% include video.html id="GW4s58u8PZo" %}
