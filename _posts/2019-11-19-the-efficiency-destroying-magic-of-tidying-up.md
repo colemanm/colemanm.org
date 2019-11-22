@@ -1,7 +1,7 @@
 ---
 layout: link
 date: 2019-11-19 14:44:12
-title: "The Efficiency Destroying Magic of Tidying Up"
+title: "The Efficiency-Destroying Magic of Tidying Up"
 target: https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/
 description: "Florent Crivello on the differences between orderliness and efficiency."
 categories: blog
