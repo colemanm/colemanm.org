@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/
   title: "The Efficiency Destroying Magic of Tidying Up"
+  icon: 🌊
 ---
 
 A thought-provoking post from [Florent Crivello](https://twitter.com/Altimor "Florent Crivello"). Engineers’ continuously seek structure and organization assuming that it’s a proxy for efficiency. Here the author points out that with new tools enabling AI systems to design the most efficient way to construct things, you don’t get anything remotely like what a human would generate.

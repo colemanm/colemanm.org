@@ -18,10 +18,13 @@ tags:
 links:
 - url: https://sixcolors.com/post/2019/10/how-many-outs-baseball-playoff-graphics-compared/
   title: "How Many Outs? Baseball Graphics Compared"
+  icon: ⚾️
 - url: https://slatestarcodex.com/2018/11/28/book-review-the-mind-illuminated/
   title: "Book Review: The Mind Illuminated"
+  icon: 🧘🏽‍♀️
 - url: https://www.antonhowes.com/blog/the-crucial-century
   title: "The Crucial Century"
+  icon: 🇬🇧
 ---
 
 ### ⚾️ [How Many Outs? Baseball Graphics Compared](https://sixcolors.com/post/2019/10/how-many-outs-baseball-playoff-graphics-compared/ "Baseball Graphics Compared")

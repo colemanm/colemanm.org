@@ -15,10 +15,13 @@ tags:
 links:
 - url: https://deepmind.com/research/publications/Restoring-ancient-text-using-deep-learning-a-case-study-on-Greek-epigraphy
   title: "Restoring ancient text using deep learning: a case study on Greek epigraphy"
+  icon: 📜
 - url: https://spacenews.com/spacex-submits-paperwork-for-30000-more-starlink-satellites/
   title: "SpaceX submits paperwork for 30,000 more Starlink satellites"
+  icon: 🛰
 - url: https://foreignpolicy.com/2019/10/01/the-peoples-republic-of-china-was-born-in-chains/
   title: "The People’s Republic of China Was Born in Chains"
+  icon: 🇨🇳
 ---
 
 ### 📜 [Restoring ancient text using deep learning: a case study on Greek epigraphy](https://deepmind.com/research/publications/Restoring-ancient-text-using-deep-learning-a-case-study-on-Greek-epigraphy "Restoring ancient text using deep learning")

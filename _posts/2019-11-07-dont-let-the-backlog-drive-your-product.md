@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://postlight.com/trackchanges/dont-let-the-backlog-drive-your-product
   title: "Don’t Let the Backlog Drive Your Product"
+  icon: 📑
 ---
 
 As we’ve started to adopt a process similar to Basecamp’s, we’ve been revisiting how we think about “backlogs” — the list of ideas and various requests we _could_ work on in the product roadmap.

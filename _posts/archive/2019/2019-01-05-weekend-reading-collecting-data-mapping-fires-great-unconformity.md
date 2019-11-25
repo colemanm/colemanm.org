@@ -15,10 +15,13 @@ tags:
 links:
 - url: https://blog.spatialnetworks.com/at-spatial-networks-data-collection-is-baked-into-our-identity-a8955a9693b
   title: "How We Get Data Collected in the Field Ready for Use"
+  icon: 🗺
 - url: https://enterprise.dji.com/news/detail/mapping-camp-fire-with-drones
   title: "Mapping the Camp Fire with Drones"
+  icon: 🔥
 - url: https://www.nationalgeographic.com/science/2018/12/part-earths-crust-went-missing-glaciers-may-be-why-geology/
   title: "Earth is Missing a Huge Part of its Crust"
+  icon: 🌏
 ---
 
 ### 🗺 [How We Get Data Collected in the Field Ready for Use](https://blog.spatialnetworks.com/at-spatial-networks-data-collection-is-baked-into-our-identity-a8955a9693b)

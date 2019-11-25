@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://www.econtalk.org/rory-sutherland-on-alchemy/
   title: "Rory Sutherland on Alchemy"
+  icon: 🎙
 ---
 
 This is a great conversation from EconTalk with advertising exec Rory Sutherland on his new book _[Alchemy](https://www.goodreads.com/book/show/26210508 "Alchemy")_. He's got interesting ideas on the role of psychology and human emotion when it comes to decision making, markets, choice, and governance. A very entertaining and humorous discussion, as well.

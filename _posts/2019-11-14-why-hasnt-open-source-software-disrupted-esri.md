@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://medium.com/@joemorrison/why-hasnt-open-source-software-disrupted-esri-a55896dd6f58
   title: "Why Hasn’t Open Source Software Disrupted Esri?"
+  icon: 🗺
 ---
 
 This is a great post from my friend [Joe Morrison](https://twitter.com/mouthofmorrison "Joe Morrison") assessing the state of the open source software movement in GIS against the biggest corporate competitive friction point, Esri.

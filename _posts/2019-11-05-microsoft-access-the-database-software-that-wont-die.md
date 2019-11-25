@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://medium.com/young-coder/microsoft-access-the-zombie-database-software-that-wont-die-5b09e389c166
   title: "Microsoft Access: The Database Software That Won't Die"
+  icon: 🗄
 ---
 
 I love this story about Access and how it's still hanging on with a sizable user base after almost a decade of neglect by its parent. It goes to show you that there are still gaps in the market for software being filled by 10 year-stale applications. Getting users to unlearn behaviors is much harder than giving them an Airtable, Webflow, or Fulcrum — too much comfort and muscle memory to overcome.

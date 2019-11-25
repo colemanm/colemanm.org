@@ -17,10 +17,13 @@ tags:
 links:
 - url: https://blot.im/
   title: "Blot.im"
+  icon: 📝
 - url: https://medium.com/@robsimmon/handcrafted-visualization-precision-751fa2f465f8
   title: "Handcrafted Visualization: Precision"
+  icon: 🖋
 - url: https://medium.com/descarteslabs-team/the-satellites-hunting-for-megafires-afa1305fdc2c
   title: "The Satellites Hunting for Megafires"
+  icon: 🔥
 ---
 
 ### 📝 [Blot.im](https://blot.im/ "Blot.im")

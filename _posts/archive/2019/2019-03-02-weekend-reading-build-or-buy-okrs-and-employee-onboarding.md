@@ -13,10 +13,13 @@ tags:
 links:
 - url: https://medium.com/swlh/when-to-build-and-when-to-buy-on-the-lure-of-building-software-4dd5faf7effb
   title: "When to Build and When to Buy"
+  icon: 🖥
 - url: https://usefyi.com/onboarding-process/
   title: "7 Step Onboarding Process"
+  icon: 👩🏽‍💻
 - url: https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
   title: "re:Work OKRs from Google"
+  icon: 📈
 ---
 
 ### 🖥 [When to Build and When to Buy: The Lure of Building Software](https://medium.com/swlh/when-to-build-and-when-to-buy-on-the-lure-of-building-software-4dd5faf7effb "When to Build and When to Buy")

@@ -17,10 +17,13 @@ tags:
 links:
 - url: https://www.si.com/mlb/2019/10/30/stephen-strasburg-nationals-saved-season-world-series-game-6
   title: "How the Nationals Fixed Stephen Strasburg and Saved Their Season"
+  icon: ⚾️
 - url: https://medium.com/@michalmigurski/mapping-remote-roads-with-openstreetmap-rapid-and-qgis-bfee74f14ae0
   title: "Mapping Remote Roads with OpenStreetMap, RapiD, and QGIS"
+  icon: 🗺
 - url: https://www.reuters.com/article/us-tiktok-cfius-exclusive/exclusive-u-s-opens-national-security-investigation-into-tiktok-sources-idUSKBN1XB4IL
   title: "U.S. opens national security investigation into TikTok"
+  icon: 📱
 ---
 
 ### ⚾️ [How the Nationals Fixed Stephen Strasburg and Saved Their Season](https://www.si.com/mlb/2019/10/30/stephen-strasburg-nationals-saved-season-world-series-game-6 "How the Nationals Fixed Stephen Strasburg and Saved Their Season")

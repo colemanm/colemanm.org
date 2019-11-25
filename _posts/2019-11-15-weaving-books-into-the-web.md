@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://blog.archive.org/2019/10/29/weaving-books-into-the-web-starting-with-wikipedia/
   title: "Weaving Books Into the Web"
+  icon: 📚
 ---
 
 > The Internet Archive has transformed 130,000 references to books in Wikipedia into live links to 50,000 digitized Internet Archive books in several Wikipedia language editions including English, Greek, and Arabic. And we are just getting started. By working with Wikipedia communities and scanning more books, both users and robots will link many more book references directly into Internet Archive books. In these cases, diving deeper into a subject will be a single click.

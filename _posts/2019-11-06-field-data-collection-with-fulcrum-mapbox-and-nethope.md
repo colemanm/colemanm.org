@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://www.fulcrumapp.com/blog/field-data-collection-with-fulcrum-mapbox-and-nethope/
   title: "Field Data Collection with Fulcrum, Mapbox, and NetHope"
+  icon: 🔺
 ---
 
 I wrote this wrap-up summary of our hands-on workshop we did at the NetHope Summit in San Juan. It was a great joint session with Mikel from Mapbox and John from NetHope. I’d love to do more of these in the future. Hands-on sessions where we can get outside and see our stuff in action always teach you a lot about how your UX works in practice.

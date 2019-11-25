@@ -11,6 +11,7 @@ tags:
 links:
 - url: https://www.washingtonpost.com/outlook/2019/10/25/what-andrew-yang-means/
   title: "What Andrew Yang Means"
+  icon: 🏛
 ---
 
 [Wesley Yang](https://twitter.com/wesyang "Wesley Yang") on the potential staying power of Andrew Yang.

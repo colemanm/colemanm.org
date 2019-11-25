@@ -15,10 +15,13 @@ tags:
 links:
 - url: https://www.pbs.org/wgbh/evolution/library/10/4/l_104_02.html
   title: "Darwinian Gastronomy"
+  icon: 🌶
 - url: https://www.smithsonianmag.com/history/pioneering-maps-alexander-von-humboldt-180973342/
   title: "The Pioneering Maps of Alexander von Humboldt"
+  icon: 🌲
 - url: https://www.nationalreview.com/corner/connecting-some-dots-on-taxes/
   title: "Connecting Some Dots on Taxes"
+  icon: 💰
 ---
 
 ### 🌶 [Darwinian Gastronomy](https://www.pbs.org/wgbh/evolution/library/10/4/l_104_02.html "Darwinian Gastronomy")

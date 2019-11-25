@@ -14,10 +14,13 @@ tags:
 links:
 - url: https://blog.cloudflare.com/announcing-1111/
   title: "Announcing 1.1.1.1: Privacy-First DNS"
+  icon: 🔌
 - url: https://twitter.com/jacobmargolis/status/1095436908899913729?s=12
   title: "Opportunity is No More"
+  icon: 🛰
 - url: https://www.economist.com/leaders/2019/02/14/millennial-socialism
   title: "Millennial Socialism"
+  icon: 🏛
 ---
 
 ### 🔌 [Announcing 1.1.1.1: Privacy-First DNS](https://blog.cloudflare.com/announcing-1111/ "Announcing 1.1.1.1: Privacy-First DNS")

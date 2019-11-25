@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://www.spectator.co.uk/2019/09/business-is-the-only-area-of-human-activity-where-you-get-paid-to-change-your-mind/
   title: "Getting Paid to Change Your Mind"
+  icon: 🤔
 ---
 
 There’s a really strange phenomenon in certain arenas (particularly politics) where it’s considered a virtue to strongly hold a viewpoint and never change your position. This is strange because, as Rory Sutherland points out here, if you did this in business you’d likely run into frictions that put you out of business. Changing your mind is an imperative when presented with new data.

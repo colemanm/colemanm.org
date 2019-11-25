@@ -11,6 +11,7 @@ tags:
 links:
 - url: https://kwokchain.com/2019/10/24/notes-on-superhumans-acquisition-loops/
   title: "Kevin Kwok on Social Acquisition Loops"
+  icon: ➰
 ---
 
 An interesting article from Kevin Kwok on [Superhuman](https://superhuman.com/ "Superhuman")’s (the email client) user acquisition cycle. An ultimate example of the product-led growth model. Good observations here on what they’re doing differently in having a product-centric strategy to drive the social referral loop. I liked this piece, about their hands-on, tailored onboarding process, which is almost totally unheard of in the consumer apps space:

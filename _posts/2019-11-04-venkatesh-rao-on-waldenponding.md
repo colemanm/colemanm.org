@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://www.econtalk.org/venkatesh-rao-on-waldenponding/
   title: "Venkatesh Rao on Waldenponding"
+  icon: 🌳
 ---
 
 “Waldenponding” is a phrase coined by Rao to describe the growing backlash movement against hyperconnectedness, driving people to disconnect completely and long for a life of lower information overload and deeper meaning — a reincarnation of Thoreau’s idea from _Walden_. This podcast interview is about [an essay](https://breakingsmart.substack.com/p/against-waldenponding "Against Waldenponding") Rao wrote last year that argues _against_ this idea, a contrarian viewpoint considering the “right” or “intelligent” thing to do is considered to be disconnecting from the vapid, toxic environments of Twitter and Facebook. He makes a compelling case about a continuum of information-light vs. information-dense sources of data, and high and low latency, arguing for the merits of connectedness and low latency social media sources — the “Global Social Computer in the Cloud” as he says. On one end you have low latency/shallowness (tweets) and the other high latency/richness (1000 page history books).

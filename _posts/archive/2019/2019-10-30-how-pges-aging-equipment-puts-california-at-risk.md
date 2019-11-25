@@ -15,6 +15,7 @@ tags:
 links:
 - url: https://www.wsj.com/graphics/california-wildfire-pge-drought/
   title: "How PG+E's Aging Equipment Puts California at Risk"
+  icon: 💡
 ---
 
 This is a great narrative story from the Wall Street Journal about the current situation in California with PG&E, the rolling blackouts, and the wildfires ravaging the state. Drone video, maps, data on fire risk and infrastructure paint a pretty grim picture of the problem. It’ll take years for PG&E to catch up to where there’s anything resembling a long-term solution to this problem.
