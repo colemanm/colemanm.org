@@ -18,7 +18,7 @@ The big achievement this month was the culmination of the half marathon training
 |----------------|--------------|--------------|--------------|------------------------------------|
 | **Running**    | 520.12 miles | 416.44 miles | 500 miles    | <span class="green">+103.68</span> |
 | **Meditation** | 3208 minutes | 3040 minutes | 3650 minutes | <span class="green">+168</span>    |
-| **Reading**    | 47 books     | 37.48 books  | 50 books     | <span class="green">+9.52</span>   |
+| **Reading**    | 47 books     | 41.78 books  | 50 books     | <span class="green">+5.22</span>   |
 
 The other notable movement was surpassing the 500 mile goal, which happened on [this run](https://www.strava.com/activities/2804708135/overview "Warm") and I didn’t even realize it at the time. I was able to knock out the mileage goal 2 1/2 months early. Back in March I definitely didn’t expect to be much over the target at all, let alone a full 100 miles beyond the pace mark. At this rate I’m pretty confident in hitting the 600 mile mark, especially with the nicer weather around the corner. I might do one more race in December, likely only a 10 or 15K.
 
