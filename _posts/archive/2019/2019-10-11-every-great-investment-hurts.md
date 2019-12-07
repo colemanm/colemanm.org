@@ -11,6 +11,7 @@ tags:
 links:
 - url: https://www.collaborativefund.com/blog/every-great-investment-hurts/
   title: "Every Great Investment Hurts"
+  icon: 💵
 ---
 
 Morgan Housel on investing:

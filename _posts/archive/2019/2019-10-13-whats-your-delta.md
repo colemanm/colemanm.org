@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://ofdollarsanddata.com/whats-your-delta/
   title: "What's Your Delta?"
+  icon: 🔼
 ---
 
 On comparing yourself to others:

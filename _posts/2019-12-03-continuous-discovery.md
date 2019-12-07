@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://svpg.com/continuous-discovery/
   title: "Continuous Discovery"
+  icon: 🔎
 ---
 
 It's common practice now in software development to do "continuous integration" — a constant reintegration of newly-written code with the master application to continuously run regression and unit tests, making the process of integrating new features a series of small efforts rather than one massive one at the end of a sprint cycle:

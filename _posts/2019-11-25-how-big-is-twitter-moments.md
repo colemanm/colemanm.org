@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://medium.com/@balajis/how-big-is-twitter-moments-f3a81ee85f71
   title: "How Big is Twitter Moments?"
+  icon: 📈
 ---
 
 A post from Balaji Srinivasan from a couple years back on Twitter Moments. He had some interesting points on the likely traffic and comps to other news outlets. Twitter is still _huge_ in the timely news space. I liked this point on the opportunity here (especially for Twitter, which has done little with the platform for 5+ years):

@@ -12,6 +12,7 @@ tags:
 links:
 - url: http://www.collaborativefund.com/blog/tech/
   title: "Why New Technology is Such a Hard Sell"
+  icon: 📱
 ---
 
 Why does it take so long for new technologies with seemingly-obvious positive benefits to get adopted? This example on the speed with which the polio vaccine was adopted and administered are incredible, but an outlier:

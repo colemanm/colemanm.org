@@ -16,10 +16,13 @@ tags:
 links:
 - url: https://www.nytimes.com/2019/10/12/sports/eliud-kipchoge-marathon-record.html
   title: "Eliud Kipchoge Breaks 2-Hour Marathon Barrier"
+  icon: 🏃🏾‍♂️
 - url: https://www.sbnation.com/2019/9/26/20883568/american-sports-stadium-architecture-future
   title: "What the Future American Ballpark Should Look Like"
+  icon: ⚾️
 - url: https://ourworldindata.org/does-the-news-reflect-what-we-die-from
   title: "Does the News Reflect What We Die From?"
+  icon: 📰
 ---
 
 ### 🏃🏾‍♂️ [Eliud Kipchoge Breaks 2-Hour Marathon Barrier](https://www.nytimes.com/2019/10/12/sports/eliud-kipchoge-marathon-record.html "Kipchoge 2-Hour Marathon")
@@ -33,7 +36,7 @@ An amazing feat:
 An architect’s manifesto on how teams can rethink the design of baseball stadiums:
 
 > Fans want to feel that the club has bought into them, and a bolder model of fan engagement could give them a real stake in the club’s success. One of the most promising recent trends in North American sports is the way soccer clubs are emulating their European counterparts by developing dedicated supporters’ groups. These independent organizations drive enthusiasm and energy in the ballpark, and make sure seats stay filled.
-
+>
 > Instead of just acknowledging and tolerating the supporter group model, we’re going to encourage and codify it in the park’s architecture by giving over control of entire sections of the ballpark to fans. Rather than design the seating sections and concourse as a finished product, we’ll offer it up as a framework for fan-driven organizations to introduce their own visions.
 
 ### 📰 [Does the News Reflect What We Die From?](https://ourworldindata.org/does-the-news-reflect-what-we-die-from "News Accuracy")

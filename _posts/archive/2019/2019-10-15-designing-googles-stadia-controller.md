@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://www.popsci.com/google-stadia-game-controller-design-prototypes/
   title: "How Google Designed the Stadia Controller"
+  icon: 🎮
 ---
 
 This is a neat piece showing some of the process and iteration behind the Google design team's work on the controller for their new gaming service, [Stadia](https://store.google.com/us/product/stadia?hl=en-US "Stadia").

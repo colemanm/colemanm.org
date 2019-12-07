@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927596/
   title: "Antifragility and Tinkering in Biology (and in Business) Flexibility Provides an Efficient Epigenetic Way to Manage Risk"
+  icon: 🧬
 ---
   
 I found this piece cited in Taleb’s _Antifragile_, a unique case of an author citing a paper that was itself inspired by a galley of that book. The concept of “antifragility” (systems that gain or improve from disorder, volatility, and chaos) is fascinating. All organic or organic-like systems (economies, social orders) fall into this category, and here we see the concepts applied in biology:

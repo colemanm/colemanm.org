@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://informationisbeautiful.net/beautifulnews/
   title: "Beautiful News"
+  icon: 🗞
 ---
 
 An interesting idea for looking at data. Rather than the typical negative, dour news you read daily, this site presents data demonstrating positive progress.
