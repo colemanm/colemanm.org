@@ -12,6 +12,7 @@ tags:
 - science fiction
 - analysis
 - Slack
+- networks
 
 links:
 - url: https://www.sciencemag.org/news/2018/11/why-536-was-worst-year-be-alive
