@@ -17,10 +17,13 @@ tags:
 links:
 - url: https://electricliterature.com/ted-chiang-interview/
   title: "Ted Chiang Uses Science to Illuminate the Human Condition"
+  icon: ✍🏼
 - url: https://www.bloomberg.com/graphics/2019-can-renewable-energy-power-the-world/
   title: "Can Renewable Energy Power the World?"
+  icon: 💡
 - url: https://www.colorbox.io/
   title: "ColorBox"
+  icon: 🎨
 ---
 
 ### ✍🏼 [Ted Chiang Uses Science to Illuminate the Human Condition](https://electricliterature.com/ted-chiang-interview/ "Ted Chiang Uses Science to Illuminate the Human Condition")

@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://rootsofprogress.org/does-invention-come-from-deprivation-or-plenty
   title: "Does Invention Come from Deprivation or Plenty?"
+  icon: 🌽
 ---
 
 Another interesting post from Roots of Progress, following up from [the previous one]({{ site.url }}/post/why-did-we-wait-so-long-for-the-bicycle/ "Why did we wait so long for the bicycle?"), which asked why it took so long to invent the bicycle.

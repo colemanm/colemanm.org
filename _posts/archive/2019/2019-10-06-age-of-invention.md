@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://antonhowes.substack.com/
   title: "Age of Invention"
+  icon: 🚜
 ---
 
 A [newsletter](https://antonhowes.substack.com/ "Anton Howes") from [Dr. Anton Howes](https://twitter.com/antonhowes "Anton Howes on Twitter"), a historian studying innovation and the Industrial Revolution.

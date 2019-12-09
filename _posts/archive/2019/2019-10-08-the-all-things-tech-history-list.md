@@ -15,6 +15,7 @@ tags:
 links:
 - url: https://www.notion.so/The-All-Things-Tech-History-List-f75bdef4af3a4bbbb4cc1b4421806f76
   title: "The All Things Tech History List"
+  icon: 🖥
 ---
 
 Through a [Twitter thread](https://twitter.com/pierce/status/1180193895587577856 "Tech history on Twitter") I ran across this running catalog of resources on the history of the tech industry — books, articles, movies, and more. A definitive list of content. There are some great recommendations here that I’d never heard of, especially in the books and podcasts sections.

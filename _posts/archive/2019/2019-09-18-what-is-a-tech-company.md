@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://stratechery.com/2019/what-is-a-tech-company/
   title: "What is a Tech Company?"
+  icon: 💻
 ---
 
 Ben Thompson had an [interesting piece](https://stratechery.com/2019/what-is-a-tech-company/ "What is a Tech Company?") recently thinking through what ingredients make up a "tech" company in today's market. The term has been used for a long time somewhat interchangeably with "startup" since the 2000 tech boom era. The context of the article was to compare companies in the physical space like WeWork and Peloton to more traditional pure tech like Salesforce or Atlassian. He came up with this excellent list of descriptors to define what classifies a company as "tech":

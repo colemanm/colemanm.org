@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://dayoneapp.com/2019/09/its-time-for-templates/
   title: "Day One Templates"
+  icon: 📅
 ---
 
 [Day One](https://dayoneapp.com/ "Day One") is an excellent app for iOS and macOS for personal journaling. I've had it for a number of years, but have always been fairly irregular in my usage. Most of what I log there is photos of the kids and other kid-related memories and activities we do.

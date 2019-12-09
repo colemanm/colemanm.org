@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://rootsofprogress.org/instant-stone-just-add-water
   title: "Instant Stone"
+  icon: 🏗
 ---
 
 This is another great one from last year on [Jason Crawford](https://twitter.com/jasoncrawford "Jason Crawford")'s [Roots of Progress](https://rootsofprogress.org/ "Roots of Progress") project, in which he dives into advancements in human progress. In this post he covers a brief background on cement, one of the oldest of mankind's technological discoveries:

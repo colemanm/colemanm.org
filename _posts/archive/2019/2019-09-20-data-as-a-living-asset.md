@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://www.fulcrumapp.com/blog/data-as-a-living-asset/
   title: "Data as a Living Asset"
+  icon: 🌱
 ---
 
 *This is a post from the Fulcrum archives [I wrote](https://www.fulcrumapp.com/blog/data-as-a-living-asset/ "Data as a Living Asset") 3 years back. I like this idea and there's more to be written on the topic of how companies treat their archives of data. Especially in data-centric companies like those we work with, it's remarkable to see how quickly it often is thrown on a shelf, atrophies, and is never used again.*

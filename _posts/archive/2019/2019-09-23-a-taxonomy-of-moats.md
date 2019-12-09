@@ -12,12 +12,12 @@ tags:
 links:
 - url: http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html
   title: "A Taxonomy of Moats"
+  icon: 🏰
 ---
 
-A deep, thoughtful analysis of competitive advantages, walking through and differentiating each type: 
+A deep, thoughtful analysis of competitive advantages, walking through and differentiating each type:
 
-> An innovation is a type of competitive advantage (though not all competitive advantages are innovations) and the strategic job is to make that competitive advantage sustainable over time1, to maintain the advantage as a bulwark against competition. Mechanisms to deter or slow imitation are called, colloquially, moats.
-Moats draw their power to prevent imitation from one of four basic sources:
+> An innovation is a type of competitive advantage (though not all competitive advantages are innovations) and the strategic job is to make that competitive advantage sustainable over time1, to maintain the advantage as a bulwark against competition. Mechanisms to deter or slow imitation are called, colloquially, moats. Moats draw their power to prevent imitation from one of four basic sources:
 >
 > * The state,
 > * Special know-how,

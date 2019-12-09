@@ -13,10 +13,13 @@ tags:
 links:
 - url: https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights
   title: "Applause Lights"
+  icon: 👏🏼
 - url: https://www.fredperrotta.com/busyness-productivity/
   title: "Busyness as a Proxy for Productivity"
+  icon: 📥
 - url: http://worrydream.com/MagicInk/
   title: "Magic Ink: Information Software and the Graphical User Interface"
+  icon: 🖋
 ---
 
 ### 👏🏼 [Applause Lights](https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights "Applause Lights")

@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://m.signalvnoise.com/how-i-wrote-shape-up/
   title: "Writing Shape Up"
+  icon: ✍🏼
 ---
 
 This is a cool little background post from Ryan Singer explaining the origins and his process behind *[Shape Up](http://basecamp.com/shapeup "Shape Up")*, a web book about product development.

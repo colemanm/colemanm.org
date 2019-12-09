@@ -14,11 +14,14 @@ tags:
 
 links:
 - url: https://github.com/sharedstreets/tracejson/
-  title: "tracejson" 
+  title: "tracejson"
+  icon: 🛰
 - url: https://www.c82.net/euclid/
   title: "Byrne's Euclid"
+  icon: 🔷
 - url: https://dropbox.design/article/design-tooling-at-scale
   title: "Design Tooling at Scale"
+  icon: 🎨
 ---
 
 ### 🛰 [tracejson](https://github.com/sharedstreets/tracejson/ "tracejson")

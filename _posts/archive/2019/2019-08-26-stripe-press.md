@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://press.stripe.com/
   title: "Stripe Press"
+  icon: 📚
 ---
 
 I found out recently, I think through an [EconTalk interview](http://www.econtalk.org/tyler-cowen-on-big-business/ "Tyler Cowen on EconTalk") with economist Tyler Cowen, that Stripe has created [their own publishing house](https://press.stripe.com/ "Stripe Press") for books. From their own about page:

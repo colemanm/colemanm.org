@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://medium.com/@arnoldkling/what-gets-expensive-and-why-33bf4b891be2
   title: "What Gets Expensive, and Why?"
+  icon: 💰
 ---
 
 Patrick Collison poses and tracks possible responses to [broad questions](https://patrickcollison.com/questions) on his website. In one, he asks:

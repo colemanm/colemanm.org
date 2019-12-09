@@ -15,6 +15,7 @@ tags:
 links:
 - url: http://www.econtalk.org/david-deppner-on-leadership-confidence-and-humility/
   title: "David Deppner on Leadership, Confidence, and Humility"
+  icon: 💡
 ---
 
 I thought this was a [fantastic interview](http://www.econtalk.org/david-deppner-on-leadership-confidence-and-humility/ "David Deppner on Leadership") on EconTalk. [David Deppner](https://twitter.com/DavidDeppner "David Deppner") is a listener of the podcast that sent Russ a thought-provoking email question on the subject of leadership and what traits make for "good" qualities in a leader — whether a CEO, presidential candidate, or parent.

@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://mondaynote.com/bezos-a-ceo-who-can-write-2f368ee36599
   title: "Bezos: A CEO Who Can Write"
+  icon: ✍🏼
 ---
 
 I've linked before to pieces about Amazon's culture of [long-form writing and memos](/post/writing-docs-at-amazon/ "Writing Docs at Amazon") in place of PowerPoint for meetings and conveying new business concepts. In their case, the discipline around this kind of thoroughness comes from the top. In this piece by Jean-Louis Gassée, he references Bezos's own writing in his famous annual shareholder letters. I read these every year. It's a great example of a practice I value — using writing and long-form narrative to explain the ins and outs of an idea. Bullets, outlines, and emails leave too much room for ambiguity, and therefore don't force the level of detailed thinking through of an idea.

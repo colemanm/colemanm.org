@@ -14,10 +14,13 @@ tags:
 links:
 - url: https://www.quantamagazine.org/to-pay-attention-the-brain-uses-filters-not-a-spotlight-20190924/
   title: "To Pay Attention, the Brain Uses Filters, Not a Spotlight"
+  icon: 🧠
 - url: http://cdixon.org/2009/09/19/climbing-the-wrong-hill/
   title: "Climbing the Wrong Hill"
+  icon: ⛰
 - url: https://apenwarr.ca/log/20190926
   title: "What Do Executives Do, Anyway?"
+  icon: 👨🏽‍💼
 ---
 
 ### 🧠 [To Pay Attention, the Brain Uses Filters, Not a Spotlight](https://www.quantamagazine.org/to-pay-attention-the-brain-uses-filters-not-a-spotlight-20190924/ "To Pay Attention, the Brain Uses Filters, Not a Spotlight")

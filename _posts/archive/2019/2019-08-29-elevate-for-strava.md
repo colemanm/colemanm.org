@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://thomaschampagne.github.io/elevate/
   title: "Elevate for Strava"
+  icon: 🏃🏻‍♂️
 ---
 
 [Jason](https://twitter.com/JCSanford "Jason Sanford") turned me onto this Chrome extension for Strava data analysis called [Elevate](https://thomaschampagne.github.io/elevate/). It's a pretty amazing tool that adds deep analytics on top of the already-rich data Strava provides natively as part of their Summit plan.

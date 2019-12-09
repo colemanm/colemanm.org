@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://safe-growth.blogspot.com/2019/09/tracking-fear-measuring-safety.html
   title: "Tracking Fear: Measuring Safety Perceptions in Saskatoon"
+  icon: 🔺
 ---
 
 This is a cool post on a study done by a research team in the City of Saskatoon, looking at the perceptions of safety in a downtown area. They used [Fulcrum](https://www.fulcrumapp.com/ "Fulcrum") to collect survey data using a [safety audit](http://safe-growth.blogspot.com/2018/03/a-tool-for-archeology-of-fear.html "A Tool for the Archaeology of Fear") developed to capture the on-the-ground intelligence from residents:

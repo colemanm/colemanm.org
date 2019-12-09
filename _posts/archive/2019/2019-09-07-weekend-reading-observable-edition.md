@@ -16,10 +16,13 @@ tags:
 links:
 - url: https://observablehq.com/@tmcw/enigma-machine
   title: "The Enigma Machine"
+  icon: ⌨️
 - url: https://observablehq.com/@tysonanderson/bicycle-drivetrain-analyzer
   title: "A Bicycle Drivetrain Analyzer"
+  icon: 🚲
 - url: https://observablehq.com/@toja/mapping-the-mediterranean
   title: "Mapping the Mediterranean"
+  icon: 🌍
 ---
 
 *This week's links are all interactive notebooks on [Observable](https://observablehq.com/ ""Observable"). Their Explore section always highlights interesting things people are creating. A great learning tool for playing with data and code to see how it works.*

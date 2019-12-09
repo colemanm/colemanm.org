@@ -17,10 +17,13 @@ tags:
 links:
 - url: https://www.kysq.org/docs/Hayek_45.pdf
   title: "The Use of Knowledge in Society"
+  icon: ⚖️
 - url: https://youtu.be/whjeMdOvXC8
   title: "Islandia"
+  icon: 🇮🇸
 - url: https://github.com/junegunn/fzf
   title: "fzf — a fuzzy finder for the command line"
+  icon: 🔎
 ---
 
 ### ⚖️ [The Use of Knowledge in Society](https://www.kysq.org/docs/Hayek_45.pdf "The Use of Knowledge in Society")

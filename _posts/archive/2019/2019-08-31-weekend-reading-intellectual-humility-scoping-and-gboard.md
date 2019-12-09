@@ -15,10 +15,13 @@ tags:
 links:
 - url: https://jasoncrawford.org/what-really-happened-at-fieldbook
   title: "Missing the Light at the End of the Tunnel"
+  icon: 🛤
 - url: https://www.the-american-interest.com/2019/08/28/ten-ways-to-defuse-political-arrogance/
   title: "Ten Ways to Defuse Political Arrogance"
+  icon: 🏛
 - url: https://ai.googleblog.com/2017/05/the-machine-intelligence-behind-gboard.html
   title: "The Machine Intelligence Behind Gboard"
+  icon: ⌨️
 ---
 
 ### 🛤 [Missing the Light at the End of the Tunnel](https://jasoncrawford.org/what-really-happened-at-fieldbook "Missing the Light at the End of the Tunnel")

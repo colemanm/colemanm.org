@@ -11,6 +11,7 @@ tags:
 links:
 - url: https://svpg.com/what-is-a-product/
   title: "What is a Product?"
+  icon: 💡
 ---
 
 What definition do we mean when we talk about *product*? Like being a "product company" or working in "product management"?

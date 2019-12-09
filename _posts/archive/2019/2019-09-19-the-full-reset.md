@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://www.collaborativefund.com/blog/the-full-reset/
   title: "The Full Reset"
+  icon: ⌛️
 ---
 
 On the power of starting with no baggage, sunk costs, or past poor decisions:
