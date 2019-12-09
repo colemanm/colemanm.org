@@ -14,7 +14,7 @@ description: "Links."
 {% for post in site.posts %}
   {% for link in post.links %}
   <tr>
-  <td><a href='{{ link.url }}'>{{ link.title }}</a></td>
+  <td>{{ link.icon }} <a href='{{ link.url }}'>{{ link.title }}</a></td>
   </tr>
   {% endfor %}
 {% endfor %}
