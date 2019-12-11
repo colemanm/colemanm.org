@@ -16,10 +16,13 @@ tags:
 links:
 - url: https://www.reddit.com/r/dataisbeautiful/comments/c2ueeo/path_of_the_sun_on_summer_solstice_june_21st_in/
   title: "Visualizing the Summer Solstice"
+  icon: ☀️
 - url: https://www.saastr.com/5-interesting-learnings-from-zoom-as-it-gets-ready-to-ipo/
   title: "5 Learnings from Zoom"
+  icon: 📺
 - url: https://www.openstreetmap.us/2019/07/teachosm-workshops
   title: "Training the Next Generation of Mappers"
+  icon: 🧭
 ---
 
 ### 📺 [5 Learnings from Zoom](https://www.saastr.com/5-interesting-learnings-from-zoom-as-it-gets-ready-to-ipo/ "5 Learnings from Zoom")

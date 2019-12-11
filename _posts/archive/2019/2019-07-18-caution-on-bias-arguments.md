@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://slatestarcodex.com/2019/07/17/caution-on-bias-arguments/
   title: "Caution on Bias Arguments"
+  icon: ⚖️
 ---
 
 Ever since reading Kahneman's *[Thinking Fast, and Slow]({{ site.url }}/books/kahneman-thinking-fast-and-slow/)*, biases are always in the front of mind when considering approaches to problems.

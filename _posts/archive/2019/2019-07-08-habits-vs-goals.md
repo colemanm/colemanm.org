@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://fs.blog/2017/06/habits-vs-goals/
   title: "Habits vs. Goals"
+  icon: 🥅
 ---
 
 As [I've written before on this topic]({{ site.url }}/post/forming-habits/ "Forming Habits"), separating goal-setting from habit-forming is important to do if you want to have success at either. Often people set goals without defining the daily behaviors that will enable them to achieve said goals.

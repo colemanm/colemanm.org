@@ -15,6 +15,7 @@ tags:
 links:
 - url: https://kwokchain.com/2019/08/16/the-arc-of-collaboration/
   title: "The Arc of Collaboration"
+  icon: 👨‍👨‍👧‍👦
 ---
 
 In this essay, [Kevin Kwok](https://twitter.com/kevinakwok "Kevin Kwok") attempts to differentiate between *productivity* and *collaboration*, with a focus on how Slack has failed as yet to become the nervous system that combines these things.

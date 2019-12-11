@@ -12,6 +12,7 @@ tags:
 links:
 - url: https://fermatslibrary.com/s/the-tunnel-of-samos
   title: "The Tunnel of Samos"
+  icon: 🚰
 ---
 
 This is a fascinating article from a 2004 issue of *Engineering & Science* that investigates the "[Tunnel of Samos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos "The Tunnel of Samos")", constructed on the eponymous Greek island 2500+ years ago.

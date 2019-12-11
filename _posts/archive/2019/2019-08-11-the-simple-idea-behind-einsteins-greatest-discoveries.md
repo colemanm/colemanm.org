@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://www.quantamagazine.org/einstein-symmetry-and-the-future-of-physics-20190626/
   title: "The Simple Idea Behind Einstein’s Greatest Discoveries"
+  icon: ⚛︎
 ---
 
 On symmetry as an underlying property of physics:

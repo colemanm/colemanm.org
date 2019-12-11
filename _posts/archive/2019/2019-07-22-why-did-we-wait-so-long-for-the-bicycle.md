@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle
   title: "Why Did We Wait So Long for the Bicycle?"
+  icon: 🚲
 ---
 
 Roots of Progress has an interesting deep dive on why it took so long for a (relatively) simple invention of the bicycle, even in a time when the principles of a bicycle's components were well understood for a long time. There's an interesting inventory of potential hypotheses about why it took until the late 1800s.

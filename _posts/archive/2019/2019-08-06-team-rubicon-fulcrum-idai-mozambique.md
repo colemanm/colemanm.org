@@ -16,6 +16,7 @@ tags:
 links:
 - url: https://www.fulcrumapp.com/blog/team-rubicon-mozambique/
   title: "Team Rubicon Leverages Fulcrum in Cyclone Idai Response"
+  icon: 🔺
 ---
 
 This is the kind of stuff that gets you out of bed in the morning and really gets the motivators up to do things like [Fulcrum Community](https://www.fulcrumapp.com/community/ "Fulcrum Community") to support disaster relief efforts.

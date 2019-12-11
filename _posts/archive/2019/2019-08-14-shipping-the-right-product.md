@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://www.fulcrumapp.com/blog/shipping-the-right-product/
   title: "Shipping the Right Product"
+  icon: 🚢
 ---
 
 _This is one from the archives, [originally written](https://www.fulcrumapp.com/blog/shipping-the-right-product/ "Shipping the Right Product") for the Fulcrum blog back in early 2017. I thought I'd resurface it here since I've been thinking more about continual evolution of our product process. I liked it back when I wrote it; still very relevant and true. It's good to look back in time to get a sense for my thought process from a couple years ago._

@@ -15,6 +15,7 @@ tags:
 links:
 - url: https://nethope.org/2019/08/21/learning-from-disaster/
   title: "Learning from Disaster"
+  icon: 🌪
 ---
 
 Through [Fulcrum Community](https://www.fulcrumapp.com/community/ "Fulcrum Community"), we've been working with the team from [NetHope](https://nethope.org/ "NetHope") to support their needs in responding to disasters around the world. In their work, they help first-responders in humanitarian crises around the world with connectivity and communications when it's knocked out — cellular coverage, phone communications, and internet access.

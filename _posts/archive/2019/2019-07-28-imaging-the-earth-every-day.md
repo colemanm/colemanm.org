@@ -15,6 +15,7 @@ tags:
 links:
 - url: https://nbremer.github.io/planet-globe/
   title: "Imaging the Earth, Every Day"
+  icon: 🛰
 ---
 
 Most people don't know how earth imaging satellites work. All they know is a camera is flying overhead snapping photos. [This visualization](https://nbremer.github.io/planet-globe/ "Planet Globe") gives you an animated picture of how Planet's satellite constellation can cover the entire globe every day for a continuously-updated view of the Earth:

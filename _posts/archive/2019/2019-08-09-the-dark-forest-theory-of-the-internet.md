@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1
   title: "The Dark Forest Theory of the Internet"
+  icon: 🌲
 ---
 
 I ran across this piece about a month ago, but avoided it after sensing spoilers for [the book]({{ site.url }}/books/liu-the-dark-forest/ "The Dark Forest") I was in the middle of at the time.

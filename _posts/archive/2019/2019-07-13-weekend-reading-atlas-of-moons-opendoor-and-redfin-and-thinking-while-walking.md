@@ -15,10 +15,13 @@ tags:
 links:
 - url: https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/
   title: "The Atlas of Moons"
+  icon: 🌕
 - url: https://www.opendoor.com/w/blog/opendoor-redfin-partnership
   title: "Opendoor and Redfin Partner"
+  icon: 🏠
 - url: https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/
   title: "Study Finds Walking Improves Creativity"
+  icon: 🚶🏻‍♂️
 ---
 
 ### 🌕 [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/ "The Atlas of Moons")

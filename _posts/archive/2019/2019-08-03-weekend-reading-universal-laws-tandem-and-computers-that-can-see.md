@@ -16,10 +16,13 @@ tags:
 links:
 - url: https://www.collaborativefund.com/blog/laws/
   title: "Universal Laws of the World"
+  icon: 📚
 - url: https://tandem.chat/
   title: "Tandem"
+  icon: 💬
 - url: https://www.ben-evans.com/benedictevans/2019/7/19/computers-that-can-see
   title: "Computers That Can See"
+  icon: 👁
 ---
 
 ### 📚 [Universal Laws of the World](https://www.collaborativefund.com/blog/laws/ "Universal Laws of the World")

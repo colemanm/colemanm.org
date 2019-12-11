@@ -17,10 +17,13 @@ tags:
 links:
 - url: https://nvultra.com/
   title: "nvULTRA"
+  icon: 📝
 - url: https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/
   title: "We Need a New Science of Progress"
+  icon: ⚗️
 - url: https://www.youtube.com/watch?v=iwcYp-XT7UI
   title: "George Hotz on the Artificial Intelligence Podcast"
+  icon: 🚙
 ---
 
 ### 📝 [nvULTRA](https://nvultra.com/ "nvULTRA")

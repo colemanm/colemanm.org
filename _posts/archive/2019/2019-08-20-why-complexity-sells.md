@@ -11,6 +11,7 @@ tags:
 links:
 - url: https://www.collaborativefund.com/blog/why-complexity-sells/
   title: "Why Complexity Sells"
+  icon: 📊
 ---
 
 Evolution has a mysterious and amazing way of driving relentlessly toward simplicity and specialization:

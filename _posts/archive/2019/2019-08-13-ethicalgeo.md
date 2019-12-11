@@ -13,6 +13,7 @@ tags:
 links:
 - url: https://ethicalgeo.org/
   title: "EthicalGEO"
+  icon: 🗺
 ---
 
 Our friends over at the [American Geographical Society](https://twitter.com/AmericanGeo "AmericanGeo") have spearheaded a new competition (in partnership with the [Omidyar Network](https://twitter.com/OmidyarNetwork "Omidyar Network")) called [EthicalGEO](https://ethicalgeo.org/ "EthicalGEO") to seek out new ideas on how the community can better understand the ethical challenges with geospatial data, privacy, sharing, and the like, and find solutions and systems to embrace what’s new and combat the risks and downsides:

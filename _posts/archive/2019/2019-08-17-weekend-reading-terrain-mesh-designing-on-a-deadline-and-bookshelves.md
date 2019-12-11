@@ -16,10 +16,13 @@ tags:
 links:
 - url: https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh
   title: "MARTINI: Real-Time RTIN Terrain Mesh"
+  icon: 🏔
 - url: https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/
   title: "Design on a Deadline: How Notion Pulled Itself Back from the Brink of Failure"
+  icon: 👨🏽‍🎨
 - url: https://patrickcollison.com/bookshelf
   title: "Patrick Collison's Bookshelf"
+  icon: 📚
 ---
 
 ### 🏔 [MARTINI: Real-Time RTIN Terrain Mesh](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh "MARTINI: Real-Time RTIN Terrain Mesh")

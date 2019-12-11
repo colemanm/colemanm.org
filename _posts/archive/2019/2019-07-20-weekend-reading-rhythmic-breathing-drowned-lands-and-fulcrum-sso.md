@@ -17,10 +17,13 @@ tags:
 links:
 - url: https://www.runnersworld.com/training/a28413381/rhythmic-breathing/
   title: "Everything You Need to Know About Rhythmic Breathing"
+  icon: 🏃🏻‍♂️
 - url: http://www.bldgblog.com/2019/07/terrestrial-warfare-drowned-lands/
   title: "Terrestrial Warfare, Drowned Lands"
+  icon: 🏞
 - url: https://www.fulcrumapp.com/blog/saml-single-sign-on-with-azure-and-okta/
   title: "Fulcrum SAML SSO with Azure and Okta"
+  icon: 🔐
 ---
 
 ### 🏃🏻‍♂️ [Everything You Need to Know About Rhythmic Breathing](https://www.runnersworld.com/training/a28413381/rhythmic-breathing/ "Everything You Need to Know About Rhythmic Breathing")
