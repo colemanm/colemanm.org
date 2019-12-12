@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-09-01
-title: "Goal Progress: August 2019"
+title: "Goal Progress: August"
 description: "Tracking my August progress toward personal goal targets for the year."
 categories: blog
 tags:
