@@ -11,6 +11,7 @@ tags:
 links:
 - url: https://www.hyrumslaw.com/
   title: "Hyrum's Law"
+  icon: 🔌
 ---
 
 I didn't know this was out there, a funny-yet-astute-and-accurate observation from a software engineer at Google:
