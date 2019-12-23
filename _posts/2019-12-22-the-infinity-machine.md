@@ -3,6 +3,7 @@ layout: post
 date: 2019-12-22 22:10:41
 title: "The Infinity Machine"
 description: "A book review and a personal story: immunotherapy and The Elegant Defense."
+img: /images/post-images/genetic-tree.jpg
 categories: blog
 tags:
 - books
