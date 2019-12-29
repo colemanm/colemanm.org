@@ -3,6 +3,7 @@ layout: post
 date: 2019-12-28 16:02:16
 title: "Goal Summary: Running Stats"
 description: "Summary stats on my running performance for 2019."
+img: /images/post-images/running-by-month.png
 categories: blog
 tags:
 - personal
