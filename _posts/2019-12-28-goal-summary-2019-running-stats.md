@@ -25,6 +25,7 @@ Here's the overall breakdown of stats for the year:
 | **Total Activities** | 148                  |
 | **Average Distance** | 4.16 miles           |
 | **Average Pace**     | 8:26 minute/mile     |
+| **Average HR**       | 156 bpm              |
 | **Total Calories**   | 66,431 cal           |
 | **Best Month**       | September (88 miles) |
 | **Worst Month**      | March (39.6 miles)   |
