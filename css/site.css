@@ -28,6 +28,7 @@ ul,ol {
   margin: 0 0 1.5em;
   padding-left: 2.5em;
 }
+ul li p { margin: 0; }
 blockquote {
   border-left: 2px solid #555;
   color: #999;
