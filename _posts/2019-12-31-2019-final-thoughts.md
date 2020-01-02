@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-01-01 21:39:54
+date: 2019-12-31 21:39:54
 title: "2019 Final Thoughts"
 description: "Final thoughts to close out 2019."
 categories: blog
