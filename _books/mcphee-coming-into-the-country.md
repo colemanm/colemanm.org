@@ -21,4 +21,5 @@ publish_year: 1977
 date_started: 2019-01-20
 date_completed: 2019-02-08
 goodreads_id: 79
+favorite: true
 ---

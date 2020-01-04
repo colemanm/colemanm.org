@@ -20,4 +20,5 @@ publish_year: 1996
 date_started: 2019-03-09
 date_completed: 2019-03-19
 goodreads_id: 6748
+favorite: true
 ---

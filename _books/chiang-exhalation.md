@@ -21,4 +21,5 @@ publish_year: 2019
 date_started: 2019-08-16
 date_completed: 2019-09-18
 goodreads_id: 46347136
+favorite: true
 ---

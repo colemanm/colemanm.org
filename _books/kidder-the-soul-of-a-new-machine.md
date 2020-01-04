@@ -21,4 +21,5 @@ publish_year: 1981
 date_started: 2019-10-08
 date_completed: 2019-10-15
 goodreads_id: 7090
+favorite: true
 ---
