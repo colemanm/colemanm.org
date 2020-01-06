@@ -2,8 +2,8 @@
 layout: book
 title: "Loonshots"
 subtitle: "How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries"
-author: Safi Bacall
-author_last: Bacall
+author: Safi Bahcall
+author_last: Bahcall
 slug: bacall-loonshots
 type: nonfiction
 img: true
