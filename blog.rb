@@ -26,7 +26,7 @@ class Blog < Thor
       post.puts <<~BLOGPOST
         ---
         layout: post
-        date: #{datetime}
+        date: 
         title: "#{title.tr('-', ' ')}"
         description: ""
         categories: blog
