@@ -14,10 +14,13 @@ tags:
 links:
 - url: https://www.gamasutra.com/blogs/TristanJung/20191206/355250/How_Do_Bullets_Work_in_Video_Games.php
   title: "How Do Bullets Work in Video Games?"
+  icon: 🎮
 - url: http://maksim.ms/blog/book/2016/lessons-of-history/
   title: "Notes on The Lessons of History"
+  icon: 🏟
 - url: https://www.bricklink.com/v2/main.page
   title: "BrickLink"
+  icon: 🧱
 ---
 
 ### [How Do Bullets Work in Video Games?](https://www.gamasutra.com/blogs/TristanJung/20191206/355250/How_Do_Bullets_Work_in_Video_Games.php "How Do Bullets Work in Video Games?")
