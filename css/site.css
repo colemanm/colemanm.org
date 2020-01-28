@@ -1,5 +1,7 @@
 /* Styles by me, colors derived from: https://www.flickr.com/photos/karhan/8372828011 */
 
+@import "github.css";
+
 html, body, h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
 html { font-size: 100% }
 body {
