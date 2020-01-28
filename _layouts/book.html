@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div itemscope itemtype="http://schema.org/Review">
+<span itemprop=reviewRating itemscope itemtype=http://schema.org/Rating><meta content=1 itemprop=worstRating><meta content={{ book.rating }} itemprop=ratingValue><meta content=5 itemprop=bestRating></span>
 <div class="book" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
   {% assign book = page %}
   {% if book.img == true %}
@@ -27,12 +28,12 @@ layout: default
       {% endif %}
     </ul>
   </div>
-  <div itemprop="publisher" itemscope itemtype=http://schema.org/Organization>
-    <meta content="colemanm.org" itemprop="name">
-    <meta content="{{ site.url }}" itemprop="url">
-  </div>
-  <meta content="Coleman McCormick" itemprop="author">  
-  <meta content="{{ site.url }}{{ book.url }}" itemprop="url">
   {% include share.html %}
 </div>
+<div itemprop="publisher" itemscope itemtype=http://schema.org/Organization>
+  <meta content="colemanm.org" itemprop="name">
+  <meta content="{{ site.url }}" itemprop="url">
+</div>
+<meta content="Coleman McCormick" itemprop="author">  
+<meta content="{{ site.url }}{{ book.url }}" itemprop="url">
 </div>
