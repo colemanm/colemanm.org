@@ -15,5 +15,15 @@
     <li>Shelves: {{ book.genres | join: ", " }}</li>
     <li>ISBN: <a href="https://worldcat.org/isbn/{{ book.isbn }}">{{ book.isbn }}</a> (<a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a>)</li>
     <li>Format: {{ book.format | capitalize }}</li>
+    {% if book.reviewers %}
+      <li>Other Readers: {% for reviewer in book.reviewers %}<a href="{{ reviewer.url }}" title="{{ reviewer.author }}">{{  reviewer.author }}</a>{% endfor %}</li>
+      {% endif %}
   </ul>
+  <div itemprop=publisher itemscope itemtype=http://schema.org/Organization>
+    <meta content=colemanm.org itemprop=name>
+    <meta content={{ site.url }} itemprop=url>
+  </div>
+  <meta content="Coleman McCormick" itemprop=author>  
+  <meta content={{ site.url }}{{ book.url }} itemprop=url>
+  {% include share.html %}
 </div>
