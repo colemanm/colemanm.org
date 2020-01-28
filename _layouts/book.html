@@ -18,7 +18,7 @@ layout: default
     <ul>
       <li>{{ book.type | capitalize }}</li>
       <li>Shelves: {{ book.genres | join: ", " }}</li>
-      <li>{{ book.pages }} pages</li>
+      <li><span itemprop=numberOfPages>{{ book.pages }}</span> pages</li>
       <li>ISBN: <a href="https://worldcat.org/isbn/{{ book.isbn }}"><span itemprop=isbn>{{ book.isbn }}</span></a> (<a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a>)</li>
       <li>Format: {{ book.format | capitalize }}</li>
       {% if book.reviewers %}
