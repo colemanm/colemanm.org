@@ -23,4 +23,7 @@ publish_year: 2011
 date_started: 2016-05-30
 date_completed: 2016-08-26
 goodreads_id: 10552338
+reviewers:
+- author: Tom MacWright
+  url: https://macwright.org/2019/01/31/reamde.html
 ---

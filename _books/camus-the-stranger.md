@@ -20,4 +20,7 @@ publish_year: 1942
 date_started: 2017-12-01
 date_completed: 2017-12-04
 goodreads_id: 49552
+reviewers:
+- author: Tom MacWright
+  url: https://macwright.org/2010/08/22/the-stranger.html
 ---

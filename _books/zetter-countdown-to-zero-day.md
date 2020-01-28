@@ -24,4 +24,7 @@ publish_year: 2014
 date_started: 2016-05-15
 date_completed: 2016-05-30
 goodreads_id: 18465875
+reviewers:
+- author: Tom Macwright
+  url: https://macwright.org/2016/04/30/countdown-to-zero-day-stuxnet.html
 ---

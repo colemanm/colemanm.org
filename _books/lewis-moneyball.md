@@ -22,4 +22,7 @@ publish_year: 2003
 date_started: 2015-05-13
 date_completed: 2015-05-17
 goodreads_id: 1301
+reviewers:
+- author: Tom MacWright
+  url: https://macwright.org/2014/01/24/moneyball-the-art-of-winning.html
 ---

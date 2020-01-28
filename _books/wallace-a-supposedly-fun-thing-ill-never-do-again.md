@@ -21,4 +21,7 @@ date_started: 2019-03-09
 date_completed: 2019-03-19
 goodreads_id: 6748
 favorite: true
+reviewers:
+- author: Tom MacWright
+  url: https://macwright.org/2012/09/19/a-supposedly-fun-thing-ill.html
 ---
