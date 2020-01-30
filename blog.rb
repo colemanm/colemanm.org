@@ -102,6 +102,7 @@ class Blog < Thor
         pages: 
         format: 
         publish_year: 
+        publisher: 
         date_started: 2020-
         date_completed: 2020-
         goodreads_id: 
