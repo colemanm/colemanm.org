@@ -14,7 +14,7 @@ tags:
 
 The first month of 2020 is already in the books. 31 days blew by already?
 
-It’s been a rollercoaster of a first few weeks, with some vacation at New Years, shot out of a cannon with a reinvigorated team at work, a [trip to Miami](/post/miami-2019/ “Miami”), and a trip to Jacksonville.
+It’s been a rollercoaster of a first few weeks, with some vacation at New Years, shot out of a cannon with a reinvigorated team at work, a [trip to Miami](/post/miami-2019/ "Miami"), and a trip to Jacksonville.
 
 I already fell behind on the targets with all that’s been going on. Once I can fall into a better rhythm with some normalcy in the schedule (which should be happening over the next couple weeks), I think I’ll be fine to catch up.
 
