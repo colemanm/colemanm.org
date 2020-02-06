@@ -12,7 +12,7 @@ tags:
 
 As I've been reading more into the history of technology[^tech-books], specifically computers and the Internet, I'll go on side trails through Wikipedia or the wider 'net back to many of the source papers that were the seeds of certain innovations.
 
-I'd read about the [IBM 700 series](https://en.wikipedia.org/wiki/IBM_700/7000_series "IBM 700 Series") of mainframes, reading Vannevar Bush's [seminal piece](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ "As We May Think") on a "memex" device (precursor idea to hypertext), or digging into Claude Shannon's [original work](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf "A Mathematical Theory of Communication") on information theory.
+I've read about the [IBM 700 series](https://en.wikipedia.org/wiki/IBM_700/7000_series "IBM 700 Series") of mainframes, Vannevar Bush's [seminal piece](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ "As We May Think") on a "memex" device (precursor idea to hypertext), and Claude Shannon's [original work](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf "A Mathematical Theory of Communication") on information theory.
 
 The latest gold mine I've found is on YouTube. I created a "Tech History" playlist where I've been logging clips and documentaries on various bits of computer history. Click the icon top-right to see all the videos in the list.
 
