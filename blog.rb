@@ -34,7 +34,7 @@ class Blog < Thor
         - 
         ---
 
-        Content for blog post.
+        
       BLOGPOST
     end
 
@@ -56,7 +56,7 @@ class Blog < Thor
         layout: link
         date: #{datetime}
         title: "#{title.tr('-', ' ')}"
-        target: url
+        target: 
         description: ""
         categories: blog
         tags:
@@ -67,7 +67,7 @@ class Blog < Thor
           title: 
         ---
 
-        Content for link post.
+        
       LINKPOST
     end
 
