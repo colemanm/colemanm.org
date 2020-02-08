@@ -23,4 +23,4 @@ In this video interview from the event, he answers the question about “what is
 
 > Sometimes when people say “is that a tech company?” they’re actually saying, “should that be valued like a tech company?", and that really means “is that a high growth, high margin company with defensible margins?”
 
-{% include video.html id="" %}
+{% include video.html id="ZLqxE12y_Yw" %}
