@@ -14,6 +14,7 @@ tags:
 links:
 - url: https://blog.google/products/maps/look-back-15-years-mapping-world/
   title: "Google Maps at 15"
+  icon: 🗺
 ---
 
 Google Maps just had its 15th birthday. This post from one of the original team on Maps back in 2005, Elizabeth Reid, reflects on a history of the product from its first iteration.
