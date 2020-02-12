@@ -65,6 +65,7 @@ class Blog < Thor
         links:
         - url: 
           title: 
+          icon: 
         ---
 
         
