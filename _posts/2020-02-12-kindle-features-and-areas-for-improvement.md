@@ -14,6 +14,8 @@ tags:
 
 The Kindle launched in 2007, making ebooks accessible as a format not only because of a compelling device, but also a marketplace for content. Suddenly most books were available instantly for $10 a piece. No more trips to the store, expensive hardcovers and paperbacks, and importantly, no more paper taking up shelf space. As much as I love the Kindle, I have a growing list of gripes about the experience. Like with John Gruber’s [recent post on the iPad](https://daringfireball.net/2020/01/the_ipad_awkwardly_turns_10 "The iPad Awkwardly Turns 10"), criticism comes from a place of love for the platform, and a disappointment with how little innovation there’s been over 13 years.
 
+{% include image.html file="open-book.png" description="Open book" caption="no" %}
+
 I still prefer the paperback format for pure experience, but the practicality of Kindle nearly always wins out. With [Readwise](/post/readwise/ "Readwise") I’ve gotten so used to heavily highlighting in my books, and it’s too much work to annotate in paper format when I’ve then got to transfer them somewhere else to ever see those notes again.
 
 I’d used the Kindle iOS app since the beginning, but didn’t buy a Kindle device until 2015 (the Paperwhite, third-generation). I use both the app and the device every single day, so over time I’ve built up a back log of feature requests and documented shortcomings. There’s great opportunity for Amazon to make some amazing improvements.
