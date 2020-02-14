@@ -3,6 +3,7 @@ layout: post
 date: 2020-02-12 23:55:11
 title: "Kindle Features and Areas for Improvement"
 description: "Thoughts on the Kindle devices, ecosystem, and user experience, with a number of proposed improvements."
+img: /images/post-images/open-book.png
 categories: blog
 tags:
 - Kindle
