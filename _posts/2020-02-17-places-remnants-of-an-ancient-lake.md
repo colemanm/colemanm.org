@@ -20,7 +20,7 @@ links:
 
 [Lake Chad](https://en.wikipedia.org/wiki/Lake_Chad "Lake Chad") spans 4 national borders in the central Sahel: Niger, Nigeria, Chad, and Cameroon. Since the 1960s it's shrunk to about 5% its ancestral size, due to overuse, mismanagement, and climate shifts.
 
-{% include image.html file="places-lake-chad.jpg" description="" caption="no" %}
+{% include image.html file="places-lake-chad.jpg" description="Lake Mega Chad" caption="no" %}
 
 [This NASA photo](https://earthobservatory.nasa.gov/images/146304/remnants-of-an-ancient-lake "Remnants of an Ancient Lake") uses SRTM data combined with Landsat 8 to highlight the edges of the basin that was once the size of the Caspian Sea:
 
@@ -30,6 +30,6 @@ links:
 
 If you look at the Lake today on Google Earth, you'll see some amazing landforms where the Saharan dunes transition to swampland on the shores of the basin. There's some incredibly high-resolution data in that region:
 
-{% include image.html file="lake-chad-shore.jpg" description="" caption="no" %}
+{% include image.html file="lake-chad-shore.jpg" description="Lake Chad" caption="no" %}
 
 {% include place.html name="Lake Chad" url="https://earth.google.com/web/@13.35639256,14.29759731,335.01026633a,480120.12140192d,35y,0h,0t,0r" lat="13°0' N" lon="14°30' E" %}
