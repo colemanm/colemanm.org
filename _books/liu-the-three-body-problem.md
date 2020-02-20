@@ -21,4 +21,6 @@ publish_year: 2007
 date_started: 2018-02-12
 date_completed: 2018-03-08
 goodreads_id: 18245960
+
+favorite: true
 ---

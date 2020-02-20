@@ -21,4 +21,6 @@ publish_year: 2002
 date_started: 2016-08-30
 date_completed: 2016-09-11
 goodreads_id: 18626849
+
+favorite: true
 ---

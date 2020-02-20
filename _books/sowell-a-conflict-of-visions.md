@@ -19,4 +19,6 @@ publish_year: 1986
 date_started: 2018-08-08
 date_completed: 2018-08-14
 goodreads_id: 13240015
+
+favorite: true
 ---

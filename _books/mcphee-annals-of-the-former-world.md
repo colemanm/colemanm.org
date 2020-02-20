@@ -25,4 +25,6 @@ publish_year: 1998
 date_started: 2015-11-02
 date_completed: 2016-01-04
 goodreads_id: 78
+
+favorite: true
 ---

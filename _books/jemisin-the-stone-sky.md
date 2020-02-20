@@ -21,4 +21,6 @@ publish_year: 2017
 date_started: 2017-12-27
 date_completed: 2018-01-15
 goodreads_id: 36691812
+
+favorite: true
 ---

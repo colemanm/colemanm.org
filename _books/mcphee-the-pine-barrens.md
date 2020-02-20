@@ -25,4 +25,6 @@ goodreads_id: 821355
 reviewers:
 - author: Tom Macwright
   url: https://macwright.org/2016/09/09/the-pine-barrens.html
+
+favorite: true
 ---

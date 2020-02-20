@@ -24,4 +24,6 @@ goodreads_id: 11468377
 reviewers:
 - author: Tom Macwright
   url: https://macwright.org/2015/05/25/thinking-fast-and-slow.html
+
+favorite: true
 ---
