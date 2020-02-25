@@ -19,8 +19,8 @@ Tyler Cowen is one of the most prolific people out there. His batting average on
 
 A few good ones from the list:
 
-> 2. Much of my writing time is devoted to laying out points of view which are not my own.  I recommend this for most of you.
+> Much of my writing time is devoted to laying out points of view which are not my own.  I recommend this for most of you.
 >
-> 3. I do serious reading every day.
+> I do serious reading every day.
 >
-> 8. Every day I ask myself “what did I learn today?”, a question I picked up from Amihai Glazer.  I feel bad if I don’t have a clear answer, while recognizing the days without a clear answer are often the days where I am learning the most (at least in the equilibrium where I am asking myself this question).
+> Every day I ask myself “what did I learn today?”, a question I picked up from Amihai Glazer.  I feel bad if I don’t have a clear answer, while recognizing the days without a clear answer are often the days where I am learning the most (at least in the equilibrium where I am asking myself this question).
