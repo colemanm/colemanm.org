@@ -4,7 +4,7 @@ title: "Loonshots"
 subtitle: "How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries"
 author: Safi Bahcall
 author_last: Bahcall
-slug: bacall-loonshots
+slug: bahcall-loonshots
 type: nonfiction
 img: true
 series: 
