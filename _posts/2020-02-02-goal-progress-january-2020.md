@@ -18,11 +18,11 @@ It’s been a rollercoaster of a first few weeks, with some vacation at New Year
 
 I already fell behind on the targets with all that’s been going on. Once I can fall into a better rhythm with some normalcy in the schedule (which should be happening over the next couple weeks), I think I’ll be fine to catch up.
 
-| Activity       | Progress     | Pace         | Goal         | Plus-Minus                         |
-|----------------|--------------|--------------|--------------|------------------------------------|
-| **Running**    | 43.14 miles | 55 miles | 650 miles    | <span class="red">-12.07</span> |
-| **Meditation** | 350 minutes | 265 minutes | 3120 minutes | <span class="green">+85</span>    |
-| **Reading**    | 2 books     | 2.55 books  | 30 books     | <span class="red">-0.55</span>   |
+| Activity       | Progress    | Pace        | Goal         | Plus-Minus                      |
+|----------------|-------------|-------------|--------------|---------------------------------|
+| **Running**    | 43.14 miles | 55 miles    | 650 miles    | <span class="red">-12.07</span> |
+| **Meditation** | 350 minutes | 265 minutes | 3120 minutes | <span class="green">+85</span>  |
+| **Reading**    | 2 books     | 2.55 books  | 30 books     | <span class="red">-0.55</span>  |
 
 My running’s been reasonable, if not frequent enough to stay on track with the increased goal over last year.
 
