@@ -12,7 +12,7 @@ tags:
 
 I ran across [this set of lecture notes](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf "Market Wireframing Design") from [Balaji Srinivasan](https://twitter.com/balajis "Balaji Srinivasan")'s "startup engineering" course.
 
-He proposes a great format for thinking about the phases a company moves through — from idea to profits:
+He proposes this format for thinking about the phases a company moves through — from idea to profits:
 
 * An idea is not a mockup
 * A mockup is not a prototype
@@ -21,13 +21,15 @@ He proposes a great format for thinking about the phases a company moves through
 * A product is not a business
 * And a business is not profits
 
-You can map this onto the "idea vs. execution" debate by considering everything below the idea the stage to be execution. In certain circles, especially normal people not steeped in the universe of tech companies, the idea component is enormously overweighted. If you make software and your friends know it, I'm sure you're familiar with flavors of "oh I have this great idea I just need someone who can code to build it." They don't understand that everything following the _"just"_ is about 99.5% of the work to create success (or more)[^badideas].
+You can map this onto the debate between "idea vs. execution" by calling everything below the idea the stage "execution." In certain circles, especially among normal people not steeped in the universe of tech companies, the idea component is enormously overweighted. If you make software and your friends or acquaintances know it, I'm sure you're familiar with flavors of "I have this great idea, I just need someone who can code to build it." They don't understand that everything following the _"just"_ is about 99.5% of the work to create success (or more)[^badideas].
 
 Thinking of these steps as a [state machine](https://en.wikipedia.org/wiki/Finite-state_machine "State machine") is a vivid way to describe it. He has them broken out in detail:
 
 {% include image.html file="idea-state-machine.jpg" description="The idea state machine" caption="no" %}
 
-To truly understand if you have an idea worth pursuing (or even one good enough to be adapted/modified _into_ a great one), it's a good exercise to simulate the game in your head — to imagine you've already moved through a couple steps of the state machine. What are you encountering? If you think of a roadblock, how would you respond? This sort of "pre-gaming" is what separates the best creators and product people from everyone else. They take small, minimum-risk steps, look up to absorb new feedback, and adapt accordingly[^antifragile].
+When laid out that way it's clear why it takes such persistence and wherewithal to see an idea through to being a business.
+
+To understand if you have an idea worth pursuing (or even one good enough to be adapted/modified into a great one), it's a good exercise to simulate the game in your head, to imagine you've already moved through a couple steps of the state machine. What are you encountering? If you think of a roadblock, how would you respond? This sort of "pre-gaming" is what separates the best creators and product minds from everyone else. They take small, minimum-risk steps, look up to absorb new feedback, and adapt accordingly[^antifragile].
 
 Srinivasan calls this phenomenon the "idea maze":
 
