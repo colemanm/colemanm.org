@@ -2,7 +2,7 @@
 layout: post
 date: 2020-03-08 23:35:23
 title: "The Idea Maze"
-description: "Running simulations through the maze to validate product ideas."
+description: "A framework for analyzing product ideas by simulating your path through the maze."
 categories: blog
 tags:
 - product
