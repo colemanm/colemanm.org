@@ -10,7 +10,7 @@ tags:
 - concepts
 ---
 
-I ran across [this set of lecture notes](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf "Market Wireframing Design") from Balaji Srinivasan's "startup engineering" course.
+I ran across [this set of lecture notes](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf "Market Wireframing Design") from [Balaji Srinivasan](https://twitter.com/balajis "Balaji Srinivasan")'s "startup engineering" course.
 
 He proposes a great format for thinking about the phases a company moves through — from idea to profits:
 
