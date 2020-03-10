@@ -1,0 +1,5 @@
+<div>
+  {% if page.image_credit %}
+    <p class="image-credit">Image credits: {% for image in page.image_credit %}<a href="{{ image.url }}" title="{{ image.creator }}">{{ image.creator }}</a>{% endfor %}</p>
+  {% endif %}
+  </div>

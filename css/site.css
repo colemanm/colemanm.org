@@ -241,6 +241,13 @@ blockquote.twitter-tweet {
   clear: left;
 }
 
+.image-credit {
+  margin-top: 25px;
+  text-align: center;
+  font-size: small;
+  color: #bbb;
+}
+
 /* books */
 .book-archive {
   font-size: 0.85em;
