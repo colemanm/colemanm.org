@@ -16,7 +16,7 @@ tags:
 
 ### What is it?
 
-Roam a tool for note-taking, described as a tool for "networked thought." With a [glance on Twitter](https://twitter.com/search?q=roam%20research "#roamresearch") you'll find all sorts of comparison pieces to Evernote, Google Docs, or Notion. I've tried all of those (Notion for quite a bit) and I find the experience of using Roam completely different.
+Roam is a tool for note-taking, described as a tool for "networked thought." With a [glance on Twitter](https://twitter.com/search?q=roam%20research "#roamresearch") you'll find all sorts of comparison pieces to Evernote, Google Docs, or Notion. I've tried all of those (Notion for quite a bit) and I find the experience of using Roam completely different.
 
 {% include image.html file="roam.jpg" description="Roam Research" caption="no" %}
 
@@ -32,13 +32,13 @@ The idea graph is what breaks you free of organizational burden. The need to fin
 
 {% include image.html file="roam-graph.jpg" description="My Roam database graph" caption="no" %}
 
-Here's a scenario that happens _all the time_ to me (and I'm sure others) that no other tool has handled well until this:
+Here's a scenario that happens _all the time_ to me (and I'm sure others) that no other tool has handled well until now:
 
 I walk into a product marketing meeting. During the meeting we're going to solidify our messaging strategy and requirements for a new feature launch. I open up a new file for the meeting `Product marketing sync — 2020-04-13` or similar is a typical nomenclature. That file likely contains bullets and a series of messy individual lines related to things each person is going to do, topics people mentioned, action items for myself (which need to go elsewhere to have a prayer of being remembered). However, interspersed within the discussion I jot random thoughts on sometimes semi-related topics, but sometimes something completely off the reservation, that I still want to capture. During the marketing discussion I get an idea for a future blog post with a couple of topics. Where does that go?
 
 Most commonly today the answer is "nowhere" and I'm lucky if I remember it again. In Roam I just type it in a "Random" subsection in the bottom of my meeting notes. Who cares where it goes if I can link that by topic from elsewhere?
 
-_**A quick tip**: next to any random, non-sequitur thought like this, put `#idea` next to it. That then becomes its own page, with LRs collecting up all the ideas dispersed through your graph._
+_**A quick tip**: next to any random, non-sequitur thought like this, put `#idea` next to it. That then becomes its own page, with Linked References collecting up all the ideas dispersed through your graph._
 
 I love that I can navigate to an abstract idea, like my page about "Antifragility," and find all of the articles, books, or other notes that connected with that idea. The ROI happens with Roam once you start rediscovering links or ideas you already noted without making the connection beforehand. It's like stitching together threads that would have been previously in silos, invisible to one another. If you then also separate those notes in time, its nigh impossible to keep those connections front of mind. I haven't been using Roam very long yet, but even in a few weeks I stumble back onto notes I wrote that I don't remember writing.
 
