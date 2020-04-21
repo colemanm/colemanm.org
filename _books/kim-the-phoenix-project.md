@@ -20,6 +20,7 @@ publisher: IT Revolution Press
 date_started: 2020-03-01
 date_completed: 2020-03-13
 goodreads_id: 17255186
+
 reviewers:
 - author: Tom MacWright
   url: https://macwright.org/2020/02/21/phoenix-project.html
