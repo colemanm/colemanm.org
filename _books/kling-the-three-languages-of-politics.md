@@ -14,14 +14,12 @@ genres:
 - philosophy
 - psychology
 isbn: 9781944424466
-rating: 
+rating: 4
 pages: 146
 format: kindle
 publish_year: 2013
 publisher: Cato Institute
 date_started: 2020-04-17
-date_completed: 
+date_completed: 2020-04-20
 goodreads_id: 35443537
-
-current: true
 ---
