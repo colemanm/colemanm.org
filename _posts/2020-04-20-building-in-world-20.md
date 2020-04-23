@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2020-04-21 14:41:48
+date: 2020-04-20 14:41:48
 title: "Building in World 2.0"
 target: https://dcgross.com/building-in-world-2-0/
 description: "Daniel Gross discusses things that change in a post-covid world."
