@@ -14,7 +14,7 @@ genres:
 - classics
 - politics
 isbn: 9780553265958
-rating: 
+rating: 5
 pages: 216
 format: audiobook
 publish_year: 1940
