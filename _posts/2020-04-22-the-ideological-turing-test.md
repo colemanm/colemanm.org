@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2020-04-21 21:45:59
+date: 2020-04-22 21:45:59
 title: "The Ideological Turing Test"
 target: https://www.econlib.org/archives/2011/06/the_ideological.html
 categories: blog
