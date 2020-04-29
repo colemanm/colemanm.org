@@ -31,7 +31,7 @@ Here's how I calculate this in the spreadsheet. I track each run in a separate r
 
 `SUMIFS(miles,date,">"&TODAY()-7)`
 
-`miles` and `date` are the columns in the data for each of those. I use the whole column in notation like `Running!B:B`.
+`miles` and `date` are the columns in the data for each of those. I use the whole column in notation like `Running!B:B`. That'll take the whole series as input and `SUMIFS` sums based on the logic in the last argument.
 
 Because I'm currently tracking about 13 miles behind goal pace for the year, I need to make sure I keep this rolling figure just above the 7-day target line in order to close the gap back to level.
 
