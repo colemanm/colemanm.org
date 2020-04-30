@@ -10,18 +10,20 @@ layout: default
   <img class="book-full-img" src="{{ site.url }}/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
   {% endif %}
   <h1 itemprop="name">{{ book.title | xml_escape }}</h1>
-  <h2 class="subtitle">{{ book.subtitle | xml_escape }}</h2>
+  <h2 class="subtitle">{{ book.subtitle | xml_escape }}</h2>  
   <h3>by <span class="author" itemprop="author">{{ book.author }}</span></h3>
   {% if book.series %}<h4 class="series">part {{ book.part }} of <em>{{ book.series }}</em></h4>{% endif %}
-  <span class="book-meta">Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; Published: <span itemprop="datePublished">{{ book.publish_year }}</span> &bull; <a href="{{ book.url }}" title="Permalink">#</a></span>
+  <span class="book-meta">{% if book.date_completed %}Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; {% endif %}Published: <span itemprop="datePublished">{{ book.publish_year }}</span> &bull; <a href="{{ book.url }}" title="Permalink">#</a></span>
+  {% if book.current != true %}
   {% include book-rating.html %}
+  {% endif %}
   <div class="body">{{ content }}</div>
   <div class="book-data">
     <ul>
       <li>{{ book.type | capitalize }}</li>
       <li>Shelves: {{ book.genres | join: ", " }}</li>
       <li><span itemprop="numberOfPages">{{ book.pages }}</span> pages</li>
-      <li>ISBN: <a href="https://worldcat.org/isbn/{{ book.isbn }}"><span itemprop="isbn">{{ book.isbn }}</span></a> (<a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a>)</li>
+      <li>ISBN: {% if book.isbn == blank %}None{% endif %}<a href="https://worldcat.org/isbn/{{ book.isbn }}"><span itemprop="isbn">{{ book.isbn }}</span></a> (<a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a>)</li>
       <li>Format: {{ book.format | capitalize }}</li>
       {% if book.reviewers %}
       <li>Other Readers: {% for reviewer in book.reviewers %}<a href="{{ reviewer.url }}" title="{{ reviewer.author }}">{{  reviewer.author }}</a>{% endfor %}</li>
