@@ -16,7 +16,7 @@ links:
   icon: 🏗
 ---
 
-Martin Gurri in response to Marc Andreessen's "It's Time to Build" essay:
+Martin Gurri in response to Marc Andreessen's "[It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/ "It's Time to Build")" essay:
 
 > So how do we get from _here_ to _build_? To demand that our current institutions make that leap would be like asking the Great Pyramid to win the Indianapolis 500. It won’t happen. As a precursor to Andreessen’s building spree, our institutions—certainly government at every level, including the regulatory and scientific agencies—must crack open their industrial-age cocoons and join the rest of us in the digital dispensation. At a minimum, they must be able to move as fast as information does today. This will require different protocols, different technology, a different form: less like the Great Pyramid and more like a race car. They must be flatter and faster.
 
