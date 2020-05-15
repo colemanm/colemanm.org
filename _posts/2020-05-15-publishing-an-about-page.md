@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-15 16:20:36
-title: "Publishing an About Page"
+title: "The About Page"
 description: "Just published an About page."
 categories: blog
 tags:
