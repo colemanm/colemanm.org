@@ -163,7 +163,7 @@ span.topic {
 .post span.meta a {
   border: 0;
 }
-.post img.full, .link img.full {
+img.full {
   position: relative;
   text-align: center;
   display: block;
