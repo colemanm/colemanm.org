@@ -8,4 +8,4 @@ tags:
 - personal
 ---
 
-After stewing around with it for a month, I finally put up an "About" page for this site. I pulled out a few of favorite posts there, also. Check it out!
+After stewing around with it for a month, I finally put up an "[About](/about/ "About")" page for this site. I pulled out a few of favorite posts there, also. Check it out!
