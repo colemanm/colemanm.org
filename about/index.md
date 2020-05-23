@@ -26,7 +26,7 @@ Here's a sampling of some of my favorite posts from over the years, in no partic
 * [Modes of Control](/post/modes-of-control/ "Modes of Control") — Discussing Andy Grove's concepts of motivations vs. complexity in teams.
 * [Jekyll Collections to Build a Library](/post/using-jekyll-collections-to-build-a-library/ "Jekyll Collections to Build a Library") — Technical post on how I created a [reading library](/books/ "Library").
 * [Flexible Education](/post/flexible-education/ "Flexible Education") — Thinking about how to make formal education more flexible for kids.
-* [2019](post/2019/ "2019") — The first annual tradition of posting publicly my goals to track for the year. An ongoing experiment in "garage door up" habit-forming.
+* [2019](/post/2019/ "2019") — The first annual tradition of posting publicly my goals to track for the year. An ongoing experiment in "garage door up" habit-forming.
 * [An In-Depth History of Maps](/post/an-in-depth-history-of-maps/ "An In-Depth History of Maps") — A review of Lloyd Brown's rich history of cartography and map-making.
 * [Right-sizing and Scoping](/post/rightsizing-and-scoping/ "Right-sizing and Scoping") — Thoughts on the product manager's favorite topic, scoping work.
 * [A Product Origin Story](/post/a-product-origin-story/ "A Product Origin Story") — Background history in how we got started on Fulcrum.
