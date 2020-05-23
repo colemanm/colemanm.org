@@ -10,7 +10,7 @@ description: "About colemanm.org"
 
 Hi. I'm Coleman McCormick, a product guy living in St. Petersburg, Florida with my wife and two kids. I've spent my career in technology, starting out as a geographer with an IT background, now evolved into product management. Currently I'm working on [Fulcrum](https://www.fulcrumapp.com "Fulcrum"), a low-code platform for field services.
 
-{% include image.html file="../about/about-coleman.jpg" description="" caption="no" %}
+{% include image.html file="../about/about-coleman.jpg" description="Coleman McCormick" caption="no" %}
 
 **colemanm.org** is my personal blog which I first started back in 2010. I post about a variety of topics that interest me, including product development, technology, economics, philosophy, writing, books, and more. I'm an avid runner and sports fan, so sometimes there's a sprinkling of posts on athletics.
 
