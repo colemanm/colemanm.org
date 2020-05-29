@@ -11,7 +11,7 @@ tags:
 - thinking
 ---
 
-In Sönke Ahrens's book _[How to Take Smart Notes](/book/ahrens-how-to-take-smart-notes/ "How to Take Smart Notes")_ he describes the "zettelkasten" system (the "slip box") developed by German sociologist [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann "Niklas Luhmann"). Luhmann created the system to help himself organize notes and thoughts in a networked model rather than a structured hierarchy of folders. The zettelkasten system has a few elements to it to help model different types of notes, how and when you should write them, and how you associate ideas together.
+In Sönke Ahrens's book _[How to Take Smart Notes](/books/ahrens-how-to-take-smart-notes/ "How to Take Smart Notes")_ he describes the "zettelkasten" system (the "slip box") developed by German sociologist [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann "Niklas Luhmann"). Luhmann created the system to help himself organize notes and thoughts in a networked model rather than a structured hierarchy of folders. The zettelkasten system has a few elements to it to help model different types of notes, how and when you should write them, and how you associate ideas together.
 
 {% include image.html file="evergreen-note.jpg" description="Evergreen notes" caption="no" %}
 
