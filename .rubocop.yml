@@ -21,3 +21,6 @@ Metrics/PerceivedComplexity:
 
 Metrics/AbcSize:
   Enabled: false
+
+Layout/HashAlignment:
+  Enabled: false
