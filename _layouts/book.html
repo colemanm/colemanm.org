@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div itemscope itemtype="http://schema.org/Review">
-<span itemprop=reviewRating itemscope itemtype=http://schema.org/Rating><meta content=1 itemprop=worstRating><meta content={{ book.rating }} itemprop=ratingValue><meta content=5 itemprop=bestRating></span>
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><meta content="1" itemprop="worstRating"><meta content="{{ book.rating }} itemprop=ratingValue"><meta content="5" itemprop="bestRating"></span>
 <div class="book" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
   {% assign book = page %}
   {% if book.img == true %}
