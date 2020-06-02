@@ -20,7 +20,7 @@ Let's look at the goal progress:
 
 | Activity       | Progress      | Pace         | Goal         | Plus-Minus                       |
 |----------------|---------------|--------------|--------------|----------------------------------|
-| **Running**    | 207.99 miles  | 215 miles    | 650 miles    | <span class="red">-7.49</span>   |
+| **Running**    | 198.46 miles  | 215 miles    | 650 miles    | <span class="red">-16.54</span>  |
 | **Meditation** | 1070 minutes  | 1034 minutes | 3120 minutes | <span class="green">+35.7</span> |
 | **Reading**    | 11 books      | 9.95 books   | 30 books     | <span class="green">+1.05</span> |
 
