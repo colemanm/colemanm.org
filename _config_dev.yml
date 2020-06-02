@@ -23,6 +23,10 @@ collections:
     output: true
     permalink: /quotes/:title/
 
+sass:
+  sass_dir: _sass
+  style: :compressed
+
 feed:
   path: atom.xml
 
