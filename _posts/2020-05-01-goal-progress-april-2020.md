@@ -22,7 +22,7 @@ Let's look at the goal progress:
 |----------------|---------------|--------------|--------------|----------------------------------|
 | **Running**    | 207.99 miles  | 215 miles    | 650 miles    | <span class="red">-7.49</span>   |
 | **Meditation** | 1070 minutes  | 1034 minutes | 3120 minutes | <span class="green">+35.7</span> |
-| **Reading**    | 11 books      | 9.95 books   | 30 books     | <span class="green">+1.05</span>   |
+| **Reading**    | 11 books      | 9.95 books   | 30 books     | <span class="green">+1.05</span> |
 
 So I fell off the schedule completely in the middle of the month on the meditation practice. I went a few days without doing it, and then just fell apart with consistency. There wasn't a specific reason other than laziness, and not building it into a morning routine as I had planned. I'm not sure what I'll do with the practice, but I do intend to get back to it. One thing I've still got to get figured out is a more [solid morning routine](/post/6am-writing/ "6am Writing") to create the transition from personal to work life more smoothly.
 
