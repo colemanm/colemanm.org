@@ -9,12 +9,31 @@ description: "My personal library."
 <div class="page archive">
 <h1>Books</h1>
 
-<p>A reading log with thoughts and highlights from books in my library.</p>
+<p>A reading log with thoughts and highlights from books in my library. I've flagged my favorites in bold.</p>
 
+<h2>Currently Reading</h2>
+<table cellspacing="0" class="archive-table book-archive">
+  {% assign books = site.books | sort: 'date_started' | reverse %}
+  {% for book in books %}
+    {% if book.status != "draft" and book.current %}
+    <tr class="{% cycle 'even', 'odd' %}">
+      <td class="title">
+        {% if book.favorite %}<strong>{% endif %}
+        <a href='{{ book.url }}'><em>{{ book.title | xml_escape }}</em></a>
+        {% if book.favorite %}</strong>{% endif %}
+      </td>
+      <td >{{ book.author }}</td>
+      <td class="right-cell">{{ book.publish_year }}</td>
+    </tr>
+    {% endif %}
+  {% endfor %}
+  </table>
+
+<h2>Bookshelf</h2>
 <table cellspacing="0" class="archive-table book-archive">
 {% assign books = site.books | sort: 'date_completed' | reverse %}
 {% for book in books %}
-  {% if book.status != "draft" %}
+  {% if book.status != "draft" and book.current != true %}
   {% assign review = site.posts | where: 'book-id', book.slug | first %}
   <tr class="{% cycle 'even', 'odd' %}">
     <td class="title">
