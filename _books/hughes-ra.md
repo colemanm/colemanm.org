@@ -20,6 +20,6 @@ format: kindle
 publish_year: 2014
 publisher: Self-Published
 date_started: 2020-04-12
-date_completed: 
+date_completed: 2020-06-07
 goodreads_id: 22635765
 ---
