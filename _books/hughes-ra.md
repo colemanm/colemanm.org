@@ -14,7 +14,7 @@ genres:
 - speculative fiction
 - fantasy
 isbn: 
-rating: 
+rating: 4
 pages: 506
 format: kindle
 publish_year: 2014
@@ -22,6 +22,4 @@ publisher: Self-Published
 date_started: 2020-04-12
 date_completed: 
 goodreads_id: 22635765
-
-current: true
 ---
