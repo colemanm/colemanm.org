@@ -10,8 +10,8 @@ tags:
 - police
 
 links:
-- url: "Police and Road Safety"
-  title: https://marginalrevolution.com/marginalrevolution/2020/06/why-are-the-police-in-charge-of-road-safety.html
+- url: https://marginalrevolution.com/marginalrevolution/2020/06/why-are-the-police-in-charge-of-road-safety.html
+  title: "Police and Road Safety"
   icon: 🚓
 ---
 
