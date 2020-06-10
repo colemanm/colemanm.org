@@ -1,5 +1,6 @@
 AllCops:
-  TargetRubyVersion: 2.3.1
+  TargetRubyVersion: 2.7.1
+  NewCops: disable
   Exclude:
     - _site/**/*
     - node_modules/**/*
@@ -9,8 +10,8 @@ AllCops:
 Style/Documentation:
   Enabled: false
 
-Metrics/LineLength:
-  Enabled: false
+# Metrics/LineLength:
+#   Enabled: false
 
 Metrics/MethodLength:
   Enabled: false
@@ -19,4 +20,7 @@ Metrics/PerceivedComplexity:
   Enabled: false
 
 Metrics/AbcSize:
+  Enabled: false
+
+Layout/HashAlignment:
   Enabled: false
