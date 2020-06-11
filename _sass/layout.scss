@@ -139,6 +139,86 @@ blockquote.twitter-tweet {
   margin-bottom: 15px;
 }
 
+// Images
+img.full {
+  position: relative;
+  text-align: center;
+  display: block;
+  left: -75px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+img.partial {
+  position: relative;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+.post img.right { float: right; margin: 0 0 12px 12px; left:0 }
+.post img.left { float: left; margin: 0 12px 12px 0; left: 0 }
+img.thumb.left {
+  margin-right: 6px;
+}
+img.thumb.right {
+  margin-left: 6px;
+}
+img.bordered { border: 1px solid #ddd; }
+.caption {
+  font-style: italic;
+  font-size: 0.9em;
+  text-align: center;
+  display: block;
+  margin-top: 5px;
+}
+
+// Places
+.place { text-align: center; }
+
+// Archives
+.archive h1 {
+  margin: 10px 0;
+}
+
+.archive-select {
+  text-align: center;
+}
+.archive-select a {
+  background-color: #fff;
+  padding: .45em .55em;
+  text-decoration: none;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  display: inline-block;
+}
+
+.archive ul {
+  list-style-type: none;
+  margin: 0 0 15px 0;
+  padding: 0;
+}
+.archive li a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  border: 1px solid #ccc;
+}
+.archive table { width: 100%; }
+.archive table td {
+  padding: 3px 3px;
+}
+.archive table td.right-cell { text-align: right; color: #555; }
+.archive table tr.odd { background-color: #F2EDE8; }
+.archive-table {
+  margin-bottom: 15px;
+}
+.browse-archive {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
 // Footnotes
 .footnotes {
   font-size: 0.8em;
@@ -182,7 +262,48 @@ blockquote.twitter-tweet {
   font-size: 0.8em;
   color: #aaa;
 }
+.book .book-full-img {
+  height: 300px;
+  float: right;
+}
 .rating { color: #333; }
+
+// Maps
+.maps h1 { margin: 10px 0; }
+.maps a img { border: 2px solid #f0f0f0; }
+.maps a:hover img { border: 2px solid #4da3a3; }
+.maps .caption {
+  text-align: center;
+  color: #777;
+  margin: 4px 0 20px;
+  padding: 0;
+  font-style: italic;
+  font-size: 1.2em;
+}
+.maps .caption .about {
+  color: #bbb;
+  font-size: 0.8em;
+}
+
+// Talks
+.talk { margin-bottom: 15px; }
+.talk .image { margin-bottom: 20px; }
+.talks h1 { margin: 10px 0; }
+.talks a.img, .talks a.img:hover { border: none; }
+.talk .title {
+  font-size:  1.1em;
+  margin-top:  10px;
+}
+
+.share { display:  block; text-align:  center; }
+.share iframe {
+  vertical-align:  top;
+}
+
+// Quotes
+.quote {
+  font-size: 1.2em;
+}
 
 // Search
 .search-input {
@@ -212,3 +333,124 @@ blockquote.twitter-tweet {
   color: #aaa;
 }
 #footer a { border: none;}
+
+// Hide mobile nav by default
+.mobile-nav { display: none; }
+
+// Media Queries
+
+@media screen and (max-width: 640px) {
+  #container, #header {
+    width: auto;
+  }
+  #headerwrap { padding-bottom: 5px; }
+  #header { padding: 0 15px; }
+  #navigation .nav-books,
+  #navigation .nav-links,
+  #navigation .nav-tw { display: none; }
+  .post, .link { font-size: 0.9em; }
+  .post img, .post img.full, .link img, .link img.full { width: 100%; left: 0; }
+  .post .book {
+    width: 100%;
+    left: -20px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 20px;
+  }
+  .post .book ul { margin-bottom: 5px; }
+  .book img { display: none; }
+  .post ul, .post ol { padding-left: 1.5em; }
+  .video { width: 100%; left: 0; }
+  .book-archive .right-cell,
+  .book-archive .book-date-completed { display: none; }
+  .book { font-size: 0.9em; }
+  .book ul { padding-left: 1.5em; }
+  .post table { border: 0; }
+  .post table thead {
+    position: absolute;
+    border: 0;
+    clip: rect(1px 1px 1px 1px);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    overflow: hidden;
+    top: -9999em;
+    left: -9999em;
+    padding: 0;
+  }
+  .post table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  .post table th {
+    display: block;
+    padding: 0;
+    text-align: left;
+    white-space: normal;
+  }
+  .post table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .9em;
+    text-align: center;
+  }
+  .post table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .post table td:last-child {
+    border-bottom: 0;
+  }
+  .limiter {
+    width: auto;
+    padding: 0 20px
+  }
+  .archive { font-size: 0.9em; }
+  .archive .right-cell  { display: none; }
+  h1 { font-size: 1.6em; }
+  blockquote { margin: 0; }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 1024px) {
+  #container, #header {
+    width: 620px;
+  }
+  #headerwrap { padding-bottom: 5px; }
+  #header { padding: 0 15px; }
+  .post, .link { font-size: 0.9em; }
+  .post img.full, .link img.full { width: 100%; left: 0; }
+  .post img.partial, link img.partial {
+    position: relative;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+  .post .book {
+    width: 100%;
+    left: -20px;
+  }
+  .post .book ul { margin-bottom: 5px; }
+  .post .book img {
+    width: auto;
+    height: 230px;
+    float: right;
+  }
+  .video { width: 100%; left: 0; }
+  .limiter {
+    width: auto;
+    padding: 0 20px
+  }
+  /*.archive { font-size: 0.9em; }
+  .archive .right-cell  { display: none; }*/
+  h1 { font-size: 1.6em; }
+  blockquote { margin: 0; }
+}

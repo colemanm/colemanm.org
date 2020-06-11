@@ -13,7 +13,7 @@ tags:
   <div class='{{ post.layout }}'>
     <h2><a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
     <span class='meta'>{{ post.date | date: '%B %-d, %Y' }} &bull; <a href='{{ post.url }}' title='Permalink'>#</a></span>
-    <div class='body'>
+    <div>
       {{ post.content }}
       {% include image-credit-home.html %}
     </div>
