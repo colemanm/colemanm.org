@@ -1,90 +1,7 @@
-/* Styles by me, colors derived from: https://www.flickr.com/photos/karhan/8372828011 */
+// Structure and layout
+// --------------------------
 
-@import "github.css";
-
-html, body, h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
-html { font-size: 100% }
-body {
-  margin: 0 auto;
-  color: #333;
-  font: normal 1.1em/1.8 "Lato", sans-serif;
-}
-a, a:visited, a:active {
-  color: #446688;
-  text-decoration: none;
-  border-bottom: 1px solid #bcd;
-}
-a:hover {
-  color: #2d3939;
-  border-bottom: 1px solid #dd9922;
-}
-h1, h2, h3, h4, h5, h6 {
-  color: #446688;
-  font-weight: normal;
-}
-h1 { line-height: 1.3em; }
-h2 { margin-top:  0; }
-h3 { color: #333; }
-p { margin: 0.9em 0; }
-ul,ol {
-  margin: 0 0 1.5em;
-  padding-left: 2.5em;
-}
-ul li p { margin: 0; }
-blockquote {
-  border-left: 2px solid #555;
-  color: #999;
-  margin: 1em;
-  padding: 0 1em;
-}
-pre {
-  display: block;
-  font-family: "Inconsolata XL", monospace;
-  background: #f2ede8;
-  padding: 5px;
-  overflow: auto;
-}
-code {
-  padding: 3px;
-  background-color: #f2ede8;
-}
-sup, sub {
-   vertical-align:  baseline;
-   position:  relative;
-   top:  -0.4em;
-}
-sub { top:  0.4em; }
-
-/* img floats */
-.post img.right { float: right; margin: 0 0 12px 12px; left:0 }
-.post img.left { float: left; margin: 0 12px 12px 0; left: 0 }
-img.thumb.left {
-  margin-right: 6px;
-}
-img.thumb.right {
-  margin-left: 6px;
-}
-img.bordered { border: 1px solid #ddd; }
-.caption {
-  font-style: italic;
-  font-size: 0.9em;
-  text-align: center;
-  display: block;
-  margin-top: 5px;
-}
-
-/* utility classes */
-
-.aqua { color: #446688; }
-.orange { color: coral; }
-.yellow { color: gold;  }
-.green  { color: green; }
-.red    { color: red; }
-
-.bold { font-weight: bold; }
-
-.clearfix { overflow: auto; }
-
+// General layout
 #container {
   width: 700px;
   margin: 0 auto;
@@ -106,7 +23,7 @@ img.bordered { border: 1px solid #ddd; }
   font-weight: bold;
   text-decoration: none;
 }
-#header h1 a: hover {
+#header h1 a:hover {
   color: #dd9922;
 }
 #header table { width: 100%; }
@@ -132,66 +49,25 @@ img.bordered { border: 1px solid #ddd; }
   text-decoration: none;
 }
 
-span.topic {
-  color: #999;
-}
-
-/* regular posts */
-.post {
-  margin: 8px 0 2em 0;
-  background: #fff;
-  position: relative;
-}
+// Blog
+.post, .link, .book { margin: 2em 0; }
 .post h2 {
-  font-size: 2em;
-  margin-top: 10px;
-  line-height: 1.3em;
+  // font-size: 2em;
+  // line-height: 1.3em;
 }
 .post h2 a {
   border: none;
-}
-.post p {
-  line-height: 1.8em;
-}
-.post span.meta {
+} 
+.post .meta, .link .meta {
   display: block;
   text-align: left;
   margin-bottom: 15px;
   color: #bbb;
   clear: left;
 }
+.link .meta { font-size: 0.8em; }
 .post span.meta a {
   border: 0;
-}
-img.full {
-  position: relative;
-  text-align: center;
-  display: block;
-  left: -75px;
-  margin: 0 auto;
-  padding: 10px 0;
-}
-.post img.partial, .link img.partial {
-  position: relative;
-  text-align: center;
-  display: block;
-  margin: 0 auto;
-  padding: 10px 0;
-}
-.post table {
-  margin: 25px auto;
-  border-collapse: collapse;
-}
-.post table td, .post table th  {
-  padding: 3px 15px;
-  text-align: center;
-  border-bottom: 1px solid #ccc;
-}
-.post table td { font-size: 0.9em; }
-.post table td.right-cell { text-align: right; color: #555; }
-.post table tr.odd { background-color: #F2EDE8; }
-.post-table {
-  margin-bottom: 15px;
 }
 .post .book {
   position: relative;
@@ -209,13 +85,19 @@ img.full {
 .post .author {
   font-size: 0.9em;
 }
-.book img {
+.post .book img {
   height: 230px;
   float: right;
 }
-.book .book-full-img {
+.post .book .book-full-img {
   height: 300px;
   float: right;
+}
+.image-credit {
+  margin-top: 25px;
+  text-align: center;
+  font-size: small;
+  color: #bbb;
 }
 blockquote.twitter-tweet {
   margin: 0 auto;
@@ -224,59 +106,7 @@ blockquote.twitter-tweet {
   font-family: Georgia, serif;
 }
 
-/* link posts */
-.link, .book {
-  margin: 8px 0 2em 0;
-  background: #fff;
-}
-.link h2 {
-  font-size: 1.3em;
-}
-.link .meta {
-  display: block;
-  text-align: left;
-  font-size: 0.8em;
-  margin-bottom: 15px;
-  color: #bbb;
-  clear: left;
-}
-
-.image-credit {
-  margin-top: 25px;
-  text-align: center;
-  font-size: small;
-  color: #bbb;
-}
-
-/* books */
-.book-archive {
-  font-size: 0.85em;
-}
-.book .subtitle {
-  font-size: 1.1em;
-  line-height: 1.4em;
-  margin-bottom: 10px;
-}
-.book .series {
-  color: #999;
-  font-size: 0.85em;
-}
-.book-meta {
-  display: block;
-  font-size: 0.8em;
-  color: #bbb;
-}
-.book-data {
-  font-size: 0.8em;
-  color: #aaa;
-}
-.rating { color: #333; }
-
-/* quotes */
-.quote {
-  font-size: 1.2em;
-}
-
+// Video
 .video {
   position: relative;
   left: -75px;
@@ -292,50 +122,60 @@ blockquote.twitter-tweet {
 	height: 100%;
 }
 
-.place { text-align: center; }
-
-.end {
-  text-align: center;
-  color: #ddd;
-  font-size: 18px;
+// Tables
+.post table {
+  margin: 25px auto;
+  border-collapse: collapse;
 }
-
-.body {
+.post table td, .post table th  {
+  padding: 3px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+.post table td { font-size: 0.9em; }
+.post table td.right-cell { text-align: right; color: #555; }
+.post table tr.odd { background-color: #F2EDE8; }
+.post-table {
   margin-bottom: 15px;
 }
 
-.single p {
-  line-height: 1.9em;
+// Images
+img.full {
+  position: relative;
+  text-align: center;
+  display: block;
+  left: -75px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+img.partial {
+  position: relative;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+.post img.right { float: right; margin: 0 0 12px 12px; left:0 }
+.post img.left { float: left; margin: 0 12px 12px 0; left: 0 }
+img.thumb.left {
+  margin-right: 6px;
+}
+img.thumb.right {
+  margin-left: 6px;
+}
+img.bordered { border: 1px solid #ddd; }
+.caption {
+  font-style: italic;
+  font-size: 0.9em;
+  text-align: center;
+  display: block;
+  margin-top: 5px;
 }
 
-.post .footnotes, .link .footnotes {
-  font-size: 0.8em;
-  margin: 15px 0;
-}
-.post .footnotes ol, .link .footnotes ol {
-  border-top: #ddd;
-}
-.post .footnotes p, .link .footnotes p {
-  margin: 2px 0;
-}
+// Places
+.place { text-align: center; }
 
-.topics h1 { margin: 10px 0; }
-.topic {
-  font-size: 0.75em;
-  color: #aaa;
-  margin: 0 auto 15px auto;
-}
-
-.tag-count {
-  font-size: 0.75em;
-}
-
-.page {
-  margin: 8px 0 3em 0;
-  background: #fff;
-}
-
-/* archives */
+// Archives
 .archive h1 {
   margin: 10px 0;
 }
@@ -379,13 +219,59 @@ blockquote.twitter-tweet {
   margin-bottom: 10px;
 }
 
-/* feature pages */
-.feature { margin-bottom: 20px; }
+// Footnotes
+.footnotes {
+  font-size: 0.8em;
+  margin: 15px 0;
+}
+.footnotes ol {
+  border-top: #ddd;
+}
+.footnotes p {
+  margin: 2px 0;
+}
 
-/* maps page */
+.quote { font-size: 1.2em; }
+.place { text-align: center; }
+
+.end {
+  text-align: center;
+  color: #ddd;
+  font-size: 18px;
+}
+
+// Books
+.book-archive {
+  font-size: 0.85em;
+}
+.book .subtitle {
+  font-size: 1.1em;
+  line-height: 1.4em;
+  margin-bottom: 10px;
+}
+.book .series {
+  color: #999;
+  font-size: 0.85em;
+}
+.book-meta {
+  display: block;
+  font-size: 0.8em;
+  color: #bbb;
+}
+.book-data {
+  font-size: 0.8em;
+  color: #aaa;
+}
+.book .book-full-img {
+  height: 300px;
+  float: right;
+}
+.rating { color: #333; }
+
+// Maps
 .maps h1 { margin: 10px 0; }
 .maps a img { border: 2px solid #f0f0f0; }
-.maps a: hover img { border: 2px solid #4da3a3; }
+.maps a:hover img { border: 2px solid #4da3a3; }
 .maps .caption {
   text-align: center;
   color: #777;
@@ -399,11 +285,11 @@ blockquote.twitter-tweet {
   font-size: 0.8em;
 }
 
-/* talks page */
+// Talks
 .talk { margin-bottom: 15px; }
 .talk .image { margin-bottom: 20px; }
 .talks h1 { margin: 10px 0; }
-.talks a.img, .talks a.img: hover { border: none; }
+.talks a.img, .talks a.img:hover { border: none; }
 .talk .title {
   font-size:  1.1em;
   margin-top:  10px;
@@ -414,7 +300,12 @@ blockquote.twitter-tweet {
   vertical-align:  top;
 }
 
-/* search */
+// Quotes
+.quote {
+  font-size: 1.2em;
+}
+
+// Search
 .search-input {
   -webkit-appearance: none;
   border: 1px solid #e5e7e7;
@@ -422,8 +313,6 @@ blockquote.twitter-tweet {
   font-size: 1.3em;
   width: 100%;
   padding: 0.25em;
-}
-.result .post-title {
 }
 .result .post-date {
   font-size: 0.8em;
@@ -436,6 +325,7 @@ blockquote.twitter-tweet {
   margin-bottom: 30px
 }
 
+// Footer
 #footer {
   font-size: 0.8em;
   margin-bottom: 35px;
@@ -443,7 +333,11 @@ blockquote.twitter-tweet {
   color: #aaa;
 }
 #footer a { border: none;}
+
+// Hide mobile nav by default
 .mobile-nav { display: none; }
+
+// Media Queries
 
 @media screen and (max-width: 640px) {
   #container, #header {

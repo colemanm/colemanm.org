@@ -1,0 +1,62 @@
+// Typeface styles
+
+h1, h2, h3, h4, h5, h6 {
+  color: #446688;
+  font-weight: normal;
+}
+h1 { line-height: 1.3em; }
+h2 { line-height: 1.3em; }
+.post h2 { font-size: 1.9em; }
+.link h2 { font-size: 1.3em; }
+h3 { color: #333; }
+p { margin: 0.9em 0; }
+ul,ol {
+  margin: 0 0 1.5em;
+  padding-left: 2.5em;
+}
+ul li p { margin: 0; }
+blockquote {
+  border-left: 2px solid #555;
+  color: #999;
+  margin: 1em;
+  padding: 0 1em;
+}
+pre {
+  display: block;
+  font-family: "Inconsolata XL", monospace;
+  background: #f2ede8;
+  padding: 5px;
+  overflow: auto;
+}
+code {
+  padding: 3px;
+  background-color: #f2ede8;
+}
+sup, sub {
+   vertical-align:  baseline;
+   position:  relative;
+   top:  -0.4em;
+}
+sub { top:  0.4em; }
+pre {
+  display: block;
+  font-family: "Inconsolata XL", monospace;
+  background: #f2ede8;
+  padding: 5px;
+  overflow: auto;
+}
+code {
+  padding: 3px;
+  background-color: #f2ede8;
+}
+sup, sub {
+   vertical-align:  baseline;
+   position:  relative;
+   top:  -0.4em;
+}
+sub { top:  0.4em; }
+
+span.topic {
+  color: #999;
+}
+
