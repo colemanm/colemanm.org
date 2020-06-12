@@ -1,12 +1,17 @@
 ---
 layout: link
-date: 2020-06-10
+date: 2020-06-10 22:06:46
 title: "Hybrid WFH is Dangerous"
 target: https://www.redcarpetup.com/2020/05/24/Hybrid-WFH-Is-Dangerous/
 categories: blog
 tags:
 - remote
 - work
+
+links:
+- url: https://www.redcarpetup.com/2020/05/24/Hybrid-WFH-Is-Dangerous/
+  title: "Hybrid WFH is Dangerous"
+  icon: 🏠️
 ---
 
 Interesting perspective here on the effectiveness of hybrid in-office/WFH models of work, which are likely to be popular in reopening cautiously:
