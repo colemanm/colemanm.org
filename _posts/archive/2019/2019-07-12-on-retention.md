@@ -3,6 +3,7 @@ layout: post
 date: 2019-07-12
 title: "On Retention"
 description: "Thoughts on the importance of customer retention and net negative churn in the SaaS business."
+img: /images/post-images/retention-vs-growth.jpg
 categories: blog
 tags:
 - SaaS
@@ -11,6 +12,12 @@ tags:
 - business
 - finance
 - analysis
+
+image_credit:
+- creator: "Mark Roberge"
+  url: https://www.slideshare.net/saastr/step-by-step-guide-to-revenue-growth
+- creator: "Tomasz Tunguz"
+  url: https://tomtunguz.com/top-10-learnings-from-the-redpoint-free-trial-survey/
 ---
 
 Earlier this year at [SaaStr Annual](https://www.saastrannual.com/ "SaaStr Annual"), we spent 3 days with 20,000 people in the SaaS market, hearing about best practices from the best in the business, from all over the world.
@@ -27,7 +34,7 @@ If you have awesome retention, you have to figure out adding new business. If yo
 
 > It's easier to accelerate growth with world class retention than fix retention while maintaining rapid growth.
 
-The [literature](https://www.forbes.com/sites/larrymyler/2016/06/08/acquiring-new-customers-is-important-but-retaining-them-accelerates-profitable-growth/#502571366711 "Acquiring New Customers Less Important Than Retaining") across industries is also in agreement on this. There's an adage in business that it's "cheaper to keep a customer than to acquire a new one." But to me there's more to this notion than the avoidance of the acquisition cost for a new customer, though that's certainly beneficial. Rather it's the maximization of the magic SaaS metric: LTV (lifetime value). If subscription customer never leaves, their revenue keeps growing ad infinitum. This is the sort of efficiency ever SaaS company is striving for — to maximize fixed investments over the long term. It's why investors are valuing SaaS businesses at [10x revenue these days](https://news.crunchbase.com/news/saas-valuations-revisit-record-highs/ "SaaS Valuations"). But you can't get there without unlocking the right product-market fit to switch on this kind of retention and growth.
+The [literature](https://www.forbes.com/sites/larrymyler/2016/06/08/acquiring-new-customers-is-important-but-retaining-them-accelerates-profitable-growth/#502571366711 "Acquiring New Customers Less Important Than Retaining") across industries is also in agreement on this. There's an adage in business that it's "cheaper to keep a customer than to acquire a new one." But to me there's more to this notion than the avoidance of the acquisition cost for a new customer, though that's certainly beneficial. Rather it's the maximization of the magic SaaS metric: LTV (lifetime value). If a subscription customer never leaves, their revenue keeps growing ad infinitum. This is the sort of efficiency ever SaaS company is striving for — to maximize fixed investments over the long term. It's why investors are valuing SaaS businesses at [10x revenue these days](https://news.crunchbase.com/news/saas-valuations-revisit-record-highs/ "SaaS Valuations"). But you can't get there without unlocking the right product-market fit to switch on this kind of retention and growth.
 
 So Roberge recommends keying in on this factor. One of the key first steps in establishing a strong position with any customer is to have a clear definition of when they cross a product fit threshold — when they reach the "aha" moment and see the value for themselves. He calls this the "customer success leading indicator", and explains that all companies should develop a metric or set of metrics that indicates when customers cross this mark. Some examples from around the SaaS universe of how companies are measuring this:
 
