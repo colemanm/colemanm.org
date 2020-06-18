@@ -34,6 +34,21 @@ a:hover {
   color: #2d3939;
   border-bottom: 1px solid #dd9922;
 }
+input {
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  font-family: Lato,sans-serif;
+  font-size: 1em;
+}
+input[type="text"], input[type="email"], input[type="phone"] {
+  border: 1px solid $grey;
+}
+input[type="submit"] {
+  color: #fff;
+  background-color: $aqua;
+  border: none;
+  cursor: pointer;
+}
 
 /* images */
 img.full {

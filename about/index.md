@@ -44,6 +44,10 @@ I have a few recurring series posts that I return to on occasion.
 * **Best Songs** — A while ago my dad and I were [talking about collecting playlists](/post/best-songs-part-1-chameleon/ "Best Songs") of our all-time favorite songs. The main criteria is "songs personally meaningful to you." There are many in my personal archive, so I post one every now and then.
 * **Places** — where I snapshot and write short posts about interesting places on the globe.
 
-### Colophon
+## Colophon
 
 For anyone interested, this site is built minimally with [Jekyll](https://jekyllrb.com "Jekyll"), written in markdown, and hosted on [Netlify](https://www.netlify.com "Netlify").
+
+## Subscribe
+
+{% include subscribe.html %}
