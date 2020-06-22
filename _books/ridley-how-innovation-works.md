@@ -15,14 +15,14 @@ genres:
 - economics
 - progress
 isbn: 9780062916617
-rating: 
+rating: 5
 pages: 320
 format: audiobook
 publish_year: 2020
 publisher: Harper
 date_started: 2020-05-31
-date_completed: 
+date_completed: 2020-06-20
 goodreads_id: 45449488
 
-current: true
+favorite: true
 ---
