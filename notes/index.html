@@ -1,0 +1,22 @@
+---
+layout: default
+title: Notebook
+description: Notebook
+tags:
+- notebook
+---
+
+<div class="page">
+<h1>Notebook</h1>
+
+<p>My public evergreen notes.</p>
+
+<div class='posts'>
+  {% assign notes = site.notes %}
+  {% for note in notes %}
+  <div>
+    <div><a href="{{ note.url }}">{{ note.title }}</a></div>
+  </div>
+  {% endfor %}
+</div>
+</div>
