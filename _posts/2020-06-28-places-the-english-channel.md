@@ -19,7 +19,7 @@ image_credit:
 
 {% include image.html file="places-english-channel.jpg" description="English Channel" caption="no" %}
 
-This [image from Landsat 8](https://earthobservatory.nasa.gov/images/146897/channeling-a-bloom “Channeling a Bloom”) shows the western end of the English Channel off the coast of Cornwall. A phytoplankton bloom spreads for dozens of miles
+This [image from Landsat 8](https://earthobservatory.nasa.gov/images/146897/channeling-a-bloom “Channeling a Bloom”) shows the western end of the English Channel off the coast of Cornwall. A phytoplankton bloom spreads for dozens of miles, filling the St. Austell Bay.
 
 The only time I was on the Channel was on the ferry from Dover to Calais, on a particularly rough but clear day.
 
