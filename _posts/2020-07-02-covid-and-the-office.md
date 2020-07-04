@@ -12,7 +12,7 @@ tags:
 links:
 - url: https://www.spectator.co.uk/article/will-covid-kill-off-the-office
   title: "Will COVID Kill the Office?"
-	icon: 👨🏽‍💻
+  icon: 👨🏽‍💻
 ---
 
 Rory Sutherland's latest column for _The Spectator_:
