@@ -21,8 +21,8 @@ We just wrapped a week on the beach. 10 adults, 10 kids, 3 houses. A few highlig
 
 {% include image.html file="ami-breakfast.jpg" description="Breakfast each day looks something like this" %}
 
-{% include image.html file="ami-sunset-2.jpg" caption="no" %}
+{% include image.html file="ami-sunset-2.jpg" description="AMI sunset 2" caption="no" %}
 
-{% include image.html file="ami-sunset-3.jpg" caption="no" %}
+{% include image.html file="ami-sunset-3.jpg" description="AMI sunset 3" caption="no" %}
 
 {% include image.html file="ami-house-night.jpg" description="Our beach house at night" %}
