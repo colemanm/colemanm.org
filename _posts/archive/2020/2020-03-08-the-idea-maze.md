@@ -3,6 +3,7 @@ layout: post
 date: 2020-03-08 23:35:23
 title: "The Idea Maze"
 description: "A framework for analyzing product ideas by simulating your path through the maze."
+img: /images/post-images/idea-maze.jpg
 categories: blog
 tags:
 - product
@@ -20,6 +21,8 @@ He proposes this format for thinking about the phases a company moves through â€
 * A program is not a product
 * A product is not a business
 * And a business is not profits
+
+{% include image.html file="idea-maze.jpg" description="Idea maze" caption="no" %}
 
 You can map this onto the debate between "idea vs. execution" by calling everything below the idea the stage "execution." In certain circles, especially among normal people not steeped in the universe of tech companies, the idea component is enormously overweighted. If you make software and your friends or acquaintances know it, I'm sure you're familiar with flavors of "I have this great idea, I just need someone who can code to build it." They don't understand that everything following the _"just"_ is about 99.5% of the work to create success (or more)[^badideas].
 
