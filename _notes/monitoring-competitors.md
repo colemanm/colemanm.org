@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notebook
 title: "Monitoring Competitors"
 description: "How much should you spend time on competitors? What's the right balance of independence and paranoia?"
 img: /images/notes/monitoring-competitors.jpg
@@ -13,6 +13,8 @@ changelog:
 - change_date: "Initial version"
   change_summary:  2020-06-22
 ---
+
+{% include notebook/test.html %}
 
 For any company, keeping track of your position in the competitive landscape is a key element of making the right decisions.
 __How much__ time and attention should you spend on monitoring and analyzing your competitive position? Clearly the right answer lies somewhere on the spectrum between **none** and **way too much**.
