@@ -29,6 +29,7 @@ class Blog < Thor
         date: 
         title: "#{title.tr('-', ' ')}"
         description: ""
+        img: /images/post-images/
         categories: blog
         tags:
         - 
