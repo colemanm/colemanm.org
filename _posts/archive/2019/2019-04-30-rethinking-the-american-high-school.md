@@ -25,6 +25,6 @@ Because educating a diverse group of students is extremely non-trivial, expectin
 
 Much of this stems from the assumption that a classroom or school is like an engine we can "fix." Even if that were true, it's a long game. Student engagement and learning aren't going to skyrocket with a new policy or standardized test implementation. It's by no means an easy task to marshal support in a diverse, politically motivated community of administrators, parents, and teachers, but hopefully research like this can shine the spotlight on what's working.
 
-The authors of the study, Jal Mehta and Sarah Fine, are also publishing a book on their research: _[In Search of Deeper Learning: The Quest to Remake the American High School](https://www.amazon.com/Search-Deeper-Learning-Remake-American/dp/0674988396 "In Search of Deeper Learning")_. Another one for the reading list, for sure.
+The authors of the study, Jal Mehta and Sarah Fine, are also publishing a book on their research: _[In Search of Deeper Learning: The Quest to Remake the American High School](https://www.amazon.com/gp/product/0674988396/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=colemanmorg-20&creative=9325&linkCode=as2&creativeASIN=0674988396&linkId=eeadb0c231447b2989bd58b61d61198d "In Search of Deeper Learning")_. Another one for the reading list, for sure.
 
 [^measuring]: We've all heard the [Drucker aphorism](https://www.growthink.com/content/two-most-important-quotes-business "Peter Drucker quotes") "you can't fix what you can't measure."

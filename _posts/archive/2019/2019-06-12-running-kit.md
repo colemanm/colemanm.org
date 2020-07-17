@@ -21,10 +21,10 @@ Here's my normal setup:
 
 - Running hat
 - Shades (for daytime) — [Costa Pawleys](https://www.costadelmar.com/us/en/sunglasses/beach-lifestyle/pawleys/PW+66+OGMGLP.html "Costa Pawleys")
-- [Headlamp]({{ site.url }}/post/foxelli-headlamp/) (for nighttime) — [Foxelli](https://www.amazon.com/Foxelli-Headlamp-Flashlight-Lightweight-Waterproof/dp/B014JUMTXM/ "Foxelli Headlamp")
+- [Headlamp]({{ site.url }}/post/foxelli-headlamp/) (for nighttime) — [Foxelli](https://www.amazon.com/gp/product/B014JUMTXM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=colemanmorg-20&creative=9325&linkCode=as2&creativeASIN=B014JUMTXM&linkId=f7536d04ac26a4b0b64200f2be6b62c7 "Foxelli Headlamp")
 - AirPods — only the left ear, since I only listen to books and podcasts
 - GPS watch — [Garmin fenix 5](https://buy.garmin.com/en-US/US/p/552982 "Garmin fenix 5")
-- Running socks — [Saucony](https://www.amazon.com/Saucony-Multi-Pack-Performance-Comfort-No-Show/dp/B00JM8MWTI/ "Saucony socks")
+- Running socks — [Saucony](https://www.amazon.com/gp/product/B00JM8MWTI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=colemanmorg-20&creative=9325&linkCode=as2&creativeASIN=B00JM8MWTI&linkId=4959bf4552126abb191ae2ea3145eba6 "Saucony socks")
 - Lightweight shoes — [On Cloudflash](https://www.on-running.com/en-us/products/cloudflash-neon-white-m "On Cloudflash")
 
 This has been my consistent setup now for a few months for every run. I always have the AirPods and my watch on me, so there's very little required to always have what I need. The headlamp has been a game-changer for [night running]({{ site.url }}/post/night-running/), which I do a lot. Really makes me feel much safer even when running in the neighborhood.

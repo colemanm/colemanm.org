@@ -13,9 +13,9 @@ tags:
 
 I do most of my nighttime reading with my [Kindle](/post/kindle/ "Kindle"), but lately I've been reading a couple of books that don't exist in ebook format. I actually do prefer reading paper books as an experience, but I still favor the ebooks especially for [highlighting](/post/readwise/ "Readwise"), but also for the obvious benefits of portability and availability.
 
-Most of the clip-on book lights out there are clunky and annoying. Years ago I had something called a [LightWedge](https://www.amazon.com/LightWedge-Reading-Light-Lightwedge-Llc/dp/0641077491 "LightWedge") that was pretty clever, but too expensive, fragile, and heavy for regular use.
+Most of the clip-on book lights out there are clunky and annoying. Years ago I had something called a [LightWedge](https://www.amazon.com/gp/product/0972970169/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=colemanmorg-20&creative=9325&linkCode=as2&creativeASIN=0972970169&linkId=e0042c1943e33eb30c186e52fe29fe73 "LightWedge") that was pretty clever, but too expensive, fragile, and heavy for regular use.
 
-I went out looking for a simple, affordable option that also had no blue light, since that can interfere with sleep quality. I found [this option from Hooga](https://www.amazon.com/Blocking-Reading-Rechargeable-Brightness-Settings/dp/B07YQ86S1Z/ "Hooga Book Light") that's quite nice so far:
+I went out looking for a simple, affordable option that also had no blue light, since that can interfere with sleep quality. I found [this option from Hooga](https://www.amazon.com/gp/product/B07YQ86S1Z/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=colemanmorg-20&creative=9325&linkCode=as2&creativeASIN=B07YQ86S1Z&linkId=1e0a59743f9659d8b78f861532d2861a "Hooga Book Light") that's quite nice so far:
 
 {% include image.html file="book-light.jpg" description="Hooga book light" caption="no" %}
 
