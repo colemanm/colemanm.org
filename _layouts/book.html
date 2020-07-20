@@ -17,7 +17,6 @@ layout: default
   {% if book.current != true %}
   {% include book-rating.html %}
   {% endif %}
-  <div class="body">{{ content }}</div>
   <div class="book-data">
     <ul>
       <li>{{ book.type | capitalize }}</li>
@@ -30,6 +29,7 @@ layout: default
       {% endif %}
     </ul>
   </div>
+  <div class="body">{{ content }}</div>
 </div>
 <div itemprop="publisher" itemscope itemtype=http://schema.org/Organization>
   <meta content="colemanm.org" itemprop="name">
