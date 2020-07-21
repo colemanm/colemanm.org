@@ -12,7 +12,7 @@ tags:
 - notes
 ---
 
-With the last several books I've read, I've been trying to force myself to work through and document [literature notes](https://notes.andymatuschak.org/Literature_notes_are_secondary_and_separate "Andy Matuschak on literature notes") for my highlights, key ideas, and takeaways from books. Using a process (that perhaps I'll one day go through in greater detail here) in Roam, I'll scan through all of my highlights and write up notes on the content, editing it into my own words and phrasing. One of the goals of this process is to increase retention and recall, and as Sonke Ahrens [suggests](/books/ahrens-how-to-take-smart-notes/ "How to Take Smart Notes"), it's best not to simply copy and paste highlighted text into a document.
+With the last several books I've read, I've been trying to force myself to work through and document [literature notes](https://notes.andymatuschak.org/Literature_notes_are_secondary_and_separate "Andy Matuschak on literature notes") for my highlights, key ideas, and takeaways from books. Using a process (that perhaps I'll one day go through in greater detail here) in [Roam](/post/getting-comfortable-with-roam/ "Gettig Comfortable with Roam"), I'll scan through all of my highlights and write up notes on the content, editing it into my own words and phrasing. One of the goals of this process is to increase retention and recall, and as Sonke Ahrens [suggests](/books/ahrens-how-to-take-smart-notes/ "How to Take Smart Notes"), it's best not to simply copy and paste highlighted text into a document.
 
 {% include image.html file="literature-notes.jpg" description="Literature notes" caption="no" %}
 
