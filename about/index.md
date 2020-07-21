@@ -29,6 +29,7 @@ Here's a sampling of some of my favorite posts from over the years, in no partic
 * [2019](/post/2019/ "2019") — The first annual tradition of posting publicly my goals to track for the year. An ongoing experiment in "garage door up" habit-forming.
 * [An In-Depth History of Maps](/post/an-in-depth-history-of-maps/ "An In-Depth History of Maps") — A review of Lloyd Brown's rich history of cartography and map-making.
 * [Right-sizing and Scoping](/post/rightsizing-and-scoping/ "Right-sizing and Scoping") — Thoughts on the product manager's favorite topic, scoping work.
+* [On Retention](/post/on-retention/ "On Retention") — Retention and expansion are the two key forces in SaaS. You have to solve retention before you invest big in acquisition to scale.
 * [A Product Origin Story](/post/a-product-origin-story/ "A Product Origin Story") — Background history in how we got started on Fulcrum.
 * [The Power of SaaS Models](/post/power-of-saas-models/ "The Power of SaaS Models") — Some thoughts on B2B SaaS after almost ten years building a SaaS product.
 * [Addresses and Geocoding](/post/comparing-address-and-coordinate-systems/ "Addresses and Geocoding") — Comparing coordinate and addressing systems for mapping.
