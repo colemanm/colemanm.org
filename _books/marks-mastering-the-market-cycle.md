@@ -22,4 +22,5 @@ publisher: Houghton Mifflin Harcourt
 date_started: 2020-01-20
 date_completed: 2020-01-29
 goodreads_id: 37570460
+amazon_link: https://amzn.to/3hq8I6F
 ---

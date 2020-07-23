@@ -19,4 +19,5 @@ publish_year: 1992
 date_started: 2015-11-27
 date_completed: 2016-02-06
 goodreads_id: 77711
+amazon_link: https://amzn.to/2CW0BzY
 ---

@@ -20,6 +20,7 @@ publisher: Picador USA
 date_started: 2010-09-18
 date_completed: 2010-09-26
 goodreads_id: 40471
+amazon_link: https://amzn.to/3eSrS3J
 
 favorite: true
 ---

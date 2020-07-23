@@ -19,4 +19,5 @@ publish_year: 1949
 date_started: 2018-08-08
 date_completed: 2018-08-22
 goodreads_id: 588138
+amazon_link: https://amzn.to/32KS65y
 ---

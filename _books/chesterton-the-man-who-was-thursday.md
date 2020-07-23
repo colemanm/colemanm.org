@@ -7,8 +7,8 @@ author_last: Chesterton
 slug: chesterton-the-man-who-was-thursday
 type: fiction
 img: true
-series: 
-part: 
+series:
+part:
 genres:
 - classics
 - mystery
@@ -22,5 +22,7 @@ publisher: Modern Library
 date_started: 2010-03-18
 date_completed: 2010-05-19
 goodreads_id: 184419
+amazon_link: https://amzn.to/2CTByNY
+
 favorite: true
 ---

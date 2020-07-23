@@ -24,6 +24,7 @@ publisher: Penguin Books
 date_started: 2010-09-16
 date_completed: 2010-11-16
 goodreads_id: 71984
+amazon_link: https://amzn.to/2CZmLRK
 
 favorite: true
 ---

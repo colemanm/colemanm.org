@@ -19,4 +19,5 @@ publish_year: 1950
 date_started: 2019-02-14
 date_completed: 2019-02-28
 goodreads_id: 20930759
+amazon_link: https://amzn.to/3jtr7kO
 ---

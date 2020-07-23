@@ -21,6 +21,7 @@ publisher: Faber & Faber
 date_started: 2020-06-21
 date_completed: 2020-
 goodreads_id: 28921
+amazon_link: https://amzn.to/2ZRrNJh
 
 current: true
 ---

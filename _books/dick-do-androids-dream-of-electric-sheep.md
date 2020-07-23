@@ -21,4 +21,5 @@ publish_year: 1968
 date_started: 2017-10-03
 date_completed: 2017-10-04
 goodreads_id: 7082
+amazon_link: https://amzn.to/3fTf8ee
 ---

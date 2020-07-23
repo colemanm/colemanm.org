@@ -23,4 +23,5 @@ publish_year: 1988
 date_started: 2019-09-06
 date_completed: 2019-09-28
 goodreads_id: 75831
+amazon_link: https://amzn.to/32M997w
 ---

@@ -20,4 +20,5 @@ publisher: Arthur A. Levine Books
 date_started: 2010-07-21
 date_completed: 2010-07-26
 goodreads_id: 15881
+amazon_link: https://amzn.to/39jtW3w
 ---

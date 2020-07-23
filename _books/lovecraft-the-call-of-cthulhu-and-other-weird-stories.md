@@ -22,4 +22,5 @@ publish_year: 1926
 date_started: 2019-02-23
 date_completed: 2019-07-09
 goodreads_id: 160149
+amazon_link: https://amzn.to/3hq8CMl
 ---

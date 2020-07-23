@@ -20,4 +20,5 @@ publish_year: 1991
 date_started: 2016-03-28
 date_completed: 2016-04-03
 goodreads_id: 358990
+amazon_link: https://amzn.to/2ZOsWBk
 ---

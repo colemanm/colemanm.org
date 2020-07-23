@@ -23,4 +23,5 @@ publisher: Berkley Books
 date_started: 2010-12-12
 date_completed: 2011-03-24
 goodreads_id: 19670
+amazon_link: https://amzn.to/3hsnry5
 ---

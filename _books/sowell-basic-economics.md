@@ -18,6 +18,7 @@ publish_year: 2000
 date_started: 2017-09-27
 date_completed: 2018-10-01
 goodreads_id: 23677511
+amazon_link: https://amzn.to/39mxTEp
 
 favorite: true
 ---

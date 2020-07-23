@@ -21,6 +21,7 @@ publisher: Bantam Books
 date_started: 2011-06-23
 date_completed: 2011-07-15
 goodreads_id: 830
+amazon_link: https://amzn.to/39kVDZL
 
 favorite: true
 ---

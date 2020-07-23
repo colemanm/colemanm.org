@@ -22,5 +22,7 @@ publish_year: 2012
 date_started: 2019-07-14
 date_completed: 2019-12-24
 goodreads_id: 13530973
+amazon_link: https://amzn.to/3hvA2Re
+
 favorite: true
 ---

@@ -20,4 +20,5 @@ publisher: Scholastic
 date_started: 2010-07-10
 date_completed: 2010-07-21
 goodreads_id: 3
+amazon_link: https://amzn.to/2ZSj5Kx
 ---

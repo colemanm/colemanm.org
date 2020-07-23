@@ -25,6 +25,7 @@ publisher: Stripe Press
 date_started: 2019-12-27
 date_completed: 2020-03-14
 goodreads_id: 722412
+amazon_link: https://amzn.to/2ZXL3VD
 
 favorite: true
 ---

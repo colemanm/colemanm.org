@@ -21,4 +21,5 @@ publish_year: 2019
 date_started: 2019-06-13
 date_completed: 2019-06-23
 goodreads_id: 42111547
+amazon_link: https://amzn.to/30A0uSM
 ---

@@ -20,4 +20,5 @@ publisher: Headline Review
 date_started: 2010-06-24
 date_completed: 2010-06-30
 goodreads_id: 4407
+amazon_link: https://amzn.to/32JCkrH
 ---

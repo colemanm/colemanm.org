@@ -21,4 +21,5 @@ publish_year: 1988
 date_started: 2015-11-05
 date_completed: 2015-11-16
 goodreads_id: 95708
+amazon_link: https://amzn.to/2D0VuyE
 ---

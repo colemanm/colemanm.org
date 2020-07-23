@@ -21,6 +21,7 @@ publisher: Ace Books
 date_started: 2011-02-10
 date_completed: 2011-03-01
 goodreads_id: 22200
+amazon_link: https://amzn.to/2E1ZQFY
 
 favorite: true
 ---

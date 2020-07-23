@@ -21,4 +21,5 @@ publish_year: 1942
 date_started: 2019-12-05
 date_completed: 2019-12-23
 goodreads_id: 23522
+amazon_link: https://amzn.to/3eTiT1U
 ---

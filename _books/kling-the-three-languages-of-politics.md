@@ -22,4 +22,5 @@ publisher: Cato Institute
 date_started: 2020-04-17
 date_completed: 2020-04-20
 goodreads_id: 35443537
+amazon_link: https://amzn.to/3jzE2lE
 ---

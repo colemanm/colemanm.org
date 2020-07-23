@@ -23,4 +23,5 @@ publisher: Basic Books
 date_started: 2020-01-29
 date_completed: 2020-02-09
 goodreads_id: 40915762
+amazon_link: https://amzn.to/2ZSZABJ
 ---

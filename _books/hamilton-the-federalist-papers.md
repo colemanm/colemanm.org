@@ -23,5 +23,7 @@ publish_year: 1787
 date_started: 2018-11-14
 date_completed: 2019-10-07
 goodreads_id: 110331
+amazon_link: https://amzn.to/32MdNSS
+
 favorite: true
 ---

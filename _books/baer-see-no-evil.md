@@ -22,4 +22,5 @@ publisher: Broadway Books
 date_started: 2010-07-12
 date_completed: 2010-08-06
 goodreads_id: 9073
+amazon_link: https://amzn.to/32Li3BV
 ---

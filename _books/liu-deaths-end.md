@@ -20,5 +20,7 @@ publish_year: 2010
 date_started: 2019-08-01
 date_completed: 2019-08-16
 goodreads_id: 25451264
+amazon_link: https://amzn.to/3hmtmVe
+
 favorite: true
 ---

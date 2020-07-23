@@ -21,4 +21,5 @@ publish_year: 1992
 date_started: 2019-01-01
 date_completed: 2019-01-20
 goodreads_id: 977394
+amazon_link: https://amzn.to/39nf6cn
 ---

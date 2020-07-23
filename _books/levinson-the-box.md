@@ -19,7 +19,9 @@ rating: 4
 pages: 531
 format: kindle
 publish_year: 2006
+publisher: Princeton University Press
 date_started: 2016-05-15
 date_completed: 2017-09-10
 goodreads_id: 30111234
+amazon_link: https://amzn.to/32OrAs3
 ---

@@ -22,4 +22,5 @@ publisher: Free Press
 date_started: 2018-10-23
 date_completed: 2018-11-01
 goodreads_id: 86312
+amazon_link: https://amzn.to/3fXj5yw
 ---

@@ -22,4 +22,5 @@ publish_year: 2018
 date_started: 2018-05-12
 date_completed: 2018-05-14
 goodreads_id: 36064445
+amazon_link: https://amzn.to/2OLVGEm
 ---

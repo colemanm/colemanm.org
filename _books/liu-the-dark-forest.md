@@ -21,6 +21,7 @@ publish_year: 2008
 date_started: 2019-06-24
 date_completed: 2019-07-07
 goodreads_id: 26114141
+amazon_link: https://amzn.to/2WOFFlD
 
 favorite: true
 ---

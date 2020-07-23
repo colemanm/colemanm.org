@@ -20,4 +20,5 @@ publish_year: 1972
 date_started: 2019-02-17
 date_completed: 2019-02-23
 goodreads_id: 42205
+amazon_link: https://amzn.to/39li40S
 ---

@@ -20,6 +20,7 @@ publish_year: 2014
 date_started: 2018-03-09
 date_completed: 2018-03-14
 goodreads_id: 20410192
+amazon_link: https://amzn.to/2WOO0FK
 
 favorite: true
 ---

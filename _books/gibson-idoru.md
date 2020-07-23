@@ -20,4 +20,5 @@ publish_year: 1996
 date_started: 2017-10-12
 date_completed: 2017-10-22
 goodreads_id: 682768
+amazon_link: https://amzn.to/2WLV5Ho
 ---

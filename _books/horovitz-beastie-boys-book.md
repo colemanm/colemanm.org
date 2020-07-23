@@ -22,4 +22,5 @@ publisher: Spiegel & Grau
 date_started: 2020-05-20
 date_completed: 2020-05-31
 goodreads_id: 38799788
+amazon_link: https://amzn.to/2WLKps6
 ---

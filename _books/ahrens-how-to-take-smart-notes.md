@@ -21,4 +21,5 @@ publisher: Self-Published
 date_started: 2020-04-27
 date_completed: 2020-05-16
 goodreads_id: 34507927
+amazon_link: https://amzn.to/3juAalU
 ---

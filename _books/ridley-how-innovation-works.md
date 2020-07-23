@@ -17,14 +17,17 @@ genres:
 isbn: 9780062916617
 rating: 5
 pages: 320
-format: audiobook
+format: kindle
 publish_year: 2020
 publisher: Harper
 date_started: 2020-05-31
 date_completed: 2020-06-20
 goodreads_id: 45449488
+amazon_link: https://amzn.to/3fXqMFc
+
 
 favorite: true
+notes: true
 ---
 
 ## Summary

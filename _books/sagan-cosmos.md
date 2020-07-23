@@ -20,4 +20,5 @@ publish_year: 1980
 date_started: 2018-08-10
 date_completed: 2018-08-17
 goodreads_id: 55030
+amazon_link: https://amzn.to/32LnKzQ
 ---

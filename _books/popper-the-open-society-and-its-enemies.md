@@ -24,6 +24,7 @@ publisher: Routledge
 date_started: 2020-06-14
 date_completed: 2020-
 goodreads_id: 240592
+amazon_link: https://amzn.to/32NcT8M
 
 current: true
 ---

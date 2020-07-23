@@ -22,4 +22,5 @@ publisher: Simon Schuster
 date_started: 2020-02-15
 date_completed: 2020-02-29
 goodreads_id: 281818
+amazon_link: https://amzn.to/2BqC59Q
 ---

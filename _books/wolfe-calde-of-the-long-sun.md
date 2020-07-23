@@ -20,4 +20,5 @@ publish_year: 1994
 date_started: 2017-11-16
 date_completed: 2018-06-18
 goodreads_id: 727297
+amazon_link: https://amzn.to/39qA7CL
 ---

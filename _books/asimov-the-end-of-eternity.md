@@ -21,4 +21,5 @@ publisher: Fawcett Crest
 date_started: 2013-10-14
 date_completed: 2013-11-01
 goodreads_id: 509784
+amazon_link: https://amzn.to/2WEFTvi
 ---

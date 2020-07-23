@@ -21,5 +21,7 @@ publish_year: 1983
 date_started: 2019-03-15
 date_completed: 2019-03-22
 goodreads_id: 324750
+amazon_link: https://amzn.to/30FfuyC
+
 favorite: true
 ---

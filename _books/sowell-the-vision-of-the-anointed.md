@@ -21,5 +21,7 @@ publish_year: 1995
 date_started: 2019-08-21
 date_completed: 2019-09-02
 goodreads_id: 3044
+amazon_link: https://amzn.to/3hrG2dE
+
 favorite: true
 ---

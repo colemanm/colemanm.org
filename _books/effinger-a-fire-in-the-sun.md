@@ -20,4 +20,5 @@ publish_year: 1990
 date_started: 2015-01-09
 date_completed: 2015-04-01
 goodreads_id: 358991
+amazon_link: https://amzn.to/30FsZyz
 ---

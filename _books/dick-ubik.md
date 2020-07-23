@@ -21,4 +21,5 @@ publisher: Mariner Books
 date_started: 2020-03-30
 date_completed: 2020-04-11
 goodreads_id: 12346742
+amazon_link: https://amzn.to/2ZPTpya
 ---

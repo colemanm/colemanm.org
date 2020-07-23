@@ -22,4 +22,5 @@ publish_year: 1997
 date_started: 2019-04-25
 date_completed: 2019-04-29
 goodreads_id: 1898
+amazon_link: https://amzn.to/2OOTBYo
 ---

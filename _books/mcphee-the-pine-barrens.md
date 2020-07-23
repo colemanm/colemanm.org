@@ -22,6 +22,8 @@ publish_year: 1967
 date_started: 2016-11-05
 date_completed: 2016-11-06
 goodreads_id: 821355
+amazon_link: https://amzn.to/2CEPziD
+
 reviewers:
 - author: Tom Macwright
   url: https://macwright.org/2016/09/09/the-pine-barrens.html

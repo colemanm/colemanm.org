@@ -22,5 +22,7 @@ publish_year: 2004
 date_started: 2019-09-27
 date_completed: 2019-10-05
 goodreads_id: 27539
+amazon_link: https://amzn.to/30wUHxm
+
 favorite: true
 ---

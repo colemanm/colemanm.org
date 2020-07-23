@@ -21,4 +21,5 @@ publisher: Crown Business
 date_started: 2010-04-09
 date_completed: 2010-04-11
 goodreads_id: 6732019
+amazon_link: https://amzn.to/30zIic5
 ---

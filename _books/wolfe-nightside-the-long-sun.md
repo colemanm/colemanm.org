@@ -20,4 +20,5 @@ publish_year: 1993
 date_started: 2017-09-20
 date_completed: 2017-09-29
 goodreads_id: 18747374
+amazon_link: https://amzn.to/3eY04e6
 ---

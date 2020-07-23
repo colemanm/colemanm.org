@@ -23,4 +23,7 @@ publish_year: 1962
 date_started: 2019-03-09
 date_completed: 2019-06-16
 goodreads_id: 17717
+amazon_link: https://amzn.to/30AM30W
+
+favorite: true
 ---
