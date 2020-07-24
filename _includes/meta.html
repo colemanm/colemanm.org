@@ -5,7 +5,7 @@
 <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
 <meta property="og:type" content="article" />
-<meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}notes and links - @colemanm{% endif %}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% elsif page.layout == 'book' %}by {{ page.author }}{% else %}notes and links - @colemanm{% endif %}" />
 <meta property="og:title" content="{{ page.title | xml_escape }}" />
 <meta property="og:site_name" content="colemanm.org" />
 {% if page.img %}
@@ -17,6 +17,6 @@
 <meta name="twitter:creator" content="@colemanm" />
 <meta name="twitter:title" content="{{ page.title | xml_escape }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ page.img }}" />
-<meta name="twitter:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}notes and links - @colemanm{% endif %}" />
+<meta name="twitter:description" content="{% if page.description %}{{ page.description | xml_escape }}{% elsif page.layout == 'book' %}by {{ page.author }}{% else %}notes and links - @colemanm{% endif %}" />
 
 <script type=application/ld+json>{"@context": "http://schema.org","@type": "CreativeWork","author": "Coleman McCormick"}</script>
