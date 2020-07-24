@@ -24,6 +24,7 @@ layout: default
       <li><span itemprop="numberOfPages">{{ book.pages }}</span> pages</li>
       <li>ISBN: {% if book.isbn == blank %}None{% endif %}<a href="https://worldcat.org/isbn/{{ book.isbn }}"><span itemprop="isbn">{{ book.isbn }}</span></a> (<a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a>)</li>
       <li>Format: {{ book.format | capitalize }}</li>
+      <li><a href="{{ book.amazon_link }}" title="Buy on Amazon">Buy on Amazon</a></li>
       {% if book.reviewers %}
       <li>Other Readers: {% for reviewer in book.reviewers %}<a href="{{ reviewer.url }}" title="{{ reviewer.author }}">{{  reviewer.author }}</a>{% endfor %}</li>
       {% endif %}
