@@ -6,7 +6,7 @@ author: Jon Krakauer
 author_last: Krakauer
 slug: krakauer-into-thin-air
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

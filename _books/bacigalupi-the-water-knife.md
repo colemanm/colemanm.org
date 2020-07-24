@@ -6,7 +6,7 @@ author: Paolo Bacigalupi
 author_last: Bacigalupi
 slug: bacigalupi-the-water-knife
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

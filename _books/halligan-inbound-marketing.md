@@ -6,7 +6,7 @@ author: Brian Halligan, Dharmesh Shah
 author_last: Halligan
 slug: halligan-inbound-marketing
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

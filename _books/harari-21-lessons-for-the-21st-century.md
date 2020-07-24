@@ -6,7 +6,7 @@ author: "Yuval Noah Harari"
 author_last: Harari
 slug: harari-21-lessons-for-the-21st-century
 type: nonfiction
-img: true
+cover: true
 genres:
 - science
 - sociology

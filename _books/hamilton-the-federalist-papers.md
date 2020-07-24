@@ -6,7 +6,7 @@ author: Alexander Hamilton, James Madison, John Jay
 author_last: Hamilton
 slug: hamilton-the-federalist-papers
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

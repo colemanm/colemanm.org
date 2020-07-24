@@ -6,7 +6,7 @@ author: Dan Brown
 author_last: Brown
 slug: brown-the-lost-symbol
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

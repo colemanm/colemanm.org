@@ -6,7 +6,7 @@ author: Neal Stephenson
 author_last: Stephenson
 slug: stephenson-snow-crash
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

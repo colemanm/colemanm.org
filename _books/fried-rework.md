@@ -6,7 +6,7 @@ author: Jason Fried
 author_last: Fried
 slug: fried-rework
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

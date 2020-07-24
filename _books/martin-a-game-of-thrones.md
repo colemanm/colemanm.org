@@ -6,7 +6,7 @@ author: George R.R. Martin
 author_last: Martin
 slug: martin-a-game-of-thrones
 type: fiction
-img: true
+cover: true
 series: A Song of Ice and Fire
 part: 1
 genres:

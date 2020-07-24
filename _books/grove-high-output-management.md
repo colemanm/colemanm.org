@@ -6,7 +6,7 @@ author: Andy Grove
 author_last: Grove
 slug: grove-high-output-management
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

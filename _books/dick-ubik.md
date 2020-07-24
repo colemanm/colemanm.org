@@ -6,7 +6,7 @@ author: Philip K. Dick
 author_last: Dick
 slug: dick-ubik
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

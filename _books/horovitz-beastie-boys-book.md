@@ -6,7 +6,7 @@ author: Adam Horivitz, Michael Diamond
 author_last: Horovitz
 slug: horovitz-beastie-boys-book
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Martin Gurri
 author_last: Gurri
 slug: gurri-the-revolt-of-the-public
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

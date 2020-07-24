@@ -6,7 +6,7 @@ author: Charles Graeber
 author_last: Graeber
 slug: graeber-the-breakthrough
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

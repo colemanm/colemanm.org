@@ -6,7 +6,7 @@ author: Cormac McCarthy
 author_last: McCarthy
 slug: mccarthy-outer-dark
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

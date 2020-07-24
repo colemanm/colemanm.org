@@ -6,7 +6,7 @@ author: Italo Calvino
 author_last: Calvino
 slug: calvino-invisible-cities
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

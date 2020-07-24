@@ -6,7 +6,7 @@ author: J.K. Rowling
 author_last: Rowling
 slug: rowling-harry-potter-and-the-sorcerers-stone
 type: fiction
-img: true
+cover: true
 series: Harry Potter
 part: 1
 genres:

@@ -6,7 +6,7 @@ author: John Doerr
 author_last: Doerr
 slug: doerr-measure-what-matters
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

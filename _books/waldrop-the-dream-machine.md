@@ -6,7 +6,7 @@ author: M. Mitchell Waldrop
 author_last: Waldrop
 slug: waldrop-the-dream-machine
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Simon Winchester
 author_last: Winchester
 slug: winchester-pacific
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Stieg Larsson
 author_last: Larsson
 slug: larsson-the-girl-with-the-dragon-tattoo
 type: fiction
-img: true
+cover: true
 series: Millennium
 part: 1
 genres:

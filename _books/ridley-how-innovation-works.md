@@ -6,7 +6,7 @@ author: Matt Ridley
 author_last: Ridley
 slug: ridley-how-innovation-works
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

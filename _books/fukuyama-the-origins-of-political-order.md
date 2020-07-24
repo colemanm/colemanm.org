@@ -6,7 +6,7 @@ author: Francis Fukuyama
 author_last: Fukuyama
 slug: fukuyama-the-origins-of-political-order
 type: nonfiction
-img: true
+cover: true
 series: Political Order
 part: 1
 genres:

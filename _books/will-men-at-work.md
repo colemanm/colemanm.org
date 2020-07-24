@@ -6,7 +6,7 @@ author: George Will
 author_last: Will
 slug: will-men-at-work
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

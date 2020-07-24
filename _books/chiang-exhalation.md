@@ -6,7 +6,7 @@ author: Ted Chiang
 author_last: Chiang
 slug: chiang-exhalation
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

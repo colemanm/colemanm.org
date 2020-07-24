@@ -6,7 +6,7 @@ author: James S.A. Corey
 author_last: Corey
 slug: corey-abaddons-gate
 type: fiction
-img: true
+cover: true
 series: The Expanse
 part: 3
 genres:

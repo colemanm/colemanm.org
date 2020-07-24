@@ -6,7 +6,7 @@ author: Isaac Asimov
 author_last: Asimov
 slug: asimov-the-stars-like-dust
 type: fiction
-img: true
+cover: true
 series: Galactic Empire
 part: 1
 genres:

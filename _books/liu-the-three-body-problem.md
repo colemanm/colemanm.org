@@ -6,7 +6,7 @@ author: Cixin Liu
 author_last: Liu
 slug: liu-the-three-body-problem
 type: fiction
-img: true
+cover: true
 series: "Remembrance of Earth's Past"
 part: 1
 genres:

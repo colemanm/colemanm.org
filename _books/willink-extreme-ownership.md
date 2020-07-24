@@ -6,7 +6,7 @@ author: Jocko Willink
 author_last: Willink
 slug: willink-extreme-ownership
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

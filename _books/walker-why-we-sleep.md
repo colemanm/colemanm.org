@@ -6,7 +6,7 @@ author: Matthew Walker
 author_last: Walker
 slug: walker-why-we-sleep
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

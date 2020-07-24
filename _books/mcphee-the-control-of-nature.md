@@ -6,7 +6,7 @@ author: John McPhee
 author_last: McPhee
 slug: mcphee-the-control-of-nature
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

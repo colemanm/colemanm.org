@@ -6,7 +6,7 @@ author: David McCullough
 author_last: McCullough
 slug: mccullough-1776
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

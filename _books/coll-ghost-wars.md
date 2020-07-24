@@ -6,7 +6,7 @@ author: Steve Coll
 author_last: Coll
 slug: coll-ghost-wars
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

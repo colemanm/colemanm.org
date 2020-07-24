@@ -6,7 +6,7 @@ author: Gene Kim, Kevin Behr, and George Spafford
 author_last: Kim
 slug: kim-the-phoenix-project
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

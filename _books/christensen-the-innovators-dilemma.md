@@ -6,7 +6,7 @@ author: "Clayton M. Christensen"
 author_last: Christensen
 slug: christensen-the-innovators-dilemma
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

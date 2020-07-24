@@ -6,7 +6,7 @@ author: Safi Bahcall
 author_last: Bahcall
 slug: bahcall-loonshots
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

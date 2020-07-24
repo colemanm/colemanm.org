@@ -6,7 +6,7 @@ author: Jeff Sutherland
 author_last: Sutherland
 slug: sutherland-scrum
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

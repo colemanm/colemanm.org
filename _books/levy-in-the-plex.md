@@ -6,7 +6,7 @@ author: Steven Levy
 author_last: Levy
 slug: levy-in-the-plex
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

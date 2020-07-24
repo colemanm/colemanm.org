@@ -6,7 +6,7 @@ author: Epictetus
 author_last: Epictetus
 slug: epictetus-discourses
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

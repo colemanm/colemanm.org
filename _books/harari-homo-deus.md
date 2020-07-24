@@ -6,7 +6,7 @@ author: Yuval Noah Harari
 author_last: Harari
 slug: harari-homo-deus
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

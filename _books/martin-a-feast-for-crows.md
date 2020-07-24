@@ -6,7 +6,7 @@ author: George R.R. Martin
 author_last: Martin
 slug: martin-a-feast-for-crows
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

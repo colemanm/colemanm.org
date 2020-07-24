@@ -6,7 +6,7 @@ author: Jacques Barzun
 author_last: Barzun
 slug: barzun-from-dawn-to-decadence
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

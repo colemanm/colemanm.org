@@ -6,7 +6,7 @@ author: Michael Pollan
 author_last: Pollan
 slug: pollan-in-defense-of-food
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: "Doris Kearns Goodwin"
 author_last: Goodwin
 slug: goodwin-team-of-rivals
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

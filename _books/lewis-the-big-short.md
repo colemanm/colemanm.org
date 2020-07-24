@@ -6,7 +6,7 @@ author: Michael Lewis
 author_last: Lewis
 slug: lewis-the-big-short
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

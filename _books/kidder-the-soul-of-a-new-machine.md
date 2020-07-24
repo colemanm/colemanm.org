@@ -6,7 +6,7 @@ author: Tracy Kidder
 author_last: Kidder
 slug: kidder-the-soul-of-a-new-machine
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

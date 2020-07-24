@@ -6,7 +6,7 @@ author: Ashlee Vance
 author_last: Vance
 slug: vance-elon-musk
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Katie Hafner
 author_last: Hafner
 slug: hafner-where-wizards-stay-up-late
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

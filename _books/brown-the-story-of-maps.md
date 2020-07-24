@@ -6,7 +6,7 @@ author: "Lloyd A. Brown"
 author_last: Brown
 slug: brown-the-story-of-maps
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Rory Sutherland
 author_last: Sutherland
 slug: sutherland-alchemy
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

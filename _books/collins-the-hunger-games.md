@@ -6,7 +6,7 @@ author: Suzanne Collins
 author_last: Collins
 slug: collins-the-hunger-games
 type: fiction
-img: true
+cover: true
 series: The Hunger Games
 part: 1
 genres:

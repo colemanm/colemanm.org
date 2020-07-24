@@ -6,7 +6,7 @@ author: Tom Clancy
 author_last: Clancy
 slug: clancy-debt-of-honor
 type: fiction
-img: true
+cover: true
 series: Jack Ryan
 part: 8
 genres:

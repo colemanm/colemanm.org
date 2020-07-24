@@ -6,7 +6,7 @@ author: Jeff VanderMeer
 author_last: VanderMeer
 slug: vandermeer-authority
 type: fiction
-img: true
+cover: true
 series: The Southern Reach
 part: 2
 genres:

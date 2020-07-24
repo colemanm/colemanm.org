@@ -6,7 +6,7 @@ author: Jonathan Haidt
 author_last: Haidt
 slug: haidt-the-happiness-hypothesis
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

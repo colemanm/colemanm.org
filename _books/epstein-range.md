@@ -6,7 +6,7 @@ author: David Epstein
 author_last: Epstein
 slug: epstein-range
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

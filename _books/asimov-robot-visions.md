@@ -6,7 +6,7 @@ author: Isaac Asimov
 author_last: Asimov
 slug: asimov-robot-visions
 type: fiction
-img: true
+cover: true
 series: Robot
 part: 0.5
 genres:

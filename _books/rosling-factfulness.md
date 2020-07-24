@@ -6,7 +6,7 @@ author: Hans Rosling
 author_last: Rosling
 slug: rosling-factfulness
 type: nonfiction
-img: true
+cover: true
 genres:
 - sociology
 - science

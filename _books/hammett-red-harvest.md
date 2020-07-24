@@ -6,7 +6,7 @@ author: Dashiell Hammett
 author_last: Hammett
 slug: hammett-red-harvest
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

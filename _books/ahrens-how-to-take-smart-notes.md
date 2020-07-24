@@ -7,7 +7,7 @@ author_last: Ahrens
 slug: ahrens-how-to-take-smart-notes
 img: /images/post-images/sketch-ahrens-how-to-take-smart-notes.jpg
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

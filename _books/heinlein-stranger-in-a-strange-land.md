@@ -6,7 +6,7 @@ author: Robert Heinlein
 author_last: Heinlein
 slug: heinlein-stranger-in-a-strange-land
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

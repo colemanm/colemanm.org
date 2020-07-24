@@ -6,7 +6,7 @@ layout: default
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><meta content="1" itemprop="worstRating"><meta content="{{ book.rating }} itemprop=ratingValue"><meta content="5" itemprop="bestRating"></span>
 <div class="book" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
   {% assign book = page %}
-  {% if book.img == true %}
+  {% if book.cover == true %}
   <img class="book-full-img" src="{{ site.url }}/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
   {% endif %}
   <h1 itemprop="name">{{ book.title | xml_escape }}</h1>

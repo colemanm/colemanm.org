@@ -6,7 +6,7 @@ author: Dan Carlin
 author_last: Carlin
 slug: carlin-the-end-is-always-near
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

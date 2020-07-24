@@ -6,7 +6,7 @@ author: Geoffrey A. Moore
 author_last: Moore
 slug: moore-crossing-the-chasm
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

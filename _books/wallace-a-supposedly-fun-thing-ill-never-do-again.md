@@ -6,7 +6,7 @@ author: David Foster Wallace
 author_last: Wallace
 slug: wallace-a-supposedly-fun-thing-ill-never-do-again
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

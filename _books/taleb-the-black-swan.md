@@ -6,7 +6,7 @@ author: Nassim Nicholas Taleb
 author_last: Taleb
 slug: taleb-the-black-swan
 type: nonfiction
-img: true
+cover: true
 series: Incerto
 part: 2
 genres:

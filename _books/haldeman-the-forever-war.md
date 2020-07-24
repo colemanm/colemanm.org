@@ -6,7 +6,7 @@ author: Joe Haldeman
 author_last: Haldeman
 slug: haldeman-the-forever-war
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

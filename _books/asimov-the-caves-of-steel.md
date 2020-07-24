@@ -6,7 +6,7 @@ author: Isaac Asimov
 author_last: Asimov
 slug: asimov-the-caves-of-steel
 type: fiction
-img: true
+cover: true
 series: Robot
 part: 1
 genres:

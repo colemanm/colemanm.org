@@ -6,7 +6,7 @@ author: Arnold Kling
 author_last: Kling
 slug: kling-the-three-languages-of-politics
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

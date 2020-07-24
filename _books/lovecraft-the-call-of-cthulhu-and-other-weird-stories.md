@@ -6,7 +6,7 @@ author: H.P. Lovecraft
 author_last: Lovecraft
 slug: lovecraft-the-call-of-cthulhu-and-other-weird-stories
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

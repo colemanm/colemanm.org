@@ -6,7 +6,7 @@ author: Michael Chrichton
 author_last: Chrichton
 slug: chrichton-jurassic-park
 type: fiction
-img: true
+cover: true
 genres:
 - science fiction
 - thriller

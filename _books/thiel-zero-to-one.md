@@ -6,7 +6,7 @@ author: Peter Thiel
 author_last: Thiel
 slug: thiel-zero-to-one
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

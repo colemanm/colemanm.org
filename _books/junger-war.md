@@ -6,7 +6,7 @@ author: Sebastian Junger
 author_last: Junger
 slug: junger-war
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

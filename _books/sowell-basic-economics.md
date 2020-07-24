@@ -6,7 +6,7 @@ author: Thomas Sowell
 author_last: Sowell
 slug: sowell-basic-economics
 type: nonfiction
-img: true
+cover: true
 genres:
 - economics
 - business

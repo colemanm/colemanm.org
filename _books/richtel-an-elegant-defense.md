@@ -6,7 +6,7 @@ author: Matt Richtel
 author_last: Richtel
 slug: richtel-an-elegant-defense
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

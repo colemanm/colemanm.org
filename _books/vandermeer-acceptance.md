@@ -6,7 +6,7 @@ author: Jeff VanderMeer
 author_last: VanderMeer
 slug: vandermeer-acceptance
 type: nonfiction
-img: true
+cover: true
 series: The Southern Reach
 part: 3
 genres:

@@ -6,7 +6,7 @@ author: "Richard K. Morgan"
 author_last: Morgan
 slug: morgan-woken-furies
 type: fiction
-img: true
+cover: true
 series: Takeshi Kovacs
 part: 3
 genres:

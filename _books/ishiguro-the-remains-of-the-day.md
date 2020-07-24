@@ -6,7 +6,7 @@ author: Kazuo Ishiguro
 author_last: Ishiguro
 slug: ishiguro-the-remains-of-the-day
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

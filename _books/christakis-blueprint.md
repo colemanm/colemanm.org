@@ -6,7 +6,7 @@ author: Nicholas A. Christakis
 author_last: Christakis
 slug: christakis-blueprint
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

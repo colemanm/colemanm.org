@@ -6,7 +6,7 @@ author: Jonah Keri
 author_last: Keri
 slug: keri-the-extra-2
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

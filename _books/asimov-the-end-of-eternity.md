@@ -6,7 +6,7 @@ author: Isaac Asimov
 author_last: Asimov
 slug: asimov-the-end-of-eternity
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

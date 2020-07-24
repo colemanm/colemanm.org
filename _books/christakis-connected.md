@@ -6,7 +6,7 @@ author: Nicholas Christakis and James Fowler
 author_last: Christakis
 slug: christakis-connected
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

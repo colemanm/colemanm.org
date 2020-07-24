@@ -6,7 +6,7 @@ author: Ernest Cline
 author_last: Cline
 slug: cline-ready-player-one
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

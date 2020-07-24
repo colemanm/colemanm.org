@@ -6,7 +6,7 @@ author: Nate Silver
 author_last: Silver
 slug: silver-the-signal-and-the-noise
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

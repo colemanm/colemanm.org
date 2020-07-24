@@ -6,7 +6,7 @@ author: Aaron Ross
 author_last: Ross
 slug: ross-predictable-revenue
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

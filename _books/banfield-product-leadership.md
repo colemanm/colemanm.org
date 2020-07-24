@@ -6,7 +6,7 @@ author: Richard Banfield, Martin Eriksson, Nate Walkingshaw
 author_last: Banfield
 slug: banfield-product-leadership
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

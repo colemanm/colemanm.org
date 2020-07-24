@@ -6,7 +6,7 @@ author: Viktor E. Frankl
 author_last: Frankl
 slug: frankl-mans-search-for-meaning
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

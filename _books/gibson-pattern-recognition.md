@@ -6,7 +6,7 @@ author: William Gibson
 author_last: Gibson
 slug: gibson-pattern-recognition
 type: fiction
-img: true
+cover: true
 series: Blue Ant
 part: 1
 genres:

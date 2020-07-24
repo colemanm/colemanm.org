@@ -6,7 +6,7 @@ author: William Gibson
 author_last: Gibson
 slug: gibson-count-zero
 type: fiction
-img: true
+cover: true
 series: Sprawl
 part: 2
 genres:

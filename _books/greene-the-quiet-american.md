@@ -6,7 +6,7 @@ author: Graham Greene
 author_last: Greene
 slug: greene-the-quiet-american
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

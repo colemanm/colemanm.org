@@ -6,7 +6,7 @@ author: Patrick Rothfuss
 author_last: Rothfuss
 slug: rothfuss-the-wise-mans-fear
 type: fiction
-img: true
+cover: true
 series: The Kingkiller Chronicle
 part: 2
 genres:

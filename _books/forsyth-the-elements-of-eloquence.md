@@ -6,7 +6,7 @@ author: Mark Forsyth
 author_last: Forsyth
 slug: forsyth-the-elements-of-eloquence
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: H.P. Lovecraft
 author_last: Lovecraft
 slug: lovecraft-at-the-mountains-of-madness
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

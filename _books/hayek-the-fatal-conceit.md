@@ -6,7 +6,7 @@ author: F.A. Hayek
 author_last: Hayek
 slug: hayek-the-fatal-conceit
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

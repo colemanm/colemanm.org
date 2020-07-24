@@ -6,7 +6,7 @@ author: John McWhorter
 author_last: McWhorter
 slug: mcwhorter-the-language-hoax
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

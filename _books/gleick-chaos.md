@@ -6,7 +6,7 @@ author: James Gleick
 author_last: Gleick
 slug: gleick-chaos
 type: nonfiction
-img: true
+cover: true
 genres:
 - science
 - physics

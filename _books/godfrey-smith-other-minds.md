@@ -6,7 +6,7 @@ author: Peter Godfrey-Smith
 author_last: Godfrey-Smith
 slug: godfrey-smith-other-minds
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

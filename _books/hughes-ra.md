@@ -6,7 +6,7 @@ author: Sam Hughes
 author_last: Hughes
 slug: hughes-ra
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

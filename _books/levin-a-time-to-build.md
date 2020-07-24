@@ -6,7 +6,7 @@ author: Yuval Levin
 author_last: Levin
 slug: levin-a-time-to-build
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

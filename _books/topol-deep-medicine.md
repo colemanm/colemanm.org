@@ -6,7 +6,7 @@ author: Eric Topol
 author_last: Topol
 slug: topol-deep-medicine
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

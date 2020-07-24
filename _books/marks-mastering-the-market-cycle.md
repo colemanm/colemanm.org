@@ -6,7 +6,7 @@ author: Howard Marks
 author_last: Marks
 slug: marks-mastering-the-market-cycle
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

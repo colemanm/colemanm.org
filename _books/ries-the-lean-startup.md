@@ -6,7 +6,7 @@ author: Eric Ries
 author_last: Ries
 slug: ries-the-lean-startup
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

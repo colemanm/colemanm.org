@@ -6,7 +6,7 @@ author: Niall Ferguson
 author_last: Ferguson
 slug: ferguson-the-ascent-of-money
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

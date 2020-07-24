@@ -6,7 +6,7 @@ author: Carl Sagan
 author_last: Sagan
 slug: sagan-cosmos
 type: nonfiction
-img: true
+cover: true
 genres:
 - science
 - space

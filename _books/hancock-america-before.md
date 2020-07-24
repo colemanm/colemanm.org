@@ -6,7 +6,7 @@ author: Graham Hancock
 author_last: Hancock
 slug: hancock-america-before
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

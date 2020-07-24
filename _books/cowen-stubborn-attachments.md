@@ -6,7 +6,7 @@ author: Tyler Cowen
 author_last: Cowen
 slug: cowen-stubborn-attachments
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

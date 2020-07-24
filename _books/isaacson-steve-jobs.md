@@ -6,7 +6,7 @@ author: Walter Isaacson
 author_last: Isaacson
 slug: isaacson-steve-jobs
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Karl Popper
 author_last: Popper
 slug: popper-the-open-society-and-its-enemies
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Jorge Luis Borges
 author_last: Borges
 slug: borges-labyrinths
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

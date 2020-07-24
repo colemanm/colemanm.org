@@ -6,7 +6,7 @@ author: Mark Forsyth
 author_last: Forsyth
 slug: forsyth-the-etymologicon
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

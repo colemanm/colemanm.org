@@ -6,7 +6,7 @@ author: Sam Harris
 author_last: Harris
 slug: harris-waking-up
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

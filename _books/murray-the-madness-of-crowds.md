@@ -6,7 +6,7 @@ author: Douglas Murray
 author_last: Murray
 slug: murray-the-madness-of-crowds
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

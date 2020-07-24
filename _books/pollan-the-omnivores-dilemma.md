@@ -6,7 +6,7 @@ author: Michael Pollan
 author_last: Pollan
 slug: pollan-the-omnivores-dilemma
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

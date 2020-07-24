@@ -6,7 +6,7 @@ author: Carlo Rovelli
 author_last: Rovelli
 slug: rovelli-reality-is-not-what-it-seems
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

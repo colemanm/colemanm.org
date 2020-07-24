@@ -6,7 +6,7 @@ author: Mark Mazzetti
 author_last: Mazzetti
 slug: mazzetti-the-way-of-the-knife
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

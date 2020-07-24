@@ -6,7 +6,7 @@ author: Gene Wolfe
 author_last: Wolfe
 slug: wolfe-nightside-the-long-sun
 type: nonfiction
-img: true
+cover: true
 series: The Book of the Long Sun
 part: 1
 genres:

@@ -6,7 +6,7 @@ author: William Gibson
 author_last: Gibson
 slug: gibson-idoru
 type: fiction
-img: true
+cover: true
 series: The Bridge Trilogy
 part: 2
 genres:

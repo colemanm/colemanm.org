@@ -6,7 +6,7 @@ author: Ron Chernow
 author_last: Chernow
 slug: chernow-alexander-hamilton
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

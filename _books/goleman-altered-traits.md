@@ -6,7 +6,7 @@ author: Daniel Goleman and Richard Davidson
 author_last: Goleman
 slug: goleman-altered-traits
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Cixin Liu
 author_last: Liu
 slug: liu-deaths-end
 type: fiction
-img: true
+cover: true
 series: "Remembrance of Earth's Past"
 part: 3
 genres:

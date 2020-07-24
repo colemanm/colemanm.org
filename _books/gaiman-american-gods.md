@@ -6,7 +6,7 @@ author: Neil Gaiman
 author_last: Gaiman
 slug: gaiman-american-gods
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

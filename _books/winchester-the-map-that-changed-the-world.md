@@ -6,7 +6,7 @@ author: Simon Winchester
 author_last: Winchester
 slug: winchester-the-map-that-changed-the-world
 type: nonfiction
-img: true
+cover: true
 genres:
 - history
 - geology

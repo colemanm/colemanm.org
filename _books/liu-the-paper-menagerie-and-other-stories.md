@@ -6,7 +6,7 @@ author: Ken Liu
 author_last: Liu
 slug: liu-the-paper-menagerie-and-other-stories
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

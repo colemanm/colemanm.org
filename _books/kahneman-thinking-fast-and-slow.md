@@ -6,7 +6,7 @@ author: Daniel Kahneman
 author_last: Kahneman
 slug: kahneman-thinking-fast-and-slow
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

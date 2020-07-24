@@ -6,7 +6,7 @@ author: "Philip K. Dick"
 author_last: Dick
 slug: dick-do-androids-dream-of-electric-sheep
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

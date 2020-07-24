@@ -6,7 +6,7 @@ author: Jeff Hawkins
 author_last: Hawkins
 slug: hawkins-on-intelligence
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

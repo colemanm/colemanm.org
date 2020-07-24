@@ -6,7 +6,7 @@ author: Thomas Sowell
 author_last: Sowell
 slug: sowell-the-vision-of-the-anointed
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

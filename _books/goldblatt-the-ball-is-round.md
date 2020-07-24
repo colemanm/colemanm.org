@@ -6,7 +6,7 @@ author: David Goldblatt
 author_last: Goldblatt
 slug: goldblatt-the-ball-is-round
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

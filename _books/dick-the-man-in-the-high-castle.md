@@ -6,7 +6,7 @@ author: Philip K. Dick
 author_last: Dick
 slug: dick-the-man-in-the-high-castle
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

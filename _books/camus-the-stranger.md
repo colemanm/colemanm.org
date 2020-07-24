@@ -6,7 +6,7 @@ author: Albert Camus
 author_last: Camus
 slug: camus-the-stranger
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

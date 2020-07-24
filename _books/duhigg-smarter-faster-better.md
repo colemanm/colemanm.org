@@ -6,7 +6,7 @@ author: Charles Duhigg
 author_last: Duhigg
 slug: duhigg-smarter-faster-better
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: James S.A. Corey
 author_last: Corey
 slug: corey-leviathan-wakes
 type: fiction
-img: true
+cover: true
 series: The Expanse
 part: 1
 genres:

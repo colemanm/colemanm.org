@@ -6,7 +6,7 @@ author: Arthur Koestler
 author_last: Koestler
 slug: koestler-darkness-at-noon
 type: fiction
-img: true
+cover: true
 series: 
 part: 
 genres:

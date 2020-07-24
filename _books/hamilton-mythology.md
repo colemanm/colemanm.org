@@ -6,7 +6,7 @@ author: Edith Hamilton
 author_last: Hamilton
 slug: hamilton-mythology
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

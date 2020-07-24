@@ -6,7 +6,7 @@ author: G.K. Chesterton
 author_last: Chesterton
 slug: chesterton-the-man-who-was-thursday
 type: fiction
-img: true
+cover: true
 series:
 part:
 genres:

@@ -6,7 +6,7 @@ author: Simon Kuper
 author_last: Kuper
 slug: kuper-soccernomics
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

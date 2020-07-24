@@ -6,7 +6,7 @@ author: Cixin Liu
 author_last: Liu
 slug: liu-the-dark-forest
 type: fiction
-img: true
+cover: true
 series: "Remembrance of Earth's Past"
 part: 2
 genres:

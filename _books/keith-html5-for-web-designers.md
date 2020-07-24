@@ -6,7 +6,7 @@ author: Jeremy Keith
 author_last: Keith
 slug: keith-html5-for-web-designers
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

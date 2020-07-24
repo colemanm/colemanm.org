@@ -6,7 +6,7 @@ author: Brad Stone
 author_last: Stone
 slug: stone-the-upstarts
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

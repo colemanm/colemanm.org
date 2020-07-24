@@ -6,7 +6,7 @@ author: M.R. O'Connor
 author_last: O'Connor
 slug: oconnor-wayfinding
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

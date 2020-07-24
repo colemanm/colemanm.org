@@ -6,7 +6,7 @@ author: Marc Levinson
 author_last: Levinson
 slug: levinson-the-box
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

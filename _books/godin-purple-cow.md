@@ -6,7 +6,7 @@ author: Seth Godin
 author_last: Godin
 slug: godin-purple-cow
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

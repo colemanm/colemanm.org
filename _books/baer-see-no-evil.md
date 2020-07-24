@@ -6,7 +6,7 @@ author: Robert Baer
 author_last: Baer
 slug: baer-see-no-evil
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

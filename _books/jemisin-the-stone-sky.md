@@ -6,7 +6,7 @@ author: "N.K. Jemisin"
 author_last: Jemisin
 slug: jemisin-the-stone-sky
 type: fiction
-img: true
+cover: true
 series: The Broken Earth
 part: 3
 genres:

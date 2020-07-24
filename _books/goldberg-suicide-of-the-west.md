@@ -6,7 +6,7 @@ author: Jonah Goldberg
 author_last: Goldberg
 slug: goldberg-suicide-of-the-west
 type: nonfiction
-img: true
+cover: true
 genres:
 - history
 - philosophy

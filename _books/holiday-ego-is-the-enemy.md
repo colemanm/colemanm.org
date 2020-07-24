@@ -6,7 +6,7 @@ author: Ryan Holiday
 author_last: Holiday
 slug: holiday-ego-is-the-enemy
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

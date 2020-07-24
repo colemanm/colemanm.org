@@ -6,7 +6,7 @@ author: Vernor Vinge
 author_last: Vinge
 slug: vinge-a-deepness-in-the-sky
 type: fiction
-img: true
+cover: true
 series: Zones of Thought
 part: 2
 genres:

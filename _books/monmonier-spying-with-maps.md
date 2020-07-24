@@ -6,7 +6,7 @@ author: Mark Monmonier
 author_last: Monmonier
 slug: monmonier-spying-with-maps
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

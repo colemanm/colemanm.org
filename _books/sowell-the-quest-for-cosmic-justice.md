@@ -6,7 +6,7 @@ author: Thomas Sowell
 author_last: Sowell
 slug: sowell-the-quest-for-cosmic-justice
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

@@ -6,7 +6,7 @@ author: Ben MacIntyre
 author_last: MacIntyre
 slug: macintyre-operation-mincemeat
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:

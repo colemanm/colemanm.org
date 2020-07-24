@@ -6,7 +6,7 @@ author: Franklin Foer
 author_last: Foer
 slug: foer-how-soccer-explains-the-world
 type: nonfiction
-img: true
+cover: true
 series: 
 part: 
 genres:
