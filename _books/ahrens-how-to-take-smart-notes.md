@@ -60,3 +60,4 @@ In the final third, Ahrens dives into an articulate, succinct overview of the st
 * [Sönke Ahrens's talk on the book](https://vimeo.com/275530205 "Sönke Ahrens talk on smart notes")
 * [Forte Labs Review](https://fortelabs.co/blog/how-to-take-smart-notes/ "How to Take Smart Notes")
 * [Shu Omi on the Zettelkasten Method](https://www.youtube.com/watch?v=ljyo_WAJevQ "Shu Omi on the Zettelkasten Method")
+* [LessWrong Summary](https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017 "How to Take Smart Notes on LessWrong")
