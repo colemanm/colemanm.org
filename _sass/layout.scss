@@ -349,7 +349,7 @@ img.bordered { border: 1px solid #ddd; }
   #navigation .nav-links,
   #navigation .nav-tw { display: none; }
   .post, .link { font-size: 0.9em; }
-  .post img, .post img.full, .link img, .link img.full { width: 100%; left: 0; }
+  .post img, .post img.full, .link img, .link img.full { width: 100%; left: 0; } 
   .post .book {
     width: 100%;
     left: -20px;
@@ -359,14 +359,16 @@ img.bordered { border: 1px solid #ddd; }
     border-bottom: 1px solid #ccc;
     padding: 10px 20px;
   }
+  .post .book img { display: none; }
   .post .book ul { margin-bottom: 5px; }
-  .book img { display: none; }
   .post ul, .post ol { padding-left: 1.5em; }
   .video { width: 100%; left: 0; }
   .book-archive .right-cell,
   .book-archive .book-date-completed { display: none; }
   .book { font-size: 0.9em; }
   .book ul { padding-left: 1.5em; }
+  .book .book-full-img { display: none; }
+  .book img.full { width: 100%; left: 0; }
   .post table { border: 0; }
   .post table thead {
     position: absolute;
@@ -420,10 +422,13 @@ img.bordered { border: 1px solid #ddd; }
   blockquote { margin: 0; }
 }
 
-// Mailchimp form
+// Subscribe form
 #mc_embed_signup {
   clear: left;
   margin-bottom: 25px;
+}
+.subscribe-form {
+  margin: 20px 0;
 }
 
 @media only screen and (min-width: 640px) and (max-width: 1024px) {
@@ -450,6 +455,7 @@ img.bordered { border: 1px solid #ddd; }
     height: 230px;
     float: right;
   }
+  .book img.full { width: 100%; left: 0; }
   .video { width: 100%; left: 0; }
   .limiter {
     width: auto;
