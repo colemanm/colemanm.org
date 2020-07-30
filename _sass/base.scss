@@ -1,6 +1,6 @@
 // Base styles
 
-$fonts: Lato, sans-serif;
+$fonts: Inter, sans-serif;
 
 // Colors
 $darkgrey: #333;
@@ -37,7 +37,7 @@ a:hover {
 input {
   padding: 0.5em 1em;
   border-radius: 4px;
-  font-family: Lato,sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 1em;
 }
 input[type="text"], input[type="email"], input[type="phone"] {

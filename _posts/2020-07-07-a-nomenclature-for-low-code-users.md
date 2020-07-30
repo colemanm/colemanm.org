@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-07-07 17:21:04
-title: "A Nomenclature for Low Code Users"
+title: "A Nomenclature for Low-Code Users"
 description: "Developing a nomenclature for users of low-code software."
 img: /images/post-images/low-code-user-types.jpg
 categories: blog
