@@ -108,6 +108,7 @@ class Blog < Thor
         date_started: 2020-
         date_completed: 2020-
         goodreads_id: 
+        amazon_link: 
         ---
       BOOK
     end
