@@ -31,13 +31,13 @@ In classic "[high modernist](https://en.wikipedia.org/wiki/High_modernism "High 
 
 > Complex realities turn this logic on its head; it is easier to comprehend the whole by walking among the trees, absorbing the gestalt, and becoming a holographic/fractal part of the forest, than by hovering above it.
 >
-> This  imposed simplification, in service of legibility to the state’s eye, makes the rich reality brittle, and failure  follows. The imagined improvements are not realized. The metaphors of killing the golden goose, and the Procrustean bed come to mind.
+> This imposed simplification, in service of legibility to the state’s eye, makes the rich reality brittle, and failure follows. The imagined improvements are not realized. The metaphors of killing the golden goose, and the Procrustean bed come to mind.
 
 Another choice excerpt, confusing legibility and success:
 
 > High-modernist (think Bauhaus and Le Corbusier) aesthetics necessarily lead to _simplification_, since a reality that serves many purposes presents itself as illegible to a vision informed by a singular purpose. Any elements that are non-functional with respect to the singular purpose tend to confuse, and are therefore eliminated during the attempt to "rationalize." The deep failure in thinking lies is the mistaken assumption that thriving, successful and functional realities must necessarily be legible.
 
-I need to bump this book up the reading queue. I know it's partially that it triggers all my bottom-up, libertarianeque, Hayekian priors, but it's referenced so frequently it must contain some great first principles insight. A lot of [Chesterton fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence "Chesterton's fence")-type references could be made around this principle of legibility. Looking forward to reading the book.
+I need to bump this book up the reading queue. I know it's partially that it triggers all my bottom-up, Hayekian priors, but it's referenced so frequently it must contain some great first principles insight. A lot of [Chesterton fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence "Chesterton's fence")-type references could be made around this principle of legibility. Looking forward to reading the book.
 
 See also:
 
