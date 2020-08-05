@@ -6,9 +6,9 @@ author: Venkatesh Rao
 author_last: Rao
 slug: rao-the-gervais-principle
 type: nonfiction
-img: true
-series: 
-part: 
+cover: true
+series:
+part:
 genres:
 - psychology
 - business
