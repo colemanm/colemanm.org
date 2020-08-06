@@ -43,4 +43,4 @@ See also:
 
 * [Scott's essay](https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above "The Trouble with the View from Above") at Cato Unbound
 * [Florent Crivello on the book](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/ "The Efficiency-Destroying Magic of Tidying Up")
-* Rao's [The Gervais Principle](/book/rao-the-gervais-principle/ "The Gervais Principle") covers similar ground in the context of businesses and the corporate world (highly recommended; I plan on writing more about it soon)
+* Rao's [The Gervais Principle](/books/rao-the-gervais-principle/ "The Gervais Principle") covers similar ground in the context of businesses and the corporate world (highly recommended; I plan on writing more about it soon)
