@@ -1,11 +1,11 @@
 <div>
-  {% if post.image_credit %}
-    <p class="image-credit">
-      Image credits:
-      {% assign lastitem = page.image_credit.last %}
-      {% for image in page.image_credit %}
-      <a href="{{ image.url }}" title="{{ image.creator }}">{{ image.creator }}</a>{% if forloop.last %}{% else %},{% endif %}
-      {% endfor %}
-    </p>
-  {% endif %}
-  </div>
+{% if post.image_credit %}
+  <p class="image-credit">
+    Image credits:
+    {% assign lastitem = post.image_credit.last %}
+    {% for image in post.image_credit %}
+    <a href="{{ image.url }}" title="{{ image.creator }}">{{ image.creator }}</a>{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  </p>
+{% endif %}
+</div>
