@@ -26,13 +26,13 @@ class Blog < Thor
       post.puts <<~BLOGPOST
         ---
         layout: post
-        date:
+        date: 
         title: "#{title.tr('-', ' ')}"
         description: ""
         img: /images/post-images/
         categories: blog
         tags:
-        -
+        - 
         ---
 
 
@@ -57,16 +57,16 @@ class Blog < Thor
         layout: link
         date: #{datetime}
         title: "#{title.tr('-', ' ')}"
-        target:
+        target: 
         description: ""
         categories: blog
         tags:
-        -
+        - 
 
         links:
-        - url:
-          title:
-          icon:
+        - url: 
+          title: 
+          icon: 
         ---
 
 
@@ -94,21 +94,21 @@ class Blog < Thor
         author_last: #{author_last}
         slug: #{slug}
         type: nonfiction
-        cover: 
-        series:
-        part:
+        cover:  
+        series: 
+        part: 
         genres:
-        -
-        isbn:
-        rating:
-        pages:
-        format:
-        publish_year:
-        publisher:
+        - 
+        isbn: 
+        rating: 
+        pages: 
+        format: 
+        publish_year: 
+        publisher: 
         date_started: 2020-
         date_completed: 2020-
-        goodreads_id:
-        amazon_link:
+        goodreads_id: 
+        amazon_link: 
         ---
       BOOK
     end
