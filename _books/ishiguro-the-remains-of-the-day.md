@@ -13,15 +13,13 @@ genres:
 - historical fiction
 - classics
 isbn: 9780679731726
-rating: 
+rating: 3
 pages: 245
 format: audiobook
 publish_year: 1989
 publisher: Faber & Faber
 date_started: 2020-06-21
-date_completed: 2020-
+date_completed: 2020-08-05
 goodreads_id: 28921
 amazon_link: https://amzn.to/2ZRrNJh
-
-current: true
 ---
