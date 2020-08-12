@@ -24,5 +24,9 @@ date_completed: 2019-12-24
 goodreads_id: 13530973
 amazon_link: https://amzn.to/3hvA2Re
 
+reviewers:
+- author: Juvoni Beckford
+  url: https://juvoni.com/book/antifragile-things-that-gain-from-disorder
+
 favorite: true
 ---

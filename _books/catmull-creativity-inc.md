@@ -23,4 +23,8 @@ date_started: 2015-03-26
 date_completed: 2015-04-05
 goodreads_id: 18077903
 amazon_link: https://amzn.to/3eOP4Q3
+
+reviewers:
+- author: Juvoni Beckford
+  url: https://juvoni.com/book/creativity-inc
 ---

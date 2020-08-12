@@ -24,4 +24,8 @@ date_started: 2019-03-01
 date_completed: 2019-05-27
 goodreads_id: 242472
 amazon_link: https://amzn.to/3f1F0nf
+
+reviewers:
+- author: Juvoni Beckford
+  url: https://juvoni.com/book/the-black-swan
 ---

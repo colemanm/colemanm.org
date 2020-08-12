@@ -23,4 +23,8 @@ date_started: 2019-05-18
 date_completed: 2019-05-21
 goodreads_id: 4069
 amazon_link: https://amzn.to/3hukIo2
+
+reviewers:
+- author: Juvoni Beckford
+  url: https://juvoni.com/book/mans-search-for-meaning
 ---
