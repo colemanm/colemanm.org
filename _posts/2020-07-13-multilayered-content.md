@@ -20,7 +20,7 @@ A ton of added work, but clearly an interesting way to add value.
 
 This sort of thing would be an excellent addendum to most podcast shows. For any episode that has detailed references to other works, I always find well-done show notes useful (thinking about EconTalk as [an example](https://www.econtalk.org/martin-gurri-on-the-revolt-of-the-public/ "Martin Gurri on Revolt of the Public")). What he's [put together here](http://investorfieldguide.com/wp-content/uploads/2020/07/200712-Songhurst-vF.pdf "Charlie Songhurst") for Investor Field Guide makes me think about other ways of layering different formats for anyone producing content.
 
-{% include image.html file="content-layers.jpg" description="" caption="no" %}
+{% include image.html file="content-layers.jpg" description="Content layers" caption="no" %}
 
 Content has a “native” format, a medium it’s best suited for. If a piece of content is a podcast, or a long-form essay, or a tweet storm, to move it to another medium requires a translation step to embrace the strengths of the converted format. Depending on the subject matter, some things suited to a 3-hour conversational podcast just aren’t the same when converted into a text transcript. What Patrick has done here is a good complement to the audio conversation, a companion document that is of highest utility consumed in tandem rather than standalone. It's partially a transcript plus sketches, images, diagrams as enrichment.
 

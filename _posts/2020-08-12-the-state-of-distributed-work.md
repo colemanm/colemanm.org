@@ -14,7 +14,7 @@ Like most teams, we've now been fully remote and distributed since March 13th, a
 
 About 20 of our team was already remote (scattered across the lower 48) before the COVID lockdown started, but several of them were in the office fairly regularly. But that still leaves 30+ that were forced to figure out a remote work setup overnight. Even the previously remote staff had to get used to changes in communications with the rest of the team adjusting in-flight.
 
-{% include image.html file="distributed-work.jpg" description="" caption="no" %}
+{% include image.html file="distributed-work.jpg" description="Distributed work" caption="no" %}
 
 So what's worked and what hasn't? What's the overall impact been?
 
