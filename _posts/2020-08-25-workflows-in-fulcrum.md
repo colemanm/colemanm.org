@@ -15,9 +15,9 @@ Fulcrum's been the best tool out there for quite a few years for building your o
 
 {% include image.html file="fulcrum-workflows.jpg" description="Workflows in Fulcrum" caption="no" %}
 
-For the last 8 months or so we've been focused on improving what you can do with data __after collection__. We're great at speed to build and collect, but had not been focused yet on the rest of a customer workflow. Since the beginning we've had an open API (even for SQL, what we call the [Query API](https://docs.fulcrumapp.com/reference#query-intro "Fulcrum Query API")), code libraries, and other tools. In July we launched our [Report Builder](/post/fulcrum-report-builder/ "Fulcrum Report Builder"), which was a big step in the direction of self-service reporting and process improvement tools
+For the last 8 months or so we've been focused on improving what you can do with data _after collection_. We're great at speed to build and collect, but had not been focused yet on the rest of a customer workflow. Since the beginning we've had an open API (even for SQL, what we call the [Query API](https://docs.fulcrumapp.com/reference#query-intro "Fulcrum Query API")), code libraries, and other tools. In July we launched our [Report Builder](/post/fulcrum-report-builder/ "Fulcrum Report Builder"), which was a big step in the direction of self-service reporting and process improvement tools
 
-This week we've just launched Workflows, which is all about providing users an extensible framework for adding their own business logic of events and actions that need to happen on your data.
+This week we've just launched [Workflows](https://www.fulcrumapp.com/blog/new-fulcrum "Fulcrum Workflows"), which is all about providing users an extensible framework for adding their own business logic of events and actions that need to happen on your data.
 
 If you're familiar with tools like [Zapier](https://www.zapier.com "Zapier") or [Integromat](https://www.integromat.com/en/ "Integromat"), you'll recognize the concept. Workflows is similar in design, but focused on events within the scope of Fulcrum. Here's how it works:
 
