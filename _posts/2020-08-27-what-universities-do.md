@@ -20,12 +20,12 @@ Last week I linked to Mike Munger's [interview on EconTalk](/post/weekend-readin
 
 {% include image.html file="universities.jpg" description="Universities" caption="no" %}
 
-This piece from earlier in the year goes deeper into Munger's lexicon for separating these roles (using some clever [metonyms](https://en.wikipedia.org/wiki/Metonymy "Metonym")):
+[This piece](https://www.aier.org/article/after-the-virus-universities-will-survive/ "After the Virus, the Universities Will Survive") from earlier in the year goes deeper into Munger's lexicon for separating these roles (using some clever [metonyms](https://en.wikipedia.org/wiki/Metonymy "Metonym")):
 
 * **The Clock Tower** — Even with online courses making asynchronous learning possible, students still crave certain synchronous, shared activities outside of the classroom. There's still value in shared experiences.
 * **The Stadium** — College administrators probably on average biased toward thinking that students select them mostly based on educational merits. But the craving of tribal associations with things like sports teams and mascots is omnipresent for a huge chunk of the student body. As Munger says: "many students were recruited 10 years earlier, on Saturday afternoons in the fall, watching football with their parents."
 * **The Student Union** — Clubs and student organizations provide essential social alignment and sorting tools for people to find friends, build relationships, find job opportunities, and more.
-* **The Admissions Office** — With any college, especially elite ones, merely __getting accepted__ for enrollment is a huge signal boost to your value as a future co-worker or employee. Universities can still provide an amount of cachet through applying this institutional badge of honor using the social capital they've accrued over the decades.
+* **The Admissions Office** — With any college, especially elite ones, merely _getting accepted_ for enrollment is a huge signal boost to your value as a future co-worker or employee. Universities can still provide an amount of cachet through applying this institutional badge of honor using the social capital they've accrued over the decades.
 
 This is an interesting lens through which to look at the university's value. Most of the conversation about the state of higher education post-COVID focuses in too tightly on the classroom instruction side of the problem. While that's certainly the most easily disrupted with e-learning, it's far from the only benefit being delivered to a college student.
 
