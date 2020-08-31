@@ -2,8 +2,8 @@
 layout: post
 date: 2020-08-10 23:06:52
 title: "Go-to-Market Fit"
-description: "Measuring the next stage after you achieve product-market fit."
-img: /images/post-images/
+description: "Measuring for the next stage after you achieve product-market fit."
+img: /images/post-images/gtm-fit.jpg
 categories: blog
 tags:
 - product
@@ -11,7 +11,11 @@ tags:
 - SaaS
 ---
 
-I recently watched this [Mark Roberge session](https://www.youtube.com/watch?v=NY6wTYUbHNA "Customer Success Webinar: The Most Important Pre-Requisite for Growth") where he had an interesting way of describing the challenge that follows product-market fit. Tons of startup literature is out there talking about p-m fit. And likewise there's plenty out there about scaling, leadership, and company-building. One of the most fascinating stages is in between, what he calls "go-to-market fit." This is where you've found some traction and solved a problem, but haven't figured out how to do it efficiently. Here's how you think about the key goals in each phase:
+I recently watched this [Mark Roberge session](https://www.youtube.com/watch?v=NY6wTYUbHNA "Customer Success Webinar: The Most Important Pre-Requisite for Growth") where he had an interesting way of describing the challenge that follows product-market fit. Tons of startup literature is out there talking about p-m fit. And likewise there's plenty out there about scaling, leadership, and company-building.
+
+{% include image.html file="gtm-fit.jpg" description="Go-to-market fit" caption="no" %}
+
+One of the most fascinating stages is in between, what he calls "go-to-market fit." This is where you've found some traction and solved a problem, but haven't figured out how to do it efficiently. Here's how you think about the key goals in each phase:
 
 * **Product-market fit**: _customer retention_
   * If you can attract users but they don't stick around, you aren't yet solving a painful problem (assuming you haven't let pricing and other things get in the way)
