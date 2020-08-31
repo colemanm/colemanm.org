@@ -204,7 +204,10 @@ img.bordered { border: 1px solid #ddd; }
   text-decoration: none;
   border: 1px solid #ccc;
 }
-.archive table { width: 100%; }
+.archive table {
+  width: 100%;
+  margin-top: 15px;
+}
 .archive table td {
   padding: 3px 3px;
 }
