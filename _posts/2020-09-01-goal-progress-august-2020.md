@@ -24,4 +24,4 @@ Outside of widening our circles a little from shelter to family and one or two f
 
 The start of Elyse's kindergarten over the last couple of weeks really put a dent into anything other than work or supporting her online schoolwork. By the end of the day I've been too burned out to do much running or reading at all. It's also been raining like crazy here over the last week.
 
-I just barely kept it together with the running habit. I just picked up some new running shoes that have me excited to schedule some more longer runs the next couple of weeks.
+I just barely kept it together with the running habit. I just picked up some [new running shoes](https://www.hokaoneone.com/mens-road/clifton-7/1110508.html "Hoka Clifton 7") that have me excited to schedule some more longer runs the next couple of weeks.
