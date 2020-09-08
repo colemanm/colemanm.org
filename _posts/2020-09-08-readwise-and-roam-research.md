@@ -2,7 +2,7 @@
 layout: post
 date: 2020-09-08 17:27:00
 title: "Readwise and Roam Research"
-description: "An overview of Readwise's new integration with Roam Research, to bring your Kindle highlights into your "
+description: "An overview of Readwise's new integration with Roam Research, to bring your Kindle highlights into your knowledge graph."
 img: /images/post-images/readwise-to-roam.jpg
 categories: blog
 tags:
