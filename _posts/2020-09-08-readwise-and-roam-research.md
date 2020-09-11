@@ -17,7 +17,7 @@ If I tracked my time spent in software tools, I'm pretty sure over the last 8 mo
 
 All of my writing, note-taking, idea logs, and (increasingly) to-dos happen now [in Roam](/post/getting-comfortable-with-roam/). Since getting serious with it around the beginning of the quarantine, I haven't used any other tool for writing things down.
 
-I discovered [eadwise about a year ago and it quickly entered routine use. My backlog of meticulously-kept-but-underused Kindle highlights was immediately made valuable through [Readwise's daily reviews](/post/readwise-books-and-spaced-repetition/ "Readwise, Books, and Spaced Repetition"). The ability to have my highlights deliver recurring value (compound interest!) has made more both more compelled to read and definitely more compelled to highlight and make notes.
+I discovered Readwise about a year ago and it quickly entered routine use. My backlog of meticulously-kept-but-underused Kindle highlights was immediately made valuable through [Readwise's daily reviews](/post/readwise-books-and-spaced-repetition/ "Readwise, Books, and Spaced Repetition"). The ability to have my highlights deliver recurring value (compound interest!) has made more both more compelled to read and definitely more compelled to highlight and make notes.
 
 {% include image.html file="readwise-to-roam.jpg" description="Readwise to Roam integration" caption="no" %}
 
