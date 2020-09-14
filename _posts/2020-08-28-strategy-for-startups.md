@@ -21,7 +21,7 @@ In the second case, most anyone would acknowledge that little meaningful progres
 
 The first case, though, is also surprisingly common. In the modern business universe, being a "strategic thinker" is an accolade. The business literature surrounding us pushes this idea so much that in some environments, everyone wants to strategize. Without the right guidance and guardrails, this can go on far too long and can be actively detrimental to execution.
 
-One of the dangers I see of over-strategizing in startup environments is that it tempts you into searching for information that may not be there in the first place. We think we can "map the competitive landscape", but what if when we can't lay out an immediately clear picture? We begin to prioritize having a drawable diagram of our competitive landscape over the actual reality on the ground. In pursuit of having a [legible](/post/on-legibility/ "On Legibility") map, we stretch definitions or cut corners. The map becomes the goal.
+One of the dangers I see of over-strategizing in startup environments is that it tempts you into searching for information that may not be there in the first place. We think we can "map the competitive landscape", but what if we can't lay out an immediately clear picture? We begin to prioritize having a drawable diagram of our competitive landscape over the actual reality on the ground. In pursuit of having a [legible](/post/on-legibility/ "On Legibility") map, we stretch definitions or cut corners. The map becomes the goal.
 
 As Neumann points out, the environment in startups is riven with uncertainty and moving targets. You have more unstable dynamics than you'd find in many mature, large companies:
 
