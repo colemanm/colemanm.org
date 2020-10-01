@@ -2,7 +2,7 @@
 layout: default
 title: Subscribe
 permalink: /subscribe/
-img: /images/about/about-coleman.jpg
+img: /images/post-images/descartes-mind-body.jpg
 description: "Subscribe to Res Extensa"
 ---
 
