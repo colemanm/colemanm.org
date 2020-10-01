@@ -3,7 +3,7 @@ layout: post
 date: 2020-09-29 21:08:07
 title: "Res Extensa"
 description: "Launching a newsletter."
-img: /images/post-images/descartes-mind-body.jp
+img: /images/post-images/descartes-mind-body.jpg
 categories: blog
 tags:
 - newsletters
@@ -15,7 +15,7 @@ I've finally joined the newsletter club! Today I sent out [the first issue](http
 
 My intent right now is for the newsletter to be a less-frequent companion to the blog, with some highlights of recent things I've been reading, writing, or interested in.
 
-{% include image.html file="descartes-mind-body.jp" description="Res Extensa" caption="no" %}
+{% include image.html file="descartes-mind-body.jpg" description="Res Extensa" caption="no" %}
 
 As I wrote in the email, I once had an RSS-to-email setup using Mailchimp, for folks who wanted to subscribe to the blog without RSS. It's a bit clunky, and since I started the daily blogging routine, an overload for inbox delivery.
 
