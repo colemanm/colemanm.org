@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-10-01 17:11:07
+date: 2020-10-01 23:17:20
 title: "Goal Progress: September 2020"
 description: "Tracking my September goal progress for the year."
 categories: blog
