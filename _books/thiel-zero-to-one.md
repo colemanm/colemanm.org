@@ -28,4 +28,6 @@ reviewers:
   url: https://macwright.org/2019/11/24/zero-to-one.html
 - author: Juvoni Beckford
   url: https://juvoni.com/book/zero-to-one
+- author: Derek Sivers
+  url: https://sive.rs/book/ZeroToOne
 ---

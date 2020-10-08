@@ -25,4 +25,6 @@ amazon_link: https://amzn.to/2E2fZv4
 reviewers:
 - author: Juvoni Beckford
   url: https://juvoni.com/book/ego-is-the-enemy
+- author: Derek Sivers
+  url: https://sive.rs/book/EgoEnemy
 ---

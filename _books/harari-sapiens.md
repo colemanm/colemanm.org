@@ -23,4 +23,8 @@ date_started: 2017-05-10
 date_completed: 2017-05-21
 goodreads_id: 23692271
 amazon_link: https://amzn.to/39iAQGh
+
+reviewers:
+- author: Derek Sivers
+  url: https://sive.rs/book/Sapiens
 ---
