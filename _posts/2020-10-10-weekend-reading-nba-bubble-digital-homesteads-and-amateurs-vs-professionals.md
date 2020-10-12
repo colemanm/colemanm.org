@@ -45,4 +45,3 @@ A solid list from Farnam Street:
 > * Amateurs see feedback and coaching as someone criticizing them as a person. Professionals know they have weak spots and seek out thoughtful criticism.
 > * Amateurs focus on being right. Professionals focus on getting the best outcome.
 > * Amateurs make decisions in committees so there is no one person responsible if things go wrong. Professionals make decisions as individuals and accept responsibility.
-
