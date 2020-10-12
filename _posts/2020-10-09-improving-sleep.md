@@ -3,7 +3,7 @@ layout: post
 date: 2020-10-09 22:08:17
 title: "Improving Sleep"
 description: "Trying out some new techniques to improve sleep."
-img: /images/post-images/
+img: /images/post-images/sleep-improvement.jpg
 categories: blog
 tags:
 - sleep
@@ -16,6 +16,8 @@ The last couple of weeks I've been working on improving my sleep. My running wor
 With the pretty simple life I’ve got — a steady working-from-home schedule, and a quarantine preventing most interesting things from happening — a solid sleep schedule should be easy to build and maintain. Apparently that hasn’t been the case for me.
 
 It’ll surprise no one to say that kids make sleep a challenge. Ours sleep well, but they don’t nap, don’t really sleep in (but don’t wake too early), and stay up fairly late for their ages (8:30-9pm). This means any personal time has to happen past 9pm, which also has to include time to clean up the whirlwind house mess they create, doing chores in the kitchen, or any late errands that need to happen before the next day.
+
+{% include image.html file="sleep-improvement.jpg" description="Improving sleep" caption="no" %}
 
 One of my goals is to get enough quality sleep to be able to wake up earlier than the kids to get some work in, whether that means writing, workouts, or reading. This could shift in personal time to the AM when my brain is ready to go, rather then late when I'm tired. 10:30pm bed should allow for enough unwinding before bed if I’m targeting a solid 8 hrs. Once I’m asleep I tend to stay that way, with the exception of occasional kid wake-ups, which aren’t too bad. Usually it means a brief interruption but back to bed pretty quickly.
 
