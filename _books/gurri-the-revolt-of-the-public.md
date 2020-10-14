@@ -26,5 +26,9 @@ date_completed: 2020-04-09
 goodreads_id: 42293981
 amazon_link: https://amzn.to/2OKhO25
 
+reviewers:
+- author: Madison Kanna
+  url: https://www.madisonkanna.com/revolt-of-the-public/
+
 favorite: true
 ---
