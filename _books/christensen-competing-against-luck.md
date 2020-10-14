@@ -20,7 +20,7 @@ format: kindle
 publish_year: 2016
 publisher: HarperBusiness
 date_started: 2020-04-30
-date_completed: 2020-
+date_completed: 
 goodreads_id: 28820024
 amazon_link: https://amzn.to/3lOa6m6
 

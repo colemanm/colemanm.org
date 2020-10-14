@@ -20,7 +20,7 @@ format: paperback
 publish_year: 1986
 publisher: Ace
 date_started: 2020-06-16
-date_completed: 2020-
+date_completed: 
 goodreads_id: 302702
 amazon_link: https://amzn.to/2OLzaLY
 

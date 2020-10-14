@@ -23,7 +23,7 @@ format: kindle
 publish_year: 1998
 publisher: Yale University Press
 date_started: 2020-08-06
-date_completed: 2020-
+date_completed: 
 goodreads_id: 20186
 amazon_link: https://amzn.to/3ip0cpc
 

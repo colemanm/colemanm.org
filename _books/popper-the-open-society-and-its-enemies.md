@@ -22,7 +22,7 @@ format: kindle
 publish_year: 1945
 publisher: Routledge
 date_started: 2020-06-14
-date_completed: 2020-
+date_completed: 
 goodreads_id: 240592
 amazon_link: https://amzn.to/32NcT8M
 

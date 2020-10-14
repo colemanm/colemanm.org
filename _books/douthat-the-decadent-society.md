@@ -21,7 +21,7 @@ format: audiobook
 publish_year: 2020
 publisher: Simon Schuster
 date_started: 2020-10-10
-date_completed: 2020-
+date_completed: 
 goodreads_id: 50053432
 amazon_link: https://amzn.to/2SXG6HG
 
