@@ -15,6 +15,6 @@ links:
   icon: 👨🏻‍⚕️
 ---
 
-There's been non-stop discussion lately on Twitter]about protective equipment: efficacy, supply chains, costs, you name it.
+There's been non-stop discussion lately on Twitter about protective equipment: efficacy, supply chains, costs, you name it.
 
 Scott Alexander has the definitive analysis of N95 face masks. The title says it all.

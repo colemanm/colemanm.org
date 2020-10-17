@@ -21,4 +21,3 @@ You see the inverse of this phenomenon in states with strong free market systems
 It's unfortunate that we squander our hard-won strong, corruption-resistant[^corruption] government system's performance because we can't find the funding to better pay our public servants. Our federal (and state) agencies don't realize how efficient this allocation of capital would be, compared to the many channels through which we hemorrhage money year after year. What would happen if we paid civil servants better? How many of the ambitious, entrepreneurial class would stick around and increase the state's capacity if they didn't become disillusioned with personal stagnation?
 
 [^corruption]: Of course we're far from immune here. But when juxtaposed with the political systems of Liberia or the DRC, we're doing pretty well.
-

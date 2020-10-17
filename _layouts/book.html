@@ -26,7 +26,7 @@ layout: default
       <li>Format: {{ book.format | capitalize }}</li>
       <li><a href="{{ book.amazon_link }}" title="Buy on Amazon">Buy on Amazon</a></li>
       {% if book.reviewers %}
-      <li>Other Readers: {% for reviewer in book.reviewers %}<a href="{{ reviewer.url }}" title="{{ reviewer.author }}">{{  reviewer.author }}</a>{% endfor %}</li>
+      <li>Other Readers: {% for reviewer in book.reviewers %}<a href="{{ reviewer.url }}" title="{{ reviewer.author }}">{{  reviewer.author }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</li>
       {% endif %}
     </ul>
   </div>
