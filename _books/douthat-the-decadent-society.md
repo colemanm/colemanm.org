@@ -15,15 +15,13 @@ genres:
 - culture
 - economics
 isbn: 9781476785240
-rating: 
+rating: 4
 pages: 272
 format: audiobook
 publish_year: 2020
 publisher: Simon Schuster
 date_started: 2020-10-10
-date_completed: 
+date_completed: 2020-10-16
 goodreads_id: 50053432
 amazon_link: https://amzn.to/2SXG6HG
-
-current: true
 ---
