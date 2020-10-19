@@ -37,5 +37,5 @@ A solid comprehensive, step-by-step overview of how to conduct JTBD interviews.
 A pointer somewhere on Twitter led to this post from the Slate Star Codex archives, discussing a paper that supposedly debunks the [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox "Fermi paradox"):
 
 > Imagine we knew God flipped a coin. If it came up heads, He made 10 billion alien civilization. If it came up tails, He made none besides Earth. Using our one parameter Drake Equation, we determine that on average there should be 5 billion alien civilizations. Since we see zero, that’s quite the paradox, isn’t it?
-?
+>
 > No. In this case the mean is meaningless. It’s not at all surprising that we see zero alien civilizations, it just means the coin must have landed tails.
