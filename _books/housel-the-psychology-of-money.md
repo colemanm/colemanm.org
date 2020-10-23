@@ -22,7 +22,7 @@ format: kindle
 publish_year: 2020
 publisher: Harriman House
 date_started: 2020-09-28
-date_completed: 2020-10-3
+date_completed: 2020-10-03
 goodreads_id: 41881472
 amazon_link: https://amzn.to/34lvBmR
 ---
