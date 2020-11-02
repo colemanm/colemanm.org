@@ -29,7 +29,7 @@ notes: true
 
 ## Summary
 
-_Inspired_ is a comprehensive overview of how to build product teams and the systems and mindsets that make for the most innovative cultures of shipping great products. For years, author Marty Cagan has written on these topics on the Silicon Valley Product Group blog — sharp and insightful essays on topics ranging from how to conduct discovery interviews, the role of design, the lines between product management and engineering, go-to-market testing, and tons more. This book is largely an assembled collection of those essays.
+_Inspired_ is a comprehensive overview of how to build product teams and the systems and mindsets that make for the most innovative cultures of shipping great products. For years, author Marty Cagan has written on these topics on the [Silicon Valley Product Group blog](https://svpg.com/articles/ "SVPG Essays") — sharp and insightful essays on topics ranging from how to conduct discovery interviews, the role of design, the lines between product management and engineering, go-to-market testing, and tons more. This book is largely an assembled collection of those essays.
 
 {% include image.html file="innovation-and-incentives.jpg" description="Inspired" caption="no" %}
 
