@@ -23,5 +23,9 @@ date_completed: 2019-09-18
 goodreads_id: 46347136
 amazon_link: https://amzn.to/2X2xEtx
 
+reviewers:
+- author: Tom MacWright
+  url: https://macwright.com/2020/10/05/exhalation.html
+
 favorite: true
 ---
