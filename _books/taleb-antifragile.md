@@ -27,6 +27,8 @@ amazon_link: https://amzn.to/3hvA2Re
 reviewers:
 - author: Juvoni Beckford
   url: https://juvoni.com/book/antifragile-things-that-gain-from-disorder
+- author: Derek Sivers
+  url: https://sive.rs/book/Antifragile
 
 favorite: true
 ---

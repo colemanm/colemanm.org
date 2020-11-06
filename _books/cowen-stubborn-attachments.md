@@ -24,4 +24,8 @@ date_started: 2019-10-09
 date_completed: 2019-10-16
 goodreads_id: 41076657
 amazon_link: https://amzn.to/2WLX7ac
+
+reviewers:
+- author: Derek Sivers
+  url: https://sive.rs/book/StubbornAttachments
 ---

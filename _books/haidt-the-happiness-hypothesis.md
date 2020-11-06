@@ -23,4 +23,8 @@ date_started: 2019-03-23
 date_completed: 2019-03-29
 goodreads_id: 96884
 amazon_link: https://amzn.to/39mDCtO
+
+reviewers:
+- author: Derek Sivers
+  url: https://sive.rs/book/HappinessHypothesis
 ---

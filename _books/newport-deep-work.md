@@ -25,4 +25,6 @@ amazon_link: https://amzn.to/32NckMf
 reviewers:
 - author: Juvoni Beckford
   url: https://juvoni.com/book/deep-work
+- author: Derek Sivers
+  url: https://sive.rs/book/DeepWork
 ---

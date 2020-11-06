@@ -27,4 +27,6 @@ amazon_link: https://amzn.to/3hukIo2
 reviewers:
 - author: Juvoni Beckford
   url: https://juvoni.com/book/mans-search-for-meaning
+- author: Derek Sivers
+  url: https://sive.rs/book/MSfM
 ---
