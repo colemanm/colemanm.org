@@ -22,4 +22,8 @@ date_started: 2020-07-13
 date_completed: 2020-07-16
 goodreads_id: 10127019
 amazon_link: https://amzn.to/2WS6eX8
+
+reviewers:
+- author: Derek Sivers
+  url: https://sive.rs/book/LeanStartup
 ---

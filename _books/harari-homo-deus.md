@@ -23,4 +23,8 @@ date_started: 2017-12-29
 date_completed: 2018-01-12
 goodreads_id: 31138556
 amazon_link: https://amzn.to/2WLj9Kl
+
+reviewers:
+- author: Derek Sivers
+  url: https://sive.rs/book/HomoDeus
 ---
