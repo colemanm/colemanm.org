@@ -23,7 +23,7 @@ format: audiobook
 publish_year: 2020
 publisher: Random House
 date_started: 2020-11-01
-date_completed: 2020-
+date_completed: 
 goodreads_id: 52960755
 amazon_link: https://amzn.to/34PZHk5
 
