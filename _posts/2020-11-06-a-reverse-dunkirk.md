@@ -3,7 +3,7 @@ layout: post
 date: 2020-11-06 22:22:44
 title: "A Reverse Dunkirk"
 description: "What if the Germans had used a different strategy in 1940?"
-img: /images/post-images/
+img: /images/post-images/dunkirk-evacuation.jpg
 categories: blog
 tags:
 - World War II
