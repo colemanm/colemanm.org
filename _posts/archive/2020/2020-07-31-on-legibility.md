@@ -21,7 +21,7 @@ image_credit:
   url: https://www.over-view.com/overviews/boca-raton
 ---
 
-I think I probably read three different pieces this week along that reference James Scott's _[Seeing Like a State](https://amzn.to/3hSCkde "Seeing Like a State")_. It presents an argument about the desire for "legibility" that overthrows and reorders bottom-up, emergent systems that develop naturally.
+I think I probably read three different pieces this week alone that reference James Scott's _[Seeing Like a State](https://amzn.to/3hSCkde "Seeing Like a State")_. It presents an argument about the desire for "legibility" that overthrows and reorders bottom-up, emergent systems that develop naturally.
 
 In [this piece](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/ "A Big Little Idea Called Legibility"), Venkatesh Rao dives into what legibility means and what happens when the pursuit of order and "governability" ignores locally-discovered motivations that could be at work informing why a system works the way that it does.
 
