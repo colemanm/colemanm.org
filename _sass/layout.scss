@@ -106,6 +106,12 @@
   font-family: Georgia, serif;
 }
 
+// Related Posts
+.related-list ul {
+  font-size: 0.8em;
+  padding-inline-start: 20px;
+}
+
 // Video
 .video {
   position: relative;
@@ -352,7 +358,7 @@ img.bordered { border: 1px solid #ddd; }
   #navigation .nav-books,
   #navigation .nav-links,
   #navigation .nav-tw { display: none; }
-  .post, .link { font-size: 0.9em; }
+  .post, .link { font-size: 0.85em; }
   .post img, .post img.full, .link img, .link img.full { width: 100%; left: 0; } 
   .post .book {
     width: 100%;
@@ -441,7 +447,7 @@ img.bordered { border: 1px solid #ddd; }
   }
   #headerwrap { padding-bottom: 5px; }
   #header { padding: 0 15px; }
-  .post, .link { font-size: 0.9em; }
+  .post, .link { font-size: 0.85em; }
   .post img.full, .link img.full { width: 100%; left: 0; }
   .post img.partial, link img.partial {
     position: relative;
