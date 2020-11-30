@@ -17,15 +17,13 @@ genres:
 - politics
 - biography
 isbn: 9780593172070
-rating: 
+rating: 4
 pages: 585
 format: audiobook
 publish_year: 2020
 publisher: Random House
 date_started: 2020-11-01
-date_completed: 
+date_completed: 2020-11-27
 goodreads_id: 52960755
 amazon_link: https://amzn.to/34PZHk5
-
-current: true
 ---
