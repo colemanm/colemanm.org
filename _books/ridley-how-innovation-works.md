@@ -25,7 +25,6 @@ date_completed: 2020-06-20
 goodreads_id: 45449488
 amazon_link: https://amzn.to/3fXqMFc
 
-
 favorite: true
 notes: true
 ---

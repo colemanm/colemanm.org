@@ -5,6 +5,7 @@ subtitle: "How Certain Schemes to Improve the Human Condition Have Failed"
 author: James C. Scott
 author_last: Scott
 slug: scott-seeing-like-a-state
+img: /images/post-images/boca-raton.jpg
 type: nonfiction
 cover: true
 series: 
