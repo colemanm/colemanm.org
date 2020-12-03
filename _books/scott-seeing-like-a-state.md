@@ -17,15 +17,15 @@ genres:
 - sociology
 - anthropology
 isbn: 9780300078152
-rating: 
+rating: 5
 pages: 445
 format: kindle
 publish_year: 1998
 publisher: Yale University Press
 date_started: 2020-08-06
-date_completed: 
+date_completed: 2020-12-02
 goodreads_id: 20186
 amazon_link: https://amzn.to/3ip0cpc
 
-current: true
+favorite: true
 ---
