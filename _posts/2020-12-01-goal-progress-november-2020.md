@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-12-03 09:54:01
+date: 2020-12-01 09:54:01
 title: "Goal Progress: November"
 description: "Tracking my November goal progress for the year."
 img: /images/post-images/
