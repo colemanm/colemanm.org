@@ -28,7 +28,7 @@ Former founder and now-investor [David Sacks](https://www.craftventures.com/team
 
 There's no question that product-led is the way to go to get validation, traction, and growth, and that it's _still_ instrumental to building horizontal customer footprint. Sacks's point is that Slack didn't handle the enterprise scaling requirements _early_ enough (they now are).
 
-Bottom-up is great for top-of-funnel customer acquisition (Sacks says "lead gen"), but starts to falter as a growth driver at some scale. The trick in architecting a hybrid product-led vs. sales-led dichotomy is finding __where and when__ in the lifecycle to transition growing customers from one to the other. What the PLG movement has done for SaaS companies is carry customer expansion further into companies than before. The likes of Slack, Atlassian, and Twilio carried themselves to enormous scales on the back of a PLG, self-service strategy.
+Bottom-up is great for top-of-funnel customer acquisition (Sacks says "lead gen"), but starts to falter as a growth driver at some scale. The trick in architecting a hybrid product-led vs. sales-led dichotomy is finding _where and when_ in the lifecycle to transition growing customers from one to the other. What the PLG movement has done for SaaS companies is carry customer expansion further into companies than before. The likes of Slack, Atlassian, and Twilio carried themselves to enormous scales on the back of a PLG, self-service strategy.
 
 ### Why does PLG decelerate?
 
@@ -50,7 +50,7 @@ But you eventually discover that true _enterprise_-scale adoption looks more lik
 
 {% include image.html file="bottom-up-plg-lateral.jpg" description="Moving laterally" caption="no" %}
 
-The customer you thought you were growing wasn't __truly__ the whole enterprise, but only a department or division[^self-service]. In many (most?) national- or international-scale companies, bridging to neighboring departments is effectively selling to a whole new customer. Sure, the story of your product's impact from adjacent teams' use cases is helpful, but often the barriers between these columns are enormous.
+The customer you thought you were growing wasn't _truly_ the whole enterprise, but only a department or division[^self-service]. In many (most?) national- or international-scale companies, bridging to neighboring departments is effectively selling to a whole new customer. Sure, the story of your product's impact from adjacent teams' use cases is helpful, but often the barriers between these columns are enormous.
 
 What you need is some fuel to help jump the gaps.
 
