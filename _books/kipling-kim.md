@@ -15,15 +15,13 @@ genres:
 - adventure
 - historical fiction
 isbn: 9780140183528
-rating: 
+rating: 3
 pages: 366
 format: audiobook
 publish_year: 1901
 publisher: Penguin Classics
 date_started: 2020-11-28
-date_completed: 
+date_completed: 2020-12-12
 goodreads_id: 210834
 amazon_link: https://amzn.to/3fIk8TS
-
-current: true
 ---
