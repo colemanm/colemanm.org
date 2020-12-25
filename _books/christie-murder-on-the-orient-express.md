@@ -15,15 +15,13 @@ genres:
 - crime
 - thriller
 isbn: 9780007119318
-rating: 
+rating: 4
 pages: 274
 format: audiobook
 publish_year: 1934
 publisher: HarperCollins
 date_started: 2020-12-13
-date_completed: 
+date_completed: 2020-12-22
 goodreads_id: 853510
 amazon_link: https://amzn.to/3oS3SDa
-
-current: true
 ---
