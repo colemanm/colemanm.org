@@ -30,4 +30,6 @@ reviewers:
   url: https://juvoni.com/book/zero-to-one
 - author: Derek Sivers
   url: https://sive.rs/book/ZeroToOne
+- author: Trevor McKendrick
+  url: https://www.trevormckendrick.com/book-notes/zero-to-one
 ---
