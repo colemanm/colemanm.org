@@ -25,8 +25,8 @@ goodreads_id: 6751
 amazon_link: https://amzn.to/3rwYibj
 
 reviewers:
-- author:
-  url: 
+- author: Trevor McKendrick
+  url: https://www.trevormckendrick.com/book-notes/consider-the-lobster-by-david-foster-wallace
 
 favorite: true
 ---
