@@ -5,6 +5,7 @@ subtitle: "A Life in Computer Games"
 author: Sid Meier
 author_last: Meier
 slug: meier-sid-meiers-memoir
+img: /images/library/sid-meiers-memoir-featured.jpg
 type: nonfiction
 cover: true
 series: 
