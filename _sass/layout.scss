@@ -77,6 +77,15 @@
   border: 1px solid #ccc;
   clear: both;
 }
+.post .book-snippet {
+  position: relative;
+  left: -75px;
+  width: 810px;
+  padding: 20px 20px 5px 20px;
+  margin-top: 40px;
+  clear: both;
+  border-top: 1px solid #eee;
+}
 .post .book-title {
   font-size: 1.25em;
   color: #dd9922;
@@ -85,11 +94,11 @@
 .post .author {
   font-size: 0.9em;
 }
-.post .book img {
+.post .book img, .post .book-snippet img {
   height: 230px;
   float: right;
 }
-.post .book .book-full-img {
+.post .book .book-full-img, .post .book-snippet .book-full-img {
   height: 300px;
   float: right;
 }
@@ -369,6 +378,19 @@ img.bordered { border: 1px solid #ddd; }
     border-bottom: 1px solid #ccc;
     padding: 10px 20px;
   }
+  .post .book-snippet {
+    width: 100%;
+    left: -20px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    clear: both;
+    border-top: 1px solid #eee;
+  }
+  .post .book img, .post .book-snippet img {
+    width: 100px;
+    height: auto;
+    float: right;
+  }
   .post .book img { display: none; }
   .post .book ul { margin-bottom: 5px; }
   .post ul, .post ol { padding-left: 1.5em; }
@@ -458,6 +480,19 @@ img.bordered { border: 1px solid #ddd; }
   .post .book {
     width: 100%;
     left: -20px;
+  }
+  .post .book-snippet {
+    position: relative;
+    left: -75px;
+    width: 680px;
+    padding: 20px 20px 5px 20px;
+    margin-top: 40px;
+    clear: both;
+    border-top: 1px solid #eee;
+  }
+  .post .book img, .post .book-snippet img {
+    height: 180px;
+    float: right;
   }
   .post .book ul { margin-bottom: 5px; }
   .post .book img {
