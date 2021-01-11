@@ -14,15 +14,13 @@ genres:
 - science fiction
 - cyberpunk
 isbn: 441533825
-rating: 
+rating: 4
 pages: 239
 format: paperback
 publish_year: 1986
 publisher: Ace
 date_started: 2020-06-16
-date_completed: 
+date_completed: 2021-01-10
 goodreads_id: 302702
 amazon_link: https://amzn.to/2OLzaLY
-
-current: true
 ---
