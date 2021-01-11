@@ -10,7 +10,7 @@ tags:
 - sports
 ---
 
-You don't have to be an avid cycling fan to be mpressed with Tadej Pogačar's incredible time trial on stage 20 of this year's Tour de France. He bested the 2nd and 3rd place riders by a full minute, 1:21 better than 150 other riders. Absolutely unbelievable.
+You don't have to be an avid cycling fan to be impressed with Tadej Pogačar's incredible time trial on stage 20 of this year's Tour de France. He bested the 2nd and 3rd place riders by a full minute, 1:21 better than 150 other riders. Absolutely unbelievable.
 
 {% include video.html id="z9xbL3B4zQM" %}
 

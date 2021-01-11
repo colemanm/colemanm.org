@@ -34,7 +34,7 @@ Martin Gurri on the growing similarities between west and east coast elites:
 
 This is hilarious. Move through your virtual bedroom and sit down at your desk. Your DOS PC is waiting.
 
-Reminds me of the “[Virtual Reading](https://snltranscripts.jt.org/94/94dbooks.phtml “Virtual Reading”)” sketch from SNL many years ago[^virtualreading].
+Reminds me of the "[Virtual Reading](https://snltranscripts.jt.org/94/94dbooks.phtml "Virtual Reading")" sketch from SNL many years ago[^virtualreading].
 
 ### ✍🏼 [Brainstorming with Myself: Systemic Creativity in Roam](https://www.roambrain.com/brainstorming-with-myself-systematic-creativity-in-roam/ "Brainstorming with Myself: Systemic Creativity in Roam")
 
