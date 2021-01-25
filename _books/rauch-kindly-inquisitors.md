@@ -15,15 +15,15 @@ genres:
 - culture
 - philosophy
 isbn: 9780226705767
-rating: 
+rating: 5
 pages: 187
 format: kindle
 publish_year: 1993
 publisher: University of Chicago Press
-date_started: 2020-01-02
-date_completed: 
+date_started: 2021-01-02
+date_completed: 2021-01-22
 goodreads_id: 703086
 amazon_link: https://amzn.to/3hARIw1
 
-current: true
+favorite: true
 ---
