@@ -13,15 +13,13 @@ genres:
 - science fiction
 - adventure
 isbn: 9780316334686
-rating: 
+rating: 4
 pages: 611
 format: audiobook
 publish_year: 2014
 publisher: Orbit
 date_started: 2020-12-24
-date_completed: 
+date_completed: 2021-01-28
 goodreads_id: 23197305
 amazon_link: https://amzn.to/3hjLKiW
-
-current: true
 ---
