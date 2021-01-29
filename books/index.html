@@ -19,7 +19,7 @@ description: "My personal library."
     <tr class="{% cycle 'even', 'odd' %}">
       <td class="title">
         {% if book.favorite %}<strong>{% endif %}
-        <a href='{{ book.url }}'><em>{{ book.title | xml_escape }}</em></a>
+        <a href='{{ book.url }}'><em>{{ book.title | xml_escape }}</em></a> <span class="reread">{% if book.reread %}🔁{% endif %}</span>
         {% if book.favorite %}</strong>{% endif %}
       </td>
       <td >{{ book.author }}</td>
