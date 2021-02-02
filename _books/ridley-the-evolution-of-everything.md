@@ -16,15 +16,13 @@ genres:
 - economics
 - philosophy
 isbn: 9780062296009
-rating: 
+rating: 4
 pages: 368
 format: audiobook
 publish_year: 2015
 publisher: Harper
 date_started: 2021-01-29
-date_completed: 
+date_completed: 2021-02-02
 goodreads_id: 25816925
 amazon_link: https://amzn.to/3pxIgNc
-
-current: true
 ---
