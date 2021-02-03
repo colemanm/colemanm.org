@@ -1,0 +1,108 @@
+- Title:: Jobs Theory, Demand Thinking
+- Issue:: 8
+- Date:: [[February 2nd, 2021]]
+- Tags:: #[[📰 Res Extensa]] #Newsletters #[[colemanm.org]] #[[Jobs to Be Done]]
+- ### Outline
+    - Intro
+        - New house
+        - Thinking about Jobs Theory
+        - https://hbr.org/2016/09/know-your-customers-jobs-to-be-done
+        - Read Bob Moesta's [[Demand-Side Sales 101]], a brief applied 
+    - Overview of jobs theory
+        - Christensen and Bob Moesta's formulation of what customers want, from the "demand" side
+        - Demand = customer, supply = product
+        - Experiencing the world from the ground up
+        - 
+        - We're swamped with data, but confused by correlation, not causation
+        - Developing a product, easy to think in terms of supply — what do we know how to build? What problem do we know how to solve?
+        - Easy to lose sight of the question: "what problem does a user actually have?"
+        - Jobs to be Done describes the world of products in services in terms of users "hiring" them to solve a problem
+            - When you encounter a "struggling moment" as the proponents of the theory describe it, you start to look for things you can hire to make progress against the struggle
+        - Maps customer space in terms of forces, progress and resistance
+    - JTBD and bottoms-up thinking
+        - Customer up, not solution down
+        - Companies are enamored with being data-driven — leads to correlative thinking
+            - Looking at data in buckets
+            - The "average" customer doesn't exist
+            - Viewing the world in terms of personas can be helpful for broadly communicating where you fit - for, say, internal discussion - but can lead to dangerous correlative thinking; "this person bought that looks like this bought the product, this other person looks like that person, therefore they must also need my product"
+        - Interactions between factors in customer's life
+            - Systems thinking helps to see relationships between adjacent factors in customer's life
+            - 
+        - Designing purely from the supply-side is a form of top-down view
+            - Assumptions, expertise, expert opinion, industry analysis
+            - vs.
+            - Going in the field, observing, experience
+        - Thinking that we can perfect a solution, that you have the knowledge to understand problems
+        - Demand thinking acknowledges a world too diverse and complex for us to get our heads completely around
+    - Epistemic vs experiential knowledge
+        - Metis, techne - practical vs technical knowledge
+        - Agile, waterfall
+        - First vs second-order knowledge
+        - Reliance on analysts, third-party experts to decide what the "market" wants
+            - with broad groupings ("the market"), we can gravitate toward overgeneralization
+                - with problems too generally-described (therefore too abstract or nonspecific), we bias ourselves toward what we know: our own product/service
+            - of course to create a repeatable product, we have to be able to draw out concrete similarities from the demand side
+            - deductive v inductive
+                - https://fs.blog/2018/05/deductive-inductive-reasoning/
+    - Shaping, forging
+        - Ryan Singer's Shape Up as the supply side of the equation, taking a similar iterative, evolutionary approach to creating the product
+        - 
+- ### Ideas
+    - Quotes
+        - On paper, this makes no sense. Never have businesses known more about their customers. Thanks to the big data revolution, companies now can collect an enormous variety and volume of customer information, at unprecedented speed, and perform sophisticated analyses of it. Many firms have established structured, disciplined innovation processes and brought in highly skilled talent to run them. Most firms carefully calculate and mitigate innovations’ risks. From the outside, it looks as if companies have mastered a precise, scientific process. But for most of them, innovation is still painfully hit-or-miss.
+    - Products
+        - Here are some examples, their apparent competitors, and actual competitors
+        - Netflix
+            - Reed Hastings said Netflix is "competing with sleep"
+        - Enterprise software
+            - Often your biggest competitor is status quo within the customer, overcoming static inertia
+            - 
+    - Examples
+        - Stable over time, non-specific, solution-agnostic ([reference](https://brianrhea.com/jobs-to-be-done-examples))
+        - Bought a sandbox
+            - Not "so the kids can have fun" or "to play with their toys in"
+            - But rather "to get them outside during nice weather" or "to get them occupied while I'm doing housework"
+        - Installed flooring
+        - Installing a pool heater
+        - Hired guys to do landscaping
+            - Not to enjoy front-yard plants
+            - To increase marginal sale price of house
+        - Nespresso machine
+            - Keurig with better coffee
+    - Resources
+        - [[Demand-Side Sales 101]]
+        - [[The Design of Everyday Things]]
+        - [[Competing Against Luck]]
+        - [[Shape Up]]
+    - Jobs to be done, emergence, [[Chesterton's fence]]
+        - Jobs theory introduction
+            - Explain a basic overview of [[Jobs to be Done]]
+            - milkshakes, Competing against luck
+            - What job does a product do?
+            - Make progress
+            - People want to __pull__ tools into their lives, not have them __pushed__ to them
+                - Progress user is trying to make vs. what we can build/deliver to them
+                - "Nobody likes to be sold to, but everyone likes to buy"
+        - Assumptions vs. learning bottom-up
+        - Discovery from observation, empirical tests
+        - Commonalities with other tactics, applications to sales
+            - Demand-side sales
+            - Sandler pain funnel
+        - Ryan Singer's "demand thinking" idea
+            - https://twitter.com/bmoesta/status/1312164489291157504?s=20
+        - Customer UP rather than solution DOWN
+            - Similarly on the supply side, we want to start small and work up — identify clear core needs on the demand side to tie into 
+            - Don't try to solve an entire experience at once
+        - Moving demand->supply helps you identify where the solution space even is
+            - Without understanding demand drivers, we might end up in the completely wrong space
+        - Jobs theory and multifinality
+        - This example from [here](http://environment-ecology.com/general-systems-theory/379-systems-thinking.html)
+            - Equifinality
+            - Using the tenet of "Multifinality", a supermarket could be considered to be:
+                - a "profit making system" from the perspective of management and owners
+                - a "distribution system" from the perspective of the suppliers
+                - an "employment system" from the perspective of employees
+                - a "materials supply system" from the perspective of customers
+                - an "entertainment system" from the perspective of loiterers
+                - a "social system" from the perspective of local residents
+                - a "dating system" from the perspective of single customers
