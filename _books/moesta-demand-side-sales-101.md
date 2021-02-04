@@ -21,7 +21,7 @@ format: kindle
 publish_year: 2020
 publisher: Lioncrest Publishing
 date_started: 2021-01-29
-date_completed: 2020-02-02
+date_completed: 2021-02-02
 goodreads_id: 55345571
 amazon_link: https://amzn.to/3asX49i
 ---
