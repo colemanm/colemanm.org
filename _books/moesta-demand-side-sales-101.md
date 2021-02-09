@@ -33,7 +33,7 @@ notes: true
 
 Clayton Christensen formulated the principles [Jobs to Be Done](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca "What is Jobs to be Done?") theory a few years back, describing the world of consumers and creators in terms of the former seeking to "hire" or "fire" the solutions to problems in their lives. Jobs Theory turned the notion of customers seeking features and benefits on its head, and made product creators think in terms of "when" and "why" rather than "what" or "how". Instead of taking customer-described needs as given, JTBD counsels a field research approach — observe a customer in-situ, pick apart specific behaviors, look for _causation_ of behaviors rather than _correlation_ between customers.
 
-{% include image.html file="forces-of-progress.jpg" description="" caption="no" %}
+{% include image.html file="forces-of-progress.jpg" description="Forces of progress" caption="no" %}
 
 In _Demand-Side Sales 101_, Bob Moesta (one of Christensen's original collaborators in developing Jobs Theory) applies the ideas behind JTBD to the role of sales. There's a stereotype about sales that it's always pushy, unnatural, inauthentic. But as Moesta makes clear in the book, most forms of sales don't orient on being helpful; they don't index on the notion of _progress_, the essential element that JTBD is all about.
 
