@@ -3,6 +3,7 @@ layout: post
 date: 2019-04-14
 title: "Process Not Products"
 description: "On 'Loonshots' and how phase transitions apply to companies."
+img: /images/post-images/process.jpg
 categories: blog
 tags:
 - business
@@ -14,6 +15,8 @@ tags:
 In his new book *[Loonshots](https://www.goodreads.com/book/show/39863447-loonshots "Loonshots")*, author Safi Bahcall uses the concept of [phase transitions](https://en.wikipedia.org/wiki/Phase_transition "Phase transition") to analyze how companies work. When a substance changes phase, like water going from solid to liquid, the same exact substance is forced to take on a new structural form when the surrounding environment changes.
 
 As Bahcall points out in the book, companies exhibit a similar behavior in their inventions and strategy. He contrasts two different types of innovations that companies tend to be built to produce: "P" type innovations, where a company is great at producing new products, and "S" type innovations, where they can stay ahead of the pack by developing new business strategies for the same products. There are many examples presented in the book of both types of innovation done right — Juan Trippe and Pan Am, Steve Jobs, Edwin Land and Polaroid, Bob Crandall and American Airlines — each of them was (or has been) a pillar innovator with a specialty in P or S types.
+
+{% include image.html file="process.jpg" description="Process" caption="no" %}
 
 Being great at a single type works great *for a time*, until the environment changes too much around you.
 
