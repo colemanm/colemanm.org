@@ -5,6 +5,7 @@ subtitle: "And Why it Flourishes in Freedom"
 author: Matt Ridley
 author_last: Ridley
 slug: ridley-how-innovation-works
+img: /images/post-images/innovation-and-incentives.jpg
 type: nonfiction
 cover: true
 series: 
@@ -34,6 +35,8 @@ notes: true
 Innovation is an evolutionary phenomenon, a bottom-up, organic combination of thousands of small developments, building upon one another to result in combinatory development of technologies that make life better, cheaper, and more available to more people.
 
 Free societies permit the open exchange of ideas. Top-down, centrally-planned societies (even those that desire and pay lip service to innovation) inevitably stifle, interfere with, and inappropriately divert resources away from innovation.
+
+{% include image.html file="innovation-and-incentives.jpg" description="Innovation" caption="no" %}
 
 _How Innovation Works_ is replete with historical examples of well-known (and not-so-well known) innovations of the past. There's essentially no area of invention that _wasn't_ a story of incremental, step-by-step experimental progress. In known cases of centrally-directed innovation — the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project "Manhattan Project"), the [Apollo program](https://en.wikipedia.org/wiki/Apollo_program "Apollo program"), the [Interstate Highway System](https://en.wikipedia.org/wiki/Interstate_Highway_System "Interstate Highway System") — there's an alternative perspective that showcases how many of the innovations developed were, at ground level, more gradual and organic than they appear in hindsight. But Ridley also is happy to concede that it isn't _impossible_ for innovation to happen when directed by government, just that it's rarely how it happens.
 
