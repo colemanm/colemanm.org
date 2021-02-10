@@ -55,6 +55,6 @@ Christensen's _[Competing Against Luck](/books/christensen-competing-against-luc
 ## References
 
 * [Demand Thinking](https://demandthinking.com/ "Demand Thinking") — A video series done by Ryan Singer and Chris Spiek
-* [Res Extensa #8: Jobs Theory](https://resextensa.substack.com/p/jobs-theory-thinking-in-demand-and "Res Extensa #8: Jobs Theory") - Thinking in Demand and Supply — I wrote about Jobs Theory in my newsletter, Res Extensa
+* [Res Extensa #8: Jobs Theory — Thinking in Demand and Supply](https://resextensa.substack.com/p/jobs-theory-thinking-in-demand-and "Res Extensa #8: Jobs Theory")  — I wrote about Jobs Theory in my newsletter, Res Extensa
 * [Synthetic A Priori](https://synthetic.transistor.fm/ "Synthetic A Priori") — Ryan Singer's podcast which dives into ideas like jobs, design, and complex systems.
 * [Know Your Customers' Jobs to Be Done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done "Know Your Customers' Jobs to Be Done") — Christensen and company's original paper for the Harvard Business Review.
