@@ -3,6 +3,7 @@ layout: link
 date: 2019-11-05 06:31:07
 title: "Microsoft Access: The Database Software That Won't Die"
 target: https://medium.com/young-coder/microsoft-access-the-zombie-database-software-that-wont-die-5b09e389c166
+description: "On the longevity of Microsoft Access."
 categories: blog
 tags:
 - Microsoft
