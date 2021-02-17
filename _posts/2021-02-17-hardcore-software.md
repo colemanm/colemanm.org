@@ -1,7 +1,7 @@
 ---
 layout: link
 date: 2021-02-17 14:25:10
-title: "Harcore Software"
+title: "Hardcore Software"
 target: https://hardcoresoftware.learningbyshipping.com/
 description: "Steven Sinofsky's syndicated book on his time at Microsoft."
 img: /images/post-images/
