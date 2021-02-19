@@ -4,13 +4,17 @@ date: 2021-02-17 14:25:10
 title: "Hardcore Software"
 target: https://hardcoresoftware.learningbyshipping.com/
 description: "Steven Sinofsky's syndicated book on his time at Microsoft."
-img: /images/post-images/
 categories: blog
 tags:
 - history
 - tech history
 - Steven Sinofsky
 - Microsoft
+
+links:
+- url: https://hardcoresoftware.learningbyshipping.com/
+  title: "Hardcore Software"
+  icon: 💾
 ---
 
 [Steven Sinofsky](https://twitter.com/stevesi "Steven Sinofsky on Twitter") is writing a book on his time at Microsoft and the rise of the PC. He joined Microsoft during its ascendancy in 1989, starting as a software engineer and moving up to leading product on Office for most of his time with the company.
