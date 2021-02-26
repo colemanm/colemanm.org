@@ -7,6 +7,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - post
 - type: directory
   path: _books
   label: Books
