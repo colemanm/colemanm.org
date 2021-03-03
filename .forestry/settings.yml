@@ -7,6 +7,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - post
 - type: directory
   path: _books
   label: Books
@@ -30,8 +32,8 @@ sections:
   label: Maps
   create: all
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: images/post-images
+public_path: "/images/post-images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
