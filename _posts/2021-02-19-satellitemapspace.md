@@ -4,7 +4,7 @@ date: 2021-02-19 14:05:02
 title: "satellitemap.space"
 target: https://satellitemap.space/
 img: /images/post-images/starlink-constellation.jpg
-description: ""
+description: "Visualizing the Starlink constellation."
 categories: blog
 tags:
 - Starlink

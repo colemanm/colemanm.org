@@ -3,6 +3,7 @@ layout: link
 date: 2020-01-12 23:34:55
 title: "Starlink is a Very Big Deal"
 target: https://caseyhandmer.wordpress.com/2019/11/02/starlink-is-a-very-big-deal/
+description: "A deep dive on SpaceX's internet platform project and why it matters."
 categories: blog
 tags:
 - satellite
