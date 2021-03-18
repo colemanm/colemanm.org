@@ -9,6 +9,7 @@
 <meta property="og:title" content="{{ page.title | xml_escape }}" />
 <meta property="og:site_name" content="colemanm.org" />
 {% if page.img %}
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:image" name="image" content="{{ site.url }}{{ page.img }}" />
 {% endif %}
 
