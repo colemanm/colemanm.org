@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-03-20 22:04:19
-title: "Weekend Reading: American Dream as a Service, Content Marketing, the Fifth Column Reading List, and More"
+title: "Weekend Reading: American-Dream-as-a-Service, Content Marketing, the Fifth Column Reading List, and More"
 description: "An interview with @austen, @lennysan on content, Earth from oblique, books of @wethefifth, and Microsoft's Power Fx."
 img: /images/post-images/
 categories: blog
