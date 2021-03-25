@@ -14,15 +14,15 @@ genres:
 - classics
 - philosophy
 isbn: 9781439149959
-rating: 
+rating: 5
 pages: 120
 format: audiobook
 publish_year: 1968
 publisher: Simon Schuster
 date_started: 2021-02-12
-date_completed: 
+date_completed: 2021-02-21
 goodreads_id: 6940427
 amazon_link: https://amzn.to/3poYcAa
 
-current: true
+favorite: true
 ---
