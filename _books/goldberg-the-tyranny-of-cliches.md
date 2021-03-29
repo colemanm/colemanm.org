@@ -17,15 +17,13 @@ genres:
 - humor
 - american history
 isbn: 9781595230867
-rating: 
+rating: 4
 pages: 320
 format: audiobook
 publish_year: 2012
 publisher: Sentinel
 date_started: 2021-03-01
-date_completed: 
+date_completed: 2021-03-29
 goodreads_id: 13482307
 amazon_link: https://amzn.to/2NRkr59
-
-current: true
 ---
