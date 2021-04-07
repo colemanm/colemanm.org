@@ -43,7 +43,7 @@ description: "My personal library."
     </td>
     <td>{% if review %}<em><a href="{{ review.url }}">Review</a></em>{% endif %}
         {% if book.notes %}📝{% endif %}</td>
-    <td>{% include book-rating.html %}</td>
+    <!-- <td>{% include book-rating.html %}</td> -->
     <td class="book-date-completed">{{ book.date_completed | date: '%B %Y' }}</td>
     <td class="right-cell">{{ book.publish_year }}</td>
   </tr>
