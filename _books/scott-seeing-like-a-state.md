@@ -29,4 +29,8 @@ goodreads_id: 20186
 amazon_link: https://amzn.to/3ip0cpc
 
 favorite: true
+
+newsletters:
+- title: "#4: On Legibility — In Society, Tech, Organizations, and Cities"
+  url: https://resextensa.substack.com/p/res-extensa-4-on-legibility-in-society
 ---

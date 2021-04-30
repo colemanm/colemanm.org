@@ -29,7 +29,7 @@ favorite: true
 notes: true
 
 newsletters:
-- title: "Res Extensa #9: Liberal Science — Fallibilism and Error Correction"
+- title: "#9: Liberal Science — Fallibilism and Error Correction"
   url: https://resextensa.substack.com/p/liberal-science-fallibilism-and-error
 ---
 

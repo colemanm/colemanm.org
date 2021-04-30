@@ -26,4 +26,8 @@ date_started: 2020-11-01
 date_completed: 2020-11-27
 goodreads_id: 52960755
 amazon_link: https://amzn.to/34PZHk5
+
+newsletters:
+- title: "#5: Alternate Timelines — History, Maps, and Science Fiction"
+  url: https://resextensa.substack.com/p/res-extensa-5-alternate-timelines
 ---

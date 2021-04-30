@@ -29,6 +29,11 @@ layout: default
       <li>Other Readers: {% for reviewer in book.reviewers %}<a href="{{ reviewer.url }}" title="{{ reviewer.author }}">{{  reviewer.author }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</li>
       {% endif %}
     </ul>
+    <div class="newsletter">
+      {% for newsletter in book.newsletters %}
+      <p><span class="icon"><img src="/images/res-extensa.jpg" alt="Res Extensa"></span> Res Extensa: <a href="{{ newsletter.url }}">{{ newsletter.title }}</a></p>
+      {% endfor %}
+    </div>
   </div>
   <div class="body">{{ content }}</div>
 </div>

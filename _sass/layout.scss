@@ -280,6 +280,7 @@ img.bordered { border: 1px solid #ddd; }
 .book-data {
   font-size: 0.8em;
   color: #aaa;
+  margin-bottom: 15px;
 }
 .book .book-full-img {
   height: 300px;
@@ -287,6 +288,12 @@ img.bordered { border: 1px solid #ddd; }
   margin-left: 5px;
 }
 .rating { color: #333; }
+.book .newsletter img {
+  width: 20px;
+}
+.book .newsletter .icon {
+  vertical-align: middle;
+}
 
 // Maps
 .maps h1 { margin: 10px 0; }

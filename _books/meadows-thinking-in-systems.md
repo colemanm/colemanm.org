@@ -26,4 +26,8 @@ date_started: 2020-12-12
 date_completed: 2020-12-23
 goodreads_id: 3828902
 amazon_link: https://amzn.to/37hMP7z
+
+newsletters:
+- title: "#6: Systems Thinking — Stocks, Flows, and Feedback Loops"
+  url: https://resextensa.substack.com/p/res-extensa-6-systems-thinking-stocks
 ---
