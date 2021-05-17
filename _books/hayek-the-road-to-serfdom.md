@@ -15,15 +15,15 @@ genres:
 - economics
 - classics
 isbn: 9780226320618
-rating: 
+rating: 5
 pages: 274
 format: audiobook
 publish_year: 1944
 publisher: University of Chicago Press
 date_started: 2021-02-28
-date_completed: 
+date_completed: 2021-05-16
 goodreads_id: 299215
 amazon_link: https://amzn.to/3lPmJ1r
 
-current: true
+favorite: true
 ---
