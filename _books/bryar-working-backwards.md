@@ -4,7 +4,7 @@ title: "Working Backwards"
 subtitle: "Insights, Stories, and Secrets from Inside Amazon"
 author: Colin Bryar and Bill Carr
 author_last: Bryar
-slug: colin-bryar-working-backwards
+slug: bryar-working-backwards
 type: nonfiction
 cover: true
 series: 
