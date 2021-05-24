@@ -14,15 +14,13 @@ genres:
 - technology
 - management
 isbn: 9781250267597
-rating: 
+rating: 3
 pages: 304
 format: kindle
 publish_year: 2021
 publisher: St. Martin's Press
 date_started: 2021-04-10
-date_completed:
+date_completed: 2021-05-21
 goodreads_id: 53138083
 amazon_link: https://amzn.to/327mdmd
-
-current: true
 ---
