@@ -3,7 +3,7 @@ layout: post
 date: 2021-06-21 12:54:28
 title: "AirrSpaces"
 description: "A new feature for Airr: chat rooms, Q&A, and conversational podcasts."
-img: /images/post-images/
+img: /images/post-images/airrspaces.jpg
 categories: blog
 tags:
 - Airr
