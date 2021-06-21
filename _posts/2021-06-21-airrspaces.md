@@ -17,7 +17,7 @@ Last year I [switched to Airr](/post/airr/ "Airr") as my main podcast app when t
 
 Airr's killer feature is the "AirrQuote", which lets you clip snippets of podcast audio to share. There's no other podcast app like it with as many integrations, like highlighting and [syncing to your Readwise](https://help.readwise.io/article/103-how-do-i-save-highlights-from-the-podcasts-i-listen-to-using-airr "Integrate Airr and Readwise") knowledge management workflow. It also has transcripts for tons of shows, which is a feature I didn't know I wanted til I tried using Spotify or Overcast again and couldn't scan through the shows in text form.
 
-{% include image.html file="airrspaces.jpg" description="An AirrSpace for [Norman Chella](https://twitter.com/NormanChella "Norman Chella on Twitter")'s excellent [RoamFM](https://twitter.com/roamfm "RoamFM on Twitter")" caption="no" %}
+{% include image.html file="airrspaces.jpg" description="An AirrSpace for [Norman Chella](https://twitter.com/NormanChella)'s excellent [RoamFM](https://twitter.com/roamfm)" caption="no" %}
 
 Hot off the presses last week, the Airr team shipped a slick new feature called "AirrSpaces", which adds an audio chat room sort of functionality, an interesting innovation in a podcast player. An AirrSpace is like a combination of a podcast, Discord group chat, and Clubhouse room — hosts record clips and post into the room, which can be played in top to bottom sequence, like a normal podcast conversation. Others in the room can submit clips, too, like questions or comments for the host to review and post to the room or reply to. The Airr team hosted an [introductory space](https://www.airr.io/space/60cb7c9fbe1f311e36ea5299 "Announcing AirrSpaces") you can take a look at as an example.
 
