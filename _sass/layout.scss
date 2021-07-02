@@ -116,6 +116,11 @@
 }
 
 // Related Posts
+.related-list span {
+  color: $darkgrey;
+  font-size: 0.9em;
+  font-weight: bold;
+}
 .related-list ul {
   font-size: 0.8em;
   padding-inline-start: 20px;

@@ -3,7 +3,7 @@ layout: link
 date: 2021-06-16 12:54:45
 title: "ETH's First Quarter, 2021"
 target: https://draecomino.substack.com/p/ethereum-q1-2021-results
-description: ""
+description: "Reporting on Ethereum's first quarter performance."
 img: /images/post-images/
 categories: blog
 tags:
