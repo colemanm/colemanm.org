@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-07-10
-title: "iPadOS"
+title: "iPadOS Beta"
 description: "iPadOS public beta."
 categories: blog
 tags:
