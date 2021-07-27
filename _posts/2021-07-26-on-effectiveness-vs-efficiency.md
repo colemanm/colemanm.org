@@ -13,8 +13,8 @@ tags:
 ---
 
 > "Efficiency is doing things right; effectiveness is doing the right things."
-
-— Peter Drucker
+>
+> — Peter Drucker
 
 People throw around these two words pretty indiscriminately in business, usually not making a distinction between them. They're treated as interchangeable synonyms for broadly being "good" at something.
 
