@@ -18,7 +18,7 @@ links:
 
 [Packy McCormick](https://twitter.com/packyM "PackyM on Twitter") is onto something with his recent pieces on web3 and the emergence of the "metaverse" being enabled by Ethereum.
 
-This week he writes about Axie Infinity, a NFT-powered Pokémon-like PvP game built on the blockchain. The resemblances to Pokémon are many in terms of the gameplay, but that's about the end of the similarities.
+This week he writes about [Axie Infinity](https://axieinfinity.com/ "Axie Infinity"), a NFT-powered Pokémon-like PvP game built on the blockchain. The resemblances to Pokémon are many in terms of the gameplay, but that's about the end of the similarities.
 
 > If they pull it off, Axie will be like Roblox on steroids, with better margins and better incentive alignment. Axie might become an even more important corner of the Metaverse, and a beacon for people building decentralized worlds online that blur work and play.
 
