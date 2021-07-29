@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-07-28 15:26:35
-title: "Taking Back User Accounts"
+title: "Taking Back Our User Accounts"
 description: "Ethereum's decentralization of identity management for applications."
 img: /images/post-images/ethereum-chain.jpg
 categories: blog
