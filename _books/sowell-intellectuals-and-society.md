@@ -16,15 +16,13 @@ genres:
 - philosophy
 - psychology
 isbn: 9780465019489
-rating: 
+rating: 5
 pages: 398
 format: audiobook
 publish_year: 2009
 publisher: Basic Books
 date_started: 2021-07-05
-date_completed: 
+date_completed: 2021-07-29
 goodreads_id: 7285385
 amazon_link: https://amzn.to/3hjoKSU
-
-current: true
 ---
