@@ -3,7 +3,7 @@ layout: post
 date: 2021-08-13 23:54:27
 title: "Weekend Reading: Robotic Bricklaying, Medici and Thiel, and Airtable, Roblox of the Enterprise"
 description: "Why we don't have robotic masons, on Medici, Thiel, and modern patronage, and Airtable as the enterprise metaverse."
-img: /images/post-images/
+img: /images/post-images/open-book.jpg
 categories: blog
 tags:
 - weekend reading
