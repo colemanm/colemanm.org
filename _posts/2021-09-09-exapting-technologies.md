@@ -3,7 +3,7 @@ layout: post
 date: 2021-09-09 22:50:37
 title: "Exapting Technologies"
 description: "Embracing, reusing, and remixing existing technologies to build new ones."
-img: /images/post-images/
+img: /images/post-images/rail-trail.jpg
 categories: blog
 tags:
 - innovation
