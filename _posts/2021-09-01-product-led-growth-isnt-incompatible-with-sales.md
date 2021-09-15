@@ -2,7 +2,7 @@
 layout: post
 date: 2021-09-01 13:46:39
 title: "Product-led Growth Isn't Incompatible with Sales"
-description: ""
+description: "Product-led and sales-driven growth strategies form a positive-sum combo."
 img: /images/post-images/product-sales-compatibility.jpg
 categories: blog
 tags:
