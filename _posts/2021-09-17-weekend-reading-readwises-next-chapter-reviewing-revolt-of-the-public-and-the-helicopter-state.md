@@ -3,7 +3,7 @@ layout: post
 date: 2021-09-17 16:34:12
 title: "Weekend Reading: Readwise's Next Chapter, Reviewing Revolt of the Public, and the Helicopter State"
 description: "Readwise launches a reading app, Scott Alexander reviews Martin Gurri, and Jonah Goldberg on the helicopter state."
-img: /images/post-images/
+img: /images/post-images/open-book.jpg
 categories: blog
 tags:
 - weekend reading
