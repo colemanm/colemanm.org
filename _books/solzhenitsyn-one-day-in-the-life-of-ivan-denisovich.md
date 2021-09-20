@@ -13,15 +13,13 @@ genres:
 - historical fiction
 - classics
 isbn: 9780141184746
-rating: 
+rating: 5
 pages: 208
 format: kindle
 publish_year: 1962
 publisher: Farrar, Straus, and Giroux
 date_started: 2021-04-27
-date_completed: 
+date_completed: 2021-09-20
 goodreads_id: 17125
 amazon_link: https://amzn.to/3xzkTHl
-
-current: true
 ---
