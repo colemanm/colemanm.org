@@ -90,11 +90,11 @@ class Blog < Thor
         layout: book
         title: "#{title}"
         subtitle: ""
-        author:
+        author: 
         author_last: #{author_last}
         slug: #{slug}
         type: nonfiction
-        cover:  
+        cover: 
         series: 
         part: 
         genres:
