@@ -1,0 +1,23 @@
+{% if include.book-id %}
+{% assign book = site.books | where: 'slug', include.book-id | first %}
+{% else %}
+{% assign book = site.books | where: 'slug', page.book-id | first %}
+{% endif %}
+
+var current_percent = 30;
+for (n = 0; n < 20; n++) {
+  if (current_percent < (n+1)*5) {
+    $('#ascii-progress-bar-1').append("░"); // alt-176 
+    $('#ascii-progress-bar-2').append("·"); // alt-250 
+  }
+  else {
+    $('#ascii-progress-bar-1').append("▓"); // alt-178
+    $('#ascii-progress-bar-2').append("="); 
+  }    
+}
+
+<p>
+
+  <span class="progress-bar"></span>
+</p>
+
