@@ -19,11 +19,10 @@ format: paperback
 publish_year: 1965
 publisher: Berkley Medallion
 date_started: 2021-07-27
-date_completed: 
+date_completed: 2021-10-25
 goodreads_id: 117899
 amazon_link: https://amzn.to/3i8nS3I
 
 favorite: true
-current: true
 reread: true
 ---
