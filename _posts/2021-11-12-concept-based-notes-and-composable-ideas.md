@@ -19,7 +19,7 @@ image_credit:
 
 If a note is an idea, we want to make the idea as atomic as possible, so we can find and stitch them together into an interconnected web of ideas. We want composable building blocks.
 
-Composability helps us stack, mix, and repurpose ideas. To correlate them and find the relationships between them. Prose is an excellent medium for consumption, for diving deep on a particular topic. But with a prose format for documenting ideas (through notes), it's harder to relate shared ideas across domains. Prose makes ideas easy to expand on and consume, but difficult to decompose into reusable parts. Decompose too far, though, say into individual words and letters, and the information is meaningless. We want a middle ground that can effectively convey ideas, but is also atomic enough to be demposed and reused. We want idea Legos.
+Composability helps us stack, mix, and repurpose ideas. To correlate them and find the relationships between them. Prose is an excellent medium for consumption, for diving deep on a particular topic. But with a prose format for documenting ideas (through notes), it's harder to relate shared ideas across domains. Prose makes ideas easy to expand on and consume, but difficult to decompose into reusable parts. Decompose too far, though, say into individual words and letters, and the information is meaningless. We want a middle ground that can effectively convey ideas, but is also atomic enough to be decomposed and reused. We want idea Legos.
 
 {% include image.html file="notes-and-composability.jpg" description="" caption="no" %}
 
