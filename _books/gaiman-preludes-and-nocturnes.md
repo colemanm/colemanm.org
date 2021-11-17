@@ -7,7 +7,7 @@ author_last: Gaiman
 slug: gaiman-preludes-and-nocturnes
 type: fiction
 cover: true
-series: The Sandmal
+series: The Sandman
 part: 1
 genres:
 - fantasy
