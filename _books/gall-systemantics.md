@@ -16,15 +16,13 @@ genres:
 - technology
 - design
 isbn: 9780961825171
-rating: 
+rating: 3
 pages: 314
 format: kindle
 publish_year: 1977
 publisher: General Systemantics Press
 date_started: 2021-10-27
-date_completed: 
+date_completed: 2021-11-20
 goodreads_id: 583785
 amazon_link: https://amzn.to/3hqkxLw
-
-current: true
 ---
