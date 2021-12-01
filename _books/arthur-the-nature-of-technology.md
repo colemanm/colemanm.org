@@ -16,15 +16,15 @@ genres:
 - economics
 - philosophy
 isbn: 9781416544050
-rating: 
+rating: 5
 pages: 256
-format: Free Press
+format: paperback
 publish_year: 2009
-publisher: 
+publisher: Free Press
 date_started: 2021-10-25
-date_completed: 
+date_completed: 2021-11-30
 goodreads_id: 6321234
 amazon_link: https://amzn.to/38FiTlk
 
-current: true
+favorite: true
 ---
