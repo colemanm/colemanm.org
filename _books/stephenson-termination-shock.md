@@ -6,7 +6,7 @@ author: Neal Stephenson
 author_last: Stephenson
 slug: stephenson-termination-shock
 type: fiction
-cover: true
+cover: true 
 series: 
 part: 
 genres:
@@ -23,4 +23,6 @@ date_started: 2021-11-18
 date_completed: 
 goodreads_id: 57094295
 amazon_link: https://amzn.to/3oGN9nP
+
+current: true
 ---
