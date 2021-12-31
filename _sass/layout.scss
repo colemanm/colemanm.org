@@ -246,7 +246,9 @@ img.bordered { border: 1px solid #ddd; }
 // Footnotes
 .footnotes {
   font-size: 0.8em;
-  margin: 15px 0;
+  margin: 45px 0 15px 0;
+  border-top: 1px solid #ddd;
+  padding-top: 15px;
 }
 .footnotes ol {
   border-top: #ddd;
