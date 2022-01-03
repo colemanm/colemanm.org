@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-12-30 22:37:39
+date: 2022-01-02 22:37:39
 title: "Hard Edges, Soft Middle"
 description: "Defining hard objectives with permissive experimentation is the best way to build products."
 img: /images/post-images/hard-edges-soft-middle.jpg
