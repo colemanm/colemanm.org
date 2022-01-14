@@ -3,6 +3,7 @@ layout: link
 date: 2020-03-13 23:14:38
 title: "Team Objectives"
 target: https://svpg.com/insights/product/team-objectives/
+description: "Marty Cagan's SVPG has a good series on team objectives covering a broad range of topics related to product team goal-setting and execution."
 categories: blog
 tags:
 - teamwork
