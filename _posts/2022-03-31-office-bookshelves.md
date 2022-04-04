@@ -6,6 +6,7 @@ description: "Building some bookshelves for my home office."
 img: /images/post-images/breadboard-ends-finished.jpg
 categories: blog
 tags:
+- personal
 - woodworking
 - projects
 - house
@@ -22,6 +23,8 @@ I wanted to get back to woodworking, and thought this would be a good chance to 
 With no idea exactly what stock to use, I headed to [Anderson Lumber](https://andersonlumberstpete.com/ "Anderson Lumber") in St. Pete. My only requirements were rough dimensions: I wanted 2, each about 6' long and at least 8-9" of width to work from. Most of what's available at lumber yards like Anderson is rough sawn, so you have to keep in mind having enough stock to work with to give you enough to meet your finished dimensions after milling, planing, and sanding is done.
 
 I found a single 14' piece of [sapele](https://en.wikipedia.org/wiki/Sapele "Sapele") that fit my needs perfectly, so I had the guys there chop it in half to fit in my car. That gave me a couple of pieces about 7' long, which gave me plenty of length to work with. Plus getting both pieces from a single stock was great for getting a grain match and color similarity to my two shelves. Sapele is an African species similar to mahogany, so the grain on it was excellent. My plan was to finish with an oil of some kind.
+
+{% include image.html file="anderson-lumber.jpg" description="Lumber shopping" %}
 
 For mounting, I wanted to do something simple that would let the wood be the main feature, so I went with some brass brackets I found on Amazon. Really they're "brass-colored steel", which isn't exactly what I wanted, but they look alright; they're not that visible. If I was going for a design that had more prominent metal components, I'd have looked around more for brass options. I was even considering doing my own brass plating and soldering, but decided this was more about the wood. Though I would like to venture into some metalwork on a future project. All I had to do to get them the way I wanted was cut the upturned outer ends off so I could hide the brackets into routed channels. That way I'd end up with a floating shelf look, with only part of the wall strip visible.
 
