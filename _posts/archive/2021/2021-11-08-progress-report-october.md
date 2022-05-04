@@ -2,7 +2,7 @@
 layout: post
 date: 2021-11-08 11:47:22
 title: "Progress Report: October"
-description: ""
+description: "Tracking October 2022 progress."
 img: /images/post-images/
 categories: blog
 tags:
