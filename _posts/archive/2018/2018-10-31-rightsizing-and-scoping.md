@@ -21,7 +21,7 @@ So still you’re compelled to create a trail toward your vision with release po
 I have a working theory on scoping ideas with two parts:
 
 1. **Projects designed by committees tend to get larger** — perhaps because the average contributor knows it’s unlikely the next idea tossed into the hat will fall in their lap to execute
-2. **Projects designed by individuals tend to get smaller** — because you’re on the hook to build everything, you’ve got all the skin in the game
+2. **Projects designed by individuals tend to get smaller** — because you’re on the hook to build everything, all of the skin in the game is yours
 
 Landing somewhere in between is ideal for product scoping. Removing things from the vision (or deferring) requires honesty, commitment, and focus, which are all much easier to guarantee in small groups. 
 
