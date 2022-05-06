@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <h1>{{ page.title | xml_escape }}</h1>
-  <span class="meta">{{ page.date | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
+  <span class="meta">{{ page.date | date: '%B %-d, %Y' }} {% if page.edited %}&bull; <em>(edited: {{ page.edited | date: '%B %-d, %Y' }})</em>{% endif %} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
   {% if page.book-id %}
   {% include book-info.html %}
   {% endif %}
