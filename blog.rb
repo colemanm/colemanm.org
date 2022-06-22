@@ -94,7 +94,7 @@ class Blog < Thor
         author_last: #{author_last}
         slug: #{slug}
         type: nonfiction
-        cover:  
+        cover: 
         series: 
         part: 
         genres:
@@ -105,8 +105,8 @@ class Blog < Thor
         format: 
         publish_year: 
         publisher: 
-        date_started: 2021-
-        date_completed: 2021-
+        date_started: 2022-
+        date_completed: 
         goodreads_id: 
         amazon_link: 
         ---

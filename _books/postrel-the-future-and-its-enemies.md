@@ -14,15 +14,13 @@ genres:
 - government
 - philosophy
 isbn: 9780684862699
-rating: 
+rating: 4
 pages: 265
 format: paperback
 publish_year: 1998
 publisher: Free Press
-date_started: 2021-03-22
-date_completed: 
+date_started: 2022-03-22
+date_completed: 2022-05-29
 goodreads_id: 416079
 amazon_link: https://amzn.to/3wzvwvz
-
-current: true
 ---
