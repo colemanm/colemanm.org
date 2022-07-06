@@ -32,16 +32,16 @@ tags:
 [The Rise and Fall of the Third Reich](/books/shirer-the-rise-and-fall-of-the-third-reich/ "The Rise and Fall of the Third Reich"), William L. Shirer<br />
 <span class="progress-meter">░░░░░░░░░░▓▓░░░░░░░░ 52-62%</span>
 
-[The Law](/books/bastiat-the-law/ "The Law")<br />
+[The Law](/books/bastiat-the-law/ "The Law"), Frederic Bastiat<br />
 <span class="progress-meter">░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 0-17%</span>
 
-[Underland](/books/macfarlane-underland/ "Underland")<br />
+[Underland](/books/macfarlane-underland/ "Underland"), Robert Macfarlane<br />
 <span class="progress-meter">▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 0-57%</span>
 
-[The Tacit Dimension](/books/polanyi-the-tacit-dimension/ "The Tacit Dimension")<br />
+[The Tacit Dimension](/books/polanyi-the-tacit-dimension/ "The Tacit Dimension"), Michael Polanyi<br />
 <span class="progress-meter">▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 0-73%</span>
 
-[Childhood's End](/books/clarke-childhoods-end/ "Childhood's End")<br />
+[Childhood's End](/books/clarke-childhoods-end/ "Childhood's End"), Arthur C. Clarke<br />
 <span class="progress-meter">▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 0-40%</span>
 
 ### Podcasts
