@@ -24,4 +24,6 @@ date_started: 2022-06-01
 date_completed: 2022-06-11
 goodreads_id: 1609224
 amazon_link: https://amzn.to/3mhZ7Dn
+
+favorite: true
 ---
