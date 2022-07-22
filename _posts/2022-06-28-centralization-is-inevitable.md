@@ -23,7 +23,7 @@ The tension between centralized and decentralized network design is a common the
 >
 > This kind of thing is called a [scale-free network](https://en.wikipedia.org/wiki/Scale-free_network). It seems that something like scale-free structure emerges repeatedly within evolving networks, including on the internet, the web, social networks, airline routes,[co-authorship in scientific papers](https://en.wikipedia.org/wiki/Erd%C5%91s_number), power grids,[inter-bank payment networks](https://www.sciencedirect.com/science/article/abs/pii/S0378437106013124?via%3Dihub),[Bitcoin mining](https://twitter.com/gordonbrander/status/1413597760490672132), train routes, gene regulatory networks,[protein interactions](https://pubmed.ncbi.nlm.nih.gov/19010382/), ecological food webs,[oligarchies](https://www.researchgate.net/publication/301772189_Who_Says_Networks_Says_Oligarchy_Oligarchies_as_Rich_Club_Networks), neural networks...
 >
-> In fact, it turns out that almost all real-world networks have degree distributions with a tail of high-degree hubs like this._ (Newman, 2018. Networks.)_  
+> In fact, it turns out that almost all real-world networks have degree distributions with a tail of high-degree hubs like this. _(Newman, 2018. Networks.)_  
 >
 > If you see a pattern emerge over and over, it’s a solid bet there are evolutionary attractors pulling the system in that direction. And yeah, it turns out scale-free networks have strange and important structural properties.  
 
