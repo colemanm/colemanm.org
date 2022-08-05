@@ -33,7 +33,7 @@ tags:
 <span class="progress-meter">░░░░░░░░░░▓▓░░░░░░░░ 52-62%</span>
 
 [The Law](/books/bastiat-the-law/ "The Law"), Frederic Bastiat<br />
-<span class="progress-meter">░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 0-17%</span>
+<span class="progress-meter">░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 17-100%</span>
 
 [Underland](/books/macfarlane-underland/ "Underland"), Robert Macfarlane<br />
 <span class="progress-meter">▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 0-57%</span>
