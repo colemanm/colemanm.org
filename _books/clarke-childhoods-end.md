@@ -14,15 +14,13 @@ genres:
 - science fiction
 - speculative fiction
 isbn: 9780345347954
-rating: 
+rating: 4
 pages: 224
 format: kindle
 publish_year: 1953
 publisher: Del Rey Books
 date_started: 2022-06-11
-date_completed:
+date_completed: 2022-08-04
 goodreads_id: 414999
 amazon_link: https://amzn.to/3z8iaYG
-
-current: true
 ---
