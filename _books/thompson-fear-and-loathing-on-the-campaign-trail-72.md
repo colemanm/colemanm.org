@@ -26,6 +26,4 @@ date_started: 2021-05-30
 date_completed: 
 goodreads_id: 18918276
 amazon_link: https://amzn.to/3xsOzoA
-
-current: true
 ---

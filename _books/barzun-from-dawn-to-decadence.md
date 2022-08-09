@@ -23,6 +23,4 @@ date_started: 2020-04-26
 date_completed:
 goodreads_id: 58233
 amazon_link: https://amzn.to/3fTpZor
-
-current: true
 ---
