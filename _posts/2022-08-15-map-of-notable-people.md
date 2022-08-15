@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2022-08-15 00:00 00:00:00
+date: 2022-08-15 12:46:00
 title: "Map of Notable People"
 target: https://tjukanovt.github.io/notable-people
 description: "Topi Tjukanov's map of noteworthy people."

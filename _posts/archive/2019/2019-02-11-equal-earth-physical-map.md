@@ -3,6 +3,7 @@ layout: link
 date: 2019-02-11
 title: "Equal Earth Physical Map"
 target: http://equal-earth.com/physical/
+description: "Tom Patterson's beautiful topographic map."
 categories: blog
 tags:
 - cartography
