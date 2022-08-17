@@ -12,7 +12,7 @@ tags:
 - history
 ---
 
-Historian David McCullough died last week at age 89. If you've never read his work, it's some of the best, most readable and engaging history you can find. I've read a few of his books over the years, like _The Great Bridge_ (about the building of the Brooklyn Bridge), _1776_ (the Revolutionary War), and his biography _John Adams_. Looking back on his bibliography, all of his others are on my reading list.
+Historian David McCullough died last week at age 89. If you've never read his work, it's some of the best, most readable and engaging history you can find. I've read a few of his books over the years, like _The Great Bridge_ (about the building of the Brooklyn Bridge), _[1776](/books/mccullough-1776/ "1776 by David McCullough")_ (the Revolutionary War), and his biography _John Adams_. Looking back on his bibliography, all of his others are on my reading list.
 
 It's always unfortunate to lose such a critical voice in American culture, but at least his books will stand the test of time and be read by generations.
 
