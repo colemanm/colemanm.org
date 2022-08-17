@@ -13,15 +13,13 @@ genres:
 - writing
 - film
 isbn: 9780898799064
-rating: 
+rating: 4
 pages: 168
 format: paperback
 publish_year: 1999
 publisher: Writer's Digest Book
 date_started: 2022-08-07
-date_completed: 
+date_completed: 2022-08-16
 goodreads_id: 190209
 amazon_link: https://amzn.to/3QdNfiX
-
-current: true
 ---
