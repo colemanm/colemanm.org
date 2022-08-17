@@ -3,4 +3,4 @@
 source .env-native
 
 rm -rf _site/
-asdf exec bundle exec jekyll serve --watch --force_polling --profile --incremental --config _config_dev.yml $@
+bundle exec jekyll serve --watch --force_polling --profile --incremental --config _config_dev.yml $@
