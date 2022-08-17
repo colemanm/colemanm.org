@@ -20,3 +20,5 @@ group :test, :development do
   gem 'rubocop'
   gem 'sinatra-cross_origin'
 end
+
+gem "webrick", "~> 1.7"
