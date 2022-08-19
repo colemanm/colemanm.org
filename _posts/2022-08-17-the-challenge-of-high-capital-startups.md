@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-17 12:13:14
-title: "Descartes Labs and the Challenge of High-Capital Startups"
+title: "The Challenge of High-Capital Startups"
 description: "Thoughts on satellite/earth observation startups, high-capital requirements, and the search for product-market fit."
 img: /images/post-images/caspian-kazakhstan.jpg
 categories: blog
