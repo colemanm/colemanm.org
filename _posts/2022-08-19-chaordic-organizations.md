@@ -4,6 +4,7 @@ date: 2022-08-19 12:23:23
 title: "Chaordic Organizations"
 target: http://www.deewhock.com/essays/chaordic-age-organizations
 description: "Visa founder Dee Hock's ideas on the balance between imposing order but embracing chaos, and the decentralized organization."
+img: /images/post-images/chaord.png
 categories: blog
 tags:
 - companies
@@ -17,6 +18,8 @@ links:
 ---
 
 The late [Dee Hock](https://en.wikipedia.org/wiki/Dee_Hock "Dee Hock"), founder of Visa, was a business legend in many respects. Like many of the most revered founders, his ideas were years ahead of their time, and his writing is clear, concise, and super interesting. He famously organized Visa around a decentralized management model, in an era when the norm was the extremely centralized, hierarchical structure. Companies like Amazon, Johnson and Johnson, Uber, Valve Software, and others have adopted the same principles Hock pioneered to make their companies more resilient in the face of challenge.
+
+{% include image.html file="chaord.png" description="Chaordic organizations" caption="no" %}
 
 In 2000 he published a book called _[Birth of the Chaordic Age](https://amzn.to/3T8IxVJ "Birth of the Chaordic Age")_ which described his thesis on systems that straddle a boundary between imposing order while embracing chaos — "chaordic" systems. [This essay](http://www.deewhock.com/essays/chaordic-age-organizations "Chaordic Age Organizations") sets out the central idea:
 
