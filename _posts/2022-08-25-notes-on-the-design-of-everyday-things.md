@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2022-08-25 00:00 00:00:00
+date: 2022-08-25 10:00:00
 title: "Notes on the Design of Everyday Things"
 target: https://elvischidera.com/2022-06-24-design-everyday-things
 description: "Notes on Don Norman's Design of Everyday Things."
