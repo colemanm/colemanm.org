@@ -40,7 +40,7 @@ tags:
 <span class="progress-meter">▓░░░░░░░░░░░░░░░░░░░ 0-9%</span>
 
 [Scene and Structure](https://www.colemanm.org/books/bickham-scene-and-structure), Jack Bickham<br />
-<span class="progress-meter">░░░░░░░░░░░░░░▓▓▓▓▓▓ 73-100%</span>
+<span class="progress-meter">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 0-100%</span>
 
 [Childhood's End](https://www.colemanm.org/books/clarke-childhoods-end/), Arthur C. Clarke<br />
 <span class="progress-meter">░░░░░░░░░░░░░░░░░▓▓▓ 85-100%</span>
