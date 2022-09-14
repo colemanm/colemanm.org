@@ -17,7 +17,6 @@ links:
   icon: ⛩
 ---
 
-
 This was a [fantastic thread](https://twitter.com/culturaltutor/status/1569514639905669120 "Architecture examples from every country") from The Cultural Tutor — so simple, but had me on an epic Wikipedia / Google Maps rabbit hole.  
 
 Some of my favorite examples:
