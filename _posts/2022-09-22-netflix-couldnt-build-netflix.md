@@ -17,7 +17,7 @@ links:
   icon: 📈
 ---
 
-David Carboni makes a great point in this piece: successful powerhouse businesses, paragons of scaling up (your Netflixes, Googles, Ubers, et al), could never build the disruptive, fast-moving products that made them successful from their positions today:
+David Carboni makes a great point in [this piece](https://medium.com/notbinary/the-paradox-of-scale-c0c6546c8c61 "The Paradox of Scale"): successful powerhouse businesses, paragons of scaling up (your Netflixes, Googles, Ubers, et al), could never build the disruptive, fast-moving products that made them successful from their positions today:
  
 > Admired and respected as towering giants of our digital world, our hero companies emanate an almost mythical quality. The scale, power and inspiration they command are the stuff of legend. Glib statements about "*business*" distort their stories into gaudy two-dimensional caricatures whilst organisations seeking Digital Transformation aspire to emulate what they see in this theatre. Paradoxically our heroes would be the first to point out they wouldn’t be able to build themselves as they stand today.
 
