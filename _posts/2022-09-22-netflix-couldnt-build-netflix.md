@@ -1,6 +1,6 @@
 ---
 layout: link
-date: 2022-09-23 10:37:11
+date: 2022-09-22 10:37:11
 title: "Netflix Couldn't Build Netflix"
 target: https://medium.com/notbinary/the-paradox-of-scale-c0c6546c8c61
 description: "The things hyperscale companies do now would've stunted their early success."
