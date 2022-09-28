@@ -5,6 +5,7 @@ subtitle: "The New Attacks on Free Thought"
 author: Jonathan Rauch
 author_last: Rauch
 slug: rauch-kindly-inquisitors
+img: /images/post-images/astronomer-by-candlelight.jpg
 type: nonfiction
 cover: true
 series: 
