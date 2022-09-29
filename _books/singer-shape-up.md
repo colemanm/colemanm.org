@@ -28,4 +28,8 @@ amazon_link:
 
 favorite: true
 reread: true
+
+newsletters:
+- title: "#16: Hard Edges, Soft Middle"
+  url: https://resextensa.substack.com/p/hard-edges-soft-middle
 ---
