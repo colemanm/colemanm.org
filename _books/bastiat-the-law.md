@@ -2,6 +2,7 @@
 layout: book
 title: "The Law"
 subtitle: ""
+description: "Summary and notes on Frederic Bastiat's 'The Law'."
 author: Frédéric Bastiat
 author_last: Bastiat
 slug: bastiat-the-law
