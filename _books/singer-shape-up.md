@@ -1,8 +1,7 @@
 ---
 layout: book
 title: "Shape Up"
-subtitle: "Stop Running in Circles
-and Ship Work that Matters"
+subtitle: "Stop Running in Circles and Ship Work that Matters"
 author: Ryan Singer
 author_last: Singer
 slug: singer-shape-up
