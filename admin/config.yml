@@ -2,7 +2,6 @@
 
 backend:
   name: git-gateway
-  repo: colemanm/colemanm.org
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'images/post-images'
 collections:
