@@ -3,7 +3,10 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'images/post-images'
+media_folder: '/images/post-images'
+
+local_backend: true
+
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -13,78 +16,64 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - label: 'Layout'
+        name: 'layout'
+        widget: 'select'
+        options:
+          - { label: "Post", value: "post" }
+          - { label: "Link", value: "link" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }    
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Categories", name: "categories", widget: "hidden", default: "blog" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
-# publish_mode: editorial_workflow
-# collections:
-#   - name: 'blog'
-#     label: 'Blog'
-#     folder: '_posts/'
-#     create: true
-#     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-#     editor:
-#       preview: false
-#     fields:
-#       - label: 'Layout'
-#         name: 'layout'
-#         widget: 'select'
-#         options:
-#           - { label: "Post", value: "post" }
-#           - { label: "Link", value: "link" }
-#         default: "Post"
-#       - { label: "Date", name: "date", widget: "datetime" }
-#       - { label: "Title", name: "title", widget: "string", default: "Title" }
-#       - { label: "Description", name: "description", widget: "text" }
-#       - { label: "Image", name: "img", widget: "image" }
-#       - { label: "Categories", name: "categories", widget: "hidden", default: "blog" }
-#       - { label: "Tags", name: "tags", widget: "list" }
-#       - { label: "Content", name: "body", widget: "markdown" }
-#       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
-#       - label: "Links"
-#         name: "links"
-#         widget: "list"
-#         fields:
-#           - label: "Link"
-#             name: "url"
-#             widget: "string"
-#           - label: "Title"
-#             name: "title"
-#             widget: "string"
-  # - name: "books"
-  #   label: "Books"
-  #   folder: "_books"
-  #   create: true
-  #   slug: "{{author_last}}-{{title}}"
-  #   fields:
-  #     - { label: "Layout", name: "layout", widget: "hidden", default: "book" }
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Subtitle", name: "subtitle", widget: "string" }
-  #     - { label: "Author", name: "author", widget: "string" }
-  #     - { label: "Author Last Name", name: "author_last", widget: "string" }
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - label: "Type"
-  #       name: "type"
-  #       widget: "select"
-  #       options: ["nonfiction", "fiction"]
-  #     - { label: "Image", name: "img", widget: "boolean", default: true }
-  #     - { label: "Series", name: "series", widget: "string" }
-  #     - { label: "Part", name: "part", widget: "number" }
-  #     - { label: "Genres", name: "genres", widget: "list" }
-  #     - { label: "ISBN", name: "isbn", widget: "string" }
-  #     - { label: "Rating", name: "rating", widget: "number" }
-  #     - { label: "Pages", name: "pages", widget: "number" }
-  #     - label: "Format"
-  #       name: "rating"
-  #       widget: "select"
-  #       options:
-  #         - { label: "Audiobook", name: "audiobook" }
-  #         - { label: "Kindle", name: "kindle" }
-  #         - { label: "Paperback", name: "paperback" }
-  #         - { label: "Hardcover", name: "hardcover" }
-  #     - { label: "Publish Year", name: "publish_year", widget: "date", format: "YYYY" }
-  #     - { label: "Date Started", name: "date_started", widget: "date", format: "YYYY-MM-DD" }
-  #     - { label: "Date Completed", name: "date_completed", widget: "date", format: "YYYY-MM-DD" }
-  #     - { label: "Goodreads ID", name: "goodreads_id", widget: "number" }
+      - label: "Links"
+        name: "links"
+        widget: "list"
+        fields:
+          - label: "Link"
+            name: "url"
+            widget: "string"
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - icon: "icon"
+            name: "Icon"
+  - name: "books"
+    label: "Books"
+    folder: "_books"
+    create: true
+    slug: "{{author_last}}-{{title}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "book" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Author Last Name", name: "author_last", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Image", name: "img", widget: "image" }
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options: ["nonfiction", "fiction"]
+      - { label: "Cover", name: "cover", widget: "hidden", default: "true" }
+      - { label: "Series", name: "series", widget: "string" }
+      - { label: "Part", name: "part", widget: "number" }
+      - { label: "Genres", name: "genres", widget: "list" }
+      - { label: "ISBN", name: "isbn", widget: "string" }
+      - { label: "Rating", name: "rating", widget: "number" }
+      - { label: "Pages", name: "pages", widget: "number" }
+      - label: "Format"
+        name: "format"
+        widget: "select"
+        options: ["audiobook", "kindle", "paperback", "hardcover" ]
+      - { label: "Publish Year", name: "publish_year", widget: "date", format: "YYYY" }
+      - { label: "Publisher", name: "publisher", widget: "string" }
+      - { label: "Date Started", name: "date_started", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "Date Completed", name: "date_completed", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "Goodreads ID", name: "goodreads_id", widget: "number" }
+      - { label: "Amazon Link", name: "amazon_link", widget: "string" }
+      - { label: "Favorite?", name: "favorite", widget: "boolean" }
+      - { label: "Notes?", name: "notes", widget: "boolean" }
