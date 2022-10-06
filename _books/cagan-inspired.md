@@ -24,6 +24,10 @@ date_completed: 2020-08-27
 goodreads_id: 35249663
 amazon_link: https://amzn.to/2XeTzNZ
 
+reviewers:
+- author: Sebastien Phlix
+  url: https://www.sebastienphlix.com/book-summaries/cagan-inspired
+
 notes: true
 ---
 

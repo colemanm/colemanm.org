@@ -26,4 +26,6 @@ amazon_link: https://amzn.to/3hvbKH6
 reviewers:
 - author: Tom MacWright
   url: https://macwright.org/2020/02/22/extreme-ownership.html
+- author: Sebastien Phlix
+  url: https://www.sebastienphlix.com/book-summaries/willink-extreme-ownership
 ---
