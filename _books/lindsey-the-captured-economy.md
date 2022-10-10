@@ -15,15 +15,13 @@ genres:
 - finance
 - business
 isbn: 9780190627768
-rating: 
+rating: 4
 pages: 240
 format: kindle
 publish_year: 2017
 publisher: Oxford University Press
 date_started: 2022-09-06
-date_completed: 
+date_completed: 2022-10-08
 goodreads_id: 32335754
 amazon_link: https://amzn.to/3TMAcYn
-
-current: true
 ---
