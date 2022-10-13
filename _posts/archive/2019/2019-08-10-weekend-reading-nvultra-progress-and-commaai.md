@@ -28,8 +28,7 @@ links:
 
 ### 📝 [nvULTRA](https://nvultra.com/ "nvULTRA")
 
-This is a new notes app from Brett Terpstra (creator of nvALT) and Fletcher Penney (creator of MultiMarkdown). I [used nvALT for years]({{ site.url }}/post/writing-workflow/ 
-Writing Workflow") for note taking on my Mac. This new version looks like a slick reboot of that with some more power features. In private beta right now, but hopefully dropping soon.
+This is a new notes app from Brett Terpstra (creator of nvALT) and Fletcher Penney (creator of MultiMarkdown). I [used nvALT for years](/post/writing-workflow/ "Writing Workflow") for note taking on my Mac. This new version looks like a slick reboot of that with some more power features. In private beta right now, but hopefully dropping soon.
 
 ### ⚗️ [We Need a New Science of Progress](https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/ "We Need a New Science of Progress")
 

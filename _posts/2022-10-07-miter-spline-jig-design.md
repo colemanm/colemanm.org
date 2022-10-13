@@ -14,7 +14,7 @@ tags:
 
 On my to-build list, I want to make some simple floating picture frames for a few canvasses we have in the house. Those are simple enough to build, but I also want to add reinforcement splines to the mitered corners, for both the structural support and as a design detail.  
 
-Using a few examples I found (especially [this one](youtube.com/watch?v=aR9vVLwHYKE "Miter Spline Jig") from Woodcraft by Suman), I drew up this design that'll allow it to be reusable, support using hold-down clamps, and stop blocks for batching out cuts. Jigs like this can make somewhat complex cuts dead simple and repeatable. They're also fun to build since you can often build them from scraps around the shop.  
+Using a few examples I found (especially [this one](https://www.youtube.com/watch?v=aR9vVLwHYKE "Miter Spline Jig") from Woodcraft by Suman), I drew up this design that'll allow it to be reusable, support using hold-down clamps, and stop blocks for batching out cuts. Jigs like this can make somewhat complex cuts dead simple and repeatable. They're also fun to build since you can often build them from scraps around the shop.  
 
 {% include image.html file="spline-jig-design.jpg" description="" caption="no" %}
 

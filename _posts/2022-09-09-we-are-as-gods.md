@@ -13,8 +13,8 @@ tags:
 - futurism
 
 links:
-- url: "We Are As Gods"
-  title: https://stripepress.substack.com/p/we-are-as-gods
+- url: https://stripepress.substack.com/p/we-are-as-gods
+  title: "We Are As Gods"
   icon: 🌎
 ---
 
