@@ -49,7 +49,7 @@ While there's a ton of substance here in terms of tactical systems, my favorite 
   * Monetization: making money from functionality
   * How we acquire users and customers to monetize
   * Can include _offline experiences_ (things that happen outside of your technology, e.g. product refund experience)"
-* While not explicitly mentioned by name, Cagan refers heavily to the concept s of Jobs Theory in his idealized process for discovery and "falling in love with problems, not solutions"
+* While not explicitly mentioned by name, Cagan refers heavily to the concept of [Jobs Theory](https://resextensa.substack.com/p/jobs-theory-thinking-in-demand-and "Jobs — Thinking in Demand and Supply") in his idealized process for discovery and "falling in love with problems, not solutions"
 * Agile methodologies have spread through the tech universe, but most teams aren't _truly_ agile from a holistic level on product
 * Risks should be addressed and understood _up front_, which means the smaller the iterative bite can be, the sooner you can have these questions answered; large "Big Bang" efforts shove lots of risk pretty far down in the cycle
   * **Value** risk — whether customers will buy
