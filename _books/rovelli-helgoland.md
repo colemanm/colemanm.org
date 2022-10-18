@@ -14,15 +14,15 @@ genres:
 - science
 - philosophy
 isbn: 9780593328880
-rating: 
+rating: 5
 pages: 256
 format: kindle
 publish_year: 2020
 publisher: 2020
 date_started: 2022-10-11
-date_completed: 
+date_completed: 2022-10-17
 goodreads_id: 55801224
 amazon_link: https://amzn.to/3AIibAe
 
-current: true
+favorite: true
 ---
