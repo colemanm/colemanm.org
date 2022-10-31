@@ -12,16 +12,17 @@ part:
 genres:
 - history
 - world war II
+- european history
 isbn: 9780671728687
-rating: 
+rating: 5
 pages: 1614
 format: kindle
 publish_year: 1960
 publisher: Simon & Schuster
 date_started: 2021-08-01
-date_completed: 
+date_completed: 2022-10-29
 goodreads_id: 767171
 amazon_link: https://amzn.to/2WNd3Md
 
-current: true
+favorite: true
 ---
