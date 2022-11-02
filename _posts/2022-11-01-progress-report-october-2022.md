@@ -18,23 +18,23 @@ This time I'm including the previous month's to see month-over-month change, so 
   
 ### Running
 
-- 8 activities (6)
-- Distance: 26.44 mi (17.33 miles)
-- Total Time:  3:59:24 (2:32:34)
-- Average Pace: 8:56  (9:08) / mi
+- **8** activities (6)
+- Distance: **26.44 mi** (17.33 miles)
+- Total Time:  **3:59:24** (2:32:34)
+- Average Pace: **8:56** / mi (9:08 / mi)
 
 ### Sleep
 
-- Average: 7:32 / night (7:30)
-- 8 hr nights: 10 (8)
+- Average: **7:32** / night (7:30)
+- 8 hr nights: **10** (8)
 
 Slightly better on sleeping more this month. *Very* slightly. Probably would've been even better improvement without a cross-country trip in the mix.  
 
 ### Writing
 
-- Journal entries: 14; 6,428 words  (14; 7,292 words)
-- Blog posts: 14 (19)
-- Newsletters: 1 (2)
+- Journal entries: **14**; 6,428 words  (14; 7,292 words)
+- Blog posts: **14** (19)
+- Newsletters: **1** (2)
 
 ## Media
 
