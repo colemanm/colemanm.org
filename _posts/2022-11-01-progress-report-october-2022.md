@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-11-01 14:11:05
-title: "Progress Report: October 2022"
+title: "Progress Report, October 2022"
 description: "Progress report for October 2022."
 img: /images/post-images/
 categories: blog
