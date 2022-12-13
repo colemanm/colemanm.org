@@ -15,15 +15,15 @@ genres:
 - futurism
 - economics
 isbn: 9781953953186
-rating: 
+rating: 5
 pages: 325
 format: audiobook
 publish_year: 2021
 publisher: Stripe Press
 date_started: 2022-10-29
-date_completed: 
+date_completed: 2022-12-12
 goodreads_id: 42036377
 amazon_link: https://amzn.to/33R1bwN
 
-current: true
+favorite: true
 ---
