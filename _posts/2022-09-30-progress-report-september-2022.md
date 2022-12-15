@@ -2,7 +2,7 @@
 layout: post
 date: 2022-09-30 23:34:06
 title: "Progress Report, September 2022"
-description: "Progress fo September 2022."
+description: "Progress for September 2022."
 img: /images/post-images/
 categories: blog
 tags:
