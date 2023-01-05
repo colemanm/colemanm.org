@@ -3,7 +3,6 @@ layout: default
 title: Topics
 permalink: /topics/
 description: "Blog post topics."
-published: false
 ---
 
 <div class="page topics">
@@ -13,7 +12,7 @@ published: false
   {% capture tags %}
     {% for tag in site.tags %}
       <li>
-          <a href="/{{ site.tag_page_dir }}/{{ tag[0] | slugify: 'pretty' }}">{{ tag[0] }}</a>
+          <a href="/topic/{{ tag[0] | slugify: 'pretty' }}">{{ tag[0] }}</a>
           <span class="tag-count">{{ tag[1].size }}</span>
       </li>
     {% endfor %}

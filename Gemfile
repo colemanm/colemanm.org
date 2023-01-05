@@ -8,6 +8,7 @@ gem 'jekyll-feed'
 gem 'jekyll-redirect-from'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem 'jekyll-archives'
 gem 'jemoji'
 gem 'thor'
 
