@@ -17,15 +17,13 @@ genres:
 - philosophy
 - american history
 isbn: 9780385511841
-rating: 
+rating: 4
 pages: 405
 format: kindle
 publish_year: 2007
 publisher: Doubleday Books
 date_started: 2022-10-17
-date_completed: 
+date_completed: 2023-01-04
 goodreads_id: 88634
 amazon_link: https://amzn.to/3ERc6Xt
-
-current: true
 ---
