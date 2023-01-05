@@ -6,8 +6,8 @@
 <div class="book-snippet clearfix">
   <img src="{{ site.url }}/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
   <span class="book-title">{% if book.favorite == true %}⭐️{% endif %}  {{ book.title | xml_escape }}</span>
-  <span class="subtitle">{{ book.subtitle | xml_escape }}</span>
-  <span>by <span class="book-author">{{ book.author }}</span></span>
+ {% if book.subtitle != "" %}<span class="subtitle">{{ book.subtitle | xml_escape }}</span><br />{% endif %}
+  <span class="book-author">by {{ book.author }}</span>
   {% if book.series %}<h4 class="series">part {{ book.part }} of <em>{{ book.series }}</em></h4>{% endif %}
   <span class="book-meta">Published: {{ book.publish_year }} &bull; Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; <a href="{{ book.url }}" title="Permalink">📚 View in Library</a></span>
   <!-- {% include book-rating.html %} -->
