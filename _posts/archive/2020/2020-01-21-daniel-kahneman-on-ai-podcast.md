@@ -6,8 +6,8 @@ description: "Interview with psychologist Daniel Kahneman."
 categories: blog
 tags:
 - video
-- podcast
-- interview
+- podcasts
+- interviews
 - Daniel Kahneman
 - psychology
 - artificial intelligence

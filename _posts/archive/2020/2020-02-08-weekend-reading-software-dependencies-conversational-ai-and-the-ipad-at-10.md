@@ -8,8 +8,8 @@ tags:
 - weekend reading
 - software
 - engineering
-- ai
-- nlp
+- artificial intelligence
+- NLP
 - iPad
 - Apple
 

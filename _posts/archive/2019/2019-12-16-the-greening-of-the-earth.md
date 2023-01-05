@@ -6,7 +6,7 @@ target: https://www.nasa.gov/feature/ames/human-activity-in-china-and-india-domi
 description: "Surprising statistics on greening of the ecosystem."
 categories: blog
 tags:
-- environment
+- environmentalism
 - satellite
 - China
 - India

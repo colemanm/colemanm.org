@@ -9,7 +9,7 @@ tags:
 - Apple
 - history
 - IBM
-- computing
+- computers
 - technology
 
 links:

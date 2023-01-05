@@ -7,7 +7,7 @@ img: /images/post-images/clubhouse.jpg
 categories: blog
 tags:
 - product
-- Jobs to Be Done
+- jobs to be done
 - Clubhouse
 - startups
 ---

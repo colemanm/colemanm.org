@@ -6,7 +6,7 @@ description: "A fascinating look into the effects of decades-long inflation prob
 categories: blog
 tags:
 - video
-- interview
+- interviews
 - economics
 - inflation
 ---

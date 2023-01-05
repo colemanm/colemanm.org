@@ -8,7 +8,7 @@ categories: blog
 tags:
 - health
 - cancer
-- podcast
+- podcasts
 - interviews
 
 links:

@@ -9,6 +9,7 @@ tags:
 - product
 - Fulcrum
 - work
+- jobs to be done
 
 links:
 - url: https://www.fulcrumapp.com/blog/shipping-the-right-product/

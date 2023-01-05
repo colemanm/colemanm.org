@@ -6,7 +6,7 @@ description: "A fantastic talk from Twilio's Jeff Lawson on SaaS and pricing."
 categories: blog
 tags:
 - business
-- saas
+- SaaS
 - video
 ---
 

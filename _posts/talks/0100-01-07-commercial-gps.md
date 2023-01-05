@@ -9,7 +9,7 @@ description: "I spoke with a graduate class at the University of South Florida a
 event: USF GPS Course
 eventlink: http://www.usf.edu/
 tags:
-- gps
+- GPS
 - education
 - mapping
 ---

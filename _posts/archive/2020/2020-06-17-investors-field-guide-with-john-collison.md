@@ -6,7 +6,7 @@ target: http://investorfieldguide.com/collison/
 description: "Patrick O'Shaughnessy interviews Stripe co-founder John Collison."
 categories: blog
 tags:
-- podcast
+- podcasts
 - interviews
 - John Collison
 - companies

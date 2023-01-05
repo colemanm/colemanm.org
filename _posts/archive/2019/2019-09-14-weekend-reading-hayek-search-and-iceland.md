@@ -6,7 +6,7 @@ description: "Hayek on society's use of knowledge, a fuzzy finder for the comman
 categories: blog
 tags:
 - weekend reading
-- F.A. Hayek
+- FA Hayek
 - philosophy
 - politics
 - economics

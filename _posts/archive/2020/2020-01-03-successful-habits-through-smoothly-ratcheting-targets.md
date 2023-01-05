@@ -7,6 +7,7 @@ description: "Andy Matuschak on techniques to help form habits."
 categories: blog
 tags:
 - habits
+- Andy Matuschak
 
 links:
 - url: https://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting

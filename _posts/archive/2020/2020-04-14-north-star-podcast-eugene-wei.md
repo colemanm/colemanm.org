@@ -6,7 +6,7 @@ target: https://www.perell.com/podcast/eugene
 description: "Eugene Wei on David Perell's podcast."
 categories: blog
 tags:
-- podcast
+- podcasts
 - Eugene Wei
 - interviews
 

@@ -6,7 +6,7 @@ description: "On resilience, error correction, Brexit, Karl Popper, and more."
 categories: blog
 tags:
 - video
-- interview
+- interviews
 - Brexit
 - David Deutsch
 - politics

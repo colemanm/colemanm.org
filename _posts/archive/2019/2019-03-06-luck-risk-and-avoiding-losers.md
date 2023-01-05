@@ -7,7 +7,7 @@ description: "The latest episode of Shane Parrish's Knowledge Project podcast, a
 categories: blog
 tags:
 - investing
-- podcast
+- podcasts
 - Howard Marks
 
 links:

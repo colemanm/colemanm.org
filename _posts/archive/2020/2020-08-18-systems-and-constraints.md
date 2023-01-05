@@ -2,7 +2,7 @@
 layout: link
 date: 2020-08-18 17:33:49
 title: "Systems and Constraints"
-target: https://www.mercatus.org/bridge/commentary/systems-and-constraints
+target: https://www.discoursemagazine.com/culture-and-society/2020/08/18/systems-and-constraints/
 description: "A brief interview with Alicia Juarrero on the properties of complex systems."
 categories: blog
 tags:
@@ -13,7 +13,7 @@ tags:
 - Alicia Juarrero
 
 links:
-- url: https://www.mercatus.org/bridge/commentary/systems-and-constraints
+- url: https://www.discoursemagazine.com/culture-and-society/2020/08/18/systems-and-constraints/
   title: "Systems and Constraints"
   icon: ䷿
 ---

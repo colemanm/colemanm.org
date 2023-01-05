@@ -14,6 +14,7 @@ tags:
 - notes
 - writing
 - thinking
+- Andy Matuschak
 
 links:
 - url: https://macwright.org/2020/03/22/chess.html

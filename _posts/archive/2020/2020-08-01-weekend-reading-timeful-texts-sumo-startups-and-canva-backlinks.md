@@ -12,8 +12,9 @@ tags:
 - education
 - startups
 - business
-- seo
+- SEO
 - marketing
+- Andy Matuschak
 
 links:
 - url: https://numinous.productions/timeful/

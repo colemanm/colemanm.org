@@ -7,7 +7,7 @@ img: /images/post-images/brasilia.jpg
 categories: blog
 tags:
 - Res Extensa
-- newsletter
+- newsletters
 - legibility
 - books
 - philosophy

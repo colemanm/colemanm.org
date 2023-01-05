@@ -8,7 +8,7 @@ categories: blog
 tags:
 - weekend reading
 - Ted Chiang
-- interview
+- interviews
 - authors
 - energy
 - maps

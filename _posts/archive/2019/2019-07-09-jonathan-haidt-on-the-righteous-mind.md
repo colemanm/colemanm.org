@@ -7,7 +7,7 @@ description: "Interview with Jonathan Haidt from EconTalk."
 categories: blog
 tags:
 - psychology
-- podcast
+- podcasts
 - interviews
 - Jonathan Haidt
 - politics

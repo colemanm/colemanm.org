@@ -6,8 +6,8 @@ target: https://www.mercatus.org/bridge/podcasts/02122020/how-elite-institutions
 description: "A discussion between economist Arnold Kling and author Martin Gurri."
 categories: blog
 tags:
-- podcast
-- interview
+- podcasts
+- interviews
 - Martin Gurri
 - economics
 - politics

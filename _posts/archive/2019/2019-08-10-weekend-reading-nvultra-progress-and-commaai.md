@@ -9,8 +9,8 @@ tags:
 - writing
 - tools
 - progress
-- podcast
-- interview
+- podcasts
+- interviews
 - artificial intelligence
 - automated vehicles
 

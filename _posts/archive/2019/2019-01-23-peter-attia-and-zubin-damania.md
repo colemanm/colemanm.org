@@ -9,7 +9,7 @@ tags:
 - Zubin Damania
 - health
 - meditation
-- podcast
+- podcasts
 - video
 ---
 

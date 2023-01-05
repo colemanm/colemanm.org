@@ -8,10 +8,10 @@ tags:
 - weekend reading
 - oncology
 - medicine
-- podcast
+- podcasts
 - Waymo
 - self-driving
-- ai
+- artificial intelligence
 - talks
 - Bret Victor
 

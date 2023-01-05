@@ -8,7 +8,7 @@ tags:
 - video
 - creativity
 - programming
-- invention
+- inventions
 - interactivity
 ---
 

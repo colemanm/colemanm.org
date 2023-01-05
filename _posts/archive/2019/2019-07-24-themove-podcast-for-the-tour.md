@@ -9,7 +9,7 @@ tags:
 - video
 - sports
 - cycling
-- podcast
+- podcasts
 
 links:
 - url: https://wedu.team/themove

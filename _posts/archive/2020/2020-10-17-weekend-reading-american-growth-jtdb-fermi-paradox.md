@@ -8,7 +8,7 @@ tags:
 - weekend reading
 - economics
 - history
-- jobs theory
+- jobs to be done
 - physics
 - astronomy
 

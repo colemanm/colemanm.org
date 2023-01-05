@@ -6,8 +6,8 @@ target: https://conversationswithtyler.com/episodes/noubar-afeyan/
 description: "Noubar Afeyan is a co-founder of Moderna, one of the pioneers of biotech."
 categories: blog
 tags:
-- podcast
-- interview
+- podcasts
+- interviews
 - Moderna
 - biotech
 

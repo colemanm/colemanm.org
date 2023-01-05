@@ -9,6 +9,7 @@ tags:
 - data
 - habits
 - quantified self
+- Andy Matuschak
 ---
 
 Since the beginning of 2019 I've [been tracking](/post/2019 "2019") ongoing goals using a Google Sheet I made, where I can enter each activity day by day and generate a rollup showing how I'm tracking on each goal throughout the course of the year.

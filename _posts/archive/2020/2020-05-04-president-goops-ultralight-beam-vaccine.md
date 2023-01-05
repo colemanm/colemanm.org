@@ -6,8 +6,8 @@ target: https://shows.acast.com/wethefifth/episodes/episode-182-w-jonah-goldberg
 description: ""
 categories: blog
 tags:
-- podcast
-- interview
+- podcasts
+- interviews
 - politics
 - Jonah Goldberg
 

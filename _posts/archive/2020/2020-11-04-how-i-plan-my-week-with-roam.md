@@ -6,7 +6,7 @@ description: "Using Roam Research for task management and weekly productivity pl
 img: /images/post-images/roam-weekly-planning.jpg
 categories: blog
 tags:
-- Roam Research
+- Roam
 - notes
 - productivity
 - planning

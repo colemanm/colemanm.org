@@ -8,7 +8,7 @@ tags:
 - psychology
 - internet
 - technology
-- podcast
+- podcasts
 - interviews
 
 links:

@@ -7,8 +7,8 @@ description: "Shane Parrish and Sam Harris discuss mental models."
 categories: blog
 tags:
 - thinking
-- podcast
-- interview
+- podcasts
+- interviews
 - Shane Parrish
 - Sam Harris
 

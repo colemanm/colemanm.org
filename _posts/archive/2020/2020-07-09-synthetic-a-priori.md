@@ -6,7 +6,7 @@ target: https://synthetic.transistor.fm/
 description: "A new podcast on design and systems thinking from Ryan Singer."
 categories: blog
 tags:
-- podcast
+- podcasts
 - product
 - systems
 - design

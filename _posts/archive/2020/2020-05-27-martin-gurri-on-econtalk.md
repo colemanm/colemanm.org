@@ -6,8 +6,8 @@ target: https://www.econtalk.org/martin-gurri-on-the-revolt-of-the-public/
 description: "Martin Gurri talks with Russ Roberts about his book."
 categories: blog
 tags:
-- podcast
-- interview
+- podcasts
+- interviews
 - Martin Gurri
 - politics
 - economics

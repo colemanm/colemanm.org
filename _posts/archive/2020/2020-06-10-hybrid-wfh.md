@@ -5,7 +5,7 @@ title: "Hybrid WFH is Dangerous"
 target: https://www.redcarpetup.com/2020/05/24/Hybrid-WFH-Is-Dangerous/
 categories: blog
 tags:
-- remote
+- remote work
 - work
 
 links:

@@ -7,7 +7,7 @@ categories: blog
 tags:
 - automation
 - productivity
-- shortcuts
+- Shortcuts
 ---
 
 Most reading on my iPad happens in Reeder, Instapaper, or a browser. I wanted to come up with a way to save URLs in a text file for easy access for new link posts and archive purposes. This seems like a great candidate use case for trying out Workflow again which Apple has renamed Shortcuts.

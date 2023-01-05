@@ -6,8 +6,8 @@ target: https://soundcloud.com/venturestories/science-innovation-and
 description: "Venture Stories interview with Jose Luis Ricon."
 categories: blog
 tags:
-- interview
-- podcast
+- interviews
+- podcasts
 - progress
 - science
 - longevity

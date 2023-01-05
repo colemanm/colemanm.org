@@ -9,8 +9,8 @@ tags:
 - business
 - marketing
 - SaaS
-- podcast
-- interview
+- podcasts
+- interviews
 
 links:
 - url: https://www.intercom.com/blog/podcasts/scale-how-atlassian-built-a-20-billion-dollar-company-with-no-sales-team/

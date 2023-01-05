@@ -6,8 +6,8 @@ target: http://www.econtalk.org/david-deppner-on-leadership-confidence-and-humil
 description: "A thought-provoking discussion on what qualities are ideal for leaders."
 categories: blog
 tags:
-- podcast
-- interview
+- podcasts
+- interviews
 - leadership
 - philosophy
 - psychology

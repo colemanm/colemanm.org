@@ -6,7 +6,7 @@ target: https://stratechery.com/2020/the-daily-update-podcast/
 description: "Ben Thompson launches a podcast version of his Daily Update feed."
 categories: blog
 tags:
-- podcast
+- podcasts
 - technology
 - media
 

@@ -9,7 +9,7 @@ tags:
 - places
 - geography
 - desert
-- mountain
+- mountains
 - Mauritania
 - Africa
 ---

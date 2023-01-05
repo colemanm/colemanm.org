@@ -5,7 +5,7 @@ title: "The State of RSS"
 description: "My usage of RSS for content and its benefits."
 categories: blog
 tags:
-- rss
+- RSS
 - news
 ---
 

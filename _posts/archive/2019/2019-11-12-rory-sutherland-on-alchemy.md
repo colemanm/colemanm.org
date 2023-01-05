@@ -5,8 +5,8 @@ title: "Rory Sutherland on Alchemy"
 target: https://www.econtalk.org/rory-sutherland-on-alchemy/
 categories: blog
 tags:
-- podcast
-- interview
+- podcasts
+- interviews
 - economics
 - psychology
 - books

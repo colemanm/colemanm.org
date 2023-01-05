@@ -6,7 +6,7 @@ description: "An interesting interview with VC and founder Keith Rabois on This 
 categories: blog
 tags:
 - video
-- Keith rabois
+- Keith Rabois
 - business
 - startups
 ---

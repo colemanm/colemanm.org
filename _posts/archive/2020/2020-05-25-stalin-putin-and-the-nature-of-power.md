@@ -6,8 +6,8 @@ description: "An interview with Stephen Kotkin on the Artificial Intelligence po
 categories: blog
 tags:
 - video
-- podcast
-- interview
+- podcasts
+- interviews
 - Stephen Kotkin
 - Russia
 ---

@@ -6,7 +6,7 @@ target: https://www.figma.com/blog/how-work-is-changing-at-figma/
 description: "Thoughtful post from Figma CEO Dylan Field on their plan for going 'back to normal.'"
 categories: blog
 tags:
-- remote
+- remote work
 - work
 - coronavirus
 

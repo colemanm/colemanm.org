@@ -6,7 +6,7 @@ description: “Intercom on CAC, Hamilton's Legacy, and Microsoft's Flow service
 categories: blog
 tags:
 - weekend reading
-- saas
+- SaaS
 - business
 - government
 - Alexander Hamilton

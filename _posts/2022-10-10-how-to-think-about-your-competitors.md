@@ -10,6 +10,7 @@ tags:
 - business
 - management
 - competition
+- jobs to be done
 ---
 
 For any company, keeping track of your position in the competitive landscape is an important element of making the right decisions. When I think about competitors, I think about them separately as "direct" vs. "indirect":

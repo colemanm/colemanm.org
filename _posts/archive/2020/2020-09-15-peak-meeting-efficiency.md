@@ -7,7 +7,7 @@ description: "Steven Sinofsky's extensive breakdown of meetings: good, bad, and 
 categories: blog
 tags:
 - meetings
-- corporate culture
+- company culture
 
 links:
 - url: https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a

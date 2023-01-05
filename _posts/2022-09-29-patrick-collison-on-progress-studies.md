@@ -6,7 +6,7 @@ target: https://www.nytimes.com/2022/09/27/podcasts/transcript-ezra-klein-interv
 description: "A deep dive interview on what progress studies is all about."
 categories: blog
 tags:
-- podcast
+- podcasts
 - Patrick Collison
 - progress studies
 - science

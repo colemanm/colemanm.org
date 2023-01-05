@@ -11,7 +11,7 @@ tags:
 - design
 - jobs to be done
 - user experience
-- low code
+- low-code
 ---
 
 The [low-code "market"](https://medium.com/swlh/complete-introduction-to-the-low-code-ecosystem-defb9b260d20 "Low-Code Ecosystem") isn't really a market. Rather, I see it as an _attribute_ of a software product, an implementation factor in how a product works. A product providing low-code capability says nothing about its intended value — it could be a product for sending emails, building automation rules, connecting APIs, or designing mobile forms.

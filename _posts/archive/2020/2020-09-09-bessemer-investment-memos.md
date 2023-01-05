@@ -7,7 +7,7 @@ description: "Investment committee memos from Bessemer's portfolio."
 categories: blog
 tags:
 - investing
-- venture
+- venture capital
 
 links:
 - url: https://www.bvp.com/memos

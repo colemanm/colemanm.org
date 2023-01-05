@@ -7,7 +7,7 @@ categories: blog
 tags:
 - tools
 - writing
-- note taking
+- note-taking
 ---
 
 The roamcult has been on a streak of creating tools to extend and improve Roam Research. Here are a few that I've been using lately.

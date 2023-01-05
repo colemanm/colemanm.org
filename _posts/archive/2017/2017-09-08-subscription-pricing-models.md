@@ -4,7 +4,7 @@ date: 2017-09-08
 title: "Subscription Pricing Models"
 categories: blog
 tags:
-- saas
+- SaaS
 - business
 ---
 

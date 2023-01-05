@@ -5,7 +5,7 @@ title: "Michele Gelfand on Tight and Loose Cultures"
 target: https://radiopublic.com/the-remnant-with-jonah-goldberg-6nPzqd/s1!67148
 categories: blog
 tags:
-- podcast
+- podcasts
 - interviews
 - culture
 - politics

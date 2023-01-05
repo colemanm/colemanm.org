@@ -8,7 +8,7 @@ categories: blog
 tags:
 - teamwork
 - productivity
-- okr
+- OKR
 
 links:
 - url: https://svpg.com/insights/product/team-objectives/

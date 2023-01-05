@@ -6,7 +6,7 @@ target: https://russroberts.info/econtalk/archive/
 description: "The archive of all EconTalk episodes."
 categories: blog
 tags:
-- podcast
+- podcasts
 - EconTalk
 - interviews
 

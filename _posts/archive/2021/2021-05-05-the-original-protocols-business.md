@@ -6,7 +6,7 @@ target: https://joincolossus.com/episodes/46164128/rampell-visa-the-original-pro
 description: "The Business Breakdowns podcast looks at the history of Visa."
 categories: blog
 tags:
-- podcast
+- podcasts
 - finance
 - history
 - business

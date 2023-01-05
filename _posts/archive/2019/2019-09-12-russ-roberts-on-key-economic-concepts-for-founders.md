@@ -7,7 +7,7 @@ categories: blog
 tags:
 - video
 - podcasts
-- interview
+- interviews
 ---
 
 This is a good interview with a great interviewer, [Russ Roberts](https://twitter.com/EconTalker "Russ Roberts on Twitter") of [EconTalk](https://www.econtalk.org/ "EconTalk"). His is probably my favorite podcast — if I only listen to 1 episode a week, it's the latest EconTalk.

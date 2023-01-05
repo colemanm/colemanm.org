@@ -10,7 +10,7 @@ tags:
 - legal
 - stoicism
 - Epictetus
-- nps
+- NPS
 - customers
 
 links:

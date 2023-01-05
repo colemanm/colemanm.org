@@ -12,6 +12,7 @@ tags:
 - human geography
 - places
 - imagery
+- Andy Matuschak
 
 links:
 - url: https://medium.com/khan-academy-early-product-development/mastery-learning-and-creative-tasks-97c4a11f8364

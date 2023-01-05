@@ -6,8 +6,8 @@ target: http://investorfieldguide.com/matt-ball-the-future-of-media-movies-the-m
 description: "Wide-ranging interview with Matthew Ball on gaming, media, digital content, and especially astute observations on Epic."
 categories: blog
 tags:
-- podcast
-- interview
+- podcasts
+- interviews
 - media
 - games
 

@@ -8,7 +8,7 @@ categories: blog
 tags:
 - innovation
 - science
-- invention
+- inventions
 - history
 
 links:

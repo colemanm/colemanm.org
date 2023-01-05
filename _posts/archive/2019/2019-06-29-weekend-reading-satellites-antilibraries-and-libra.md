@@ -6,7 +6,7 @@ description: "Visualizing Earth's satellites, the value of an antilibrary, and F
 categories: blog
 tags:
 - weekend reading
-- satellites
+- satellite
 - reading
 - books
 - Facebook

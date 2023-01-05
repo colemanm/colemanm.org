@@ -9,7 +9,7 @@ tags:
 - interviews
 - Marc Andreessen
 - Ben Horowitz
-- tech
+- technology
 - startups
 - investing
 
