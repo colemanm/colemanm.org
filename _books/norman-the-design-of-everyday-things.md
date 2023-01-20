@@ -25,6 +25,5 @@ goodreads_id: 840
 amazon_link: https://amzn.to/2Yorm7D
 
 favorite: true
-current: true
 reread: true
 ---
