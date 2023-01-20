@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-19 16:49:11
 title: "On Validating Product Ideas"
-description: "Validating ideas is hard, but doesn't have to be if you reduce abstraction."
+description: "Validating ideas is hard. Some thoughts on trusting your instincts and reducing abstraction for better feedback."
 img: /images/post-images/validation.jpg
 categories: blog
 tags:
