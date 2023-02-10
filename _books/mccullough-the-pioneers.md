@@ -15,15 +15,13 @@ genres:
 - biography
 - adventure
 isbn: 9781501168680
-rating: 
+rating: 4
 pages: 352
 format: audiobook
 publish_year: 2019
 publisher: Simon Schuster  
 date_started: 2022-12-13
-date_completed: 
+date_completed: 2023-01-25  
 goodreads_id: 42201377
 amazon_link: https://amzn.to/3WiiD2I
-
-current: true
 ---
