@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "Dominion"
-subtitle: ""How the Christian Revolution Remade the World
+subtitle: "How the Christian Revolution Remade the World"
 author: Tom Holland
 author_last: Holland
 slug: holland-dominion
