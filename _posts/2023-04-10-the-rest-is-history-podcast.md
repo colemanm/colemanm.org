@@ -16,7 +16,7 @@ Recently I've been thoroughly enjoying Tom Holland's _[Dominion](/books/holland-
 
 Because it's been great so far, Holland has a few other books I've added to the reading backlog, including works on the Persians and the fall of the Roman Empire.
 
-Through reading more about him I also discovered his podcast, hosted by him and Dominic Sandbrook, another historian, mostly focused on modern history. Their show is excellent, and every episode so far has been a pleasure. My binging streak started from the early episodes, but I've jumped around a good bit to different topics I'm more curious about.
+Through reading more about him I also discovered his podcast [The Rest Is History](https://therestishistory.supportingcast.fm/ "The Rest Is History"), hosted by him and Dominic Sandbrook, another historian mostly focused on modern history. Their show is excellent, and every episode so far has been a pleasure. My binging streak started from the early episodes, but I've jumped around a good bit to different topics I'm more curious about.
 
 {% include image.html file="rest-is-history-podcast.jpg" description="The Rest Is History" caption="no" %}
 
