@@ -15,6 +15,7 @@ tags:
 - culture
 - reviews
 - government
+- Jonah Goldberg
 
 links:
 - url: https://blog.readwise.io/readwise-reading-app/

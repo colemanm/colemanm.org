@@ -3,6 +3,7 @@ layout: link
 date: 2020-03-20 23:59:50
 title: "Michele Gelfand on Tight and Loose Cultures"
 target: https://radiopublic.com/the-remnant-with-jonah-goldberg-6nPzqd/s1!67148
+description: "The difference between 'tight' and 'loose' cultures — conformists vs. non-conformists."
 categories: blog
 tags:
 - podcasts
