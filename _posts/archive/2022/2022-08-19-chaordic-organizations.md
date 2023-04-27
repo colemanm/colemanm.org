@@ -2,7 +2,7 @@
 layout: link
 date: 2022-08-19 12:23:23
 title: "Chaordic Organizations"
-target: http://www.deewhock.com/essays/chaordic-age-organizations
+target: https://web.archive.org/web/20220722070529/http://www.deewhock.com/essays/chaordic-age-organizations
 description: "Visa founder Dee Hock's ideas on the balance between imposing order but embracing chaos, and the decentralized organization."
 img: /images/post-images/chaord.png
 categories: blog
@@ -12,7 +12,7 @@ tags:
 - startups
 
 links:
-- url: http://www.deewhock.com/essays/chaordic-age-organizations
+- url: https://web.archive.org/web/20220722070529/http://www.deewhock.com/essays/chaordic-age-organizations
   title: "Chaordic Age Organizations"
   icon: 🏢
 ---
@@ -21,7 +21,7 @@ The late [Dee Hock](https://en.wikipedia.org/wiki/Dee_Hock "Dee Hock"), founder 
 
 {% include image.html file="chaord.png" description="Chaordic organizations" caption="no" %}
 
-In 2000 he published a book called _[Birth of the Chaordic Age](https://amzn.to/3T8IxVJ "Birth of the Chaordic Age")_ which described his thesis on systems that straddle a boundary between imposing order while embracing chaos — "chaordic" systems. [This essay](http://www.deewhock.com/essays/chaordic-age-organizations "Chaordic Age Organizations") sets out the central idea:
+In 2000 he published a book called _[Birth of the Chaordic Age](https://amzn.to/3T8IxVJ "Birth of the Chaordic Age")_ which described his thesis on systems that straddle a boundary between imposing order while embracing chaos — "chaordic" systems. [This essay](https://web.archive.org/web/20220722070529/http://www.deewhock.com/essays/chaordic-age-organizations "Chaordic Age Organizations") sets out the central idea:
 
 > The production of goods and services has progressed from the Age of Hand-crafting through the Industrial Age, more accurately thought of as the Age of Machine-crafting, into the so-called Information Age, which can best be understood as the Age of Mind-crafting, (or as I prefer to call it, the Chaordic Age,) since information is nothing but the raw material of that incredible processor we call mind and the pseudo-mind we call computer.
 > 
