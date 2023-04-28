@@ -19,6 +19,21 @@ description: "Blog archives by topic."
 <div class="page archive">
 <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
 
+<div class='posts'>
+  {% for post in page.posts %}
+  <div class='{{ post.layout }}'>
+    <h2><a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
+    <span class='meta'>{{ post.date | date: '%B %-d, %Y' }} &bull; <a href='{{ post.url }}' title='Permalink'>#</a></span>
+    <div>
+      {{ post.content | truncatewords: 100 }}
+      {% include image-credit-home.html %}
+    </div>
+    <div class="end">&#10022;</div>
+  </div>
+  {% endfor %}
+  <div class="browse-archive"><a href="/archive">Browse the Archive &rarr;</a></div>
+</div>
+<!-- 
 <table cellspacing="0" class="archive-table">
 {% for post in page.posts %}
 	{% if post.status != "draft" %}
@@ -45,4 +60,4 @@ description: "Blog archives by topic."
   </tr>
   {% endif %}
 {% endfor %}
-</table>
+</table> -->
