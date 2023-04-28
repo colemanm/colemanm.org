@@ -10,17 +10,21 @@ cover: true
 series: 
 part: 
 genres:
-- 
+- history
+- psychology
+- science
+- anthropology
+- culture
 isbn: 9780374173227
-rating: 
+rating: 5
 pages: 704
 format: kindle
 publish_year: 2020
 publisher: Farrar, Straus and Giroux
 date_started: 2023-01-04
-date_completed: 
+date_completed: 2023-04-27
 goodreads_id: 51710349
 amazon_link: https://amzn.to/3hyutTc
 
-current: true
+favorite: true
 ---
