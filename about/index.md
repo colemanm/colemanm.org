@@ -41,9 +41,9 @@ Here's a sampling of some of my favorite posts from over the years, in no partic
 
 I have a few recurring series posts that I return to on occasion.
 
-* **Weekend Reading** — A weekly digest posted on Saturdays with 3 links of recent interest. Sometimes news, sometimes apps, anything I found interesting in #InternetExploration.
-* **Best Songs** — A while ago my dad and I were [talking about collecting playlists](/post/best-songs-part-1-chameleon/ "Best Songs") of our all-time favorite songs. The main criteria is "songs personally meaningful to you." There are many in my personal archive, so I post one every now and then.
-* **Places** — where I snapshot and write short posts about interesting places on the globe.
+* **[Weekend Reading](/topic/weekend-reading/ "Weekend Reading")** — A weekly digest posted on Saturdays with 3 links of recent interest. Sometimes news, sometimes apps, anything I found interesting in #InternetExploration.
+* **[Best Songs](/topic/favorite-songs/ "Best Songs")** — A while ago my dad and I were [talking about collecting playlists](/post/best-songs-part-1-chameleon/ "Best Songs") of our all-time favorite songs. The main criteria is "songs personally meaningful to you." There are many in my personal archive, so I post one every now and then.
+* **[Places](/topic/places/ "Places")** — where I snapshot and write short posts about interesting places on the globe.
 
 ## Colophon
 
