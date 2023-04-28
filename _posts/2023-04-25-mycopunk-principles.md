@@ -19,8 +19,8 @@ links:
 
 What would it look like to apply principles of mycelial (fungal) networks to other systems? A sampling:
 
-> 🕸 NETWORKED/DISTRIBUTED/ANARCHIST: No central command. Local subsidiarity, problem solving at the edges. 
-> 💪 ANTI-FRAGILE: Disturb a mycelial network, and it grows more dense. 
-> 🌳 FRACTAL: Self-similar structures up & down.
+> * 🕸 NETWORKED/DISTRIBUTED/ANARCHIST: No central command. Local subsidiarity, problem solving at the edges. 
+> * 💪 ANTI-FRAGILE: Disturb a mycelial network, and it grows more dense. 
+> * 🌳 FRACTAL: Self-similar structures up & down.
 
 Bookmarked to revisit later. /via the [Subconscious](https://subconscious.network/ "Subconscious") [Discord](https://discord.com/invite/wyHPzGraBh "Subconscious Discord") server.
