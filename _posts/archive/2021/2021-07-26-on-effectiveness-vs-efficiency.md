@@ -6,10 +6,11 @@ description: "Should you be focused on being more effective or more efficient? W
 img: /images/post-images/effectiveness.jpg
 categories: blog
 tags:
+- product
+- teamwork
 - efficiency
 - effectiveness
 - companies
-- product
 ---
 
 > "Efficiency is doing things right; effectiveness is doing the right things."
