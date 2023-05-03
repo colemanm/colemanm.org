@@ -5,6 +5,11 @@ layout: default
 <div class="post">
   <h1>{{ page.title | xml_escape }}</h1>
   <span class="meta">{{ page.date | date: '%B %-d, %Y' }} {% if page.edited %}&bull; <em>(edited: {{ page.edited | date: '%B %-d, %Y' }})</em>{% endif %} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
+  <div class="newsletter">
+  {% for newsletter in page.newsletters %}
+    <p><span class="icon"><img src="/images/res-extensa.jpg" alt="Res Extensa"></span> Also appeared in <a href="{{ newsletter.url }}">{{ newsletter.title }}</a></p>
+  {% endfor %}
+</div>
   {% if page.book-id %}
   {% include book-info.html %}
   {% endif %}

@@ -311,11 +311,15 @@ img.bordered { border: 1px solid #ddd; }
   margin-left: 5px;
 }
 .rating { color: #333; }
-.book .newsletter img {
+.book .newsletter img, .post .newsletter img {
   width: 20px;
 }
-.book .newsletter .icon {
+.book .newsletter .icon, .post .newsletter .icon {
   vertical-align: middle;
+}
+.post .newsletter {
+  font-size: .8em;
+  color: #aaa;
 }
 
 // Maps
