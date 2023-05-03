@@ -40,5 +40,7 @@ tags:
 ### Film
 
 _[Clockers](https://letterboxd.com/film/clockers/ "Clockers")_ (1995)
+
 _[Everything Everywhere All At Once](https://letterboxd.com/film/everything-everywhere-all-at-once/ "Everything Everywhere All At Once")_ (2022)
+
 _[Ad Astra](https://letterboxd.com/film/ad-astra-2019/ "Ad Astra")_ (2019)
