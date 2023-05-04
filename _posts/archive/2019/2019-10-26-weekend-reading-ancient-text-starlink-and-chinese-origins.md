@@ -6,7 +6,7 @@ description: "DeepMind restores ancient inscriptions, StarLink expansion, and th
 categories: blog
 tags:
 - weekend reading
-- ai
+- AI
 - DeepMind
 - satellite
 - China

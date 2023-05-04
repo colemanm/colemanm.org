@@ -7,7 +7,7 @@ description: "Ben Thompson on the Disney+ service and how it fits into the TV ma
 categories: blog
 tags:
 - Disney
-- TV
+- television
 - business
 - technology
 

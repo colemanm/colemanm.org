@@ -8,7 +8,7 @@ categories: blog
 tags:
 - maps
 - OpenStreetMap
-- ai
+- AI
 - computer vision
 - open source
 

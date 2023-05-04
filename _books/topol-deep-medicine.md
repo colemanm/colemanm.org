@@ -11,7 +11,7 @@ series:
 part: 
 genres:
 - science
-- ai
+- AI
 - medicine
 - health
 isbn: 9781541644632

@@ -6,7 +6,7 @@ target: https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intell
 categories: blog
 tags:
 - intelligence
-- ai
+- AI
 - interviews
 - video
 - Jeff Hawkins

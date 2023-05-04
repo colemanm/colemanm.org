@@ -6,7 +6,7 @@ description: "TED talk on deep learning and generative AI."
 categories: blog
 tags:
 - video
-- ai
+- AI
 - machine learning
 - design
 ---

@@ -9,7 +9,7 @@ tags:
 - media consumption
 - books
 - film
-- tv
+- television
 ---
 
 ### Reading
