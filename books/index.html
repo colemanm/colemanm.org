@@ -33,7 +33,7 @@ description: "My personal library."
 <table cellspacing="0" class="archive-table book-archive">
 {% assign books = site.books | sort: 'date_completed' | reverse %}
 {% for book in books %}
-  {% if book.status != "draft" and book.current != true and !book.date_completed %}
+  {% if book.status != "draft" and book.current != true and book.date_completed != nil %}
   {% assign review = site.posts | where: 'book-id', book.slug | first %}
   <tr class="{% cycle 'even', 'odd' %}">
     <td class="title">
