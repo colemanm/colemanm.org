@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="link">
-  <h1>{% for link in post.links %}{{ link.icon }} {% endfor %}<a href="{{ page.target }}">{{ page.title | xml_escape }} &rarr;</a></h1>
+  <h1>{% for link in page.links %}{{ link.icon }} {% endfor %}<a href="{{ page.target }}">{{ page.title | xml_escape }} &rarr;</a></h1>
   <span class="meta">{{ page.date | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
   <div class="body">{{ content }}</div>
   <!-- {% include topics.html %} -->
