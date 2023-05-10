@@ -7,7 +7,7 @@ img: /images/post-images/
 categories: blog
 tags:
 - video
-- language
+- linguistics
 - maps
 - dataviz
 ---
