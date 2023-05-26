@@ -1,0 +1,80 @@
+---
+layout: default
+title: Archives
+permalink: /archive-pages/
+description: "Blog post archives."
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /archive/page/:num/
+---
+
+<!-- <div class="page archive">
+<h1>Archive</h1>
+
+<table cellspacing="0" class="archive-table">
+{% for post in site.categories.blog %}
+	{% if post.status != "draft" %}
+  <tr class="{% cycle 'even', 'odd' %}">
+    {% if post.layout == "link" %}
+    <td class="archive-icon">🔗</td>
+    {% elsif post.tags contains "video" %}
+    <td class="archive-icon">📺</td>
+    {% elsif post.tags contains "music" %}
+    <td class="archive-icon">🎵</td>
+    {% elsif post.tags contains "quotes" %}
+    <td class="archive-icon">💬</td>
+    {% elsif post.tags contains "weekend reading" %}
+    <td class="archive-icon">📰</td>
+    {% elsif post.tags contains "books" and post.tags contains "reviews" %}
+    <td class="archive-icon">📚</td>
+    {% elsif post.tags contains "places" %}
+    <td class="archive-icon">🗺</td>
+    {% else %}
+    <td class="archive-icon">☕️</td>
+    {% endif %}
+    <td><a href='{{ post.url }}'>{{ post.title | xml_escape }}</a></td>
+    <td class="right-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
+  </tr>
+  {% endif %}
+{% endfor %}
+</table>
+</div> -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+    {% if paginator.total_pages > 1 %}
+    <nav>
+      <ul class="pagination">
+        {% if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path }}" rel="prev">&laquo;</a></li>
+        {% else %}
+        <li class="disabled"><span>&laquo;</span></li>
+        {% endif %}
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <li class="active"><span>{{ page }}</span></li>
+        {% elsif page == 1 %}
+        <li><a href="{{ paginator.baseurl }}/">{{ page }}</a></li>
+        {% else %}
+        <li><a href="{{ paginator.baseurl }}/page/{{ page }}/">{{ page }}</a></li>
+        {% endif %}
+        {% endfor %}
+        {% if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path }}" rel="next">&raquo;</a></li>
+        {% else %}
+        <li class="disabled"><span>&raquo;</span></li>
+        {% endif %}
+      </ul>
+    </nav>
+    {% endif %}
+  </body>
+</html>
+
