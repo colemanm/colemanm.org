@@ -3,7 +3,7 @@ layout: link
 date: 2023-07-17 23:18:39
 title: "How to Blow Up a Timeline"
 target: https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline
-description: ""
+description: "Eugene Wei breaks down what's happening at Twitter."
 categories: blog
 tags:
 - Twitter
