@@ -105,7 +105,7 @@ class Blog < Thor
         format: 
         publish_year: 
         publisher: 
-        date_started: 2022-
+        date_started: 2023-
         date_completed: 
         goodreads_id: 
         amazon_link: 
