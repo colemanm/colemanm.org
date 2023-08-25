@@ -16,13 +16,13 @@ tags:
 
 I linked a few days ago to [Packy McCormick](https://twitter.com/packym "@packym on Twitter")'s piece [Excel Never Dies](https://www.notboring.co/p/excel-never-dies "Excel Never Dies"), which went deep on Microsoft Excel, the springboard for a [thousand internet businesses](https://foundationinc.co/lab/the-saas-opportunity-of-unbundling-excel/ "The SaaS Opportunity of Unbundling Excel") over the last 30 years. "Low-code" techniques in software have become ubiquitous at this point, and Excel was the proto-low-code environment — one of the first that stepped toward empowering regular people to create their own software. In the mid-80s, if you wanted to make your own software tools, you were in C, BASIC, or Pascal. Excel and its siblings (Lotus 1-2-3, VisiCalc) gave users a visual workspace, an abstraction layer lending power without the need to learn languages.
 
-Today in the low-code ecosystem you have hundreds of products for all sorts of use cases leaning on similar building principles — Bubble and Webflow for websites, Integromat and Zapier for integrations, Notion and Coda for team collaboration, even Figma for designs. The strategy goes hand-in-hand with [product-led growth](/post/growth-sales-and-a-new-era-of-b2b/ "Growth, Sales, and a New Era of B2B"): start with simple use cases, be inviting to new users, and gradually empower them to build their own products.
+Today in the low-code ecosystem you have hundreds of products for all sorts of use cases leaning on similar building principles — Bubble and Webflow for websites, Make.com and Zapier for integrations, Notion and Coda for team collaboration, even Figma for designs. The strategy goes hand-in-hand with [product-led growth](/post/growth-sales-and-a-new-era-of-b2b/ "Growth, Sales, and a New Era of B2B"): start with simple use cases, be inviting to new users, and gradually empower them to build their own products.
 
 {% include image.html file="ikea-effect.jpg" description="Low-code IKEA effect" caption="no" %}
 
 Excel has benefited from this model since the 80s: give people some building blocks, a canvas, and some guardrails and let them go build. Start out with simple formulas, create multiple sheets, cross-link data, and eventually learn enough to build your own complete custom programs.
 
-What is it about low-code that makes such effective software businesses? Sure, there's the flexibility it affords to unforeseen use cases, and the adaptability to apply a tool to a thousand different jobs. But I think there's psychology at play here that makes it particularly compelling for many types of software.
+What is it about low-code that makes such effective software businesses? Sure, there's the flexibility it affords to unforeseen use cases, and the adaptability to apply a tool to a thousand different jobs. But there's psychology at play here that makes it particularly compelling for many types of software.
 
 There’s a cognitive phenomenon called the "[IKEA effect](https://en.wikipedia.org/wiki/IKEA_effect "IKEA effect")", which says:
 
@@ -35,7 +35,7 @@ Low-code tools harness this effect, too. Customers are very willing to participa
 SaaS companies should embrace this idea. Letting the customer take over for the "last mile" creates wins all around for everyone. Mutual benefits accrue to both creator and consumer:
 
 * **Customers have a sense of ownership** when they play a role in building their own solution.
-* **The result can be personalized.** In business environments, companies want an added touch of differentiation to set themselves apart from competitors. They don't want commodities that any other player can simply buy and install.
+* **The result can be personalized.** In business environments, companies want to differentiate themselves from competitors. They don't want commodities that any other player can simply buy and install. Certainly not for their unique business practices.
 * **Production costs are reduced.** The product creator builds the toolbox (or parts list, instructions, and tool kit) and lets the consumer take it from there. Don't have to spend time understanding the nuances of hundreds of different use cases. You provide building blocks and let recombination generate thousands of unique solutions.
 * **Increased retention!** Studies showed that consumers consistently rated products _they helped assemble_ higher in value than already-assembled ones. This valuation bias manifests in retention dynamics for your product: if customers are committed enough and build their own solution, they'll more likely imbue it with greater value.
 
