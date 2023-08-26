@@ -6,7 +6,7 @@ target: https://museapp.com/podcast/79-read-later-apps/
 description: "A discussion on Readwise with the founders."
 categories: blog
 tags:
-- podcast
+- podcasts
 - interviews
 - reading
 - Tristan Homsi

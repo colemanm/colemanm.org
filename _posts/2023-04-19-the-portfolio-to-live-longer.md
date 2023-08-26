@@ -6,7 +6,7 @@ target: https://www.joincolossus.com/episodes/46859896/attia-the-portfolio-to-li
 description: "Dr. Peter Attia on his new book and the keys to 'healthspan'."
 categories: blog
 tags:
-- podcast
+- podcasts
 - longevity
 - Peter Attia
 

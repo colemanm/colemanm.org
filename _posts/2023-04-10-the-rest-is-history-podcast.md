@@ -6,7 +6,7 @@ description: "My new favorite podcast."
 img: /images/post-images/rest-is-history-podcast.jpg
 categories: blog
 tags:
-- podcast
+- podcasts
 - history
 - Tom Holland
 - Dominic Sandbrook

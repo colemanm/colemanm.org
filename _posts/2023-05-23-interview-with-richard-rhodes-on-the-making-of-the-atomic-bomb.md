@@ -7,7 +7,7 @@ img: /images/post-images/
 categories: blog
 tags:
 - video
-- interview
+- interviews
 - Richard Rhodes
 - science
 - authors

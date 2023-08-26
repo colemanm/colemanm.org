@@ -7,7 +7,7 @@ categories: blog
 tags:
 - weekend reading
 - biology
-- immune systems
+- immune system
 - science
 - genetics
 - work

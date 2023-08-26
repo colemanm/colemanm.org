@@ -9,7 +9,7 @@ categories: blog
 tags:
 - Starlink
 - space
-- satellte
+- satellite
 - telecom
 - internet
 

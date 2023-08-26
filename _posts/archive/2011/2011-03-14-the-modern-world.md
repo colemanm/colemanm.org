@@ -6,7 +6,7 @@ description: "GK Chesterton."
 categories: blog
 tags:
 - quotes
-- G.K. Chesterton
+- GK Chesterton
 ---
 
 >The whole modern world has divided itself into Conservatives and Progressives. The business of Progressives is to go on making mistakes. The business of the Conservatives is to prevent the mistakes from being corrected.

@@ -7,7 +7,7 @@ img: /images/post-images/marco-polo-railroad.jpg
 categories: blog
 tags:
 - history
-- ai
+- AI
 - ChatGPT
 ---
 
