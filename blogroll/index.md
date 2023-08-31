@@ -27,7 +27,6 @@ Good websites from interesting people.
 * [Kevin Kwok](https://kwokchain.com/ "Kwokchain")
 * [Adam Elkus](https://aelkus.github.io/ "Adam Elkus")
 * [Bill Dollins](https://blog.geomusings.com/ "GeoMusings")
-* [James Fee](https://spatiallyadjusted.com/ "Spatially Adjusted")
 * [Brian Timoney](https://mapbrief.com/ "MapBrief")
 
 ## Professionals
@@ -37,7 +36,6 @@ People or properties that publish professionally.
 * [Stratechery](https://stratechery.com/ "Stratechery")
 * [Marginal Revolution](https://marginalrevolution.com/ "Marginal Revolution")
 * [Roots of Progress](https://rootsofprogress.org/ "Roots of Progress")
-* [Slate Star Codex](https://slatestarcodex.com/ "Slate Star Codex")
 * [David Perell](https://www.perell.com/ "David Perell")
 * [AVC](https://avc.com/ "AVC")
 * [Ness Labs](https://nesslabs.com/ "Ness Labs")
