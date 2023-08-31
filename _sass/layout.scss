@@ -58,6 +58,22 @@
 .post h2 a {
   border: none;
 } 
+.post hr {
+  margin: 30px 0;
+  background: none;
+  border: 0;
+  padding: 0;
+}
+.post hr::after {
+  // content: '⁂';
+  content: '∼ ✦ ∼';
+  display: block;
+  opacity: 0.8;
+  color: #ddd;
+  font-size: 18px;
+  line-height: 1;
+  text-align: center;
+}
 .post .meta, .link .meta {
   display: block;
   text-align: left;
@@ -183,7 +199,7 @@ img.full {
   display: block;
   left: -75px;
   margin: 0 auto;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 img.partial {
   position: relative;
@@ -280,6 +296,7 @@ img.bordered { border: 1px solid #ddd; }
   text-align: center;
   color: #ddd;
   font-size: 18px;
+  margin: 25px 0;
 }
 
 // Books
@@ -487,6 +504,9 @@ img.bordered { border: 1px solid #ddd; }
   .archive .right-cell  { display: none; }
   h1 { font-size: 1.6em; }
   blockquote { margin: 0; }
+  .subscribe-form {
+    display: none;
+  }
 }
 
 // Subscribe form
@@ -496,6 +516,8 @@ img.bordered { border: 1px solid #ddd; }
 }
 .subscribe-form {
   margin: 20px 0;
+  width: 700px;
+  height: 320px;
 }
 
 @media only screen and (min-width: 640px) and (max-width: 1024px) {
@@ -545,4 +567,9 @@ img.bordered { border: 1px solid #ddd; }
   .archive .right-cell  { display: none; }*/
   h1 { font-size: 1.6em; }
   blockquote { margin: 0; }
+  .subscribe-form {
+    margin: 20px 0;
+    width: 580px;
+    height: 320px;
+  }
 }
