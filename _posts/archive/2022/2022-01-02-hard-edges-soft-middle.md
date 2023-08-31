@@ -9,6 +9,7 @@ tags:
 - product
 - building
 - company culture
+- design
 ---
 
 Have you had that feeling of being several weeks into a project, and you find yourself wandering around, struggling to wrangle the scope back to what you _thought_ it was when you started?
