@@ -26,5 +26,10 @@ date_completed:
 goodreads_id: 43885149
 amazon_link: https://amzn.to/3GfNsi4
 
+recommended_by:
+- title: "@dwr Book Recommendations"
+  author: "Dan Romero"
+  url: "https://danromero.org/books/"
+
 current: true
 ---

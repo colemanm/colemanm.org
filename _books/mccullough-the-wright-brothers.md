@@ -15,15 +15,13 @@ genres:
 - biography
 - innovation
 isbn: 9781476728759
-rating: 
+rating: 5
 pages: 378
 format: audiobook
 publish_year: 2015
 publisher: Simon and Schuster
 date_started: 2023-08-21
-date_completed: 
+date_completed: 2023-09-29
 goodreads_id: 25813961
 amazon_link: https://amzn.to/47CxR9r
-
-current: true
 ---
