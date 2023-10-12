@@ -23,7 +23,7 @@ When we do finally reach a destination that's descriptively similar to the objec
 
 Once we achieve a breakthrough innovation, along the [path of stepping stones](https://subconscious.substack.com/p/stepping-stones-in-possibility-space "Stepping stones in possibility space") — the series of building blocks we must pass through to get us there — we've made hundreds of additional observations on the journey that change what we thought we wanted.
 
-The first aspiring aviators wanted to mimic the flapping of a bird's wings in their designs. Take a look at Da Vinci's notebook illustrations and you'll get a sense for where conventional wisdom was at the time on how flight might be one-day achieved.
+The first aspiring aviators mimicked the flapping of a bird's wings in their designs. Take a look at Da Vinci's notebook illustrations and you'll get a sense for where conventional wisdom was at the time on how flight might be one-day achieved.
 
 {% include image.html file="davinci-wings.jpg" description="The wings of Da Vinci's ornithopter" %}
 
