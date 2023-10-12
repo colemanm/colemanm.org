@@ -1,7 +1,7 @@
 ---
 layout: book
 title: "Systemantics"
-subtitle: "The Systems Bible"
+subtitle: "How Systems Work, and Especially How They Fail"
 author: John Gall
 author_last: Gall
 slug: gall-systemantics
@@ -16,7 +16,7 @@ genres:
 - technology
 - design
 isbn: 9780961825171
-rating: 3
+rating: 4
 pages: 314
 format: kindle
 publish_year: 1977
