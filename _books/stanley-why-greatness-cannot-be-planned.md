@@ -24,6 +24,7 @@ date_started: 2023-10-01
 date_completed: 
 goodreads_id: 25670869
 amazon_link: https://amzn.to/3GRfgtu
+
 recommended_by:
 - title: "Possibility Space"
   author: "Gordon Brander"
