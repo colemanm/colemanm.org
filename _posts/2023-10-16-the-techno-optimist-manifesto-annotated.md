@@ -51,7 +51,7 @@ The USSR's "[Great Plan for the Transformation of Nature](https://en.wikipedia.o
 
 > We believe that if we make both intelligence and energy “too cheap to meter”, the ultimate result will be that all physical goods become as cheap as pencils. Pencils are actually quite technologically complex and difficult to manufacture, and yet nobody gets mad if you borrow a pencil and fail to return it. We should make the same true of all physical goods.
 
-See Leonard Reed's classic essay on the complexity (and efficiency) of distributed specialization of labor, _[I, Pencil](https://fee.org/resources/i-pencil/ "I, Pencil")_.
+See Leonard Read's classic essay on the complexity (and efficiency) of distributed specialization of labor, _[I, Pencil](https://fee.org/resources/i-pencil/ "I, Pencil")_.
 
 > We believe that technology ultimately drives the world to what Buckminster Fuller called “ephemeralization” – what economists call “dematerialization”. Fuller: “Technology lets you do more and more with less and less until eventually you can do everything with nothing.”
 
