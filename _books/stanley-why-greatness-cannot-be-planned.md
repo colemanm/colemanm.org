@@ -15,13 +15,13 @@ genres:
 - computer science
 - psychology
 isbn: 9783319155241
-rating: 
+rating: 4
 pages: 154
 format: paperback
 publish_year: 2015
 publisher: Springer
 date_started: 2023-10-01
-date_completed: 
+date_completed: 2023-10-31
 goodreads_id: 25670869
 amazon_link: https://amzn.to/3GRfgtu
 
@@ -29,6 +29,4 @@ recommended_by:
 - title: "Possibility Space"
   author: "Gordon Brander"
   url: https://subconscious.substack.com/p/possibility-space
-
-current: true
 ---
