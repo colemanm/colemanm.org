@@ -30,7 +30,7 @@ Here are a few simplified examples to conceptualize the distinctions between dom
 
 ### Clear
 
-_Restocking office supplies_. This is a straightforward task where the need and the solution are clear, and best practices like inventory management can be directly applied.
+_Restocking office supplies_. This is a straightforward task where the need and the solution are clear, and best practices like inventory management can be directly applied. Just go do it.
 
 ### Complicated
 
