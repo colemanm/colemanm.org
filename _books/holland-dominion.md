@@ -16,13 +16,13 @@ genres:
 - philosophy
 - politics
 isbn: 9780465093502
-rating: 
+rating: 5
 pages: 624
 format: audiobook
 publish_year: 2019
 publisher: Basic Books
 date_started: 2023-02-28
-date_completed: 
+date_completed: 2023-12-08
 goodreads_id: 43885149
 amazon_link: https://amzn.to/3GfNsi4
 
@@ -31,5 +31,5 @@ recommended_by:
   author: "Dan Romero"
   url: "https://danromero.org/books/"
 
-current: true
+favorite: true
 ---
