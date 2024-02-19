@@ -11,6 +11,7 @@ gem 'jekyll-sitemap'
 gem 'jekyll-archives'
 gem 'jemoji'
 gem 'thor'
+gem 'csv'
 
 group :test, :development do
   gem 'html-proofer'
