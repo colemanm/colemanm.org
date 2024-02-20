@@ -7,7 +7,7 @@ img: /images/post-images/
 categories: blog
 tags:
 - product
-- problem-solving
+- problem solving
 - complexity
 - simplicity
 ---
