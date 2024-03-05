@@ -7,7 +7,7 @@ author_last: Herbert
 slug: herbert-dune
 type: fiction
 cover: true
-series: Dune Chronicles
+series: Dune
 part: 1
 genres:
 - classics
