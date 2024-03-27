@@ -16,15 +16,15 @@ genres:
 - classics
 - sociology
 isbn: 9780241316757
-rating: 
+rating: 5
 pages: 527
 format: audiobook
 publish_year: 1951
-publisher: 
-date_started: 2023-01-04
-date_completed: 
+publisher: Penguin Books
+date_started: 2024-01-04
+date_completed: 2024-03-26
 goodreads_id: 34204370
 amazon_link: https://amzn.to/46MC4Ww
 
-current: true
+favorite: true
 ---
