@@ -9,9 +9,10 @@ tags:
 - innovation
 - craft
 - how it's made
+- video
 ---
 
-Right now I'm building some cabinets, and yesterday I was working on the drawers. I decided to use shellac as the finish for the drawer interiors. Never used it before, but heard that it applies easy, cures fast, and is generally more pleasant to work with than harsh chemical urethanes. It has the consistency and properties of other synthetic resins, but is totally organic — actually secreted naturally by the lac beetle.
+I'm in the process of building some cabinets, and yesterday I was working on the drawers. I decided to use shellac as the finish for the drawer interiors. Never used it before, but heard that it applies easy, cures fast, and is generally more pleasant to work with than harsh chemical urethanes. It has the consistency and properties of other synthetic resins, but is totally organic — actually secreted naturally by the _[lac bug](https://en.wikipedia.org/wiki/Kerria_lacca "Lac bug")_.
 
 {% include image.html file="shellac.jpg" description="Shellac sharts" caption="no" %}
 
@@ -21,10 +22,10 @@ How it's made is a marvel of human discovery, tinkering, and problem-solving, an
 > 
 > Once the males have gone, natives collect the branches and scrape off the hard crust. This gets crumbled into what we call "seedlac." Seedlac is filtered to remove any random bits of bark and bug legs to make shellac.
 
-[Here's a great video](https://www.youtube.com/watch?v=iEkKwOWZS_E "How Shellac is Made") that follows the entire production chain from a lac farm in India all the way to its final uses.
+[Here's a great video](https://www.youtube.com/watch?v=iEkKwOWZS_E "How Shellac is Made") that follows the entire production chain from a lac farm in India all the way to its final uses:
+
+{% include video.html id="iEkKwOWZS_E" %}
 
 It's interesting to imagine watching this procedure from start to finish as an alien observer, with no idea what's being done — totally weird-looking and unexplainable steps like drying insect goop in the sun into crystals, putting it in a 30 foot-long sock to melt it and filter impurities, making huge sheets with a palm leaf. The whole process is an awesome example of human ingenuity to experiment with any methods that work to ultimately solve our problems.
 
 And shellac solves many of them. The same insect resin gets used for making beads, coatings on medicines, hard candy, fruit preservatives, and, of course, wood finishes.
-
-
