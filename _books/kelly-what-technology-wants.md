@@ -25,5 +25,10 @@ date_completed:
 goodreads_id: 10651064
 amazon_link: https://amzn.to/4aJ5cQJ
 
+reviewers:
+- author: Jon Santiago
+  url: https://santiagos.space/the-library/what-technology-wants-summary/
+
+
 current: true
 ---
