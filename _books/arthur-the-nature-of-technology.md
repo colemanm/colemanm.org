@@ -59,7 +59,7 @@ When new technologies appear, an economy doesn't look at it and decide when and 
 
 The book documents at length dozens of examples that demonstrate the ideas. Arthur clearly has a deep, well-researched knowledge of the history of technology to draw from. Overall it's a fascinating and brief read, with a hundred unique threads to follow in its bibliography. Highly recommended.
 
-{% include image.html file="nature-of-tech.jpg" description="Nature of Technology" caption="no" %}
+{% include image.html file="nature-of-tech-cover.jpg" description="Nature of Technology" caption="no" %}
 
 ## Key Takeaways
 
