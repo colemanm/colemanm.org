@@ -3,6 +3,7 @@
 /images/.DS_Store
 .jekyll-metadata
 .jekyll-cache
+.vscode
 .bundle
 Gemfile.lock
 /tmp
