@@ -23,6 +23,8 @@ date_started: 2024-08-03
 date_completed: 2024-08-13
 goodreads_id: 26240779
 amazon_link: https://amzn.to/4cxmu3S
+
+notes: true
 ---
 
 How does one learn what defines a particular genre or style of music? A degree in music, studying music theory, or learning an instrument are all pathways to uncovering the structure of a tune. Years of careful study can certainly help if you want to be able to trace the connections of influence from one artist or composer to the next. But Ted Gioia makes the argument that _listening_ is both the most accessible and best way to cultivate a richer understanding of music.
