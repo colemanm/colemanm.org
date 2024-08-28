@@ -23,4 +23,6 @@ date_started: 2024-06-10
 date_completed: 2024-07-30
 goodreads_id: 77566
 amazon_link: https://amzn.to/45sw2en
+
+favorite: true
 ---
