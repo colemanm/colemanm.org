@@ -6,7 +6,7 @@ author: G.K. Chesterton
 author_last: Chesterton
 slug: chesterton-orthodoxy
 type: nonfiction
-cover: 
+cover: true
 series: 
 part: 
 genres:
