@@ -14,6 +14,7 @@ genres:
 - religion
 - theology
 - christianity
+- classics
 isbn: 9781449599430
 rating: 
 pages: 133
@@ -21,9 +22,7 @@ format: kindle
 publish_year: 1905
 publisher: Chesterton Books
 date_started: 2024-08-19
-date_completed: 
+date_completed: 2024-08-31
 goodreads_id: 7622729
 amazon_link: https://amzn.to/3SVMsa8
-
-current: true
 ---
