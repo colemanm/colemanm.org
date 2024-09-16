@@ -7,6 +7,7 @@ description: "Venkatesh Rao compares the evolutions of the coffee and consulting
 categories: blog
 tags:
 - consulting
+- business
 - coffee
 
 links:

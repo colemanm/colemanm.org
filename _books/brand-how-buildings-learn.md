@@ -26,7 +26,12 @@ date_completed: 2024-01-15
 goodreads_id: 38310
 amazon_link: https://amzn.to/3DV9yWi
 
+reviewers:
+- author: Emmanuel Quartey
+  url: https://www.quartey.com/writing/how-buildings-learn
+
 favorite: true
+notes: true
 ---
 
 A while back I was watching [this talk](https://www.youtube.com/watch?v=L7ggrxLabKQ "Stewart Brand and Paul Saffo on Pace Layering") given by Stewart Brand and Paul Saffo on Brand's notion of "pace layering". During the introduction, he makes reference to his book *How Buildings Learn*, nominally a book on architecture, but as he discovered from readers, they found in it so much more:

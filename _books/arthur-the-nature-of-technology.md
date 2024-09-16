@@ -27,6 +27,7 @@ goodreads_id: 6321234
 amazon_link: https://amzn.to/38FiTlk
 
 favorite: true
+notes: true
 ---
 
 Innovation happens in increments. Contrary to popular belief, the "Eureka" inventor is mostly imaginary. Not that there aren't breakthrough moments in scientific discovery, they do happen. But nearly all of the technologies we use every day — the contributors to the economic growth boom that started during the enlightenment — are a result of the everyday tinkering and deliberate trial and error of thousands of experimenters. Matt Ridley's book *[How Innovation Works](https://www.colemanm.org/books/ridley-how-innovation-works/)* shifted my thinking profoundly on this; innovation is gradual, recombinant, serendipitous, and distributed.
