@@ -15,7 +15,7 @@ genres:
 - mythology
 - poetry
 - epic
-isbn: 1371
+isbn: 9780140275360
 rating: 5
 pages: 704
 format: paperback
