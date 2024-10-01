@@ -16,15 +16,15 @@ genres:
 - christianity
 - classics
 isbn: 9781600965272
-rating: 
+rating: 5
 pages: 168
 format: kindle
 publish_year: 1908
 publisher: Chesterton Books
 date_started: 2024-09-01
-date_completed: 
+date_completed: 2024-09-30
 goodreads_id: 87665
 amazon_link: https://amzn.to/4ebsz72
 
-current: true
+favorite: true
 ---

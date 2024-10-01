@@ -16,15 +16,13 @@ genres:
 - poetry
 - epic
 isbn: 1371
-rating: 
-pages: 
+rating: 5
+pages: 704
 format: paperback
 publish_year: 800 BC
 publisher: Penguin Classics
 date_started: 2024-02-18
-date_completed: 
+date_completed: 2024-09-29
 goodreads_id: 1371
 amazon_link: https://amzn.to/3uFDrJm
-
-current: true
 ---
