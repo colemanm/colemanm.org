@@ -44,7 +44,7 @@ I've been tracking my daily screen time and sleep data all year, which I'll writ
 
 ### Books
 
-[There is No Antimemetics Division](https://www.colemanm.org/books/hughes-there-is-no-antimemetics-division/), Sam Hughes<br />
+[There is No Antimemetics Division](https://www.colemanm.org/books/qntm-there-is-no-antimemetics-division/), qntm<br />
 <span class="progress-meter">░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 20-100%</span>
 
 [Dune](https://www.colemanm.org/books/herbert-dune/), Frank Herbert<br />
