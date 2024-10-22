@@ -2,9 +2,9 @@
 layout: book
 title: "There Is No Antimemetics Division"
 subtitle: ""
-author: Sam Hughes
-author_last: Hughes
-slug: hughes-there-is-no-antimemetics-division
+author: qntm
+author_last: qntm
+slug: qntm-there-is-no-antimemetics-division
 type: fiction
 cover: true
 series: 

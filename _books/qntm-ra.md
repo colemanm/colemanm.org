@@ -2,9 +2,9 @@
 layout: book
 title: "Ra"
 subtitle: ""
-author: Sam Hughes
-author_last: Hughes
-slug: hughes-ra
+author: qntm
+author_last: qntm
+slug: qntm-ra
 type: fiction
 cover: true
 series: 
