@@ -2,11 +2,11 @@
 layout: book
 title: "The Pathless Path"
 subtitle: "Imagining a New Story For Work and Life"
-author:
+author: Paul Millerd
 author_last: Millerd
 slug: millerd-the-pathless-path
 type: nonfiction
-cover: 
+cover: true
 series: 
 part: 
 genres:
