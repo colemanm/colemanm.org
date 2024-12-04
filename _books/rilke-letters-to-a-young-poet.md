@@ -22,9 +22,7 @@ format: kindle
 publish_year: 1929
 publisher: Penguin Classics
 date_started: 2024-11-21
-date_completed: 
+date_completed: 2024-11-27
 goodreads_id: 46199
 amazon_link: https://amzn.to/4i6CjCf
-
-current: true
 ---
