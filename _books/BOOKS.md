@@ -36,7 +36,7 @@ amazon_link: https://amzn.to/30AM30W
 
 # Optional properties below
 favorite: true
-
+current: true
 notes: true
 
 reviewers:
@@ -77,6 +77,7 @@ recommended_by:
 | goodreads_id | No | Goodreads book identifier |
 | amazon_link | No | Amazon affiliate link |
 | favorite | No | Whether this is a favorite (`true`/`false`) – styles it bold in the list |
+| current | No | Whether this is a current read (`true`/`false`) |
 | notes | No | Whether you have notes for this book (`true`/`false`) – shows an icon in the list|
 | reviewers | No | List of other reviews with `author` and `url` |
 | recommended_by | No | List of recommendations with `title`, `author`, and `url` |
