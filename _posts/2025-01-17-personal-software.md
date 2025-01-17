@@ -25,7 +25,7 @@ rather than automate, I just deal with it.
 This means dozens of daily nags go on nagging —they don’t nag enough to warrant the cost of solving. And they aren’t painful enough to search for and
 buy software to fix. So I go on muddling through with hacks, workarounds, and unanswered wishes.
 
-But yesterday with a few prompts Cursor, in 15 minutes I made (or the AI made) a shell script to handle images that I can reuse next time. I didn’t even look at the code it wrote. Just typed 3 bullets of a description of what I wanted in a readme file, and out comes the code. An annoying process goes away, never having to search around for existing tools. Even if a solution did exist, it'd probably be part of a bundle of other features I don't need; I’d pay for the Cadillac when I only need a taxi.
+But yesterday with a few prompts [Cursor](https://www.cursor.com/ "Cursor"), in 15 minutes I made (or the AI made) a shell script to handle images that I can reuse next time. I didn’t even look at the code it wrote. Just typed 3 bullets of a description of what I wanted in a readme file, and out comes the code. An annoying process goes away, never having to search around for existing tools. Even if a solution did exist, it'd probably be part of a bundle of other features I don't need; I’d pay for the Cadillac when I only need a taxi.
 
 We’re moving into a new phase where personal software like this might often be the simplest path to a solution. In a world where we’re used to going to Google or GitHub, it’s now even faster to make your own. It’s cracked open new possibilities for people formerly incapable of creating their own tools.
 
