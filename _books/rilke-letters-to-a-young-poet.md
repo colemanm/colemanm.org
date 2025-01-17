@@ -16,7 +16,7 @@ genres:
 - writing
 - essays
 isbn: 9780486422459
-rating: 
+rating: 4
 pages: 80
 format: kindle
 publish_year: 1929
