@@ -19,4 +19,6 @@ layout: default
 
 {% include topics.html %}
 
-{% include related-posts.html %}
+{% if site.show_related_posts %}
+  {% include related-posts.html %}
+{% endif %}

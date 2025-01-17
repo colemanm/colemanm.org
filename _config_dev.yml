@@ -30,6 +30,8 @@ sass:
 feed:
   path: atom.xml
 
+show_related_posts: false
+
 exclude:
   - CONTRIBUTING.md
   - README.md

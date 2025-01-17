@@ -36,6 +36,8 @@ exclude:
   - ".bundle"
   - vendor
 
+show_related_posts: true
+
 plugins:
   - jemoji
   - jekyll-redirect-from
