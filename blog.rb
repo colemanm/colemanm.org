@@ -26,7 +26,7 @@ class Blog < Thor
       post.puts <<~BLOGPOST
         ---
         layout: post
-        date: 
+        date: #{datetime}
         title: "#{title.tr('-', ' ')}"
         description: ""
         img: /images/post-images/
@@ -105,7 +105,7 @@ class Blog < Thor
         format: 
         publish_year: 
         publisher: 
-        date_started: 2023-
+        date_started: 2025-
         date_completed: 
         goodreads_id: 
         amazon_link: 
