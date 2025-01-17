@@ -2,7 +2,7 @@
 layout: post
 date: 2025-01-17 08:50:00
 title: "Personal Software"
-description: "AI development is opening up a new space: personal tools for smalll problems."
+description: "AI development is opening up a new space: personal tools for small problems."
 img: /images/post-images/personal-software.jpg
 categories: blog
 tags:
