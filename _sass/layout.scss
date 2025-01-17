@@ -379,6 +379,7 @@ img.bordered { border: 1px solid #ddd; }
 // Search
 .search-input {
   -webkit-appearance: none;
+  appearance: none;
   border: 1px solid #e5e7e7;
   font-family: inherit;
   font-size: 1.3em;
@@ -563,8 +564,6 @@ img.bordered { border: 1px solid #ddd; }
     width: auto;
     padding: 0 20px
   }
-  /*.archive { font-size: 0.9em; }
-  .archive .right-cell  { display: none; }*/
   h1 { font-size: 1.6em; }
   blockquote { margin: 0; }
   .subscribe-form {
