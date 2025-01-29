@@ -12,6 +12,9 @@ gem 'jekyll-archives'
 gem 'jemoji'
 gem 'thor'
 gem 'csv'
+gem 'ostruct'
+gem 'logger'
+gem 'benchmark'
 
 group :test, :development do
   gem 'html-proofer'
