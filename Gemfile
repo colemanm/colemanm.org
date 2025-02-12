@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 source 'http://rubygems.org'
 
 gem 'haml'
@@ -15,6 +13,8 @@ gem 'csv'
 gem 'ostruct'
 gem 'logger'
 gem 'benchmark'
+gem 'webrick'
+gem 'jekyll-postcss'
 
 group :test, :development do
   gem 'html-proofer'
@@ -25,5 +25,3 @@ group :test, :development do
   gem 'rubocop'
   gem 'sinatra-cross_origin'
 end
-
-gem "webrick", "~> 1.7"

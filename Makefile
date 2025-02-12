@@ -7,12 +7,13 @@ clean:
 	rm -rf _site
 
 run:
-	bundle exec jekyll serve --watch
+	bundle exec jekyll serve --watch --incremental --config _config_dev.yml
 
 install:
 	bundle install --path .bundle
 
 generate:
+
 	bundle exec ./generate
 
 releases:
