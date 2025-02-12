@@ -2,20 +2,25 @@
 layout: default
 ---
 
-<div class="post">
-  <h1>{{ page.title | xml_escape }}</h1>
-  <span class="meta">{{ page.date | date: '%B %-d, %Y' }} {% if page.edited %}&bull; <em>(edited: {{ page.edited | date: '%B %-d, %Y' }})</em>{% endif %} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
-  <div class="newsletter">
-  {% for newsletter in page.newsletters %}
-    <p><span class="icon"><img src="/images/res-extensa.jpg" alt="Res Extensa"></span> Also appeared in <a href="{{ newsletter.url }}">{{ newsletter.title }}</a></p>
-  {% endfor %}
-</div>
-  {% if page.book-id %}
-  {% include book-info.html %}
-  {% endif %}
-  <div class="body">{{ content }}</div>
-  {% include image-credit.html %}
-</div>
+<article class="max-w-[900px] mx-auto">
+  <h1 class="text-[40px] leading-tight font-semibold text-[#517AA3] mb-4">
+    {% if page.external-url %}
+      <a href="{{ page.external-url }}">{{ page.title }} →</a>
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </h1>
+  
+  <div class="text-[#9CA3AF] text-lg mb-12 flex items-center space-x-2">
+    <time class="text-[#D1D5DB]">{{ page.date | date: "%B %-d, %Y" }}</time>
+    <span class="text-[#D1D5DB]">•</span>
+    <a href="{{ page.url }}" class="text-[#517AA3] hover:text-[#3d5d7d]">#</a>
+  </div>
+
+  <div class="prose prose-lg prose-blue">
+    {{ content }}
+  </div>
+</article>
 
 {% include topics.html %}
 

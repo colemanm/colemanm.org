@@ -7,24 +7,24 @@
 {% include meta.html %}
 <link rel='shortcut icon' href='/images/favicon.ico'/>
 <link type="application/atom+xml" rel="alternate" href="https://www.colemanm.org/atom.xml" title="colemanm.org" />
-<link rel='stylesheet' href='/css/styles.css' type='text/css' media='screen' />
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 <script src="https://use.fontawesome.com/6c55d97f38.js"></script>
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Instrument+Serif&display=swap" rel="stylesheet">
 {% if page.maps %}{% include map.html %}{% endif %}
 {% if page.css %}<link href='/css/{{ page.css }}' rel='stylesheet' type='text/css' />{% endif %}
 {% if site.genres != "" %}
   {% include book-genres.html %}
 {% endif %}
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {% include google-analytics.html %}
 {% include posthog.html %}
 </head>
 
-<body>
+<body class="bg-white text-gray-800">
   {% include header.html %}
-  <div id="container">
-    <div id="main" class="limiter">
+
+  <div id="container" class="max-w-[900px] mx-auto px-4 py-8">
+    <div id="main" class="prose max-w-none">
       {{ content }}
     </div>
     <div class="mobile-nav">

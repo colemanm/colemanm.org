@@ -50,6 +50,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-postcss
+
+postcss:
+  cache: false
 
 jekyll-archives:
   enabled:
