@@ -23,6 +23,12 @@ collections:
     output: true
     permalink: /quotes/:title/
 
+# Settings
+profile: true
+future: false
+unpublished: false
+limit_posts: 5
+
 sass:
   sass_dir: _sass
   style: :compressed
@@ -33,16 +39,20 @@ feed:
 show_related_posts: false
 
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - .bundle/
+  - vendor/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
   - CONTRIBUTING.md
   - README.md
   - bundle
   - script
   - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - ".bundle"
-  - vendor
-  - node_modules
+  - package-lock.json
+  - package.json
 
 plugins:
   - jemoji
