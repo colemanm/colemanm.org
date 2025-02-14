@@ -58,6 +58,7 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-postcss
