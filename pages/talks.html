@@ -2,16 +2,17 @@
 layout: default
 title: Talks
 permalink: /talks/
-description: "Talks, presentations, and workshops."
+description: "Talks, presentations, and workshops"
 ---
 
-<div class="page talks">
 <h1>Talks</h1>
-<p>I've occasionally given talks and presentations at events, and enjoy doing it. I'm not the most confident public speaker in the world, so talking about things I'm passionate about helps me improve. Here are a few that I've done.</p>
-<div class="talk">
-{% for post in site.categories.talks %}
-  <p class="title"><a href="{{ post.url }}"><strong>{{ post.title | xml_escape }}</strong></a> &mdash; <a href="{{ post.eventlink }}">{{ post.event }}</a></p>
-  <div class="image"><a href="{{ post.url }}" class="img"><img src="{{ post.image }}" alt="{{ post.title | xml_escape }}" /></a></div>
+
+<p>I've occasionally given talks and presentations at events, and enjoy doing it. I'm not the most confident public speaker in the world, so talking
+about things I'm passionate about helps me improve. Here are a few that I've done.</p>
+
+{% assign talks = site.talks | sort: 'date' %}
+{% for talk in talks %}
+  <p class="title"><a href="{{ talk.url }}"><strong>{{ talk.title | xml_escape }}</strong></a> &mdash; <a href="{{ talk.eventlink }}">{{ talk.event }}</a></p>
+  <div class="image"><a href="{{ talk.url }}" class="img"><img src="{{ talk.image }}" alt="{{ talk.title | xml_escape }}" /></a></div>
 {% endfor %}
-</div>
-</div>
+
