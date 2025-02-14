@@ -4,60 +4,21 @@ title: Topic Archives
 description: "Blog archives by topic."
 ---
 
-<!-- <h1 class="archive__title">Archive of <span class="archive__badge">{{ page.title }}</span></h1>
-<ul class="archive__list">
-  {% for post in page.posts %}
-  <li class="archive__item">
-    <p><a href="{{ post.url | relative_url }}">{{ post.title }}</a></p>
-    <p class="archive__meta">
-      <span class="archive__date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </p>
-  </li>
-  {% endfor %}
-</ul> -->
-
-<div class="page archive">
 <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
 
-<div class='posts'>
-  {% for post in page.posts %}
-  <div class='{{ post.layout }}'>
-    <h2><a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
-    <span class='meta'>{{ post.date | date: '%B %-d, %Y' }} &bull; <a href='{{ post.url }}' title='Permalink'>#</a></span>
-    <div>
-      {{ post.content | truncatewords: 100 }}
-      {% include image-credit-home.html %}
-    </div>
-    <div class="end">&#10022;</div>
-  </div>
-  {% endfor %}
-  <div class="browse-archive"><a href="/archive">Browse the Archive &rarr;</a></div>
-</div>
-<!-- 
-<table cellspacing="0" class="archive-table">
 {% for post in page.posts %}
-	{% if post.status != "draft" %}
-  <tr class="{% cycle 'even', 'odd' %}">
-    {% if post.layout == "link" %}
-    <td class="archive-icon">🔗</td>
-    {% elsif post.tags contains "video" %}
-    <td class="archive-icon">📺</td>
-    {% elsif post.tags contains "music" %}
-    <td class="archive-icon">🎵</td>
-    {% elsif post.tags contains "quotes" %}
-    <td class="archive-icon">💬</td>
-    {% elsif post.tags contains "weekend reading" %}
-    <td class="archive-icon">📰</td>
-    {% elsif post.tags contains "books" and post.tags contains "reviews" %}
-    <td class="archive-icon">📚</td>
-    {% elsif post.tags contains "places" %}
-    <td class="archive-icon">🗺</td>
-    {% else %}
-    <td class="archive-icon">☕️</td>
-    {% endif %}
-    <td><a href='{{ post.url }}'>{{ post.title | xml_escape }}</a></td>
-    <td class="right-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
-  </tr>
-  {% endif %}
+<div class='{{ post.layout }}'>
+  <h2 class="mb-1"><a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
+  <span class="text-sm text-[#BBBBBB]">{{ post.date | date: '%B %-d, %Y' }} &bull; <a href="{{ post.url }}" title="Permalink">#</a></span>
+  <div>
+    {{ post.content | markdownify | truncatewords: 100 }}
+    {% include image-credit-home.html %}
+  </div>
+</div>
 {% endfor %}
-</table> -->
+
+<div class="flex justify-center"><a href="/archive">Browse the full archive &rarr;</a></div>
+
+<div class="flex justify-center my-8 text-[#BBBBBB]">
+  <span>✦</span>
+</div>

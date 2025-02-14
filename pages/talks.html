@@ -12,7 +12,8 @@ about things I'm passionate about helps me improve. Here are a few that I've don
 
 {% assign talks = site.talks | sort: 'date' %}
 {% for talk in talks %}
-  <p class="title"><a href="{{ talk.url }}"><strong>{{ talk.title | xml_escape }}</strong></a> &mdash; <a href="{{ talk.eventlink }}">{{ talk.event }}</a></p>
-  <div class="image"><a href="{{ talk.url }}" class="img"><img src="{{ talk.image }}" alt="{{ talk.title | xml_escape }}" /></a></div>
+<p class="title"><a href="{{ talk.url }}"><strong>{{ talk.title | xml_escape }}</strong></a> &mdash; <a href="{{ talk.eventlink }}">{{ talk.event }}</a></p>
+
+<div class="image"><a href="{{ talk.url }}" class="img"><img src="{{ talk.image }}" alt="{{ talk.title | xml_escape }}" /></a></div>
 {% endfor %}
 
