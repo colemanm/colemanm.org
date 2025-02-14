@@ -8,13 +8,15 @@ description: "About colemanm.org"
 
 # About
 
-Hi. I'm Coleman McCormick, a product guy living in St. Petersburg, Florida with my wife and two kids. I've spent my career in technology, starting out as a geographer with an IT background, now evolved into product management. Currently I'm working on [Fulcrum](https://www.fulcrumapp.com "Fulcrum"), a low-code platform for field services.
+Hi. I'm Coleman McCormick, a product founder, builder, and writer living on the Florida suncoast with my wife and two kids. I've spent my career in technology, starting out as a geographer, and evolving into product management, founding companies, and writing on the internet. I recently finished 15 years launching and building [Fulcrum](https://www.fulcrumapp.com "Fulcrum"), a low-code platform for field services. Now I run [Liminal
+Lab](https://onliminal.xyz "Liminal Lab"), a product strategy studio that helps companies launch and grow products.
 
 {% include image.html file="../about/about-coleman.jpg" description="Coleman McCormick" caption="no" %}
 
-**colemanm.org** is my personal blog which I first started back in 2010. I post about a variety of topics that interest me, including product development, technology, economics, philosophy, writing, books, and more. I'm an avid runner and sports fan, so sometimes there's a sprinkling of posts on athletics.
+**colemanm.org** is my personal blog which I first started back in 2010. I post about anything that interests me, including product development, tech,
+economics, philosophy, writing, books, and plenty more. I'm an avid runner and sports fan, so sometimes there's a sprinkling of athletics.
 
-Since October 2018 I've written a post every day here on the site. It's an exercise in creating a writing habit, and a personal challenge to see how long I can keep it up.
+From October 2018-2020 I wrote a post every day here, but put that on hiatus to do more longform writing in my newsletter [Res Extensa](https://www.resextensa.co "Res Extensa").
 
 I'm a supporter of RSS and the open web, so the best way to follow what I'm writing about is to [subscribe to the feed](/atom.xml "colemanm.org RSS"). If you want to get in touch, I'm easily accessible on [Twitter](https://twitter.com/colemanm "@colemanm on Twitter") or email @ coleman at mcco dot me. You'll also find me in a few other places on the internet like [GitHub](https://github.com/colemanm "Coleman on GitHub"), [LinkedIn](https://www.linkedin.com/colemanm "Coleman on LinkedIn"), and a few [talks on YouTube](https://www.youtube.com/playlist?list=PLLwa5sH_6pCdgk4DPDfVfS1AiR7babPNQ "Coleman's Talks").
 
@@ -47,7 +49,7 @@ I have a few recurring series posts that I return to on occasion.
 
 ## Colophon
 
-For anyone interested, this site is built minimally with [Jekyll](https://jekyllrb.com "Jekyll"), written in markdown, and hosted on [Netlify](https://www.netlify.com "Netlify").
+For anyone interested, this site is built with [Jekyll](https://jekyllrb.com "Jekyll"), written in markdown, and hosted on [Netlify](https://www.netlify.com "Netlify").
 
 ## Subscribe
 

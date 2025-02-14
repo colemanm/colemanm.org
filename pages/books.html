@@ -3,13 +3,13 @@ layout: default
 title: Library
 permalink: /books/
 img: /images/post-images/chamblin-book-haul-1.jpg
-description: "My personal library."
+description: "My reading log, with thoughts and highlights from books in my library."
 ---
 
-<div class="page archive">
+<div>
 <h1>Books</h1>
 
-<p>A reading log with thoughts and highlights from books in my library. I've flagged my favorites in bold.</p>
+<p>A reading log with thoughts and highlights from books in my library. I've flagged my favorites with a <span class="favorite-star">★</span>.</p>
 
 <h2>Currently Reading</h2>
 <table cellspacing="0" class="archive-table book-archive">
@@ -37,15 +37,14 @@ description: "My personal library."
   {% assign review = site.posts | where: 'book-id', book.slug | first %}
   <tr class="{% cycle 'even', 'odd' %}">
     <td class="title">
-      {% if book.favorite %}<strong>{% endif %}
-      <a href='{{ book.url }}'>{{ book.title | xml_escape }}</a>
-      {% if book.favorite %}</strong>{% endif %}
+      <a href="{{ book.url }}" {% if book.favorite %}class="font-bold"{% endif %}>{{ book.title | xml_escape }}</a>
+      {% if book.favorite %}<span class="favorite-star">★</span>{% endif %}
     </td>
     <td>{{ book.author }}</td>
     <td>{% if review %}<em><a href="{{ review.url }}">Review</a></em>{% endif %}
         {% if book.notes %}📝{% endif %}</td>
     <!-- <td>{% include book-rating.html %}</td> -->
-    <td class="book-date-completed">{{ book.date_completed | date: '%B %Y' }}</td>
+    <td class="book-date-completed">{{ book.date_completed | date: '%b %Y' }}</td>
     <td class="right-cell">{{ book.publish_year }}</td>
   </tr>
   {% endif %}
