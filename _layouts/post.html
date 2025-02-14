@@ -2,25 +2,15 @@
 layout: default
 ---
 
-<article class="max-w-[900px] mx-auto">
-  <h1 class="text-[40px] leading-tight font-semibold text-[#517AA3] mb-4">
-    {% if page.external-url %}
-      <a href="{{ page.external-url }}">{{ page.title }} →</a>
-    {% else %}
-      {{ page.title }}
-    {% endif %}
-  </h1>
-  
-  <div class="text-[#9CA3AF] text-lg mb-12 flex items-center space-x-2">
-    <time class="text-[#D1D5DB]">{{ page.date | date: "%B %-d, %Y" }}</time>
-    <span class="text-[#D1D5DB]">•</span>
-    <a href="{{ page.url }}" class="text-[#517AA3] hover:text-[#3d5d7d]">#</a>
-  </div>
+<h1 class="mb-1">{{ page.title }}</h1>
 
-  <div class="prose prose-lg prose-blue">
-    {{ content }}
-  </div>
-</article>
+<span class="text-sm text-[#BBBBBB]">{{ page.date | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
+
+<div class="body">{{ content }}</div>
+
+<div class="flex justify-center my-8 text-[#BBBBBB]">
+  <span>✦</span>
+</div>
 
 {% include topics.html %}
 

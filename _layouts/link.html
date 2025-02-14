@@ -2,12 +2,20 @@
 layout: default
 ---
 
-<div class="link">
-  <h1>{% for link in page.links %}{{ link.icon }} {% endfor %}<a href="{{ page.target }}">{{ page.title | xml_escape }} &rarr;</a></h1>
-  <span class="meta">{{ page.date | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
-  <div class="body">{{ content }}</div>
-  <!-- {% include topics.html %} -->
-  {% include image-credit.html %}
+<h1 class="mb-1">{% for link in page.links %}{{ link.icon }} {% endfor %}<a href="{{ page.target }}">{{ page.title | xml_escape }} &rarr;</a></h1>
+
+<span class="text-sm text-[#BBBBBB]">{{ page.date | date: '%B %-d, %Y' }} &bull; <a href="{{ page.url }}" title="Permalink">#</a></span>
+
+<div class="body">{{ content }}</div>
+
+<div class="flex justify-center my-8 text-[#BBBBBB]">
+  <span>✦</span>
 </div>
 
-{% include related-posts.html %}
+{% include topics.html %}
+
+{% include image-credit.html %}
+
+{% if site.show_related_posts %}
+  {% include related-posts.html %}
+{% endif %}
