@@ -22,6 +22,9 @@ collections:
   quotes:
     output: true
     permalink: /quotes/:title/
+  talks:
+    output: true
+    permalink: /talks/:title/
 
 # Settings
 profile: true
