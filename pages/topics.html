@@ -2,10 +2,9 @@
 layout: default
 title: Topics
 permalink: /topics/
-description: "Blog post topics."
+description: "Blog post topics"
 ---
 
-<div class="page topics">
 <h1>Topics</h1>
 
 <ul>
@@ -19,5 +18,3 @@ description: "Blog post topics."
   {% endcapture %}
   {{ tags | split:'<li>' | sort | join:'<li>' }}
 </ul>
-
-</div> 
