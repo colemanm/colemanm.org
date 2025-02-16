@@ -1,13 +1,72 @@
+/* Font loading behavior */
 @font-face {
-  font-family: 'Inter';
-  src: url('/assets/fonts/Inter-Regular.woff2') format('woff2');
+  font-family: 'Instrument Sans';
+  font-style: normal;
   font-weight: 400;
-  font-display: swap;
+  font-display: block;
+  src: local('Instrument Sans'),
+       url('/assets/fonts/InstrumentSans-Regular.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Inter';
-  src: url('/assets/fonts/Inter-Medium.woff2') format('woff2');
+  font-family: 'Instrument Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: block;
+  src: local('Instrument Sans Italic'),
+       url('/assets/fonts/InstrumentSans-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
   font-weight: 500;
-  font-display: swap;
+  font-display: block;
+  src: local('Instrument Sans Medium'),
+       url('/assets/fonts/InstrumentSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: italic;
+  font-weight: 500;
+  font-display: block;
+  src: local('Instrument Sans Medium Italic'),
+       url('/assets/fonts/InstrumentSans-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: block;
+  src: local('Instrument Sans SemiBold'),
+       url('/assets/fonts/InstrumentSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: italic;
+  font-weight: 600;
+  font-display: block;
+  src: local('Instrument Sans SemiBold Italic'),
+       url('/assets/fonts/InstrumentSans-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Instrument Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: local('Instrument Serif'),
+       url('/assets/fonts/InstrumentSerif-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Instrument Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: block;
+  src: local('Instrument Serif Italic'),
+       url('/assets/fonts/InstrumentSerif-Italic.ttf') format('truetype');
 } 

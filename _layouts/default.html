@@ -7,10 +7,11 @@
 {% include meta.html %}
 <link rel='shortcut icon' href='/images/favicon.ico'/>
 <link type="application/atom+xml" rel="alternate" href="https://www.colemanm.org/atom.xml" title="colemanm.org" />
+<link rel="preload" href="/assets/fonts/InstrumentSans-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/assets/fonts/InstrumentSans-Medium.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/assets/fonts/InstrumentSerif-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Instrument+Serif&display=swap" rel="stylesheet">
 {% if page.maps %}{% include map.html %}{% endif %}
 {% if page.css %}<link href='/css/{{ page.css }}' rel='stylesheet' type='text/css' />{% endif %}
 {% if site.genres != "" %}
