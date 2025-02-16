@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '3.2.2'
+
 gem 'haml'
 gem 'jekyll'
 gem 'jekyll-feed'
