@@ -1,3 +1,5 @@
+<figure>
 <img class="full" src="/images/post-images/{{ include.file }}" alt="{{ include.description }}"
 {% if include.width %}width="{{ include.width }}"{% else %}width="850"{% endif %}>
-{% if include.caption != "no" %}<span class="caption">{{ include.description }}</span>{% endif %}
+{% if include.caption != "no" %}<figcaption class="caption">{{ include.description }}</figcaption>{% endif %}
+</figure>

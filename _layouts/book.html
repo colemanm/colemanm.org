@@ -2,49 +2,65 @@
 layout: default
 ---
 
-<div itemscope itemtype="http://schema.org/Review">
-<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"><meta content="1" itemprop="worstRating"><meta content="{{ book.rating }} itemprop=ratingValue"><meta content="5" itemprop="bestRating"></span>
-<div class="book" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
-  {% assign book = page %}
-  {% if book.cover == true %}
-  <img class="book-full-img" src="{{ site.url }}/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
-  {% endif %}
-  <h1 itemprop="name">{{ book.title | xml_escape }}</h1>
-  <h2 class="subtitle">{{ book.subtitle | xml_escape }}</h2>  
-  <h3>by <span class="author" itemprop="author">{{ book.author }}</span></h3>
-  {% if book.series %}<h4 class="series">part {{ book.part }} of <em>{{ book.series }}</em></h4>{% endif %}
-  <span class="book-meta">{% if book.date_completed %}Completed: {{ book.date_completed | date: '%B %-d, %Y' }} &bull; {% endif %}Published: <span itemprop="datePublished">{{ book.publish_year }}</span> &bull; <a href="{{ book.url }}" title="Permalink">#</a></span>
-  {% if book.current != true %}
-  {% include book-rating.html %}
-  {% endif %}
-  <div class="book-data">
-    <ul>
-      <li>{{ book.type | capitalize }}</li>
-      <li>Shelves: {{ book.genres | join: ", " }}</li>
-      <li><span itemprop="numberOfPages">{{ book.pages }}</span> pages</li>
-      <li>ISBN: {% if book.isbn == blank %}None{% endif %}<a href="https://worldcat.org/isbn/{{ book.isbn }}"><span itemprop="isbn">{{ book.isbn }}</span></a> (<a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a>)</li>
-      <li>Format: {{ book.format | capitalize }}</li>
-      {% if book.amazon_link %}
-      <li><a href="{{ book.amazon_link }}" title="Buy on Amazon">Buy on Amazon</a></li>
-      {% endif %}
-      {% if book.reviewers %}
-      <li>Other Readers: {% for reviewer in book.reviewers %}<a href="{{ reviewer.url }}" title="{{ reviewer.author }}">{{  reviewer.author }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</li>
-      {% endif %}
-    </ul>
-    <div class="newsletter">
-      {% for newsletter in book.newsletters %}
-      <p><span class="icon"><img src="/images/res-extensa.jpg" alt="Res Extensa"></span> Res Extensa: <a href="{{ newsletter.url }}">{{ newsletter.title }}</a></p>
-      {% endfor %}
+<div class="max-w-4xl mx-auto">
+  <div class="grid md:grid-cols-[1fr,220px] gap-8">
+    <div class="book-content">
+      <h1 class="font-semibold mb-1" itemprop="name">{{ page.title }}</h1>
+      <h2 class="text-xl text-gray-600 mb-4 mt-1">by {{ page.author }}</h2>
+      
+      <div class="text-gray-400 mb-4">
+        Published: {{ page.publish_year }} • <a href="{{ page.url }}" title="Permalink">#</a>
+      </div>
+
+      <ul class="text-gray-400 mb-8 pl-3 [&>li]:my-0.5 [&>li:last-child]:mb-0">
+        <li>{{ page.type | capitalize }}</li>
+        <li>Shelves: {{ page.genres | join: ", " }}</li>
+        <li>{{ page.pages }} pages</li>
+        <li>ISBN: <a href="https://isbnsearch.org/isbn/{{ page.isbn }}"><span itemprop="isbn">{{ page.isbn }}</span></a> (<a href="https://www.goodreads.com/book/show/{{ page.goodreads_id }}">Goodreads</a>)</li>
+        <li>Format: {{ page.format | capitalize }}</li>
+        {% if page.amazon_link %}
+        <li><a href="{{ page.amazon_link }}"">Buy on Amazon</a></li>
+        {% endif %}
+      </ul>
+
     </div>
+
+    {% if page.cover == true %}
+    <div class="book-cover">
+      <img class="w-full rounded-lg shadow-lg" src="{{ site.url }}/images/books/{{ page.slug }}.jpg" alt="{{ page.title }}" />
+    </div>
+    {% endif %}
   </div>
-  <div class="body">{{ content }}</div>
+
+  <div class="prose max-w-none">
+    {{ content }}
+  </div>
 </div>
-<div itemprop="publisher" itemscope itemtype=http://schema.org/Organization>
-  <meta content="colemanm.org" itemprop="name">
-  <meta content="{{ site.url }}" itemprop="url">
+
+<div class="flex justify-center my-8 text-[#BBBBBB]">
+  <span>✦</span>
 </div>
-<meta content="Coleman McCormick" itemprop="author">  
-<meta content="{{ site.url }}{{ book.url }}" itemprop="url">
-<meta content="{{ book.date_completed }}" itemprop="datePublished">
-<meta content="A review of {{ book.title }}" itemprop="description">
+
+<!-- Schema.org metadata -->
+<div class="hidden" itemscope itemtype="http://schema.org/Review">
+  <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <meta content="1" itemprop="worstRating">
+    <meta content="{{ page.rating }}" itemprop="ratingValue">
+    <meta content="5" itemprop="bestRating">
+  </span>
+  <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
+    <meta content="{{ page.title }}" itemprop="name">
+    <meta content="{{ page.author }}" itemprop="author">
+    <meta content="{{ page.isbn }}" itemprop="isbn">
+    <meta content="{{ page.pages }}" itemprop="numberOfPages">
+    <meta content="{{ page.publish_year }}" itemprop="datePublished">
+  </div>
+  <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta content="colemanm.org" itemprop="name">
+    <meta content="{{ site.url }}" itemprop="url">
+  </div>
+  <meta content="Coleman McCormick" itemprop="author">
+  <meta content="{{ site.url }}{{ page.url }}" itemprop="url">
+  <meta content="{{ page.date_completed }}" itemprop="datePublished">
+  <meta content="A review of {{ page.title }}" itemprop="description">
 </div>
