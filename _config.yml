@@ -21,24 +21,28 @@ collections:
   quotes:
     output: true
     permalink: /quotes/:title/
+  talks:
+    output: true
+    permalink: /talks/:title/
 
 feed:
   path: atom.xml
 
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - .bundle/
+  - vendor/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
   - CONTRIBUTING.md
   - README.md
   - bundle
   - script
   - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - ".bundle"
-  - vendor
-  - node_modules
-  - package.json
   - package-lock.json
-  - tailwind.config.js
+  - package.json
 
 show_related_posts: true
 

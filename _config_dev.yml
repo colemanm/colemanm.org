@@ -32,10 +32,6 @@ future: false
 unpublished: false
 limit_posts: 5
 
-sass:
-  sass_dir: _sass
-  style: :compressed
-
 feed:
   path: atom.xml
 
