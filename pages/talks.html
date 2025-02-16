@@ -1,0 +1,19 @@
+---
+layout: default
+title: Talks
+permalink: /talks/
+description: "Talks, presentations, and workshops"
+---
+
+<h1>Talks</h1>
+
+<p>I've occasionally given talks and presentations at events, and enjoy doing it. I'm not the most confident public speaker in the world, so talking
+about things I'm passionate about helps me improve. Here are a few that I've done.</p>
+
+{% assign talks = site.talks %}
+{% for talk in talks %}
+<p class="title"><a href="{{ talk.url }}"><strong>{{ talk.title | xml_escape }}</strong></a> &mdash; <a href="{{ talk.eventlink }}">{{ talk.event }}</a></p>
+
+<div class="image"><a href="{{ talk.url }}" class="img"><img src="{{ talk.image }}" alt="{{ talk.title | xml_escape }}" /></a></div>
+{% endfor %}
+

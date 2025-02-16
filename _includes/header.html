@@ -1,25 +1,22 @@
-<div id="headerwrap">
-<div id="header">
-  <table>
-    <tr>
-      <td>
-        <h1><a href="/">colemanm.org</a></h1>
-      </td>
-      <td>
-      <div id="navigation">
-        <ul>
-          <li><a href="/archive/"{% if page.url == "/archive/index.html" %} class="active"{% endif %}>Archive</a></li>
-          <!-- <li><a href="/topics/"{% if page.url == "/topics/index.html" %} class="active"{% endif %}>Topics</a></li> -->
-          <li class="nav-books"><a href="/books/">Books</a></li>
-          <li class="nav-links"><a href="/links/">Links</a></li>
-          <li class="nav-about"><a href="/about">About</a></li>
-          <li class="nav-tw"><a href="https://twitter.com/colemanm"><i class="fa fa-twitter fa-lg aqua" aria-hidden="true"></i></a></li>
-          <li class="nav-tw"><a href="/search/"><i class="fa fa-search"></i></a></li>
-        </ul>
+<header class="border-b-2 border-[#e5e7e7] bg-[#f2f3f3]">
+  <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between font-['Instrument_Serif']">
+    <a href="/" class="text-3xl font-semibold text-[#517AA3]">Coleman McCormick</a>
+    
+    <nav class="flex items-center space-x-8 text-xl">
+      <a href="/archive" class="text-[#517AA3] hover:text-[#3d5d7d] uppercase">Archive</a>
+      <a href="/books" class="text-[#517AA3] hover:text-[#3d5d7d] uppercase">Books</a>
+      <a href="/links" class="text-[#517AA3] hover:text-[#3d5d7d] uppercase">Links</a>
+      <a href="/about" class="text-[#517AA3] hover:text-[#3d5d7d] uppercase">About</a>
+      <a href="https://x.com/colemanm" class="text-[#517AA3] hover:text-[#3d5d7d]">
+        <span>𝕏</span>
+      </a>
+      <div class="flex items-center space-x-8 text-[#517AA3] hover:text-[#3d5d7d]">
+        <a href="/search" title="Search">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </a>
       </div>
-      </td>
-    </tr>
-  </table>
-
-</div>
-</div>
+    </nav>
+  </div>
+</header>

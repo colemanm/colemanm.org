@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "notes and links from @colemanm"
+description: "Notes, writing, and projects from Coleman McCormick"
 tags:
 - thinking
 - maps
@@ -8,22 +8,24 @@ tags:
 - reading
 ---
 
-<div class='posts'>
+<div class="posts">
   {% for post in site.categories.blog limit:10 %}
   <div class='{{ post.layout }}'>
-    <h2>{% if post.layout == "link" %}{% for link in post.links %}{{ link.icon }} {% endfor %}{% endif %}<a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
-    <span class='meta'>{{ post.date | date: '%B %-d, %Y' }} &bull; <a href='{{ post.url }}' title='Permalink'>#</a></span>
+    <h2 class="mb-1">{% if post.layout == "link" %}{% for link in post.links %}{{ link.icon }} {% endfor %}{% endif %}<a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
+    <span class="text-sm text-[#BBBBBB]">{{ post.date | date: '%B %-d, %Y' }} &bull; <a href='{{ post.url }}' title='Permalink'>#</a></span>
     <div>
-      {{ post.content }}
+      {{ post.content | markdownify }}
       {% include image-credit-home.html %}
     </div>
-    <div class="end">&#10022;</div>
+    <div class="flex justify-center my-4 text-[#BBBBBB]">&#10022;</div>
   </div>
   {% endfor %}
-  <div class="browse-archive"><a href="/archive">Browse the Archive &rarr;</a></div>
+  <div class="flex justify-center"><a href="/archive">Browse the Archive &rarr;</a></div>
 </div>
-<div class="end">&#10022;</div>
+<div class="flex justify-center my-8 text-[#BBBBBB]">
+  <span>✦</span>
+</div>
 
-<p>Subscribe here to receive my newsletter, Res Extensa, a companion to the blog including long form posts on my interests in product design, history, systems thinking, and more.</p>
+<p class="text-center">Also check out my newsletter, <a href="https://www.resextensa.co">Res Extensa</a>:</p>
 
 {% include subscribe.html align="center" %}

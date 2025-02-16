@@ -1,0 +1,21 @@
+---
+layout: default
+title: Links
+permalink: /links/
+description: "Links from the blog"
+---
+
+<h1>Links</h1>
+
+<p>An archive of links that have appeared on the blog.</p>
+
+<table cellspacing="0" class="archive-table">
+{% for post in site.posts %}
+  {% for link in post.links %}
+  <tr>
+    <td>{{ link.icon }} <a href='{{ link.url }}'>{{ link.title }}</a></td>
+    <td class="text-right"><a href='{{ post.url }}'>#</a></td>
+  </tr>
+  {% endfor %}
+{% endfor %}
+</table>

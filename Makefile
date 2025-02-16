@@ -7,10 +7,14 @@ clean:
 	rm -rf _site
 
 run:
-	bundle exec jekyll serve --watch
+	bundle exec jekyll serve --watch --incremental --config _config_dev.yml
+
+profile:
+	bundle exec jekyll build --config _config_dev.yml --profile
 
 install:
 	bundle install --path .bundle
+	npm install
 
 generate:
 	bundle exec ./generate

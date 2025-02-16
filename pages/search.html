@@ -1,0 +1,38 @@
+---
+layout: default
+title: Search
+permalink: /search/
+description: "Search the colemanm.org archives"
+---
+
+<style>
+  input[type="search"] {
+    font-size: inherit;
+    margin: 0;
+    padding: 8px;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+  }
+  input[type="search"]::-webkit-search-decoration,
+  input[type="search"]::-webkit-search-cancel-button,
+  input[type="search"]::-webkit-search-results-button,
+  input[type="search"]::-webkit-search-results-decoration {
+    display: none;
+  }
+</style>
+
+<h1>Search the Archives</h1>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<div class="flex justify-center max-w-[950px]">
+  <input 
+    placeholder="Search&hellip;" 
+    type="search" 
+    id="search" 
+    class="w-[950px] px-8 py-12 text-3xl border border-gray-300 rounded-xl focus:outline-none focus:border-[#517AA3] focus:ring-1 focus:ring-[#517AA3] mb-16 placeholder:text-gray-400"
+  >
+</div>
+
+<div id="results" class="all-posts results"></div>

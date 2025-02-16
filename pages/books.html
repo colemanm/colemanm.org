@@ -1,0 +1,53 @@
+---
+layout: default
+title: Library
+permalink: /books/
+img: /images/post-images/chamblin-book-haul-1.jpg
+description: "My reading log, with thoughts and highlights from books in my library."
+---
+
+<div>
+<h1>Books</h1>
+
+<p>A reading log with thoughts and highlights from books in my library. I've flagged my favorites with a <span class="favorite-star">★</span>.</p>
+
+<h2>Currently Reading</h2>
+<table>
+  {% assign books = site.books | sort: 'date_started' | reverse %}
+  {% for book in books %}
+    {% if book.status != "draft" and book.current %}
+    <tr class="{% cycle 'even', 'odd' %}">
+      <td class="title">
+        {% if book.favorite %}<strong>{% endif %}
+        <a href='{{ book.url }}'>{{ book.title | xml_escape }}</a> <span class="reread">{% if book.reread %}🔁{% endif %}</span>
+        {% if book.favorite %}</strong>{% endif %}
+      </td>
+      <td >{{ book.author }}</td>
+      <td>{{ book.publish_year }}</td>
+    </tr>
+    {% endif %}
+  {% endfor %}
+  </table>
+
+<h2>Bookshelf</h2>
+<table>
+{% assign books = site.books | sort: 'date_completed' | reverse %}
+{% for book in books %}
+  {% if book.status != "draft" and book.current != true and book.date_completed != nil %}
+  {% assign review = site.posts | where: 'book-id', book.slug | first %}
+  <tr class="{% cycle 'even', 'odd' %}">
+    <td class="title">
+      <a href="{{ book.url }}" {% if book.favorite %}class="font-bold"{% endif %}>{{ book.title | xml_escape }}</a>
+      {% if book.favorite %}<span class="favorite-star">★</span>{% endif %}
+    </td>
+    <td>{{ book.author }}</td>
+    <td>{% if review %}<em><a href="{{ review.url }}">Review</a></em>{% endif %}
+        {% if book.notes %}📝{% endif %}</td>
+    <!-- <td>{% include book-rating.html %}</td> -->
+    <td class="book-date-completed">{{ book.date_completed | date: '%b %Y' }}</td>
+    <td class="right-cell">{{ book.publish_year }}</td>
+  </tr>
+  {% endif %}
+{% endfor %}
+</table>
+</div>

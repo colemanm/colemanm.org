@@ -1,0 +1,20 @@
+---
+layout: default
+title: Topics
+permalink: /topics/
+description: "Blog post topics"
+---
+
+<h1>Topics</h1>
+
+<ul>
+  {% capture tags %}
+    {% for tag in site.tags %}
+      <li>
+          <a href="/topic/{{ tag[0] | slugify: 'pretty' }}">{{ tag[0] }}</a>
+          <span class="tag-count">{{ tag[1].size }}</span>
+      </li>
+    {% endfor %}
+  {% endcapture %}
+  {{ tags | split:'<li>' | sort | join:'<li>' }}
+</ul>

@@ -37,7 +37,7 @@ $(document).ready(function() {
     // Loop through, match, and add results
     for (var item in result) {
       var ref = result[item].ref;
-      var searchitem = '<div class="result"><div class="result-body link"><h2><a href="'+store[ref].link+'" class="post-title">'+store[ref].title+'</a></h2><div class="post-date small">'+store[ref].date+'</div><p>'+store[ref].excerpt+'</p></div>';
+      var searchitem = '<div class="mb-1"><div class="result-body link"><h2 style="margin-bottom: 0.25rem;"><a href="'+store[ref].link+'">'+store[ref].title+'</a></h2><span class="text-sm text-[#BBBBBB]">'+store[ref].date+'</span><p>'+store[ref].excerpt+'</p></div>';
       resultdiv.append(searchitem);
     }
   });

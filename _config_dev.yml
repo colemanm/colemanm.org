@@ -22,10 +22,15 @@ collections:
   quotes:
     output: true
     permalink: /quotes/:title/
+  talks:
+    output: true
+    permalink: /talks/:title/
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# Settings
+profile: true
+future: false
+unpublished: false
+limit_posts: 5
 
 feed:
   path: atom.xml
@@ -33,23 +38,32 @@ feed:
 show_related_posts: false
 
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - .bundle/
+  - vendor/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
   - CONTRIBUTING.md
   - README.md
   - bundle
   - script
   - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - ".bundle"
-  - vendor
-  - node_modules
+  - package-lock.json
+  - package.json
 
 plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-postcss
+
+postcss:
+  cache: false
 
 jekyll-archives:
   enabled:

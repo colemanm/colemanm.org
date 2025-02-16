@@ -1,0 +1,38 @@
+---
+layout: default
+title: Archives
+permalink: /archive/
+description: "Blog post archives."
+---
+
+<div>
+<h1>Archive</h1>
+
+<table cellspacing="0" class="archive-table">
+{% for post in site.categories.blog %}
+	{% if post.status != "draft" %}
+  <tr class="{% cycle 'even', 'odd' %}">
+    {% if post.layout == "link" %}
+    <td class="archive-icon">🔗</td>
+    {% elsif post.tags contains "video" %}
+    <td class="archive-icon">📺</td>
+    {% elsif post.tags contains "music" %}
+    <td class="archive-icon">🎵</td>
+    {% elsif post.tags contains "quotes" %}
+    <td class="archive-icon">💬</td>
+    {% elsif post.tags contains "weekend reading" %}
+    <td class="archive-icon">📰</td>
+    {% elsif post.tags contains "books" and post.tags contains "reviews" %}
+    <td class="archive-icon">📚</td>
+    {% elsif post.tags contains "places" %}
+    <td class="archive-icon">🗺</td>
+    {% else %}
+    <td class="archive-icon">☕️</td>
+    {% endif %}
+    <td><a href='{{ post.url }}'>{{ post.title | xml_escape }}</a></td>
+    <td class="right-cell">{{ post.date | date: "%m.%d.%Y"  }}</td>
+  </tr>
+  {% endif %}
+{% endfor %}
+</table>
+</div>
