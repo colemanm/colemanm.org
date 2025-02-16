@@ -1,24 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv='content-type' content='text/html; charset=utf-8' />
+<meta charset="utf-8">
 <meta name='robots' content='index'/>
-<title>{% if page.title %}{{ page.title | xml_escape}}{% if page.layout == "book"%} by {{ page.author }} — Summary, Notes, and Takeaways{% endif %} | {% endif %}Coleman McCormick</title>
+<title>{% if page.title %}{{ page.title | xml_escape}}{% if page.layout == "book"%} by {{ page.author }} — Summary, Notes, and Takeaways{% endif %} | {% endif %}Coleman McCormick</title>
 {% include meta.html %}
 <link rel='shortcut icon' href='/images/favicon.ico'/>
 <link type="application/atom+xml" rel="alternate" href="https://www.colemanm.org/atom.xml" title="colemanm.org" />
 <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-<script src="https://use.fontawesome.com/6c55d97f38.js"></script>
-<link rel="preconnect" href="https://fonts.gstatic.com">
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Instrument+Serif&display=swap" rel="stylesheet">
 {% if page.maps %}{% include map.html %}{% endif %}
 {% if page.css %}<link href='/css/{{ page.css }}' rel='stylesheet' type='text/css' />{% endif %}
 {% if site.genres != "" %}
   {% include book-genres.html %}
 {% endif %}
-{% include google-analytics.html %}
-{% include posthog.html %}
+{% include analytics/ga.html %}
+{% include analytics/posthog.html %}
 </head>
 
 <body class="bg-white text-gray-800">
