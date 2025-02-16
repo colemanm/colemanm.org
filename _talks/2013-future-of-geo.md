@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2013-10-02 15:53:15 EST
+date: 2013-10-02
 title: Future of Geo
 categories: talks
 image: /images/talks/future-of-geo.png

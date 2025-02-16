@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2011-07-28 18:00:00 EST
+date: 2011-07-28
 title: The Value of Local Knowledge
 categories: talks
 image: /images/talks/value-of-local-knowledge.png

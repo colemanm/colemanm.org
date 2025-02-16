@@ -14,9 +14,9 @@ profile:
 
 install:
 	bundle install --path .bundle
+	npm install
 
 generate:
-
 	bundle exec ./generate
 
 releases:

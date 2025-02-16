@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2012-04-10 18:00:00 EST
+date: 2012-04-10
 title: Fixing Geography in Education
 categories: talks
 image: /images/talks/fixing-geography-in-education.png

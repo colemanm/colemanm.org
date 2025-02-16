@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2011-09-09 10:00:00 EST
+date: 2011-09-09
 title: OSM in Commercial Products
 categories: talks
 image: /images/talks/osm-in-commercial-products.png

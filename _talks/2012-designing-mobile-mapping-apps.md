@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2012-09-06 09:31:24 EST
+date: 2012-09-06
 title: Designing Mapping Apps for Mobile
 categories: talks
 image: /images/talks/designing-for-mobile-mapping.png

@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2013-04-25 18:00:00 EST
+date: 2013-04-25
 title: Grassroots Mapping
 categories: talks
 image: /images/talks/grassroots-mapping.png

@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2013-06-08 09:00:00 EST
+date: 2013-06-08
 title: Pushpin, Statistics, and Mobile OpenStreetMap Editing
 categories: talks
 image: /images/talks/pushpin-stats.png

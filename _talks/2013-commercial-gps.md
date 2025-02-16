@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2013-04-16 21:13:23 EST
+date: 2013-04-16
 title: GPS and Commercial Uses
 categories: talks
 image: /images/talks/commercial-gps.png

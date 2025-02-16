@@ -1,6 +1,6 @@
 ---
 layout: talk
-date: 2012-02-10 18:00:00 EST
+date: 2012-02-10
 title: OSM Tampa Bay
 categories: talks
 image: /images/talks/osmtampabay.png
