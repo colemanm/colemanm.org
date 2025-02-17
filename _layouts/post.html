@@ -8,12 +8,9 @@ layout: default
 
 <div class="body">{{ content }}</div>
 
-<div class="flex justify-center my-8 text-[#BBBBBB]">
-  <span>✦</span>
-</div>
+{% include divider.html %}
 
 {% include topics.html %}
 
-{% if site.show_related_posts %}
-  {% include related-posts.html %}
-{% endif %}
+{% include related-posts.html %}
+
