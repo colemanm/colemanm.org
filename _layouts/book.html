@@ -6,9 +6,10 @@ layout: default
   <div class="grid md:grid-cols-[1fr,220px] gap-4 nav:gap-8">
     <div class="book-content">
       <h1 class="font-semibold mb-1" itemprop="name">{{ page.title }}</h1>
-      <h2 class="text-xl text-gray-600 mb-4 mt-1">by {{ page.author }}</h2>
+      <h2 class="text-xl text-gray-600 mt-1 mb-0">by {{ page.author }}</h2>
+      {% if page.series %}<h3 class="text-sm text-gray-500 inline-block py-1 mb-1">part {{ page.part }} of <em>{{ page.series }}</em></h3>{% endif %}
       
-      <div class="text-gray-400 mb-4">
+      <div class="text-gray-400 my-4">
         Published: {{ page.publish_year }} • <a href="{{ page.url }}" title="Permalink">#</a>
       </div>
 
