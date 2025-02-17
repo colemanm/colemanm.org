@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="max-w-4xl mx-auto">
-  <div class="grid md:grid-cols-[1fr,220px] gap-8">
+  <div class="grid md:grid-cols-[1fr,220px] gap-4 nav:gap-8">
     <div class="book-content">
       <h1 class="font-semibold mb-1" itemprop="name">{{ page.title }}</h1>
       <h2 class="text-xl text-gray-600 mb-4 mt-1">by {{ page.author }}</h2>
@@ -12,7 +12,7 @@ layout: default
         Published: {{ page.publish_year }} • <a href="{{ page.url }}" title="Permalink">#</a>
       </div>
 
-      <ul class="text-gray-400 mb-8 pl-3 [&>li]:my-0.5 [&>li:last-child]:mb-0">
+      <ul class="text-gray-400 mb-2 nav:mb-8 pl-3 [&>li]:my-0.5 [&>li:last-child]:mb-0">
         <li>{{ page.type | capitalize }}</li>
         <li>Shelves: {{ page.genres | join: ", " }}</li>
         <li>{{ page.pages }} pages</li>
@@ -27,7 +27,7 @@ layout: default
 
     {% if page.cover == true %}
     <div class="book-cover">
-      <img class="w-full rounded-lg shadow-lg" src="{{ site.url }}/images/books/{{ page.slug }}.jpg" alt="{{ page.title }}" />
+      <img class="w-full rounded-lg shadow-lg mt-2 nav:mt-8" src="{{ site.url }}/images/books/{{ page.slug }}.jpg" alt="{{ page.title }}" />
     </div>
     {% endif %}
   </div>

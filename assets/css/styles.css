@@ -590,6 +590,12 @@ video {
   }
 }
 
+@media (min-width: 800px) {
+  .container {
+    max-width: 800px;
+  }
+}
+
 @media (min-width: 1024px) {
   .container {
     max-width: 1024px;
@@ -755,13 +761,26 @@ video {
   color: #517AA3;
   font-weight: 800;
   font-size: 2.25em;
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
   line-height: 1.1111111;
 }
 
+@media (min-width: 800px) {
+  .prose :where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+}
+
 .prose :where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *)):first-child {
-  margin-top: 2.5rem;
+  margin-top: 1.25rem;
+}
+
+@media (min-width: 800px) {
+  .prose :where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *)):first-child {
+    margin-top: 2.5rem;
+  }
 }
 
 .prose :where(h1 strong):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
@@ -1164,6 +1183,16 @@ video {
   font-size: 0.875rem;
 }
 
+.prose :where(.index-first-h2):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  margin-top: 1.25rem;
+}
+
+@media (min-width: 800px) {
+  .prose :where(.index-first-h2):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+    margin-top: 3rem;
+  }
+}
+
 .prose :where(tbody td:last-child):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   text-align: right;
 }
@@ -1171,6 +1200,16 @@ video {
 .prose :where(.book-date-completed):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   width: 6.5rem;
   white-space: nowrap;
+}
+
+.prose :where(.posts h2:first-of-type):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  margin-top: 1.25rem;
+}
+
+@media (min-width: 800px) {
+  .prose :where(.posts h2:first-of-type):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+    margin-top: 3rem;
+  }
 }
 
 .visible {
@@ -1207,6 +1246,14 @@ video {
 
 .isolate {
   isolation: isolate;
+}
+
+.order-1 {
+  order: 1;
+}
+
+.order-2 {
+  order: 2;
 }
 
 .mx-auto {
@@ -1249,6 +1296,14 @@ video {
   margin-top: 0.5rem;
 }
 
+.-mt-2 {
+  margin-top: -0.5rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .block {
   display: block;
 }
@@ -1281,8 +1336,16 @@ video {
   height: 1.25rem;
 }
 
+.h-6 {
+  height: 1.5rem;
+}
+
 .w-5 {
   width: 1.25rem;
+}
+
+.w-6 {
+  width: 1.5rem;
 }
 
 .w-full {
@@ -1337,10 +1400,28 @@ video {
   gap: 2rem;
 }
 
+.gap-4 {
+  gap: 1rem;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
 .space-x-8 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(2rem * var(--tw-space-x-reverse));
   margin-left: calc(2rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+.space-y-4 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
 }
 
 .rounded-lg {
@@ -1353,6 +1434,10 @@ video {
 
 .border-b-2 {
   border-bottom-width: 2px;
+}
+
+.border-t {
+  border-top-width: 1px;
 }
 
 .border-\[\#e5e7e7\] {
@@ -1497,9 +1582,65 @@ video {
   color: rgb(61 93 125 / var(--tw-text-opacity, 1));
 }
 
+.prose-img\:w-full :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  width: 100%;
+}
+
+.prose-img\:max-w-full :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  max-width: 100%;
+}
+
+@media (min-width: 640px) {
+  .sm\:px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
 @media (min-width: 768px) {
+  .md\:order-1 {
+    order: 1;
+  }
+
+  .md\:order-2 {
+    order: 2;
+  }
+
+  .md\:mt-0 {
+    margin-top: 0px;
+  }
+
   .md\:grid-cols-\[1fr\2c 220px\] {
     grid-template-columns: 1fr 220px;
+  }
+}
+
+@media (min-width: 800px) {
+  .nav\:mb-8 {
+    margin-bottom: 2rem;
+  }
+
+  .nav\:mt-8 {
+    margin-top: 2rem;
+  }
+
+  .nav\:flex {
+    display: flex;
+  }
+
+  .nav\:hidden {
+    display: none;
+  }
+
+  .nav\:gap-8 {
+    gap: 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 }
 

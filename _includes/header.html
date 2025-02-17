@@ -2,7 +2,15 @@
   <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between font-['Instrument_Serif']">
     <a href="/" class="text-3xl font-semibold text-[#517AA3]">Coleman McCormick</a>
     
-    <nav class="flex items-center space-x-8 text-xl">
+    <!-- Mobile hamburger button -->
+    <button id="mobile-menu-button" class="nav:hidden text-[#517AA3] hover:text-[#3d5d7d]">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+      </svg>
+    </button>
+    
+    <!-- Desktop navigation -->
+    <nav class="hidden nav:flex items-center space-x-8 text-xl">
       <a href="/archive" class="text-[#517AA3] hover:text-[#3d5d7d] uppercase">Archive</a>
       <a href="/books" class="text-[#517AA3] hover:text-[#3d5d7d] uppercase">Books</a>
       <a href="/links" class="text-[#517AA3] hover:text-[#3d5d7d] uppercase">Links</a>
@@ -19,4 +27,22 @@
       </div>
     </nav>
   </div>
+
+  <!-- Mobile navigation -->
+  <div id="mobile-menu" class="hidden nav:hidden font-['Instrument_Serif'] bg-[#f2f3f3] border-t border-[#e5e7e7]">
+    <div class="px-4 py-4 space-y-4 text-xl">
+      <a href="/archive" class="block text-[#517AA3] hover:text-[#3d5d7d] uppercase">Archive</a>
+      <a href="/books" class="block text-[#517AA3] hover:text-[#3d5d7d] uppercase">Books</a>
+      <a href="/links" class="block text-[#517AA3] hover:text-[#3d5d7d] uppercase">Links</a>
+      <a href="/about" class="block text-[#517AA3] hover:text-[#3d5d7d] uppercase">About</a>
+      <a href="https://x.com/colemanm" class="block text-[#517AA3] hover:text-[#3d5d7d]">𝕏</a>
+      <a href="/search" class="block text-[#517AA3] hover:text-[#3d5d7d]">Search</a>
+    </div>
+  </div>
 </header>
+
+<script>
+  document.getElementById('mobile-menu-button').addEventListener('click', function() {
+    document.getElementById('mobile-menu').classList.toggle('hidden');
+  });
+</script>

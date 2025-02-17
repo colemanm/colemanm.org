@@ -61,10 +61,17 @@ module.exports = {
               },
               'h1': {
                 color: '#517AA3',
-                marginTop: '2.5rem',
-                marginBottom: '2.5rem',
-                '&:first-child': {
+                marginTop: '1.25rem',
+                marginBottom: '1.25rem',
+                '@screen nav': {
                   marginTop: '2.5rem',
+                  marginBottom: '2.5rem',
+                },
+                '&:first-child': {
+                  marginTop: '1.25rem',
+                  '@screen nav': {
+                    marginTop: '2.5rem',
+                  }
                 }
               },
               '.caption': {
@@ -82,6 +89,12 @@ module.exports = {
               },
               'h2': {
                 color: '#517AA3',
+              },
+              '.index-first-h2': {
+                marginTop: '1.25rem',
+                '@screen nav': {
+                  marginTop: '3rem',
+                }
               },
               'code::before': {
                 content: 'none !important',
@@ -109,11 +122,20 @@ module.exports = {
               'pre code::after': {
                 content: 'none !important',
               },
+              '.posts h2:first-of-type': {
+                marginTop: '1.25rem',
+                '@screen nav': {
+                  marginTop: '3rem',
+                }
+              },
             },
           },
         },
         fontFamily: {
           sans: ['Instrument Sans', 'sans-serif'],
+        },
+        screens: {
+          'nav': '800px',
         },
       },
     },

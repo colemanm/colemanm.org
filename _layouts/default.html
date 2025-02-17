@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name='robots' content='index'/>
 <title>{% if page.title %}{{ page.title | xml_escape}}{% if page.layout == "book"%} by {{ page.author }} — Summary, Notes, and Takeaways{% endif %} | {% endif %}Coleman McCormick</title>
 {% include meta.html %}
@@ -21,10 +22,10 @@
 {% include analytics/posthog.html %}
 </head>
 
-<body class="bg-white text-gray-800">
+<body class="bg-white text-gray-800 overflow-x-hidden">
   {% include header.html %}
-  <div id="container" class="max-w-[850px] mx-auto px-4 py-4">
-    <div id="main" class="prose max-w-none">
+  <div id="container" class="max-w-[850px] mx-auto px-4 sm:px-6 lg:px-8 py-4 w-full">
+    <div id="main" class="prose max-w-none prose-img:max-w-full prose-img:w-full">
       {{ content }}
     </div>
     {% include footer.html %}
