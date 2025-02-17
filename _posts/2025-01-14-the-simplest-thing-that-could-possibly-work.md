@@ -3,7 +3,7 @@ layout: link
 date: 2025-01-14 10:02:00
 title: "The Simplest Thing That Could Possibly Work"
 target: https://www.resextensa.co/p/the-simplest-thing-that-could-possibly
-description: "Start simple > get it working > iterate > advance."
+description: "Start simple > get it working > iterate > advance"
 categories: blog
 tags:
 - simplicity
