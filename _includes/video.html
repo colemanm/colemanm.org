@@ -1,3 +1,9 @@
-<div class="video mt-2">
-    <iframe width="850" height="478" src="https://www.youtube.com/embed/{{ include.id }}" title="{{ include.title }}" frameborder="0" allowfullscreen></iframe>
+<div class="video mt-2 relative w-full pt-[56.25%]">
+    <iframe 
+        class="absolute top-0 left-0 w-full h-full" 
+        src="https://www.youtube.com/embed/{{ include.id }}" 
+        title="{{ include.title }}" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
 </div>

@@ -1,3 +1,11 @@
-<div class="video">
-  <iframe src="https://player.vimeo.com/video/{{ include.id }}" width="850" height="478" title="{{ include.title }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video mt-2 relative w-full pt-[56.25%]">
+  <iframe 
+    class="absolute top-0 left-0 w-full h-full"
+    src="https://player.vimeo.com/video/{{ include.id }}" 
+    title="{{ include.title }}" 
+    frameborder="0" 
+    webkitallowfullscreen 
+    mozallowfullscreen 
+    allowfullscreen>
+  </iframe>
 </div>
