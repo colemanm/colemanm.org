@@ -35,8 +35,6 @@ limit_posts: 5
 feed:
   path: atom.xml
 
-show_related_posts: false
-
 exclude:
   - .sass-cache/
   - .jekyll-cache/
