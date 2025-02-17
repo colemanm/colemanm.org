@@ -122,7 +122,13 @@ class Blog < Thor
     end
 
     def generate_datetime(postdate)
-      (postdate ? Time.parse(postdate) : Time.now).strftime('%F %R %H:%M:%S')
+      time = if postdate
+        # Add default time if none provided
+        postdate.include?(':') ? Time.parse(postdate) : Time.parse("#{postdate} 12:00:00")
+      else
+        Time.now
+      end
+      time.strftime('%F %H:%M:%S')
     end
   end
 end
