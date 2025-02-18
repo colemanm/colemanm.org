@@ -17,7 +17,7 @@ tags:
       {{ post.content | markdownify }}
       {% include image-credit-home.html %}
     </div>
-    <div class="flex justify-center my-4 text-[#BBBBBB]">&#10022;</div>
+    {% include divider.html %}
   </div>
   {% endfor %}
   <div class="flex justify-center"><a href="/archive">Browse the Archive &rarr;</a></div>

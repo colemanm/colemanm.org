@@ -4,7 +4,7 @@ title: A Funny Thing About Curiosity
 description: Henrik Karlsson's thoughts on being curious
 date: 2025-02-17T14:41:00.000Z
 target: https://www.henrikkarlsson.xyz/p/funny-curiosity
-image: /images/post-images/curiosity.jpg
+img: /images/post-images/curiosity.jpg
 categories: blog
 tags:
   - curiosity
