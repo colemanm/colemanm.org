@@ -52,3 +52,50 @@ collections:
           - { label: "URL", name: "url", widget: "string" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Icon", name: "icon", widget: "string" }
+  
+  - name: "book"
+    label: "Book"
+    folder: "_books"
+    create: true
+    slug: "{{author_last}}-{{title}}"
+    filter: { field: "layout", value: "book" }
+    sortable_fields: [ "date_started", "date_completed", "title", "author_last" ]
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "book"}
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Author Last Name", name: "author_last", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options:
+          - { label: "Fiction", value: "fiction" }
+          - { label: "Nonfiction", value: "nonfiction" }
+      - { label: "Cover", name: "cover", widget: "boolean" , default: true }
+      - { label: "Series", name: "series", widget: "string" }
+      - { label: "Part", name: "part", widget: "number" }
+      - label: "Genres"
+        name: "genres"
+        widget: "list"
+        collapsed: false
+        fields:
+          - { label: "Genre", name: "genre", widget: "string" }
+      - { label: "ISBN", name: "isbn", widget: "string" }
+      - { label: "Rating", name: "rating", widget: "number" }
+      - { label: "Pages", name: "pages", widget: "number" }
+      - label: "Format"
+        name: "format"
+        widget: "select"
+        options:
+          - { label: "Paperback", value: "paperback" }
+          - { label: "Hardcover", value: "hardcover" }
+          - { label: "Audiobook", value: "audiobook" }
+          - { label: "Kindle", value: "kindle" }
+      - { label: "Publish Year", name: "publish_year", widget: "number" }
+      - { label: "Publisher", name: "publisher", widget: "string" }
+      - { label: "Date Started", name: "date_started", widget: "datetime", date_format: "YYYY-MM-DD" }
+      - { label: "Date Completed", name: "date_completed", widget: "datetime", date_format: "YYYY-MM-DD" }
+      - { label: "Goodreads ID", name: "goodreads_id", widget: "string" }
+      - { label: "Amazon Link", name: "amazon_link", widget: "string" }
+  
