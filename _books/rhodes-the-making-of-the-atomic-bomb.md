@@ -18,10 +18,8 @@ pages: 886
 format: paperback
 publish_year: 1986
 publisher: Simon and Schuster
-date_started: 2023-08-02
+date_started: 
 date_completed: 
 goodreads_id: 16884
 amazon_link: https://amzn.to/3Kuj9Hi
-
-current: true
 ---
