@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="max-w-2xl mx-auto px-4 py-8">
+  <div class="prose prose-slate max-w-none">
+    <div class="flex items-baseline justify-between mb-4">
+      <time datetime="{{ "{{ page.date | date_to_xmlschema " }}}}" class="text-sm text-gray-500">
+        {{ "{{ page.date | date: '%B %d, %Y' " }}}}
+      </time>
+      <a href="/micro" class="text-sm text-blue-600 hover:text-blue-800">
+        ← back to microblog
+      </a>
+    </div>
+
+    {% raw %}{{ content | replace: '](/', '](/' | replace: '](media/', '](/images/micro/' }}{% endraw %}
+
+    {% raw %}{% if page.tags.size > 0 %}
+    <div class="mt-6">
+      {% for tag in page.tags %}
+        <span class="inline-block bg-gray-100 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
+          #{{ tag }}
+        </span>
+      {% endfor %}
+    </div>
+    {% endif %}{% endraw %}
+  </div>
+</article> 

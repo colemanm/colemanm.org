@@ -25,6 +25,9 @@ collections:
   talks:
     output: true
     permalink: /talks/:title/
+  micro:
+    output: true
+    permalink: /micro/:year/:month/:day/:title/
 
 # Settings
 profile: true
@@ -70,3 +73,7 @@ jekyll-archives:
   permalinks:
     tag: '/topic/:name/'
   slug_mode: default
+
+# Add to include media files
+include:
+  - "_micro/media"
