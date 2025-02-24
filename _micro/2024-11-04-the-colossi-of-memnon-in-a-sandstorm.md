@@ -6,7 +6,7 @@ tags:
 - art
 - egypt
 images:
-- media/e0ae1f7a.jpg
+- e0ae1f7a.jpg
 ---
 
 _**The Colossi of Memnon in a Sandstorm**_. Karl Wilhelm Diefenbach, 1896.

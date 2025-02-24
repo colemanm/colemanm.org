@@ -7,9 +7,9 @@ tags:
 - sculpture
 - art
 images:
-- media/574ca5e3.jpg
-- media/e0055c88.jpg
-- media/54a05832.jpg
+- 574ca5e3.jpg
+- e0055c88.jpg
+- 54a05832.jpg
 ---
 
 **Bernini in marble.**

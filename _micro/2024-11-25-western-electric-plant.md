@@ -10,7 +10,7 @@ tags:
 - architecture
 - chicago
 images:
-- media/0953bb44.png
+- 0953bb44.png
 ---
 
 **Western Electric Plant.** Cicero, IL.

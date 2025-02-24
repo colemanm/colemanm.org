@@ -7,7 +7,7 @@ tags:
 - italy
 - architecture
 images:
-- media/19b0102d.jpg
+- 19b0102d.jpg
 ---
 
 **The dome of _[Sta Maria Della Salute](https://en.wikipedia.org/wiki/Santa_Maria_della_Salute)_.** Venice.

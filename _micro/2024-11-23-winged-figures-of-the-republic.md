@@ -7,8 +7,8 @@ tags:
 - art
 - art deco
 images:
-- media/641d0794.jpg
-- media/6afacefc.jpg
+- 641d0794.jpg
+- 6afacefc.jpg
 ---
 
 _**Winged Figures of the Republic**_. By Oskar Hansen at Hoover Dam, 1937.

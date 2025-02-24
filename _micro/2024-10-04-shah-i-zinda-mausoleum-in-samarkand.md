@@ -6,7 +6,7 @@ tags:
 - art
 - russia
 images:
-- media/2c59fc8e.jpg
+- 2c59fc8e.jpg
 ---
 
 **_Shah-i-Zinda Mausoleum in Samarkand_**. Vasily Vereshchagin, 1869.

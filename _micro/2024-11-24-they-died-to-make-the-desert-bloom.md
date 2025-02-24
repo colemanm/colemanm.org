@@ -9,7 +9,7 @@ tags:
 - hoover dam
 - architecture
 images:
-- media/9ff4d0b6.jpg
+- 9ff4d0b6.jpg
 ---
 
 **“They died to make the desert bloom”**

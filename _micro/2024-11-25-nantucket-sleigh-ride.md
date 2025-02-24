@@ -6,7 +6,7 @@ tags:
 - art
 - painting
 images:
-- media/1e1bd804.jpg
+- 1e1bd804.jpg
 ---
 
 **_Nantucket Sleigh Ride_**. John Stobart.

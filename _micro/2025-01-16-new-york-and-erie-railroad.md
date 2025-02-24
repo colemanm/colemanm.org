@@ -8,7 +8,7 @@ tags:
 - maps
 - organizations
 images:
-- media/f3210db5.jpg
+- f3210db5.jpg
 ---
 
 **New York and Erie Railroad** diagram, 1855.

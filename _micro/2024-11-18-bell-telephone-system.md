@@ -7,7 +7,7 @@ tags:
 - technology
 - history
 images:
-- media/14318de3.jpg
+- 14318de3.jpg
 ---
 
 Map of the **Bell Telephone System** , 1909.

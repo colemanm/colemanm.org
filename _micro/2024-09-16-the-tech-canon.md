@@ -10,3 +10,4 @@ link:
   title: The Tech Canon
 ---
 
+My thoughts on the books that constitute Silicon Valley’s “canon” of essential, influential works.

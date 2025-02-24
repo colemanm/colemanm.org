@@ -7,7 +7,7 @@ tags:
 - western
 - america
 images:
-- media/cbc966c0.jpg
+- cbc966c0.jpg
 ---
 
 **_Canyon de Chelly_**. Edgar Alwin Payne, c. 1916.

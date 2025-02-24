@@ -9,7 +9,7 @@ tags:
 - music
 - history
 images:
-- media/d588ae67.jpg
+- d588ae67.jpg
 ---
 
 **_The Count and the Duke_**. Count Basie and Duke Ellington.

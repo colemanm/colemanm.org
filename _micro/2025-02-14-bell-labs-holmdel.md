@@ -7,7 +7,7 @@ tags:
 - severance
 - bell labs
 images:
-- media/9f3cc881.png
+- 9f3cc881.png
 ---
 
 **[Bell Labs Holmdel](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex)**. From _Severance_ season 2, episode 5.

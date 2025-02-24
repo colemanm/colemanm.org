@@ -5,7 +5,7 @@ type: photo
 tags:
 - art
 images:
-- media/ef33851d.jpg
+- ef33851d.jpg
 ---
 
 **_Fantasy Landscape with Buildings by a Lagoon_**. Francesco Guardí, 1790.

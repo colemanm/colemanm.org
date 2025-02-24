@@ -7,7 +7,7 @@ tags:
 - quotes
 - books
 images:
-- media/295894f1.png
+- 295894f1.png
 ---
 
 **Stewart Brand** on tradition.

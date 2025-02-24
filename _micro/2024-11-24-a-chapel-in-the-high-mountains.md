@@ -6,7 +6,7 @@ tags:
 - art
 - austria
 images:
-- media/829248bb.jpg
+- 829248bb.jpg
 ---
 
 **_A Chapel in the High Mountains_**. Hugo Hodiener.

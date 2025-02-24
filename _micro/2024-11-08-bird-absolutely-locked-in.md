@@ -8,7 +8,7 @@ tags:
 - history
 - music
 images:
-- media/d1126aa2.jpg
+- d1126aa2.jpg
 ---
 
 **_Bird absolutely locked in._** Charlie Parker and Tommy Potter, 1947.
