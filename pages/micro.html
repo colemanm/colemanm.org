@@ -4,18 +4,18 @@ title: Microblog
 permalink: /micro/
 ---
 
-<div class="max-w-2xl mx-auto px-4 py-8">
-  <h1 class="text-3xl font-bold mb-8">{{ page.title }}</h1>
+<h1>{{ page.title }}</h1>
 
-  <div class="space-y-12">
-    {% for post in site.micro reversed %}
-      <article class="prose prose-slate max-w-none">
+<div class="space-y-12">
+  {% for post in site.micro reversed %}
+    <article>
+      <div class="prose prose-slate max-w-none">
         <div class="flex items-baseline justify-between mb-2">
           <time datetime="{{ post.date | date_to_xmlschema }}" class="text-sm text-gray-500">
             {{ post.date | date: "%B %d, %Y" }}
           </time>
           <a href="{{ post.url }}" class="text-sm text-blue-600 hover:text-blue-800">
-            permalink
+            #
           </a>
         </div>
         
@@ -23,8 +23,8 @@ permalink: /micro/
         <div class="mb-4">
           <h2 class="text-xl font-semibold mb-2">
             {% for item in post.link %}
-            <a href="{{ item.url }}" class="text-blue-600 hover:text-blue-800">
-              {{ item.title }} →
+            <a href="{{ item.url }}" class="text-[#517AA3] hover:text-[#2d3939] hover:border-b hover:border-[#dd9922]">
+              {{ item.title }} &rarr;
             </a>
             {% endfor %}
           </h2>
@@ -32,7 +32,7 @@ permalink: /micro/
         {% endif %}
         
         {% if post.video %}
-        <div class="relative w-full mb-4" style="padding-bottom: 56.25%;">
+        <div class="relative w-full my-4" style="padding-bottom: 56.25%;">
           {% if post.video.provider == 'youtube' %}
           <iframe 
             src="https://www.youtube.com/embed/{{ post.video.id }}"
@@ -45,21 +45,34 @@ permalink: /micro/
           {% endif %}
         </div>
         {% endif %}
-        
-        {% if post.images %}
-        <figure class="my-4">
-          <img src="/images/micro/{{ post.images[0] | remove: 'media/' }}" alt="{{ post.image_alt }}" class="rounded-lg shadow-md">
-          {% if post.image_caption %}
-          <figcaption class="text-sm text-gray-600 mt-2 italic">{{ post.image_caption }}</figcaption>
-          {% endif %}
-        </figure>
-        {% endif %}
-        
-        <div class="prose-img:rounded-lg prose-img:shadow-md">
-          {{ post.content | markdownify }}
+      </div>
+
+      {% if post.images %}
+      <div class="prose prose-slate max-w-none my-4">
+        {% assign image_count = post.images | size %}
+        <div class="image-grid 
+          {% if image_count == 1 %}single-image{% endif %} 
+          {% if image_count == 3 %}odd-images{% endif %}">
+          {% for image in post.images %}
+            <div class="{% if image_count > 1 %}aspect-[4/3]{% endif %} overflow-hidden">
+              <img 
+                src="/images/micro/{{ image | remove: 'media/' }}"
+                alt="{{ post.image_alt }}"
+                class="rounded-lg shadow-md"
+                loading="lazy">
+            </div>
+          {% endfor %}
         </div>
-      </article>
-      {% include divider-micro.html %}
-    {% endfor %}
-  </div>
+        {% if post.image_caption %}
+          <figcaption class="text-sm text-gray-600 mt-2 italic text-center">{{ post.image_caption }}</figcaption>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      <div class="prose prose-slate max-w-none prose-img:rounded-lg prose-img:shadow-md">
+        {{ post.content | markdownify }}
+      </div>
+    </article>
+    {% include divider-micro.html %}
+  {% endfor %}
 </div>

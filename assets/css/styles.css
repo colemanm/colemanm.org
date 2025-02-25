@@ -1197,11 +1197,14 @@ video {
 .prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) img {
   margin: 0;
   width: 100%;
-  height: auto;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) > div {
   margin: 0;
+  height: 100%;
 }
 
 .prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)).odd-images div:first-child {
