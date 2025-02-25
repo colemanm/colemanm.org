@@ -4,25 +4,72 @@ layout: default
 
 <article class="max-w-2xl mx-auto px-4 py-8">
   <div class="prose prose-slate max-w-none">
-    <div class="flex items-baseline justify-between mb-4">
+    <div class="text-sm flex items-baseline justify-between mb-4">
       <time datetime="{{ "{{ page.date | date_to_xmlschema " }}}}" class="text-sm text-gray-500">
-        {{ "{{ page.date | date: '%B %d, %Y' " }}}}
+        {{ page.date | date: "%B %-d, %Y" }}
       </time>
-      <a href="/micro" class="text-sm text-blue-600 hover:text-blue-800">
-        ← back to microblog
+      <a href="/micro" class="text-[#517AA3] hover:text-[#2d3939] hover:border-b hover:border-[#dd9922]">
+        ← back
       </a>
     </div>
 
-    {% raw %}{{ content | replace: '](/', '](/' | replace: '](media/', '](/images/micro/' }}{% endraw %}
-
-    {% raw %}{% if page.tags.size > 0 %}
-    <div class="mt-6">
-      {% for tag in page.tags %}
-        <span class="inline-block bg-gray-100 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
-          #{{ tag }}
-        </span>
-      {% endfor %}
+    {% if page.link %}
+    <div class="mb-4">
+      <h2 class="text-xl font-semibold mb-2">
+        {% for item in page.link %}
+        <a href="{{ item.url }}" class="text-[#517AA3] hover:text-[#2d3939] hover:border-b hover:border-[#dd9922]">
+          {{ item.title }} &rarr;
+        </a>
+        {% endfor %}
+      </h2>
     </div>
-    {% endif %}{% endraw %}
+    {% endif %}
+    
+    {% if page.video %}
+    <div class="relative w-full my-4" style="padding-bottom: 56.25%;">
+      {% if page.video.provider == 'youtube' %}
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.video.id }}"
+        class="absolute top-0 left-0 w-full h-full rounded-lg"
+        title="YouTube video"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {% if page.images %}
+    <div class="prose prose-slate max-w-none my-4">
+      {% assign image_count = page.images | size %}
+      <div class="image-grid 
+        {% if image_count == 1 %}single-image{% endif %} 
+        {% if image_count == 3 %}odd-images{% endif %}">
+        {% for image in page.images %}
+          <div class="{% if image_count > 1 %}aspect-[4/3]{% endif %} overflow-hidden">
+            <img 
+              src="/images/micro/{{ image | remove: 'media/' }}"
+              alt="{{ page.image_alt }}"
+              class="rounded-lg shadow-md"
+              loading="lazy">
+          </div>
+        {% endfor %}
+      </div>
+      {% if page.image_caption %}
+        <figcaption class="text-sm text-gray-600 mt-2 italic text-center">{{ page.image_caption }}</figcaption>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {{ content | replace: '](/', '](/' | replace: '](media/', '](/images/micro/' }}
+
+    {% include divider.html %}
+
+    {% if page.tags.size > 0 %}
+    <div class="mt-6">
+      {% include topics.html %}
+    </div>
+    {% endif %}
   </div>
 </article> 

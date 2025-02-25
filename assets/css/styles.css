@@ -1375,6 +1375,10 @@ video {
   margin-top: 1.5rem;
 }
 
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
 .block {
   display: block;
 }
@@ -1405,6 +1409,10 @@ video {
 
 .hidden {
   display: none;
+}
+
+.aspect-\[4\/3\] {
+  aspect-ratio: 4/3;
 }
 
 .h-5 {
@@ -1497,6 +1505,10 @@ video {
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }
 
 .overflow-x-hidden {
@@ -1611,6 +1623,10 @@ video {
   text-transform: capitalize;
 }
 
+.italic {
+  font-style: italic;
+}
+
 .text-\[\#517AA3\] {
   --tw-text-opacity: 1;
   color: rgb(81 122 163 / var(--tw-text-opacity, 1));
@@ -1663,6 +1679,12 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+.shadow-md {
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
 .outline {
   outline-style: solid;
 }
@@ -1694,6 +1716,15 @@ video {
   re: Invent;
 }
 
+.hover\:border-b:hover {
+  border-bottom-width: 1px;
+}
+
+.hover\:border-\[\#dd9922\]:hover {
+  --tw-border-opacity: 1;
+  border-color: rgb(221 153 34 / var(--tw-border-opacity, 1));
+}
+
 .hover\:text-\[\#3d5d7d\]:hover {
   --tw-text-opacity: 1;
   color: rgb(61 93 125 / var(--tw-text-opacity, 1));
@@ -1702,6 +1733,11 @@ video {
 .hover\:text-blue-800:hover {
   --tw-text-opacity: 1;
   color: rgb(30 64 175 / var(--tw-text-opacity, 1));
+}
+
+.hover\:text-\[\#2d3939\]:hover {
+  --tw-text-opacity: 1;
+  color: rgb(45 57 57 / var(--tw-text-opacity, 1));
 }
 
 .prose-img\:w-full :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {

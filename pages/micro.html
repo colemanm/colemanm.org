@@ -10,13 +10,10 @@ permalink: /micro/
   {% for post in site.micro reversed %}
     <article>
       <div class="prose prose-slate max-w-none">
-        <div class="flex items-baseline justify-between mb-2">
-          <time datetime="{{ post.date | date_to_xmlschema }}" class="text-sm text-gray-500">
-            {{ post.date | date: "%B %d, %Y" }}
-          </time>
-          <a href="{{ post.url }}" class="text-sm text-blue-600 hover:text-blue-800">
-            #
-          </a>
+        <div class="flex items-baseline mb-2">
+          <span class="text-sm text-[#BBBBBB]">
+            {{ post.date | date: "%B %-d, %Y" }} &bull; <a href="{{ post.url }}" title="Permalink">#</a>
+          </span>
         </div>
         
         {% if post.link %}
