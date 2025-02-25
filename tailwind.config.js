@@ -87,6 +87,28 @@ module.exports = {
                   marginTop: '0',
                 }
               },
+              '.image-grid': {
+                display: 'grid',
+                gridTemplateColumns: 'repeat(2, minmax(0, 1fr))',
+                gap: '1rem',
+                '&.single-image': {
+                  display: 'block',
+                  maxWidth: '100%',
+                },
+                '& img': {
+                  margin: '0',
+                  width: '100%',
+                  height: '100%',
+                  objectFit: 'cover',
+                },
+                '& > div': {
+                  margin: '0',
+                  height: '100%',
+                },
+                '&.odd-images div:first-child': {
+                  gridColumn: '1 / span 2',
+                }
+              },
               'h2': {
                 color: '#517AA3',
               },

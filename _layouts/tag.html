@@ -6,15 +6,81 @@ description: "Blog archives by topic."
 
 <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
 
-{% for post in page.posts %}
+{% assign all_posts = '' | split: '' %}
+
+{% for post in site.posts %}
+  {% if post.tags contains page.title %}
+    {% assign all_posts = all_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.micro %}
+  {% if post.tags contains page.title %}
+    {% assign all_posts = all_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% assign sorted_posts = all_posts | sort: 'date' | reverse %}
+
+{% for post in sorted_posts %}
 <div class='{{ post.layout }}'>
-  <h2 class="mb-1"><a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
+  {% if post.collection == 'posts' %}
+    <h2 class="mb-1"><a href='{% if post.layout == "link" %}{{ post.target }}{% elsif post.layout == "post"%}{{ post.url }}{% endif %}'>{{ post.title | xml_escape }} {% if post.layout == "link" %}&rarr;{% endif %}</a></h2>
+  {% endif %}
   <span class="text-sm text-[#BBBBBB]">{{ post.date | date: '%B %-d, %Y' }} &bull; <a href="{{ post.url }}" title="Permalink">#</a></span>
   <div>
-    {{ post.content | markdownify | truncatewords: 100 }}
-    {% include image-credit-home.html %}
+    {% if post.collection == 'micro' %}
+      {% if post.link %}
+        <h2 class="text-xl font-semibold mb-2">
+          {% for item in post.link %}
+          <a href="{{ item.url }}" class="text-[#517AA3] hover:text-[#2d3939] hover:border-b hover:border-[#dd9922]">
+            {{ item.title }} &rarr;
+          </a>
+          {% endfor %}
+        </h2>
+      {% endif %}
+      
+      {% if post.video %}
+      <div class="relative w-full my-4" style="padding-bottom: 56.25%;">
+        {% if post.video.provider == 'youtube' %}
+        <iframe 
+          src="https://www.youtube.com/embed/{{ post.video.id }}"
+          class="absolute top-0 left-0 w-full h-full rounded-lg"
+          title="YouTube video"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {% if post.images %}
+      <div class="prose prose-slate max-w-none my-4">
+        {% assign image_count = post.images | size %}
+        <div class="image-grid 
+          {% if image_count == 1 %}single-image{% endif %} 
+          {% if image_count == 3 %}odd-images{% endif %}">
+          {% for image in post.images %}
+            <div class="{% if image_count > 1 %}aspect-[4/3]{% endif %} overflow-hidden">
+              <img 
+                src="/images/micro/{{ image | remove: 'media/' }}"
+                alt="{{ post.image_alt }}"
+                class="rounded-lg shadow-md"
+                loading="lazy">
+            </div>
+          {% endfor %}
+        </div>
+        {% if post.image_caption %}
+          <figcaption class="text-sm text-gray-600 mt-2 italic text-center">{{ post.image_caption }}</figcaption>
+        {% endif %}
+      </div>
+      {% endif %}
+    {% endif %}
+    {{ post.content | markdownify }}
   </div>
 </div>
+{% include divider.html %}
 {% endfor %}
 
 <div class="flex justify-center"><a href="/archive">Browse the full archive &rarr;</a></div>

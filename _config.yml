@@ -24,6 +24,12 @@ collections:
   talks:
     output: true
     permalink: /talks/:title/
+  micro:
+    output: true
+    permalink: /micro/:year/:month/:day/:title/
+  topics:
+    output: true
+    permalink: /topic/:name/
 
 feed:
   path: atom.xml
@@ -52,12 +58,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
-
-jekyll-archives:
-  enabled:
-    - tags
-  layout: tag
-  permalinks:
-    tag: '/topic/:name/'
-  slug_mode: default

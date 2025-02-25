@@ -1,0 +1,339 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>In Praise of Memorization | Pearl Leff</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="all" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta name=”keywords” content="is memorizing important">
+
+    <link rel="shortcut icon" href="/src/images/favicon.ico" />
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic|Roboto:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/src/css/style.css" />
+
+    <!-- SEO -->
+    <meta name="title" content="In Praise of Memorization | Pearl Leff" />
+    <meta name="description" content="As I've gotten older I've started to understand that memorization is important, much more than we give it credit for." />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="www.pearlleff.com/in-praise-of-memorization" />
+    <meta property="og:title" content="In Praise of Memorization | Pearl Leff" />
+    <meta property="og:description" content="As I've gotten older I've started to understand that memorization is important, much more than we give it credit for." />
+
+    <!-- Twitter -->
+    <meta property="twitter:url" content="www.pearlleff.com/in-praise-of-memorization" />
+    <meta property="twitter:title" content="In Praise of Memorization | Pearl Leff" />
+    <meta property="twitter:description" content="As I've gotten older I've started to understand that memorization is important, much more than we give it credit for." />
+    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KD6CB980VL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KD6CB980VL');
+</script>
+
+<!--Google Analytics --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151675492-1"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+ 
+  gtag('config', 'UA-151675492-1');
+</script>
+</head>
+
+<body>
+    <h1>In Praise of Memorization</h1>
+
+    <p>I once worked at a small company of insanely&nbsp;productive
+        engineers. They were geniuses by any account. They knew the software stack
+        from top to bottom, from hardware to operating systems to Javascript, and could pull together in days
+        what would take teams at other companies months to years. Between them they were more productive than
+        any division I&#39;ve ever been in, including FAANG tech companies. In fact, they had written the
+        top-of-the-line specialized compiler in their industry &mdash; as a side project. (Their customers
+        believed that they had buildings of engineers laboring on their product, while in reality they had less
+        than 10.)</p>
+    <p>I was early in my career at the time and stunned by the sheer productivity and
+        brilliance of these engineers. Finally, when I got a moment alone with one of them, I asked him how they
+        had gotten to where they were. &nbsp;</p>
+    <p>He explained that they had been software engineers together in the intelligence
+        units of their country&#39;s military together. Their military intelligence computers hadn&#39;t been
+        connected to the internet, and if they wanted to look something up online, they had to walk to a
+        different building across campus. Looking something up online on StackOverflow was a major operation. So
+        they ended up reading reference manuals and writing down or memorizing the answers to their questions
+        because they couldn&#39;t look up information very easily. Over time, the knowledge accumulated.
+    </p>
+    <hr>
+    <p>
+        Memorization means purposely learning something so that you remember it with
+        muscle memory; that is, you know the information without needing to look it up.</p>
+    <p>
+        Every educator knows that memorization is passé in today's day and age. Facts are so effortlessly accessible
+        with modern technology and the internet that it's understanding how to analyze them that's important. Names,
+        places, dates, and other kinds of trivia don't matter, so much as the ability to logically reason about them.
+        Today anything can be easily looked up.
+    </p>
+
+    <p>But as I've gotten older I've started to understand that memorization is important, much more than we give it
+        credit for. Knowledge is at our fingertips and we can look anything up, but it's knowing what knowledge is
+        available and how to integrate it into our existing knowledge base that's important.
+    </p>
+
+    <div style="" data-section-style='6'>
+        <ul id='OFD9CAVX0VW'>
+            <li id='OFD9CAJ1IVG' class='subheading' value='1'><b>You Can&#39;t Reason Accurately Without
+                    Knowledge </b></li>
+        </ul>
+    </div>
+
+    <p>You know a lot of things.</p>
+
+    <p class="imgcontainer">
+        <span style="overflow: hidden; display: inline-block; margin: 0; border: 0 solid #000000;">
+            <img alt="" src="src/images/image5.png" width="624px" style="margin-left: 0; margin-top: 0;" title="">
+        </span>
+    </p>
+
+    <p>A lot of life involves reasoning: taking this information you have and making hypotheses
+        that connect different pieces in a way that provides a deeper understanding of them.</p>
+
+    <p class="imgcontainer">
+        <span style="overflow: hidden; display: inline-block; margin: 0; border: 0 solid #000000;">
+            <img alt="" src="src/images/image2.png" width="624px" style="margin-left: 0; margin-top: 0;" title="">
+        </span>
+    </p>
+
+    <p>
+        The more information you have muscle memory for, the more you can use to reason about.
+    </p>
+
+    <p class="imgcontainer">
+        <span style="overflow: hidden; display: inline-block; margin: 0; border: 0 solid #000000;">
+            <img alt="" src="src/images/image1.png" width="624px" style="margin-left: 0; margin-top: 0;" title="">
+        </span>
+    </p>
+
+    <p>But you can't draw connections between things you don&#39;t know exist, or
+        don&#39;t have a good &quot;feel&quot; for.
+    <p> The problem with not memorizing is that you're limited by the lack of data points, or nodes that you can make
+        connections between. In short, you're limited by your lack of understanding of what to look up.
+    </p>
+    <p>Here&#39;s a small illustration.
+    <p>Many would argue that there is no point for kids to memorize the world map today. But
+        if you know basic geography, you will hear all kinds of political analysis that only works because the person
+        arguing it doesn&#39;t have
+        any idea where anything is on a map. This is the problem with not making school kids learn basic
+        geography. You can look up any country on Google, but if you&#39;ve never had to memorize approximately
+        where they are, either voluntarily or in school, you&#39;ll never get a sense of why things are the way
+        they are.
+    <p>Here are some examples that show how that works.
+    <p>Why does Oman have so much power in today&#39;s Middle East - enough power that
+        it can stay neutral in the various regional conflicts and still be a dominant political player? </span>
+    </p>
+    <p>This is why:
+
+    <p class="imgcontainer">
+        <span style="overflow: hidden; display: inline-block; margin: 0; border: 0 solid #000000;">
+            <img alt="" src="src/images/image6.jpg" width="363px" style="margin-left: 0; margin-top: 0;" title="">
+        </span>
+    </p>
+
+    <p>Oman controls the <a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz</a>,
+        the only water-based entry to the Persian Gulf. Any country that messes with Oman
+        risks being denied access to the Persian Gulf.
+    <p>A second example: at the time of the writing of this article, Russia was a month
+        into an invasion into Ukraine. This is not the first time in even the decade that Russia has tried to
+        take over its neighbor: in 2014 Russia <a
+            href="https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation">illegally
+            invaded and annexed Crimea</a>, and is still controlled by Russia today. Why does Russia want to
+        control Crimea so badly? If it&#39;s a power play, why not threaten Belarus or Latvia, which also border
+        Russia and would be easy to take over?
+    <p>
+        This is why:
+    </p>
+    <p class="imgcontainer">
+        <span style="overflow: hidden; display: inline-block; margin: 0; border: 0 solid #000000;">
+            <img alt="" src="src/images/image3.png" width="624px" style="margin-left: 0; margin-top: 0;" title="">
+        </span>
+    </p>
+
+    <p>Crimea&#39;s <a href="https://en.wikipedia.org/wiki/Port_of_Sevastopol">Port of
+            Sevastopol</a> is a highly-desired prize for Russia: it gives Russia control over the Black Sea and
+        trade access to the Mediterranean Sea. Russia has only two warm-water ports that don&#39;t freeze during
+        the winter: <a href="https://en.wikipedia.org/wiki/Vladivostok">Vladivostok</a>, which opens to the
+        Pacific, and <a href="https://en.wikipedia.org/wiki/Great_Port_of_Saint_Petersburg">St. Petersburg</a>,
+        which opens to the Baltic. There are other factors as well, obviously, but Russia&#39;s pursuit of
+        warm-water ports is a frequently recurring theme in its history.
+    <p>This may seem basic, but many people have never thought to look up these places
+        on a map. &nbsp;If you were trying to just think of the answers you could easily miss them entirely. But
+        if you memorized the map at some point, you knew where those places are and probably could have thought
+        of the answer.
+    <p>Or try a basic historical example: if you know that the printing press was
+        invented in 1450, you can make the connection between that and the Protestant Reformation in 1517.
+
+    <p>The point is that memorizing data gives you a bank of material to run through
+        when forming and testing a hypothesis. When you rely solely on analysis as a form of
+        knowledge-synthesis, you&#39;ll often reach the wrong conclusions simply because you do not have good
+        data to base your deductions on. Of course you can and should research, but you&#39;ll be much more
+        accurate much more quickly when you&#39;ve got the information in your head at hand. &nbsp;
+    <p>Chances are, you won&#39;t naturally
+        remember all these facts, and that&#39;s where the memorization comes in.
+    <p>To paraphrase a saying that LessWrong readers will recognize, <a
+            href="https://www.lesswrong.com/tag/the-map-is-not-the-territory">your map is not the
+            territory</a>. Your job is to add as many features to your map as you can to
+        make it resemble the territory as closely as possible. The more detailed the features on
+        your map, the
+        closer you will be to having an accurate idea of the territory.
+    </p>
+    <div class="list-numbering-continue" style="--indent0: 2" data-section-style='6'>
+        <ul id='OFD9CAIMZDn'>
+            <li id='OFD9CA6DCUj' class='subheading' value='2'><b>Memorizing Organizes Your
+                    Knowledge</b></li>
+        </ul>
+    </div>
+    <p>You know that feeling when you&#39;ve got a lot of information about
+        something, but it&#39;s all jumbled and confusing and fragmented? You might feel
+        this way about car
+        parts, or historical events. Did the Babylonians come before or after the Persians?
+        Did Frederick
+        William I of Prussia come before or after Frederick I? Or William I?
+    <p>When you look up every fact you want to know independently of its context,
+        you risk it being jumbled and vague and fuzzy in your head. For example, if you
+        heard that Daylight
+        Savings Time started in 1916, you&#39;d likely quickly forget the date.
+    <p>But if you have key checkpoints of information memorized, new data has a
+        solid place to lodge itself in your mind. If you know that World War I started in
+        1914 and ended in
+        1918, and someone mentions that Daylight Savings Time started in 1916, you&#39;ll
+        quickly deduce
+        that they are related. You&#39;ll also remember the approximate date that Daylight
+        Savings Time
+        began: sometime during World War I.
+    <p>Imagine you&#39;re an engineering manager. Who would you rather hire: the
+        person who
+        knows exactly what features are available in PHP 7 and which are only available
+        in PHP 8, or the one
+        who will figure it out by trial-and-error of while writing each application and
+        seeing what fails?
+        Of course, the second engineer certainly may produce quality work. But the
+        first one unquestionably has an comprehensively organized framework of the tools
+        he has at his
+        disposal.
+    <p>Memorizing information gives you a concrete organizational scaffolding and
+        context in which to put new information. Memorizing an organized set of
+        facts means that new
+        information can be inserted in an orderly way, sandwiched or enhancing other
+        facts in an organized
+        framework.
+    </p>
+    <div class="list-numbering-continue" style="--indent0: 2" data-section-style='6'>
+        <ul id='OFD9CAIMZDn'>
+            <li id='OFD9CA6DCUj' class='subheading' value='3'><b>It Stays With
+                    You</b></li>
+        </ul>
+    </div>
+    <p>My high school completely eschewed memorization as a way of learning.
+        Because of that, students were outraged when, in tenth grade, an older
+        teacher tried to require
+        the class to memorize the equivalent of about four sentences of poetry
+        for a test. All hell
+        broke loose. Being asked to memorize forty words was slightly less
+        outrageous than being asked
+        to memorize the collected works of William Shakespeare. The students
+        brought articles in proofs
+        they had found online that memorization isn&#39;t a good way to learn,
+        that it would doom us all
+        to a life of lifeless brain-dead chanting of facts, that it would cause
+        all their neurons to
+        flop over and die from the effort. If I remember correctly, they even
+        tried to get parents
+        involved.
+    <p>But the school stood behind the teacher, and the teacher stood firm, and
+        ultimately we had to be able to repeat back the lines of the poem via a
+        fill-in-the-blank
+        section on the test.
+    <p>Over the years those lines have come back to me many times, and I
+        understand them on a much deeper level. There&#39;s no way I&#39;d ever
+        look them up, but having
+        them accessible has made my life immeasurably richer.
+    <p>Subconsciously, when you learn a piece by heart, its message
+        penetrates deep inside
+        you. It lies at your fingertips, ready for you to make use of it.
+        Many cultures have long
+        understood this. In Islam, people who memorize the entire Koran are
+        given the special title of
+        <em><a href="https://en.wikipedia.org/wiki/Hafiz_(Quran)">hafiz</a></em>,
+        or guardian. In a secular equivalent, I know people who have
+        memorized Rudyard Kipling's poem <a href="https://www.poetryfoundation.org/poems/46473/if---"
+            target="_blank">If&mdash;</a> to give
+        them a moral helping hand at times of crisis.
+    </p>
+    <p class="imgcontainer">
+        <span style="overflow: hidden; display: inline-block; margin: 0; border: 0 solid #000000;">
+            <img alt="" src="src/images/image4.png" width="305px" style="margin-left: 0; margin-top: 0;" title="">
+        </span>
+    </p>
+
+    <p>
+        Even if you don&#39;t really understand it the first time,
+        memorizing
+        information and literature gives you the opportunity to come
+        back to it. In the words of a
+        college professor of mine, the point of a liberal arts education
+        is to give you what to think
+        about. Having literature, poetry, or even just quotations at the
+        tip of your fingers makes for a
+        more vivid, vibrant, and resonant life.
+    </p>
+
+    <hr style='width:100%'>
+<small><a href="http://eepurl.com/gJgXfL">Be notified about new articles.</a></small>
+<br />    <style>
+#prev_post {
+    display: block;
+    position: initial;
+    float: left;
+    padding-top: 40px; 
+    padding-bottom: 40px;
+}
+
+#next_post {
+    display: block;
+    position: initial;
+    float: right;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* When screen is small */
+@media screen and (max-width: 600px) {
+    #prev_post, #next_post {
+        position: initial;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        float: left;
+    }
+</style>
+
+    <span id="prev_post">
+        <small>Previous:
+            <a href="https://www.pearlleff.com:443/seven-tips-for-a-junior-developer">Seven Tips For a Junior Developer</a>
+        </small>
+    </span>
+
+    <span id="next_post">
+        <small>Next: <a href="https://www.pearlleff.com:443/the-value-of-an-undergraduate-degree">The Value of an Undergraduate Degree</a></small>
+    </span>
+
+</body>
+
+</html>

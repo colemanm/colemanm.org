@@ -25,12 +25,18 @@ collections:
   talks:
     output: true
     permalink: /talks/:title/
+  micro:
+    output: true
+    permalink: /micro/:year/:month/:day/:title/
+  topics:
+    output: true
+    permalink: /topic/:name/
 
 # Settings
 profile: true
 future: false
 unpublished: false
-limit_posts: 5
+limit_posts: 100
 
 feed:
   path: atom.xml
@@ -57,16 +63,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
   - jekyll-postcss
 
 postcss:
   cache: false
 
-jekyll-archives:
-  enabled:
-    - tags
-  layout: tag
-  permalinks:
-    tag: '/topic/:name/'
-  slug_mode: default
+# Add to include media files
+include:
+  - "_micro/media"

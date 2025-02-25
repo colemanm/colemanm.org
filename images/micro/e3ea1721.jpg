@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script
+      defer
+      data-domain="calculatingempires.net"
+      src="https://plausible.io/js/script.js"
+    ></script>
+    <title>Calculating Empires</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+    <link rel="manifest" href="site.webmanifest" />
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <link rel="stylesheet" href="styles/main.css" tupe="text/css" />
+    <link rel="stylesheet" href="styles/light-dark.css" type="text/css" />
+    <link rel="stylesheet" href="styles/fonts.css" type="text/css" />
+    <link rel="stylesheet" href="./styles/ol/ol.css" type="text/css" />
+    <script src="./scripts/ol/ol.js"></script>
+    <script src="./scripts/ol/ol-layerswitcher.js"></script>
+    <link rel="stylesheet" href="./styles/ol/ol-layerswitcher.css" />
+    <meta
+      property="og:title"
+      content="Calculating Empires: A Genealogy of Technology and Power since 1500"
+    />
+    <meta
+      property="og:description"
+      content="Explore how technical and social structures co-evolved over five centuries in this large-scale research visualization."
+    />
+    <meta
+      property="og:image"
+      content="https://calculatingempires.net/content/calculating-empires-og.png"
+    />
+    <meta property="og:url" content="https://calculatingempires.net" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Calculating Empires: A Genealogy of Technology and Power since 1500"
+    />
+    <meta
+      name="twitter:description"
+      content="Explore how technical and social structures co-evolved over five centuries in this large-scale research visualization."
+    />
+    <meta
+      name="twitter:image"
+      content="https://calculatingempires.net/content/calculating-empires-og.png"
+    />
+    <meta name="twitter:url" content="https://calculatingempires.net" />
+    <meta
+      name="description"
+      content="Calculating Empires is a large-scale research visualization exploring how technical and social structures co-evolved over five centuries. View the contemporary period in a longer trajectory of ideas, devices, infrastructures, and systems of power."
+    />
+    <meta
+      name="keywords"
+      content="Calculating Empires, large-scale research visualization, technical and social structures, history of empires, communication, computation, classification, control"
+    />
+  </head>
+  <body class="dark">
+    <div id="header">
+      <div class="logo-wrapper">
+        <a href="/">
+          <h1 id="logo-title">Calculating Empires</h1>
+        </a>
+        <h2>A Genealogy of Technology and Power Since 1500</h2>
+      </div>
+      <nav class="navbar dark" style="text-transform: uppercase">
+        <div class="nav-container">
+          <div class="menu-icon" id="menu-icon">&#9776;</div>
+          <ul class="nav-links" id="nav-links">
+            <li class="nav-item">
+              <details id="audio-tours">
+                <summary style="list-style: none">Audio Tour</summary>
+                <style></style>
+                <ul class="dropdown">
+                  <li style="display: flex; flex-direction: column; gap: 10px">
+                    <div id="how-to-read-map">How to read the map</div>
+                  </li>
+                </ul>
+              </details>
+            </li>
+            <li class="nav-item">
+              <details>
+                <summary>Topics</summary>
+
+                <ul class="dropdown">
+                  <li class="menu-group">
+                    <details>
+                      <summary>Communication and Computation</summary>
+                      <ul class="submenu">
+                        <li>
+                          <a href="/?topic=communication-devices"
+                            >Communication devices</a
+                          >
+                        </li>
+                        <li><a href="/?topic=interfaces">Interfaces</a></li>
+                        <li>
+                          <a href="/?topic=communication-infrastructure"
+                            >Communication infrastructure</a
+                          >
+                        </li>
+                        <li>
+                          <a href="/?topic=data-organization"
+                            >Data organization</a
+                          >
+                        </li>
+                        <li><a href="/?topic=Algorithms">Algorithms</a></li>
+                        <li><a href="/?topic=Models">Models</a></li>
+                        <li>
+                          <a href="/?pos=67625.64%2C9468.73%2C15.5629"
+                            >Human computers</a
+                          >
+                        </li>
+                        <li><a href="/?topic=Hardware">Hardware</a></li>
+                        <li>
+                          <a href="/?topic=Unconventional-computing"
+                            >Unconventional computing</a
+                          >
+                        </li>
+                      </ul>
+                    </details>
+                  </li>
+                  <li class="menu-group">
+                    <details>
+                      <summary>Control and Classification</summary>
+                      <ul class="submenu">
+                        <li><a href="/?topic=time">Time</a></li>
+                        <li>
+                          <a href="/?topic=education"> Education </a>
+                        </li>
+                        <li>
+                          <a href="/?topic=Emotions-and-intelligence"
+                            >Emotions and intelligence</a
+                          >
+                        </li>
+                        <li>
+                          <a href="/?topic=Human-bodies">Human bodies</a>
+                        </li>
+                        <li><a href="/?topic=Biometrics">Biometrics</a></li>
+                        <li><a href="/?topic=Medical">Medical</a></li>
+                        <li><a href="/?topic=Prison">Prison</a></li>
+                        <li><a href="/?topic=Policing">Policing</a></li>
+                        <li><a href="/?topic=Borders">Borders</a></li>
+                        <li><a href="/?topic=Bureaucracy">Bureaucracy</a></li>
+                        <li><a href="/?topic=Colonialism">Colonialism</a></li>
+                        <li>
+                          <a href="/?topic=Political-and-economic-systems"
+                            >Political and economic systems</a
+                          >
+                        </li>
+                        <li><a href="/?topic=Production">Production</a></li>
+                        <li>
+                          <a href="/?topic=Energy-and-resources"
+                            >Energy and resources</a
+                          >
+                        </li>
+                        <li><a href="/?topic=Lithosphere">Lithosphere</a></li>
+                        <li>
+                          <a href="/?topic=Atmosphere-and-hydrosphere"
+                            >Atmosphere and hydrosphere</a
+                          >
+                        </li>
+                        <li><a href="/?topic=Biosphere">Biosphere</a></li>
+                        <li><a href="/?topic=Astrosphere">Astrosphere</a></li>
+                        <li>
+                          <a href="/?topic=Spatial-representation"
+                            >Spatial representation</a
+                          >
+                        </li>
+                        <li><a href="/?topic=Architecture">Architecture</a></li>
+                        <li>
+                          <a href="/?topic=Surveillance-infrastructure"
+                            >Surveillance infrastructure</a
+                          >
+                        </li>
+                        <li>
+                          <a href="/?topic=Military-doctrine"
+                            >Military doctrine</a
+                          >
+                        </li>
+                        <li>
+                          <a href="/?topic=Military-systems"
+                            >Military systems</a
+                          >
+                        </li>
+                      </ul>
+                    </details>
+                  </li>
+                </ul>
+              </details>
+            </li>
+            <li class="nav-item"><a href="about.html">About</a></li>
+            <li class="nav-item">
+              <a href="info.html" id="info-icon">
+                <img src="./content/info-icon-white.svg" />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <link rel="stylesheet" href="./styles/navbar.css" type="text/css" />
+      <link rel="stylesheet" href="./styles/audio-tour.css" type="text/css" />
+      <script src="./scripts/navbar.js"></script>
+    </div>
+    <div id="map-topics-line">
+      <div id="map-left-of-topics"></div>
+      <div id="map-topics"></div>
+    </div>
+    <div id="map-periods"></div>
+    <div id="map" class="map"></div>
+
+    <div id="audio-cc-container" style="display: none">
+      <div id="audio-cc-text-container">
+        <span id="audio-cc"></span>
+      </div>
+    </div>
+
+    <div id="footer">
+      <div class="theme-toggle-wrapper" id="footer-config">
+        <div id="map-preview" tabindex="0"></div>
+        <div class="zoom-wrapper">
+          <span id="zoom-in">
+            <img src="./content/plus-white.png" />
+          </span>
+          <span id="zoom-out"> <img src="./content/minus-white.png" /></span>
+        </div>
+        <div id="theme-toggle">
+          <span id="map-bg">Light mode</span>
+          <div class="theme-circle"></div>
+        </div>
+      </div>
+      <div
+        id="audio-controls"
+        style="
+          padding-left: 20px;
+          min-width: 300px;
+          margin-left: 1px;
+          display: none;
+          gap: 10px;
+          align-items: center;
+        "
+      >
+        <div class="play-btn" id="play-button" style="align-items: center">
+          <img style="height: 14px" src="./content/play-button-black.svg" />
+        </div>
+        <div id="pause-button" style="align-items: center">
+          <img style="height: 14px" src="./content/pause-button-black.svg" />
+        </div>
+        <div
+          style="
+            position: relative;
+            margin-top: 6px;
+            margin-bottom: 6px;
+            height: 2px;
+            flex-grow: 1;
+            max-width: 100px;
+            background: #8f8f8f;
+          "
+          id="progressBar"
+        >
+          <div
+            id="progress-value"
+            style="position: absolute; height: 2px; top: 0; left: 0"
+          ></div>
+        </div>
+        <div class="time" id="time" style="font-weight: 300">03:12</div>
+        <div
+          id="cc-button"
+          style="display: flex; align-items: center; cursor: pointer"
+        >
+          <img style="height: 20px" src="./content/cc-black.svg" />
+        </div>
+
+        <div
+          id="close-button"
+          style="
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            margin-left: -5px;
+            margin-bottom: 1.2px;
+          "
+        >
+          <img style="height: 24px" src="./content/stop-black.svg" />
+        </div>
+      </div>
+
+      <div id="unmute-button" style="align-items: center">
+        <img style="height: 24px" src="./content/sound-mute-black.svg" />
+      </div>
+      <div class="footer-credits" style="padding-left: 20px">
+        Kate Crawford and Vladan Joler (2023)
+      </div>
+    </div>
+    <script type="text/javascript" src="./scripts/topics/positions.js"></script>
+    <script
+      type="text/javascript"
+      src="./scripts/movements/how-to-read-the-map-subtitles.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="./scripts/movements/how-to-read-the-map.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="./scripts/movements/audio-tours.js"
+    ></script>
+    <script type="text/javascript" src="./scripts/axis-labels.js"></script>
+    <script type="text/javascript" src="./scripts/light-dark.js"></script>
+    <script type="text/javascript" src="./scripts/center-and-zoom.js"></script>
+    <script type="text/javascript" src="./scripts/map-movements.js"></script>
+    <script type="text/javascript" type="module">
+      let mapBgColor =
+        (localStorage.getItem("theme") || "dark") === "dark"
+          ? "black"
+          : "white";
+      const tileLayer = new ol.layer.Tile({
+        // opacity: 0.7,
+        source: new ol.source.TileImage({
+          attributions: "",
+          tileGrid: new ol.tilegrid.TileGrid({
+            extent: [0, 0.779308716828381876, 160980.000024848414, 17764],
+            origin: [0, 0.779308716828381876],
+            resolutions: [
+              1024.01272239340028, 512.006361196700141, 256.00318059835007,
+              128.001590299175035, 64.0007951495875176, 32.0003975747937588,
+              16.0001987873968794, 8.0000993936984397, 4.00004969684921985,
+              2.00002484842460992, 1.00001242421230496,
+            ],
+            tileSize: [256, 256],
+          }),
+          tileUrlFunction: function (tileCoord) {
+            return `./tiles_directory_${mapBgColor}_10/{z}/{x}/{y}.png`
+              .replace("{z}", String(tileCoord[0]))
+              .replace("{x}", String(tileCoord[1]))
+              .replace("{y}", String(-1 - tileCoord[2]));
+          },
+        }),
+      });
+      const layer = new ol.layer.Group({
+        title: "Overlay",
+        layers: [tileLayer],
+      });
+
+      // var mousePositionControl = new ol.control.MousePosition({
+      //   className: "custom-mouse-position",
+      //   target: document.getElementById("mouse-position"),
+      //   undefinedHTML: "&nbsp;",
+      // });
+      const { center, zoom } = getCenterAndZoom();
+
+      var map = new ol.Map({
+        controls: [], // ol.control.defaults.defaults().extend([mousePositionControl]),
+        target: "map",
+        layers: [layer],
+        view: new ol.View({
+          center: center,
+          zoom: zoom,
+          maxZoom: 18,
+          extent: [0, 0, 160980, 17450],
+          enableRotation: false,
+        }),
+      });
+
+      document.getElementById("zoom-in").addEventListener("click", () => {
+        map.getView().animate(
+          {
+            zoom: map.getView().getZoom() + 0.66,
+            duration: 250,
+          },
+          () => {
+            updateMapState();
+          }
+        );
+      });
+      document.getElementById("zoom-out").addEventListener("click", () => {
+        map.getView().animate(
+          {
+            zoom: map.getView().getZoom() - 0.66,
+            duration: 250,
+          },
+          () => {
+            updateMapState();
+          }
+        );
+      });
+      var view = map.getView();
+      renderLabels(view, map);
+      renderMapPreviewPosition(view, map);
+
+      function updateMapState() {
+        updateUrlParameters({
+          center: view.getCenter(),
+          zoom: view.getZoom(),
+        });
+        renderLabels(view, map);
+        renderMapPreviewPosition(view, map);
+      }
+      let start, previousTimeStamp;
+      //view.on("change:resolution", updateMapState);
+      function scheduleUpdateMapState(timeStamp) {
+        if (start === undefined) {
+          start = timeStamp;
+        }
+        const elapsed = timeStamp - start;
+
+        if (previousTimeStamp !== timeStamp) {
+          updateMapState();
+        }
+
+        if (elapsed < 200) {
+          // Stop the animation after 2 seconds
+          previousTimeStamp = timeStamp;
+
+          window.requestAnimationFrame(scheduleUpdateMapState);
+        }
+      }
+      //window.requestAnimationFrame(scheduleUpdateMapState);
+      window.addEventListener("resize", updateMapState);
+      view.on("change:zoom", updateMapState);
+      view.on("change:center", updateMapState);
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+    <script type="module" src="./scripts/audio-tour-prod.js"></script>
+  </body>
+</html>

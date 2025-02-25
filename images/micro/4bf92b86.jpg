@@ -1,0 +1,832 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head itemscope itemtype="http://schema.org/WebSite">
+	<link itemprop="url" rel="canonical" href="http://kk.org">
+	<title itemprop="name">The Technium: 101 Additional Advices</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="author" content="Kevin Kelly" />
+	<link href="https://kk.org/thetechnium/wp-content/themes/kkdotorg/style.css?v=1686963867" rel="stylesheet" type="text/css" />
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GX0L1CQQLP"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-GX0L1CQQLP');
+	</script>
+	<!-- end gtag -->
+		<script type="text/javascript" src="/cooltools/ct08various.js"></script>
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Technium &raquo; 101 Additional Advices Comments Feed" href="https://kk.org/thetechnium/101-additional-advices/feed/" />
+<meta property="fb:app_id" content="260296958547961">
+<meta property="og:title" content="101 Additional Advices">
+<meta property="og:description" content="Six years ago I celebrated my 68th birthday by gifting my children 68 bits of advice I wished I had gotten when I was their age. Every birthday after that I added more bits of advice for them until I &hellip; Continue reading &rarr;">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://kk.org/thetechnium/101-additional-advices/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@kevin2kelly">
+<meta name="twitter:creator" content="@kevin2kelly">
+<meta property="og:site_name" content="The Technium">
+<meta property="og:image" content="https://kk.org/wp-content/themes/kkdotorg/inc/images/og_default_1200.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/kk.org\/thetechnium\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.10"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://kk.org/thetechnium/wp-includes/css/dist/block-library/style.min.css?ver=5.9.10' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='parent-theme-css'  href='https://kk.org/thetechnium/wp-content/themes/kkdotorg/style.css?ver=5.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='style-/style09.css-css'  href='https://kk.org//style09.css?ver=5.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='style-/style07.css-css'  href='https://kk.org//style07.css?ver=5.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='child-theme-css'  href='https://kk.org/thetechnium/wp-content/themes/kkdotorg_technium_child/style.css?ver=20230616' type='text/css' media='all' />
+<style id='generateblocks-inline-css' type='text/css'>
+.gb-grid-wrapper-12c69822{display:flex;flex-wrap:wrap;row-gap:0px;}.gb-grid-wrapper-12c69822 > .gb-grid-column{box-sizing:border-box;}.gb-grid-wrapper > .gb-grid-column-31e6f6c0{width:100%;}p.gb-headline-995f7356{font-size:20px;}.gb-container .wp-block-image img{vertical-align:middle;}.gb-grid-wrapper .wp-block-image{margin-bottom:0;}.gb-highlight{background:none;}
+</style>
+<link rel="https://api.w.org/" href="https://kk.org/thetechnium/wp-json/" /><link rel="alternate" type="application/json" href="https://kk.org/thetechnium/wp-json/wp/v2/posts/7640" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kk.org/thetechnium/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://kk.org/thetechnium/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.10" />
+<link rel="canonical" href="https://kk.org/thetechnium/101-additional-advices/" />
+<link rel='shortlink' href='https://kk.org/thetechnium/?p=7640' />
+<link rel="alternate" type="application/json+oembed" href="https://kk.org/thetechnium/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkk.org%2Fthetechnium%2F101-additional-advices%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://kk.org/thetechnium/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkk.org%2Fthetechnium%2F101-additional-advices%2F&#038;format=xml" />
+	<!--[if IE 6]>
+	<link href="/style07-ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+</head>
+
+<body id="technium10">
+
+<div id="overlay"></div>
+
+<div id="logo-login">
+
+<div style="float:left;"><a href="https://kk.org/thetechnium/"><img src="https://kk.org/thetechnium/files/2014/04/technium010-logo.png" alt="The Technium" border="0"></a></div>
+<a class="menu" id="menubutton"><img src="https://kk.org/thetechnium/wp-content/themes/kkdotorg_technium_child/assets/menu.svg"></a>
+
+</div>
+
+<br clear=all />
+<div id="nav">
+	<a href="/"><img src="/img/navbars/navbar_01.gif" alt="kk lifestream" width="95" height="51" border="0" id="kklogo-white" /></a><br clear="all" />
+	<ul id="navbar" style="margin:0px;padding:0px;">
+		<li><a href="/kk/"><span class="asterisk">*</span>Lifestream</a></li>
+		<li><a href="/thetechnium/"><span class="asterisk">*</span>The Technium</a></li>
+		<li><a href="/cooltools"><span class="asterisk">*</span>Cool Tools</a></li>
+		<li><a href="http://truefilms.com/"><span class="asterisk">*</span>True Films</a></li>
+		<li><a href="/extrapolations/"><span class="asterisk">*</span>Extrapolations</a></li>
+		<li><a href="/screenpublishing/"><span class="asterisk">*</span>Screen Pub</a></li>
+		<li><a href="http://www.quantifiedself.com/"><span class="asterisk">*</span>Quantified Self</a></li>
+		<li><a href="/newrules/"><span class="asterisk">*</span>New Rules</a></li>
+		<li><a href="/streetuse/"><span class="asterisk">*</span>Street Use</a></li>
+		<li><a href="http://www.asiagrace.com/"><span class="asterisk">*</span>Asia Grace</a></li>
+		<li><a href="http://silver-cord.net"><span class="asterisk">*</span>Silver Cord</a></li>  
+		<li><a href="http://winkbooks.net"><span class="asterisk">*</span>WINK</a></li>  
+	</ul>
+
+	<div id="feedslink">
+		<span class="nav-nonlink"><a href="https://feedpress.me/thetechnium">FEEDS</a></span><a href="https://feedpress.me/thetechnium"><img src="/img/rss-grey.gif" alt="RSS feed" width="12" height="12" border="0" /></a>
+	</div>
+
+	<div id="searchposition"><br clear="all" />
+		<!-- Google CSE Search Box Begins  --> <div id="searchgraphic"><form id="searchbox_001456274107331321700:veju1y3ugeg" action="https://google.com/cse"><input type="hidden" name="cx" value="001456274107331321700:veju1y3ugeg" /><input type="hidden" name="cof" value="FORID:0" /><input type="hidden" name="ie" value="UTF-8" /><div style="float:left;"><input type="text" name="q" id="searchboxfield" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" /></div><div id="searchbuttoncont"><input  name="sa" type="image"  id="searchboxbutton" src="/img/ct08-searchbutton.gif" /></form></div><script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script></div><!-- Google CSE Search Box Ends -->
+		<br clear="all" /><br clear="all" />
+	</div>
+
+	<ul id="subnavbar" style="margin:0px;padding:0px;">
+		<li><a id="showArchive">Archive &raquo;</a></li>
+	</ul>
+
+</div>
+
+<div id="CTcontentcolumns">
+	<div id="categoriescol">
+		<ul id="catnavlist">
+			
+<h2 class="gb-headline gb-headline-1b523564 gb-headline-text">MOST POPULAR POSTINGS</h2>
+			<div class="textwidget"><li><a href="https://kk.org/thetechnium/1000_true_fans/">1,000 True Fans</a></li>
+<li><a href="https://kk.org/thetechnium/you-are-not-late/">You Are Not Late</a></li>
+<li><a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">68 Bits of Unsolicited Advice</a></li>
+<li><a href="https://kk.org/thetechnium/the-myth-of-a-superhuman-ai/">The Myth of a Superhuman AI</a></li>
+<li><a href="https://kk.org/thetechnium/better-than-fre/">Better Than Free</a></li>
+<li><a href="https://kk.org/thetechnium/scenius-or-comm/">Scenius, or Communal Genius</a></li>
+<li><a href="https://kk.org/thetechnium/the-thinkism-fallacy/">The Thinkism Fallacy</a></li>
+<li><a href="https://kk.org/thetechnium/12-assumptions-for-extraterrestrial-life/">12 Assumptions for Extraterrestrial Life</a></li>
+<li><a href="https://kk.org/thetechnium/some-contemporary-heresies/">Some Contemporary Heresies</a></li>
+<li><a href="https://kk.org/thetechnium/the-post-produc/">The Post-Productive Economy</a></li></div>
+		
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<h2 class="gb-headline gb-headline-30c9f5eb gb-headline-text">ARCHIVES</h2>
+
+<div class="gb-grid-wrapper gb-grid-wrapper-12c69822 catnavlist gb-query-loop-wrapper">
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7757 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-handoff-to-bots/">The Handoff to Bots</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7745 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/50-years-of-travel-tips/">50 Years of Travel Tips</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7640 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/101-additional-advices/">101 Additional Advices</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7613 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/type-2-growth/">Type 2 Growth</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7593 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/rights-responsibilities/">Rights / Responsibilities</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7577 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-scarcity-of-the-long-term/">The Scarcity of the Long-Term</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7574 post type-post status-publish format-standard has-post-thumbnail hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/hill-making-vs-hill-climbing/">Hill-Making vs Hill-Climbing</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7561 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/future-embarrassments/">Future Embarrassments</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7557 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-trust-flip/">The Trust Flip</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7550 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/">Things We Didn&#8217;t Know About Ourselves</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7546 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-boredom-device/">The Boredom Device</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7529 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/levels-of-wealth/">Levels of Wealth</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7524 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-tradeoffs-in-ai/">The Tradeoffs in AI</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7516 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/god-the-superposition/">God, the Superposition</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7511 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-best-since-sliced-bread/">The Best Since Sliced Bread</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7504 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/jobs-of-the-future/">Jobs of the Future</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7501 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-slow-frontier-of-genetic-choice/">The Slow Frontier of Genetic Choice</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7495 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/how-to-walk-and-talk/">How to Walk-and-Talk</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7488 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/paying-people-to-have-children/">Paying people to have children</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7484 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-missing-monuments-of-silicon-valley/">The Missing Monuments of Silicon Valley</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7443 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-sphere-a-new-platform/">The Sphere, a new platform</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7379 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/dreams-are-the-default-for-intelligence/">Dreams are the Default for Intelligence</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7369 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/cringeworthy-in-the-future/">Cringeworthy in the Future</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7137 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/chinas-immigrant-energy-underappreciated/">China&#8217;s Immigrant Energy, Underappreciated</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7354 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/12-assumptions-for-extraterrestrial-life/">12 Assumptions for Extraterrestrial Life</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7349 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/overcoming-bias-against-bigness/">Overcoming Bias Against Bigness</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7239 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-need-for-a-body/">The Need For a Body</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7222 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/wishful-worries/">Wishful Worries</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7214 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/robots-will-make-us-better-humans/">Robots Will Make Us Better Humans</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7144 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-religions-of-aliens/">The Religions of Aliens</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7117 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/future-scarcities/">Future Scarcities</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7196 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-propriety-path-platform/">The Propriety Path Platform</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7194 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/good-morning-new-robots/">Good Morning, New Robots!</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7185 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/more-wubble/">More Wubble</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7178 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/non-assigned-names/">Non-Assigned Names</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7165 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/not-future-proofing/">Not Future-Proofing</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7141 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-maintenance-of-wealth/">The Maintenance of Wealth</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7154 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/law-of-universal-uniqueness/">Law of Universal Uniqueness</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7130 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/three-levels-of-eugenics/">Three Levels of Eugenics</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7121 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/aliens-are-here-on-earth/">Aliens Are Here on Earth</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7104 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/training-ais-to-make-art/">Training AIs to Make Art</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7098 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/art-not-art/">Art / Not Art</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7088 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/art-as-an-excuse/">Art As an Excuse</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7080 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/alloception-i-saw-someone-in-there/">Alloception: I Saw Someone In There</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-6575 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-need-for-world-government/">The Need for World Government</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-7069 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/construction-is-life/">Construction is Life</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-6866 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/what-everyone-knows/">What Everyone Knows</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-6840 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/the-need-for-long-term-research/">The Need for Long-term Research</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-6855 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/growth-vs-evolution/">Growth vs Evolution</a></p>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-31e6f6c0 gb-query-loop-item post-6870 post type-post status-publish format-standard hentry"><div class="gb-container gb-container-31e6f6c0">
+<p class="gb-headline gb-headline-995f7356 gb-headline-text"><a href="https://kk.org/thetechnium/how-to-future/">How to Future</a></p>
+</div></div>
+</div>
+<li style="margin-top:50px;"><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a></li>		</ul>
+	</div>
+
+<div id="maincontent">
+
+					<h2><a href="https://kk.org/thetechnium/101-additional-advices/">101 Additional Advices</a></h2>
+<div id="nextprevbuttons">
+<a href="https://kk.org/thetechnium/weekly-links-03-22-2024/" rel="prev"><img src="/img/previous-button.gif" width="62" height="18" border="0" alt="Weekly Links, 03/22/2024" style="padding-right:6px;"/></a><a href="https://kk.org/thetechnium/weekly-links-04-19-2024/" rel="next"><img src="/img/next-button.gif" width="45" height="18" border="0" alt="Weekly Links, 04/19/2024" /></a></p>
+</div>
+<br clear=all /><div class="entrybody">
+
+<p>Six years ago I celebrated my 68th birthday by gifting my children 68 bits of advice I wished I had gotten when I was their age. Every birthday after that I added more bits of advice for them until I had a whole book of bits. That book was published a year ago as <em><a href="https://amzn.to/3UmkC85" data-type="URL" data-id="https://amzn.to/3UmkC85">Excellent Advice for Living</a></em>, which many people tell me they read very slowly, just one bit per day. In a few days I will turn 73, so again on my birthday, I offer an additional set of 101 bits of advice I wished I had known earlier. None of these appear in the book; they are all new. If you enjoy these, or find they resonate with your own experience, there are 460 more bits in my <em>Excellent Advice</em> book, all neatly bound between hard covers, in a handy size, ready to gift to a person younger than yourself. – KK</p>
+
+
+
+<p>•&nbsp;The best way to criticize something is to make something better.</p>
+
+
+
+<p>•&nbsp;Admitting that “I don’t know” at least once a day will make you a better person.</p>
+
+
+
+<p>•&nbsp;Forget trying to decide what your life’s destiny is. That’s too grand. Instead, just figure out what you should do in the next 2 years.</p>
+
+
+
+<p>•&nbsp;Aim to be effective, but unpredictable. That is, you want to act in a way that AIs have trouble modeling or imitating. That makes you irreplaceable.</p>
+
+
+
+<p>•&nbsp;Whenever you hug someone, be the last to let go.</p>
+
+
+
+<p>•&nbsp;Don’t save up the good stuff (fancy wine, or china) for that rare occasion that will never happen; instead use them whenever you can.</p>
+
+
+
+<p>•&nbsp;The best gardening advice: find what you can grow well and grow lots and lots of it.&nbsp;</p>
+
+
+
+<p>•&nbsp;Never hesitate to invest in yourself—to pay for a class, a course, a new skill. These modest expenditures pay outsized dividends.</p>
+
+
+
+<p>•&nbsp;Try to define yourself by what you love and embrace, rather than what you hate and refuse.</p>
+
+
+
+<p>•&nbsp;Read a lot of history so you can understand how weird the past was; that way you will be comfortable with how weird the future will be.</p>
+
+
+
+<p>•&nbsp;To make a room luxurious, remove things, rather than add things.</p>
+
+
+
+<p>• Interview your parents while they are still alive. Keep asking questions while you record. You’ll learn amazing things. Or hire someone to make their story into an oral history, or documentary, or book. This will be a tremendous gift to them and to your family. </p>
+
+
+
+<p>•&nbsp;If you think someone is normal, you don’t know them very well. Normalcy is a fiction. Your job is to discover their weird genius.</p>
+
+
+
+<p>•&nbsp;When shopping for anything physical (souvenirs, furniture, books, tools, shoes, equipment), ask yourself: where will this go? Don’t buy it unless there is a place it can live. Something may need to leave in order for something else to come in.</p>
+
+
+
+<p>•&nbsp;You owe everyone a second chance, but not a third.</p>
+
+
+
+<p>•&nbsp;When someone texts you they are running late, double the time they give you. If they say they’ll be there in 5, make that 10; if 10, it’ll be 20; if 20, count on 40.</p>
+
+
+
+<p>•&nbsp;Multitasking is a myth. Don’t text while walking, running, biking or driving. Nobody will miss you if you just stop for a minute.</p>
+
+
+
+<p>•&nbsp;You can become the world’s best in something primarily by caring more about it than anyone else.</p>
+
+
+
+<p>•&nbsp;Asking “what-if?” about your past is a waste of time; asking “what-if?” about your future is tremendously productive.</p>
+
+
+
+<p>•&nbsp;Try to make the kind of art and things that will inspire others to make art and things.&nbsp;</p>
+
+
+
+<p>•&nbsp;Once a month take a different route home, enter your house by a different door, and sit in a different chair at dinner. No ruts.</p>
+
+
+
+<p>•&nbsp;Where you live—what city, what country—has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change.</p>
+
+
+
+<p>•&nbsp;Every now and then throw a memorable party. The price will be steep, but long afterwards you will remember the party, whereas you won’t remember how much is in your checking account.</p>
+
+
+
+<p>•&nbsp;Most arguments are not really about the argument, so most arguments can’t be won by arguing.</p>
+
+
+
+<p>•&nbsp;The surest way to be successful is to invent your own definition of success. Shoot your arrows first and then paint a bull’s eye around where they land. You’re the winner!</p>
+
+
+
+<p>•&nbsp;When remodeling a home interior use big pieces of cardboard to mock-up your alterations at life size. Seeing things, such as counters, at actual size will change your plans, and it is so much easier to make modifications with duct tape and scissors.</p>
+
+
+
+<p>•&nbsp;There should be at least one thing in your life you enjoy despite being no good at it. This is your play time, which will keep you young. Never apologize for it.</p>
+
+
+
+<p>•&nbsp;Changing your mind about important things is not a consequence of stupidity, but a sign of intelligence.</p>
+
+
+
+<p>•&nbsp;You have 5 minutes to act on a new idea before it disappears from your mind.</p>
+
+
+
+<p>•&nbsp;What is important is seldom urgent and what is urgent is seldom important. To get the important stuff done, avoid the demands of the urgent.</p>
+
+
+
+<p>•&nbsp;Three situations where you’ll never regret ordering too much: when you are pouring concrete, when you are choosing a battery, and when you are getting ice for a party.</p>
+
+
+
+<p>•&nbsp;The patience you need for big things, is developed by your patience with the little things.</p>
+
+
+
+<p>•&nbsp;Don’t fear failure. Fear average.</p>
+
+
+
+<p>•&nbsp;When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward.</p>
+
+
+
+<p>•&nbsp;In a museum you need to spend at least 10 minutes with an artwork to truly see it. Aim to view 5 pieces at 10 minutes each rather than 100 at 30 seconds each.</p>
+
+
+
+<p>•&nbsp;For steady satisfaction, work on improving your worst days, rather than your best days.</p>
+
+
+
+<p>•&nbsp;Your decisions will become wiser when you consider these three words: “…and then what?” for each choice.</p>
+
+
+
+<p>•&nbsp;If possible, every room should be constructed to provide light from two sides.&nbsp; Rooms with light from only one side are used less often, so when you have a choice, go with light from two sides.</p>
+
+
+
+<p>•&nbsp;Never accept a work meeting until you’ve seen the agenda and know what decisions need to be made. If no decisions need to be made, skip the meeting.</p>
+
+
+
+<p>•&nbsp;You have no obligation to like everyone, and you are free to intensely dislike a person. But you owe everyone—even those you dislike—basic respect.</p>
+
+
+
+<p>•&nbsp;When you find yourself procrastinating, don’t resist. Instead lean into it. Procrastinate 100%. Try to do absolutely nothing for 5 minutes. Make it your job. You’ll fail. After 5 minutes, you’ll be ready and eager to work.</p>
+
+
+
+<p>•&nbsp;If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses.</p>
+
+
+
+<p>•&nbsp;There is a profound difference between thinking less of yourself (not useful), and thinking of yourself less (better).</p>
+
+
+
+<p>•&nbsp;Strong opinions, clearly stated, but loosely held is the recipe for an intellectual life. Always ask yourself: what would change my mind?</p>
+
+
+
+<p>•&nbsp;You can not truly become yourself, by yourself. Becoming one-of-a-kind is not a solo job. Paradoxically you need everyone else in the world to help make you unique.&nbsp;</p>
+
+
+
+<p>•&nbsp;If you need emergency help from a bystander, command them what to do. By giving them an assignment, you transform them from bewildered bystander to a responsible assistant.</p>
+
+
+
+<p>•&nbsp;The most common mistake we make is to do a great job on an unimportant task.</p>
+
+
+
+<p>•&nbsp;Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time.</p>
+
+
+
+<p>•&nbsp;Fail fast. Fail often. Fail forward. Failing is not a disgrace if you keep failing better.&nbsp;</p>
+
+
+
+<p>•&nbsp;Doing good is its own reward. When you do good, people will question your motive, and any good you accomplish will soon be forgotten. Do good anyway.</p>
+
+
+
+<p>•&nbsp;Best sleep aid: first, get really tired.</p>
+
+
+
+<p>•&nbsp;For every success there is a corresponding non-monetary tax of some kind. To maintain success you have to gladly pay these taxes.</p>
+
+
+
+<p>•&nbsp;Do not cling to a mistake just because you spent a lot of time making it.</p>
+
+
+
+<p>•&nbsp;For small tasks the best way to get ready is to do it immediately.&nbsp;</p>
+
+
+
+<p>•&nbsp;If someone is calling you to alert you to fraud, nine out of ten times they are themselves the fraudster. Hang up. Call the source yourself if concerned.</p>
+
+
+
+<p>•&nbsp;When you try to accomplish something difficult, surround yourself with friends.</p>
+
+
+
+<p>•&nbsp;You should be willing to look foolish at first, in order to look like a genius later.</p>
+
+
+
+<p>•&nbsp;Think in terms of decades, and act in terms of days.</p>
+
+
+
+<p>•&nbsp;The most selfish thing in the world you can do is to be generous. Your generosity will return you ten fold.</p>
+
+
+
+<p>•&nbsp;Discover people whom you love doing “nothing” with, and do nothing with them on a regular basis. The longer you can maintain those relationships, the longer you will live.</p>
+
+
+
+<p>•&nbsp;Forget diamonds; explore the worlds hidden in pebbles. Seek the things that everyone else ignores.</p>
+
+
+
+<p>•&nbsp;Write your own obituary, the one you’d like to have, and then everyday work towards making it true.</p>
+
+
+
+<p>•&nbsp;Avoid making any kind of important decision when you are either hungry, angry, lonely, or tired (HALT). Just halt when you are HALT.</p>
+
+
+
+<p>•&nbsp;What others want from you is mostly to be seen. Let others know you see them.</p>
+
+
+
+<p>•&nbsp;Working differently is usually more productive than working harder.</p>
+
+
+
+<p>•&nbsp;When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed.</p>
+
+
+
+<p>•&nbsp;If you have a good “why” to live for, no “how” will stop you.</p>
+
+
+
+<p>•&nbsp;If you are out of ideas, go for a walk. A good walk empties the mind—and then refills it with new stuff.</p>
+
+
+
+<p>•&nbsp;The highest form of wealth is deciding you have enough.</p>
+
+
+
+<p>•&nbsp;Education is overly expensive. Gladly pay for it anyway, because ignorance is even more expensive.</p>
+
+
+
+<p>•&nbsp;The cheapest therapy is to spend time with people who make you laugh.</p>
+
+
+
+<p>•&nbsp;Always be radically honest, but use your honesty as a gift not as a weapon. Your honesty should benefit others.</p>
+
+
+
+<p>•&nbsp;A good sign that you are doing the kind of work you should be doing is that you enjoy the tedious parts that other people find tortuous.&nbsp;</p>
+
+
+
+<p>•&nbsp;Being envious is a toxin. Instead take joy in the success of others and treat their success as your gain. Celebrating the success of others costs you nothing, and increases the happiness of everyone, including you.</p>
+
+
+
+<p>•&nbsp;The more persistent you are, the more chances you get to be lucky.</p>
+
+
+
+<p>•&nbsp;To tell a good story, you must reveal a surprise; otherwise it is just a report.</p>
+
+
+
+<p>•&nbsp;Small steps matter more when you play a long game because a long horizon allows you to compound small advances into quite large achievements.</p>
+
+
+
+<p>•&nbsp;If you are more fortunate than others, build a longer table rather than a taller fence.</p>
+
+
+
+<p>•&nbsp;Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting.</p>
+
+
+
+<p>•&nbsp;Work on your tone. Often ideas are rejected because of the tone of voice they are wrapped in. Humility covers many blemishes.</p>
+
+
+
+<p>•&nbsp;When you are right, you are learning nothing.</p>
+
+
+
+<p>•&nbsp;Very small things accumulate until they define your larger life. Carefully choose your everyday things.</p>
+
+
+
+<p>•&nbsp;It is impossible to be curious and furious at the same time, so avoid furious.</p>
+
+
+
+<p>•&nbsp;College is not about grades. No one cares what grades you got in college. College is about exploring. Just try stuff.</p>
+
+
+
+<p>•&nbsp;Weird but true: If you continually give, you will continually have.</p>
+
+
+
+<p>•&nbsp;To clean up your city, sweep your doorstep first.&nbsp;</p>
+
+
+
+<p>•&nbsp;Decisions like to present themselves as irreversible, like a one-way door. But most deciding points are two-way. Don’t get bogged down by decisions. You can usually back up if needed.&nbsp;</p>
+
+
+
+<p>•&nbsp;Every mistake is an opportunity to improvise.</p>
+
+
+
+<p>•&nbsp;You’ll never meet a very successful pessimistic person. If you want to be remarkable, get better at being optimistic.</p>
+
+
+
+<p>•&nbsp;You can’t call it charity unless no one is watching.</p>
+
+
+
+<p>•&nbsp;When you think of someone easy to despise—a tyrant, a murderer, a torturer—don’t wish them harm. Wish that they welcome orphans into their home, and share their food with the hungry. Wish them goodness, and by this compassion you will increase your own happiness.</p>
+
+
+
+<p>•&nbsp;Get good at being corrected without being offended.</p>
+
+
+
+<p>•&nbsp;The week between Christmas and New Years was invented to give you the perfect time to sharpen your kitchen knives, vacuum your car, and tidy the folders on your desktop.</p>
+
+
+
+<p>•&nbsp;There is no formula for success, but there are two formulas for failure: not trying and not persisting.</p>
+
+
+
+<p>•&nbsp;We tend to overrate the value of intelligence.You need to pair your IQ with other virtues. The most important things in life can not be attained through logic only.</p>
+
+
+
+<p>•&nbsp;If you are impressed with someone’s work, you should tell them, but even better, tell their boss.&nbsp;</p>
+
+
+
+<p>•&nbsp;In matters of the heart, one moment of patience can save you years of regret.</p>
+
+
+
+<p>•&nbsp;Humility is mostly about being very honest about how much you owe to luck.</p>
+
+
+
+<p>•&nbsp;Slow progress is still a million times better than no progress.&nbsp;</p>
+
+
+
+<p>•&nbsp;Recipe for greatness: expect much of yourself and little of others.</p>
+
+
+
+<p>•&nbsp;The very best way to win a friend is to be one.</p>
+
+
+
+<p></p>
+</div>
+
+<div class="meta-bottom-row">
+	<div id="commentnum" style="float:left;"> <a href="https://kk.org/thetechnium/101-additional-advices/">April 18, 2024</a>
+            | <a href="https://kk.org/thetechnium/101-additional-advices/#disqus_thread"><script type='text/javascript' src='https://disqus.com/forums/thetechnium/get_num_replies_for_entry.js?url=https://kk.org/thetechnium/101-additional-advices/'></script> comments</a>
+            </div>
+<div class="actionbar-divide"> | </div>
+<div class="actionbar-email">
+    <!-- script src="https://feedburner.com/~s/thetechnium?i=https://kk.org/thetechnium/101-additional-advices/" type="text/javascript" charset="utf-8"></script -->
+</div>
+<div class="actionbar-divide"> | </div>
+<div class="actionbar-tweets">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://kk.org/thetechnium/101-additional-advices/" data-count="none">Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+</div>
+<div class="actionbar-fb">
+    <iframe src="https://www.facebook.com/plugins/like.php?href=https://kk.org/thetechnium/101-additional-advices/p&amp;send=false&amp;layout=button_count&amp;width=95&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:21px;" allowTransparency="true"></iframe>
+</div>
+<p id="nextprevlinks">
+    <a href="https://kk.org/thetechnium/weekly-links-03-22-2024/" rel="prev">&lt; Weekly Links, 03/22/2024</a> | <a href="https://kk.org/thetechnium/weekly-links-04-19-2024/" rel="next">Weekly Links, 04/19/2024 &gt;</a></p>
+</div>
+
+<br clear=all />
+<div class="entryspacer"><br clear="all/"></div>
+					<br />
+	<div class="title"><a name="comments"></a>Comments</div>
+	
+<div id="disqus_thread"></div>
+<div class="ad-foot"></div>
+
+	<div class="toplink"><a href="#maincontent">Back to Top</a> <a href="#maincontent"><img src="/cooltools/ct08-uparrow.gif" alt="Back to top" border="0" /></a></div>
+
+	<br clear=all />
+</div>
+
+<div id="ad-col" class="thetechnium">
+	</div>
+	</div><!-- #main -->
+
+<br clear=all />
+
+<!-- kk-->
+<!-- script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "";
+urchinTracker();
+</script -->
+<!-- kk-->
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"thetechnium"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kk.org/thetechnium/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.1.1' id='disqus_count-js'></script>
+<script type='text/javascript' id='disqus_embed-js-extra'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.1.1"},"disqusIdentifier":"7640 https:\/\/kk.org\/thetechnium\/?p=7640","disqusShortname":"thetechnium","disqusTitle":"101 Additional Advices","disqusUrl":"https:\/\/kk.org\/thetechnium\/101-additional-advices\/","postId":"7640"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kk.org/thetechnium/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.1.1' id='disqus_embed-js'></script>
+<script type='text/javascript' src='https://kk.org/thetechnium/wp-content/themes/kkdotorg_technium_child/assets/theme.js' id='theme-script-js'></script>
+<p>&copy; 2023</p>
+<!-- script type="text/javascript" src="https://s.skimresources.com/js/137424X1601229.skimlinks.js"></script -->
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.148 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-02-24 20:01:24 -->
+
+<!-- super cache -->

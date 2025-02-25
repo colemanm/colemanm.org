@@ -1183,6 +1183,34 @@ video {
   font-size: 0.875rem;
 }
 
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)).single-image {
+  display: block;
+  max-width: 100%;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) img {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) > div {
+  margin: 0;
+  height: 100%;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)).odd-images div:first-child {
+  grid-column: 1 / span 2;
+}
+
 .prose :where(.index-first-h2):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   margin-top: 1.25rem;
 }
@@ -1210,6 +1238,45 @@ video {
   .prose :where(.posts h2:first-of-type):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
     margin-top: 3rem;
   }
+}
+
+.prose-slate {
+  --tw-prose-body: #334155;
+  --tw-prose-headings: #0f172a;
+  --tw-prose-lead: #475569;
+  --tw-prose-links: #0f172a;
+  --tw-prose-bold: #0f172a;
+  --tw-prose-counters: #64748b;
+  --tw-prose-bullets: #cbd5e1;
+  --tw-prose-hr: #e2e8f0;
+  --tw-prose-quotes: #0f172a;
+  --tw-prose-quote-borders: #e2e8f0;
+  --tw-prose-captions: #64748b;
+  --tw-prose-kbd: #0f172a;
+  --tw-prose-kbd-shadows: 15 23 42;
+  --tw-prose-code: #0f172a;
+  --tw-prose-pre-code: #e2e8f0;
+  --tw-prose-pre-bg: #1e293b;
+  --tw-prose-th-borders: #cbd5e1;
+  --tw-prose-td-borders: #e2e8f0;
+  --tw-prose-invert-body: #cbd5e1;
+  --tw-prose-invert-headings: #fff;
+  --tw-prose-invert-lead: #94a3b8;
+  --tw-prose-invert-links: #fff;
+  --tw-prose-invert-bold: #fff;
+  --tw-prose-invert-counters: #94a3b8;
+  --tw-prose-invert-bullets: #475569;
+  --tw-prose-invert-hr: #334155;
+  --tw-prose-invert-quotes: #f1f5f9;
+  --tw-prose-invert-quote-borders: #334155;
+  --tw-prose-invert-captions: #94a3b8;
+  --tw-prose-invert-kbd: #fff;
+  --tw-prose-invert-kbd-shadows: 255 255 255;
+  --tw-prose-invert-code: #fff;
+  --tw-prose-invert-pre-code: #cbd5e1;
+  --tw-prose-invert-pre-bg: rgb(0 0 0 / 50%);
+  --tw-prose-invert-th-borders: #475569;
+  --tw-prose-invert-td-borders: #334155;
 }
 
 .visible {
@@ -1288,12 +1355,24 @@ video {
   margin-bottom: 0.5rem;
 }
 
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
 .mt-1 {
   margin-top: 0.25rem;
 }
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mt-6 {
+  margin-top: 1.5rem;
 }
 
 .block {
@@ -1328,6 +1407,10 @@ video {
   display: none;
 }
 
+.aspect-\[4\/3\] {
+  aspect-ratio: 4/3;
+}
+
 .h-5 {
   height: 1.25rem;
 }
@@ -1350,6 +1433,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.max-w-2xl {
+  max-width: 42rem;
 }
 
 .max-w-4xl {
@@ -1388,6 +1475,10 @@ video {
   align-items: center;
 }
 
+.items-baseline {
+  align-items: baseline;
+}
+
 .justify-center {
   justify-content: center;
 }
@@ -1410,6 +1501,10 @@ video {
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }
 
 .overflow-x-hidden {
@@ -1462,6 +1557,11 @@ video {
   padding-bottom: 1rem;
 }
 
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .pl-3 {
   padding-left: 0.75rem;
 }
@@ -1503,6 +1603,10 @@ video {
 
 .capitalize {
   text-transform: capitalize;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .text-\[\#517AA3\] {
@@ -1547,6 +1651,12 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+.shadow-md {
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
 .outline {
   outline-style: solid;
 }
@@ -1576,6 +1686,20 @@ video {
 
 .\[re\:Invent\] {
   re: Invent;
+}
+
+.hover\:border-b:hover {
+  border-bottom-width: 1px;
+}
+
+.hover\:border-\[\#dd9922\]:hover {
+  --tw-border-opacity: 1;
+  border-color: rgb(221 153 34 / var(--tw-border-opacity, 1));
+}
+
+.hover\:text-\[\#2d3939\]:hover {
+  --tw-text-opacity: 1;
+  color: rgb(45 57 57 / var(--tw-text-opacity, 1));
 }
 
 .hover\:text-\[\#3d5d7d\]:hover {
