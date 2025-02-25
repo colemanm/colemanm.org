@@ -77,10 +77,7 @@ description: "Blog archives by topic."
       </div>
       {% endif %}
     {% endif %}
-    {{ post.content | markdownify | truncatewords: 100 }}
-    {% if post.collection == 'posts' %}
-      {% include image-credit-home.html %}
-    {% endif %}
+    {{ post.content | markdownify }}
   </div>
 </div>
 {% endfor %}

@@ -63,19 +63,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
   - jekyll-postcss
 
 postcss:
   cache: false
-
-jekyll-archives:
-  enabled:
-    - tags
-  layout: tag
-  permalinks:
-    tag: '/topic/:name/'
-  slug_mode: default
 
 # Add to include media files
 include:
