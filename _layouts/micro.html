@@ -68,7 +68,10 @@ layout: default
 
     {% if page.tags.size > 0 %}
     <div class="mt-6">
-      {% include topics.html %}
+      Topics:
+      {% for tag in page.tags %}
+        <a href="/topic/{{ tag | slugify: 'pretty' }}" class="text-[#517AA3] hover:text-[#2d3939] hover:border-b hover:border-[#dd9922] ml-2">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+      {% endfor %}
     </div>
     {% endif %}
   </div>

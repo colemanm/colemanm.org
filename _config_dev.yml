@@ -28,6 +28,9 @@ collections:
   micro:
     output: true
     permalink: /micro/:year/:month/:day/:title/
+  topics:
+    output: true
+    permalink: /topic/:name/
 
 # Settings
 profile: true
