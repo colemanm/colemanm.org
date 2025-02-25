@@ -1,0 +1,397 @@
+<style>
+  html {
+    scroll-padding-top: calc(var(--ken) * 10) !important;
+  }
+</style>
+
+
+<!doctype html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  
+  <meta name="twitter:card" content="summary_large_image" />
+
+  
+  <title>Charts on Design — Christoph Labacher · Interaction Designer</title>
+  <meta property="og:title" content="Charts on Design — Christoph Labacher · Interaction Designer" />
+  <meta name="twitter:title" content="Charts on Design — Christoph Labacher · Interaction Designer" />
+
+      <meta name="description" content="I have a soft spot for the aesthetics of charts scanned from old books.">
+    <meta property="og:description" content="I have a soft spot for the aesthetics of charts scanned from old books." />
+    <meta name="twitter:description" content="I have a soft spot for the aesthetics of charts scanned from old books." />
+  
+      <meta property="og:image" content="https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history.png" />
+    <meta name="twitter:image" content="https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history.png" />
+  
+  <meta property="og:url" content="https://christophlabacher.com/notes/charts-on-design" />
+  <meta property="og:type" content="website" />
+
+  <link rel="canonical" href="https://christophlabacher.com/notes/charts-on-design">
+
+  
+  <link rel="alternate" type="application/rss+xml" title="Latest notes" href="https://christophlabacher.com/feed"/>
+
+  <link rel="preload" href="/assets/fonts/untitled-sans-web-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/iAWriterDuoS-Regular.woff2" as="font" type="font/woff2" crossorigin>
+
+  <meta name="theme-color" content="#000000">
+
+  <link rel="mask-icon" href="https://christophlabacher.com/assets/img/favicon-48.svg" color="#e1fa4d">
+  <link rel="icon" href="https://christophlabacher.com/assets/img/favicon-48.svg" sizes="any" type="image/svg+xml">
+
+  <link href="https://christophlabacher.com/assets/css/dist/style.1718570937.css" rel="stylesheet">
+  <script src="https://christophlabacher.com/assets/js/vendor/lazysizes.min.1718570937.js"></script>  <script src="https://christophlabacher.com/assets/js/main.1718570937.js"></script></head>
+<body class="collection theme--default">
+  <header class="header grid header--theme-default " data-theme="default" data-initial-theme="default" data-theme-mode="default">
+  <div class="header__content">
+    <div class="header__logo">
+            <a href="https://christophlabacher.com">
+        <div class="header__title">Christoph Labacher</div>
+        <div class="header__subtitle">Interaction Designer</div>
+      </a>
+          </div>
+
+    <nav class="header__nav">
+      <ul class="nav">  <li class="nav__item">
+    <a
+       class="nav-link"      href="https://christophlabacher.com/about"
+          >
+      About    </a>
+  </li>
+  <li class="nav__item">
+    <a
+       class="nav-link"      href="https://christophlabacher.com/projects"
+          >
+      Projects    </a>
+  </li>
+  <li class="nav__item">
+    <a
+       class="nav-link nav-link--active"      href="https://christophlabacher.com/notes"
+          >
+      Notes    </a>
+  </li>
+</ul>    </nav>
+  </div>
+</header>
+  <main class="default default--with-footer">
+      <section class="grid" data-header-theme="default">
+        <div class="grid__wide-col collection__top">
+          <div class="collection__title">
+            <h1 class="collection__title-content">Vintage Charts on Design</h1>
+            
+                          <div class="collection__meta">
+                Ongoing <div class='collection__meta--small'>[Last updated 03. January 2023]</div>              </div>
+                          </div>
+
+                    <div class="collection__intro">
+            <div class="collection__intro-left">
+              <div class="collection__intro-text longread longread--no-indent">
+                <p>I have a soft spot for the aesthetics of charts scanned from old books. <strong>This is an ongoing, eclectic collection of my favorite charts on design.</strong></p>              </div>
+
+                            <div class="default__tags">
+                <div class="tags tags--theme-default ">
+   
+      <div class="tag tag--highlight" data-tag="collection">collection</div>
+      <div class="tag " data-tag="design theory">design theory</div>
+    </div>              </div>
+            </div>
+
+            <div class="collection__toc">
+              <div class="collection__toc-content">
+                                              <a href="#schematic-of-the-ulm-school-of-design-s-curriculum">Schematic of  the Ulm School of Design’s Curriculum</a>
+                                                              <a href="#a-rhizomatic-map-of-visual-communication">A Rhizomatic Map of Visual Communication</a>
+                                                              <a href="#designer-s-knowledge">Designer’s Knowledge</a>
+                                                              <a href="#ideal-of-education">Ideal of Education</a>
+                                                              <a href="#graphical-representation-of-design-method">Graphical Representation of Design Method</a>
+                                                              <a href="#the-design-problem">The Design Problem</a>
+                                                              <a href="#victor-papanek-s-function-complex">Victor Papanek’s Function Complex</a>
+                                                              <a href="#jencks-theory-of-evolution-an-overview-of-20th-century-architecture">Jencks’ Theory of Evolution — an Overview of 20th Century Architecture</a>
+                                                              <a href="#typographic-tokens">Typographic Tokens</a>
+                                                              <a href="#triangulating-lost-knowledge">Triangulating Lost Knowledge</a>
+                                                              <a href="#old-history-of-gui-os-s">(Old) History of GUI OS’s</a>
+                                            </div>
+            </div>
+          </div>
+                  </div>
+
+        <div class="collection__content longread longread--small longread--no-indent">
+          <div class="collection__items">
+<div class="collection-item">
+      <h2 class="headline--3" id="schematic-of-the-ulm-school-of-design-s-curriculum">Schematic of  the Ulm School of Design’s Curriculum <a class="headline-link" href="#schematic-of-the-ulm-school-of-design-s-curriculum">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%207.65%207.84%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAAGE1n4vAAAAeFBMVEXr6%2Bzr6%2Bvn5%2Bjc3N3o6Ojq6uvy8vPk5OTe3t/S0tPl5ebx8fLm5ubY2NmgoKHz8/Tp6erR0dHV1dXi4uPBwcLLy8zh4eHk5OXh4eLZ2drv7/Dm5ufw8PHs7O3Z2dng4OHg4ODu7u/t7e7U1NTj4%2BTb29zq6urf3%2BBLxYgIAAAAAW9yTlQBz6J3mgAAAExJREFUCFsFwQkCQzAUQMHnEyKoqC0kdur%2BN%2BwMkOA8opgC5cc2HOkdE8VKqGqtMbPAeT2eNBOdmwK%2BbdcPY2NwYVk32S3K/8LipvcPh2kEQTAl94EAAAAASUVORK5CYII=%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/8e13d6fef5-1671281949/hfg-ulm-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“A diagramme from a 1951 concept script illustrates the school’s universal approach [Scholl 1951]” from Oswald, 2012: The Information Department at the Ulm School of Design   </figcaption></figure><blockquote class="longquote"><p>The time for exclusive professional specialization is over. Politics, science, art, and economics must be viewed in their integral relationship. Education for knowledge must be replaced by education towards unprejudiced universal thinking.</p><cite>Scholl, 1950; via Oswald, 2012</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="a-rhizomatic-map-of-visual-communication">A Rhizomatic Map of Visual Communication <a class="headline-link" href="#a-rhizomatic-map-of-visual-communication">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%208.85%206.78%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAMAAAGaQqfEAAAAYFBMVEX29vf7%2B/z5%2Bfr39/j09Pb6%2Bvv09PXNzc7a2tvs7O3x8fLj4%2BTU1NXp6erq6uvn5%2Bjc3N3z8/Tw8PHf3%2BDo6On4%2BPnm5ubk5OXr6%2Bz////y8vPe3t/AwMDu7u/m5ufv7/CZKcEAAAAAAW9yTlQBz6J3mgAAAEhJREFUCFsNy0kSgCAQBLBmWlFcUIQR3P//S6mcA7DSkzAGcOASIsDwCQFpWvh18yjHVcBXFbbr3TBOs0Bi0uD3XJspd8qP5Q9hLgMJZhKOfQAAAABJRU5ErkJggg==%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/cd03be9f9e-1671281939/rhizomatic-map-of-visual-communication-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“A Rhizomatic Map of Visual Communication” from Moriarty &amp; Barbatsis, 2004: From an Oak to a Stand of Aspen: Visual Communication Theory Mapped as Rhizome Analysis. In Smith et al., Handbook of Visual Communication: Theory, Methods, and Media [p. xx]   </figcaption></figure><blockquote class="longquote"><p>[T]he rhizome is a dynamic, decentered, system or network. It is a structure without any controlling center of hierarchy, a kind of self-reproducing multiplicity that cannot be understood as a single organization or localized in a particular territory. It’s also generative in that the offshoots or runners become freestanding plants.</p><cite>Moriarty &amp; Barbatsis, 2004</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="designer-s-knowledge">Designer’s Knowledge <a class="headline-link" href="#designer-s-knowledge">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2010.33%205.81%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAMAAAG6Kc9iAAAAS1BMVEX39/j29vf4%2BPny8vPR0dLY2Nnf3%2BD6%2Bvvn5%2Bjt7e7e3t/Fxcbu7u/09PX19fb5%2Bfrs7O3V1dbKysvm5ufw8PHx8fLj4%2BTT09Tq6uv%2BEIErAAAAAW9yTlQBz6J3mgAAAD9JREFUCFsVyksSgCAMwNDQqrVIBf/e/6TKLvMmAApXkBTNmOciICSYbTGoXpwuOowTvWKtbduP85/sfqTxhnwvowG6a3klqwAAAABJRU5ErkJggg==%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/de4f2b968b-1671281946/designers-knowledge-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“Designer’s Knowledge” from Eder, 1966: Definitions and Methodologies. In Gregory, The Design Method [p. 20]   </figcaption></figure>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="ideal-of-education">Ideal of Education <a class="headline-link" href="#ideal-of-education">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2010.33%205.81%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAMAAAG6Kc9iAAAARVBMVEX39/j09PX19fbr6%2Bzz8/T5%2Bfr29vf6%2Bvvn5%2BjW1tfa2tvl5eb8/P34%2BPns7O3x8fLm5ubu7u/o6Onw8PHv7/DV1dby8vNwbv0NAAAAAW9yTlQBz6J3mgAAADxJREFUCFsdiVkSQDAAxdId9bri/kdVfjKZBMBBtZgAE2SqwPq4RiplcfYLYtp2jnx%2BGZr6CL/Jj%2BzuRy8xNAGyjCAa8gAAAABJRU5ErkJggg==%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/3fcfc46806-1671281943/ideal-of-eductation-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“Ideal of Education” from Eder, 1966: Definitions and Methodologies. In Gregory, The Design Method [p. 19]   </figcaption></figure><blockquote class="longquote"><p>Before any work of human skill can be produced it must be imagined. […] The basis of much human activity lies in a full and broad education, consisting of a balanced view of the sciences, technologies, the arts, and the crafts (Figure 3.1). Two dangers of a lacking balance in education are obvious: firstly of overlooking possible connections, analogies, etc., and secondly of overlooking or ignoring the fellow human being.</p><cite>Eder, 1966</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="graphical-representation-of-design-method">Graphical Representation of Design Method <a class="headline-link" href="#graphical-representation-of-design-method">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%208.85%206.78%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAMAAAGaQqfEAAAAWlBMVEX29vf6%2BvvMzM3b29vz8/Tw8PH39/j4%2BPnJycrV1dbf3%2BDj4%2BTh4eL////t7e7i4uL%2B/v/8/P35%2Bfrs7O3Fxcby8vPY2Nnr6%2BvGxsfu7u/19fb09PXo6Onx8fIVLbAnAAAAAW9yTlQBz6J3mgAAAEhJREFUCFsNykkOgDAMBMEJ2GMgLCEQlgD//ya%2BlNRSA4QguI3gusFpWQlmMSK0SmBOwJl84Ps51vVDHD3ztkcth39WtT4lkD9RBAKNpUpK9gAAAABJRU5ErkJggg==%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/852f4a700f-1671281950/design-method-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>Graphical Representation of Design Method” from McCrory, 1966: The Design Method in Practice. In Gregory, The Design Method [p. 16]   </figcaption></figure><blockquote class="longquote"><p>Although the design method is similar to the scientific method, it has not been as carefully defined nor historically as well established. Nevertheless, the design method is as inherent to the design process as the scientific method is to scientific exploration. […] The starting point of the design method is more comprehensive than that of the scientific method. Unlike fundamental scientific research, design is motivated by need rather than by curiosity. Therefore, in addition to requiring knowledge of the state of the technical art,  the design method requires recognition of a need which warrants an investment of effort and funds.</p><cite>McCrory, 1966</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="the-design-problem">The Design Problem <a class="headline-link" href="#the-design-problem">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2010.33%205.81%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAMAAAG6Kc9iAAAAM1BMVEX39/j4%2BPnx8fLv7/D29vf6%2Bvvm5ufExMTz8/T09PX5%2Bfry8vPr6%2Bzp6er19fbj4%2BTo6Ola6spnAAAAAW9yTlQBz6J3mgAAADpJREFUCFsVylESgCAMA9FNoYoFwfuf1jZfyZtARfvDYGb1B6HWS1sILNYZdL/uUZg8F%2B/GaioPgYd%2BIWcBASYpjwEAAAAASUVORK5CYII=%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/dfe2fb94c2-1671281952/design-problem-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“The Design Problem” from Papanek, 1972: Design for the real world [p. 68]   </figcaption></figure><blockquote class="longquote"><p>The designer-planner shares responsibility for nearly all of our products and tools and hence nearly all of our environmental mistakes. He is responsible either through bad design or by default: by having thrown away his responsible creative abilities, by ‘not getting involved,’ or by ‘muddling through.’</p><cite>Papanek, 1972</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="victor-papanek-s-function-complex">Victor Papanek’s Function Complex <a class="headline-link" href="#victor-papanek-s-function-complex">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%208.40%207.15%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAF1gMz6AAAATlBMVEXz8/Tj4%2BTV1dbm5ufc3N3f3%2BD09PXx8fLw8PHS0tPu7u/v7/DNzc7q6uvy8vPa2tvt7e7X19jr6%2Bzp6ers7O3o6Oni4uPl5ebd3d719fZ%2BBb%2BrAAAAAW9yTlQBz6J3mgAAAEBJREFUCFsNyFsCQCAURdFdHp26IkUx/4myPhcwI8Mv3Jk9ObDnLbjJr%2BgwcfUqdnURFJNtOVBOq0Wx/TNGG%2BgDSjsCgnMUQq4AAAAASUVORK5CYII=%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/83d9d25b45-1671281943/function-complex-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“Function Complex” from Papanek, 1972: Design for the real world [p. 26]   </figcaption></figure><figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%208.85%206.78%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAMAAAGaQqfEAAAAZlBMVEX39/j5%2Bfr29vfq6uv4%2BPnz8/Tn5%2BiioqPv7/D7%2B/z19fb8/P3Ozs6tra7U1NWsrKzCwsP////Nzc7R0dK%2Bvr/a2tv9/f62trezs7TX19ekpKTY2Nnw8PHy8vP6%2BvvZ2dmqqqvo6OkhG1tDAAAAAW9yTlQBz6J3mgAAAEdJREFUCFsVykcWgCAQwNAwjg0LYq%2Bo97%2BkuMnivwAkmE0xwnIgddtFQv%2BIgapx8Vj3Ew0hqqZZXpQWrO8HP06zoFe4n1csH04JArSjPHQbAAAAAElFTkSuQmCC%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/9b07c07635-1671281942/function-complex-2-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“Function Complex” [second edition] from Papanek, 2011: Design for the real world [p. 7]   </figcaption></figure>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="jencks-theory-of-evolution-an-overview-of-20th-century-architecture">Jencks’ Theory of Evolution — an Overview of 20th Century Architecture <a class="headline-link" href="#jencks-theory-of-evolution-an-overview-of-20th-century-architecture">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%209.13%206.58%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAMAAAGaQqfEAAAArlBMVEXDw8PExMXOzs%2BysrLW1tfs7O2rq6yNjY6Tk5O3t7h%2Bfn6CgoJtbW6oqKiAgIGampqvr7BnZ2hra2yBgYFDQ0NpaWmrq6tLS0x4eHiOjo9VVVVOTk6hoaJ0dHWJiYqxsbKysrOAgIC9vb67u7yMjI3BwcKLi4u9vb3S0tPv7/CYmJjJycqbm5t2dnekpKX///%2BKiouUlJUNDQ0AAAAQEBAODg4fHx9WVlcSEhJCQkNQx7KLAAAAAW9yTlQBz6J3mgAAAFJJREFUCFsFwQUCgkAABMAlpJSUo/OUkJbm/x9jBpDA41t3YAWUDSzb8QLM635eYLiHiDdxfRTVr8WyHTNk5flSNd0wEUZxkmY5/YB4/UDH6U9v8GEHGfmBaPkAAAAASUVORK5CYII=%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/9e96a272f7-1671281952/jencks-theory-of-evolution-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“Jencks’s ‘The Century is Over, Evolutionary Tree of Twentieth-Century Architecture’ with its attractor basins” from Jencks, 2000: Jenck’s theory of evolution: An overview of twentieth-century architecture   </figcaption></figure><blockquote class="longquote"><p>Now that the century is over it is time to ask what it meant for architecture. […] The main narrative does not belong to any building type, movement, individual or sector. <strong>Rather, it belongs to a competitive drama, a dynamic and turbulent flow of ideas, social movements, technical forces and individuals all jockeying for position.</strong> Sometimes, a movement or an individual may be momentarily in the public eye and enjoy media power, but such notoriety rarely lasts for more than five years and usually for not more than two.</p><cite>Jencks, 2000</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="typographic-tokens">Typographic Tokens <a class="headline-link" href="#typographic-tokens">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%208.75%206.86%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAMAAAGaQqfEAAAAtFBMVEXww7LbsKHlvKzov67swK/vwbDxw7L0xLTsvq/XrJzguKfgt6bjuaj0xLPnva7juarsva71x7brwbHft6fct6jUrJ3uwLHtwLDxwrLyxLTswLDiuqvZtajPqqDWraDzw7PzxLT3x7bVrp%2B6mo/Oq5y/oJXSqp3xw7PuwrLyxLP1x7fjuKnnvq/yxrXdtqjkuKj0xrb0xbX0xbTqv6/KpZnQrJ/TrqDHo5jbsKLftabWrp/ou6sIGUS1AAAAAW9yTlQBz6J3mgAAAFJJREFUCFsFwYcCQgAABcBnJpvsTVZC2ev//8sd8ACNtPiAZPGuoOmG5WBatuMCQTEstJdpI8vLGvO6n%2BCevCBKsqLC9fwgjOIkQfNtu/73H8Yb6P8HIi9nioIAAAAASUVORK5CYII=%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/1b23efa6b2-1671281949/typographic-tokens-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“Typographic Tokens” from Bonsiepe, 1968: A method of quantifying order in typographic design. In ulm, 21 [p. 33]   </figcaption></figure><blockquote class="longquote"><p>There is a platitude which might be very well applied to the activities of the designer, namely that a state of order is preferable to a state of disorder. For, among many other things, designing means creating order, means putting structure into an array of objects or signs, means reducing disorder and arranging elements into a whole that makes sense.</p><cite>Bonsiepe, 1968</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="triangulating-lost-knowledge">Triangulating Lost Knowledge <a class="headline-link" href="#triangulating-lost-knowledge">§</a></h2>
+    <div>
+    <p>This chart is not about design but about knowledge in general:</p><figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%208.85%206.78%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAMAAAGaQqfEAAAAVFBMVEX39/j4%2BPnz8/T09PX5%2Bfrv7/D4%2BPj39/f29vf19fXs7O329vbp6erc29zt7e309PTy8vPk5OX6%2Bvvu7u/h4eLq6uvu7u7l5eXq6ure3t7e3t/g3%2BB%2BMDEuAAAAAW9yTlQBz6J3mgAAAENJREFUCFsdi0kSgCAMBDuAiIq47///pwlz6JqaBcCBxzRHSP2g7no%2BpWjcdlqnZVXcr9gqND5a6XIey1SPYduPU/gBNk8BroB9AyMAAAAASUVORK5CYII=%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/68afdc84c9-1671281938/feynman-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>“Forgotten facts can be recreated by triangulating from known facts” from Feynman et al., 2013: Feynman’s tips on physics [p. 59]   </figcaption></figure><blockquote class="longquote"><p>Now, suppose that something happened to your mind, that somehow all the material in some region was erased, and there was a little spot of missing goo in there. The relations of nature are so nice that it is possible, by logic, to ‘triangulate’ from what is known to what’s in the hole. […] <strong>And you can re-create the things that you’ve forgotten perpetually — if you don’t forget too much, and if you know enough. In other words, there comes a time […] where you’ll know so many things that as you forget them, you can reconstruct them from the pieces that you can still remember.</strong> It is therefore of first-rate importance that you know how to ‘triangulate’ — that is, to know how to figure something out from what you already know.</p><cite>Feynman et al., 2013</cite></blockquote>  </div>
+  </div>
+<div class="collection-item">
+      <h2 class="headline--3" id="old-history-of-gui-os-s">(Old) History of GUI OS’s <a class="headline-link" href="#old-history-of-gui-os-s">§</a></h2>
+    <div>
+    <figure class="">  <picture class="picture" >
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-300x.webp 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-500x.webp 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-800x.webp 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-1024x.webp 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-1440x.webp 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-2000x.webp 2000w" type="image/webp">
+    <source data-srcset="https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-300x.png 300w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-500x.png 500w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-800x.png 800w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-1024x.png 1024w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-1440x.png 1440w, https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-2000x.png 2000w" type="image/png">  
+    <img
+      class="picture-image lazyload"
+      src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%206.66%209.00%22%3E%3Cfilter%20id=%22b%22%20color-interpolation-filters=%22sRGB%22%3E%3CfeGaussianBlur%20stdDeviation=%22.5%22%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA%20type=%22discrete%22%20tableValues=%221%201%22%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage%20filter=%22url%28%23b%29%22%20x=%220%22%20y=%220%22%20width=%22100%25%22%20height=%22100%25%22%20href=%22data:image/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAcAAAAJCAMAAAG%2BgfYHAAAAe1BMVEXz8/Tq6uvJycqqqqvW1tfj4%2BTo6Oja2tvKysvX19j4%2BPn////g4OHBwcLZ2dr09PXs7O3o6OnY2Nm5ubrS0tLp6erh4eL39/jw8PHm5ubCwsPu7u/Q0NHk5OXx8fLd3d7i4uPS0tOwsLHf3%2BDX19fb29zZ2dnc3N3AwMBu7unGAAAAAW9yTlQBz6J3mgAAAEtJREFUCFsFwQUCgCAAALGzFVQQA%2ByO/7/QDXgAS1vhR2jHJ5BFqmjX3eAFIXlYQmdx28FrLHGUJGkm0JWpG6mw/TBO80J3nvl18wOXyQRtZ5MQDQAAAABJRU5ErkJggg==%22%3E%3C/image%3E%3C/svg%3E"
+      data-src="https://christophlabacher.com/media/pages/notes/charts-on-design/395ac83f7e-1672755755/gui-os-history-1024x.png"
+      alt=""
+    />
+  </picture>
+  <figcaption>via <a href="https://www.are.na/block/19254756" target="_blank" rel="noopener noreferrer">Taulant Sulko on are.na</a>   </figcaption></figure>  </div>
+  </div></div>
+        </div>
+      </section>
+            <section class="grid default__read-more">
+
+                <div class="default__read-more-content collection__literature">
+          <h2 class="collection__literature-headline">Literature</h2>
+
+          <ul>
+                          <li><a href='https://monoskop.org/images/a/ae/Ulm_21.pdf#page=26' target='_blank'>Bonsiepe, G. (1968). A method of quantifying order in typographic design. Ulm, 21, 24–31.</a></li>
+                          <li><a href='https://doi.org/10.1007/978-1-4899-6331-4_3' target='_blank'>Eder, W. E. (1966). Definitions and Methodologies. In S. A. Gregory (Ed.), The Design Method (pp. 19–31). Springer US. </a></li>
+                          <li>Feynman, R. P., Gottlieb, M. A., Leighton, R. &  Sands, M. L. (2013). Feynman’s tips on physics: Reflections, advice, insights, practice: a problem-solving supplement to the Feynman lectures on physics. Basic Books.</li>
+                          <li><a href='https://www.architectural-review.com/archive/jencks-theory-of-evolution-an-overview-of-20th-century-architecture' target='_blank'>Jencks, C. (2000). Jenck’s theory of evolution: An overview of twentieth-century architecture. Architectural Review, 208(1241), 76–79.</a></li>
+                          <li><a href='https://doi.org/10.1007/978-1-4899-6331-4_2' target='_blank'>McCrory, R. J. (1966). The Design Method in Practice. In S. A. Gregory (Ed.), The Design Method (pp. 11–18). Springer US.</a></li>
+                          <li><a href='https://doi.org/10.4324/9781410611581' target='_blank'>Moriarty, S., & Barbatsis, G. (2004). From an Oak to a Stand of Aspen: Visual Communication Theory Mapped as Rhizome Analysis. In K. L. Smith, S. Moriarty, K. Kenney, & G. Barbatsis (Eds.), Handbook of Visual Communication: Theory, Methods, and Media (pp. xi–xxii). Routledge.</a></li>
+                          <li><a href='https://www.proceedings.blucher.com.br/article-details/the-information-department-at-the-ulm-school-of-design-8554' target='_blank'>Oswald, D. (2012). The Information Department at the Ulm School of Design. Blucher Design Proceedings, 1(1), 46–50.</a></li>
+                          <li>Papanek, V. J. (1972). Design for the real world: Human ecology and social change (1st American ed.). Pantheon Books.</li>
+                          <li>Papanek, V. J. (2011). Design for the real world: Human ecology and social change (2nd. ed. compl. rev., repr). Thames and Hudson.</li>
+                      </ul>
+        </div>
+        
+        <div class="default__read-more-content collection__read-more-content--with-literature">
+          <h2 class="default__read-more-headline longread">Continue Reading <span class="aside-anchor" aria-hidden></span><span class="aside" role="complementary"><span class="aside__content"><a href="https://christophlabacher.com/notes">All Notes & Collections</a></span></span></h2>
+
+          
+<div class="notes-list__label">
+Other Collections</div>
+
+<ul class="notes-list">
+  <li class="notes-list__note" data-tags="">
+    <a class="notes-list__note-link " href="https://christophlabacher.com/notes/taste">
+    <div class="notes-list__note-grid">
+      <div class="notes-list__note-date">
+
+      Ongoing      </div>  
+      <div class="notes-list__note-title">Notes on&nbsp;Taste&nbsp;</div>
+    </div>
+  </a></li>
+  <li class="notes-list__note" data-tags="complexity">
+    <a class="notes-list__note-link " href="https://christophlabacher.com/notes/notes-on-complexity">
+    <div class="notes-list__note-grid">
+      <div class="notes-list__note-date">
+
+      Ongoing      </div>  
+      <div class="notes-list__note-title">Notes on&nbsp;Complexity&nbsp;</div>
+    </div>
+  </a></li>
+  <li class="notes-list__note" data-tags="tools for thought, knowledge, notation">
+    <a class="notes-list__note-link " href="https://christophlabacher.com/notes/notes-on-notation">
+    <div class="notes-list__note-grid">
+      <div class="notes-list__note-date">
+
+      Ongoing      </div>  
+      <div class="notes-list__note-title">Notes on&nbsp;Notation&nbsp;</div>
+    </div>
+  </a></li>
+</ul>
+<div class="notes-list__label">
+Latest Notes</div>
+
+<ul class="notes-list">
+  <li class="notes-list__note" data-tags="book summary, design theory, working note">
+    <a class="notes-list__note-link " href="https://christophlabacher.com/notes/glenn-parsons-the-philosophy-of-design">
+    <div class="notes-list__note-grid">
+      <div class="notes-list__note-date">
+
+      Ongoing      </div>  
+      <div class="notes-list__note-title">Notes from Glenn Parsons’ The Philosophy of&nbsp;Design&nbsp;</div>
+    </div>
+  </a></li>
+  <li class="notes-list__note" data-tags="working note, linguistics, cognition, tools for thought, book summary">
+    <a class="notes-list__note-link " href="https://christophlabacher.com/notes/aneta-pavlenko-the-bilingual-mind">
+    <div class="notes-list__note-grid">
+      <div class="notes-list__note-date">
+
+      Ongoing      </div>  
+      <div class="notes-list__note-title">Notes from Aneta Pavlenko’s The Bilingual&nbsp;Mind&nbsp;</div>
+    </div>
+  </a></li>
+  <li class="notes-list__note" data-tags="book summary">
+    <a class="notes-list__note-link " href="https://christophlabacher.com/notes/book-report-david-graeber-the-utopia-of-rules">
+    <div class="notes-list__note-grid">
+      <div class="notes-list__note-date">
+
+      27. July 2022      </div>  
+      <div class="notes-list__note-title">Book Report: David Graeber — The Utopia of&nbsp;Rules&nbsp;</div>
+    </div>
+  </a></li>
+</ul>        </div>
+      </section>
+        </main>
+
+  <footer class="footer">
+  <div class="footer__wrapper grid">
+    <div class="footer__content">
+      <a class="footer__link" href="https://christophlabacher.com/imprint">Imprint</a>
+    </div>
+  </div>
+</footer></body>
+
+</html>

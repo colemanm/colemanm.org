@@ -1183,6 +1183,31 @@ video {
   font-size: 0.875rem;
 }
 
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)).single-image {
+  display: block;
+  max-width: 100%;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) img {
+  margin: 0;
+  width: 100%;
+  height: auto;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)) > div {
+  margin: 0;
+}
+
+.prose :where(.image-grid):not(:where([class~="not-prose"],[class~="not-prose"] *)).odd-images div:first-child {
+  grid-column: 1 / span 2;
+}
+
 .prose :where(.index-first-h2):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   margin-top: 1.25rem;
 }

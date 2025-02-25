@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>  Why Evolution Has No Goal | Crucial Considerations - a science, philosophy, rationality & ethics blog</title>
+	<link rel="pingback" href="https://crucialconsiderations.org/xmlrpc.php" />
+    <meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="Crucial Considerations &raquo; Feed" href="https://crucialconsiderations.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Crucial Considerations &raquo; Comments Feed" href="https://crucialconsiderations.org/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/crucialconsiderations.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='wp-quicklatex-format-css' href='https://crucialconsiderations.org/wp-content/plugins/wp-quicklatex/css/quicklatex-format.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_related-posts-css' href='https://crucialconsiderations.org/wp-content/plugins/jetpack/modules/related-posts/related-posts.css?ver=20240116' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://crucialconsiderations.org/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://crucialconsiderations.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://crucialconsiderations.org/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ditty-news-ticker-font-css' href='https://crucialconsiderations.org/wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/styles.css?ver=3.1.51' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-news-ticker-css' href='https://crucialconsiderations.org/wp-content/plugins/ditty-news-ticker/legacy/inc/static/css/style.css?ver=3.1.51' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-displays-css' href='https://crucialconsiderations.org/wp-content/plugins/ditty-news-ticker/build/dittyDisplays.css?ver=3.1.51' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-fontawesome-css' href='https://crucialconsiderations.org/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/css/all.css?ver=6.4.0' type='text/css' media='' />
+<link rel='stylesheet' id='fcbkbttn_icon-css' href='https://crucialconsiderations.org/wp-content/plugins/facebook-button-plugin/css/icon.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fcbkbttn_stylesheet-css' href='https://crucialconsiderations.org/wp-content/plugins/facebook-button-plugin/css/style.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css' href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400|Roboto+Slab:400|Bree+Serif:400&subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css' href='https://crucialconsiderations.org/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.91.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://crucialconsiderations.org/wp-content/themes/att-prometheus/style.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-droid-serif-css' href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700%2C400italic%2C700italic&#038;ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='att-responsive-css' href='https://crucialconsiderations.org/wp-content/themes/att-prometheus/css/responsive.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://crucialconsiderations.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<script type="text/javascript" id="jetpack_related-posts-js-extra">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20240116" id="jetpack_related-posts-js"></script>
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" defer src="https://crucialconsiderations.org/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/plugins/facebook-button-plugin/js/script.js?ver=6.7.1" id="fcbkbttn_script-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/plugins/wp-quicklatex/js/wp-quicklatex-frontend.js?ver=1.0" id="wp-quicklatex-frontend-js"></script>
+<link rel="https://api.w.org/" href="https://crucialconsiderations.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://crucialconsiderations.org/wp-json/wp/v2/posts/659" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://crucialconsiderations.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel="canonical" href="https://crucialconsiderations.org/science-and-philosophy/evolution/why-evolution-has-no-goal/" />
+<link rel='shortlink' href='https://wp.me/p5j35W-aD' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://crucialconsiderations.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrucialconsiderations.org%2Fscience-and-philosophy%2Fevolution%2Fwhy-evolution-has-no-goal%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://crucialconsiderations.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrucialconsiderations.org%2Fscience-and-philosophy%2Fevolution%2Fwhy-evolution-has-no-goal%2F&#038;format=xml" />
+<style>.page-numbers.current { display: none; }</style>	<style>img#wpstats{display:none}</style>
+		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]--><!-- Custom CSS -->
+<style type="text/css">
+ .att-social-widget-output { list-style: none; } .att-social-widget-output li { margin: 0; padding: 0; border: none; float: left; margin-right: 5px; margin-bottom: 5px; } .att-social-widget-output li img:hover { opacity: 0.8; } .att-social-widget-output li img:active { position: relative; top: 1px; } 
+</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Why Evolution Has No Goal" />
+<meta property="og:url" content="https://crucialconsiderations.org/science-and-philosophy/evolution/why-evolution-has-no-goal/" />
+<meta property="og:description" content="How evolutionary biology is being misunderstood The notion that evolution has a goal/purpose is a widespread misconception that comes in several variations. Many people falsely believe that evoluti…" />
+<meta property="article:published_time" content="2016-08-02T18:23:20+00:00" />
+<meta property="article:modified_time" content="2020-05-08T15:02:41+00:00" />
+<meta property="og:site_name" content="Crucial Considerations" />
+<meta property="og:image" content="https://crucialconsiderations.org/wp-content/uploads/2016/08/Tree-of-Life.jpg" />
+<meta property="og:image:width" content="736" />
+<meta property="og:image:height" content="548" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Why Evolution Has No Goal" />
+<meta name="twitter:image" content="https://crucialconsiderations.org/wp-content/uploads/2016/08/Tree-of-Life.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+		<style type="text/css" id="wp-custom-css">
+			/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+/*body {
+	font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+	-webkit-font-smoothing: antialiased;
+	font-size: 16px;
+	line-height: 1.4;
+	color: #333;
+}
+
+p {
+	font-size: 15px;
+}*/
+
+#navigation select {
+	display: none;
+}
+
+@media only screen and (max-width: 959px) {
+  #navigation select, #navigation select:focus {
+		display: block;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    height: 55px;
+    background: none;
+    width: 100%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: #666 !important;
+    cursor: pointer;
+		border: 0;
+		outline: none;
+		-webkit-appearance: none;
+    -moz-appearance: none;
+  }
+}		</style>
+		 
+
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css">   
+</head>
+
+<body class="post-template-default single single-post postid-659 single-format-standard">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36806419-15', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!--logosslotheader
+<div id="logoslotheader">
+<a href="https://foundational-research.org/">
+<img src="https://crucialconsiderations.org/wp-content/uploads/2015/10/fri_logo_black.png" width="200px">
+</a>
+</div>
+logoslotheader end-->
+
+
+<!--sidebar-->
+<!--sidebar end-->
+
+
+	    <div id="headbanner" >
+	</div>   
+    <div id="masthead-wrap">
+        <div id="masthead" class="grid-1 clr site-header" role="banner">
+		<div id="logoheadercenter">
+		<a href="https://foundational-research.org/">
+		<img src="https://crucialconsiderations.org/wp-content/uploads/2015/10/fri_logo_black.png" width="200px">
+		</a>
+		</div>
+            <div id="logo">
+                            <a href="https://crucialconsiderations.org/" title="Crucial Considerations" rel="home"><img src="https://crucialconsiderations.org/wp-content/uploads/2015/10/cclogo3.png" alt="" /></a><p>a blog on potentially game-changing ideas in science and philosophy</p>
+            		<h3> </h3>
+            </div><!-- #logo -->
+
+<!--widget-->
+		<div class="header_widget">								<ul class="att-social-widget-output">
+																																																																																									<li><a href="https://www.facebook.com/ea.stiftung" title="Facebook" target="_blank"><img src="https://crucialconsiderations.org/wp-content/plugins/att-social-widget/images/color-circle/facebook.png" alt="Facebook" style="width:26px;height=26px;" /></a></li>																																																																																																																																																																																																																																							<li><a href="http://crucialconsiderations.org/feed/" title="RSS" target="_blank"><img src="https://crucialconsiderations.org/wp-content/plugins/att-social-widget/images/color-circle/rss.png" alt="RSS" style="width:26px;height=26px;" /></a></li>																																																																					<li><a href="https://twitter.com/EA_Stiftung/" title="Twitter" target="_blank"><img src="https://crucialconsiderations.org/wp-content/plugins/att-social-widget/images/color-circle/twitter.png" alt="Twitter" style="width:26px;height=26px;" /></a></li>																																																																					<li><a href="https://www.youtube.com/user/giordanobrunoschweiz/feed" title="Youtube" target="_blank"><img src="https://crucialconsiderations.org/wp-content/plugins/att-social-widget/images/color-circle/youtube.png" alt="Youtube" style="width:26px;height=26px;" /></a></li>																		</ul>
+		</div>		 
+<!--widget end-->
+
+
+
+
+            <nav id="navigation" class="clr">
+                <div class="menu-menu-1-container"><ul id="menu-menu-1" class="sf-menu"><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="https://crucialconsiderations.org/about/">About</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94"><a href="https://crucialconsiderations.org/category/science/">Science</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-95"><a href="https://crucialconsiderations.org/category/philosophy/">Philosophy</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71"><a href="https://crucialconsiderations.org/category/rationality/">Rationality</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46"><a href="https://crucialconsiderations.org/category/ethics/">Ethics</a></li>
+</ul></div>            </nav><!-- #navigation -->
+        </div><!-- #header -->
+    </div><!-- #masthead-wrap -->
+
+    
+    <div id="wrap" class="clr">
+        <div id="main-content" class="grid-1 clr">
+	<div id="primary" class="content-area clr">
+		<div id="content" class="site-content" role="main">
+            
+			                
+    <div id="post" class="single-post clr">
+    
+    	<div class="container clr">
+            
+			<div id="post-heading">
+			    <header>
+			        <h1>Why Evolution Has No Goal</h1><br><div id="post-ratings-659" class="post-ratings" data-nonce="07333079ee"><img id="rating_659_1" src="https://crucialconsiderations.org/wp-content/plugins/wp-postratings/images/thumbs/rating_1_half.gif" alt="" title="" onmouseover="current_rating(659, 1, '');" onmouseout="ratings_off(0.8, 1, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_659_2" src="https://crucialconsiderations.org/wp-content/plugins/wp-postratings/images/thumbs/rating_2_off.gif" alt="" title="" onmouseover="current_rating(659, 2, '');" onmouseout="ratings_off(0.8, 1, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /> <strong>+20</strong> rating, <strong>24</strong> votes <br /><span class="post-ratings-text" id="ratings_659_text"></span></div><div id="post-ratings-659-loading" class="post-ratings-loading"><img src="https://crucialconsiderations.org/wp-content/plugins/wp-postratings/images/loading.gif" width="16" height="16" class="post-ratings-image" />Loading...</div><br>
+							        <ul class="meta clr">
+			             <li><span>Posted on</span> 2nd August 2016,</li> 
+			             <li><span>written by</span> <a href="https://crucialconsiderations.org/author/lukas-gloor/" title="Posts by Lukas Gloor" rel="author">Lukas Gloor</a></li>   
+			             			        </ul>
+
+			    </header>
+			</div><!-- /post-heading -->
+            
+			<div class="post-head-image">
+			                        <div id="post-thumbnail">
+                        <!-- <img src="" alt="Why Evolution Has No Goal" /> -->
+                        <img src="https://crucialconsiderations.org/wp-content/uploads/2016/08/Tree-of-Life.jpg" alt="Why Evolution Has No Goal" />
+
+<!--post category-->		
+<div class="category_overlay_post"><a href="https://crucialconsiderations.org/category/science-and-philosophy/evolution/" title="View all posts in Evolution">Evolution</a></div>
+
+                    </div><!-- /post-thumbnail -->
+			    			</div>
+            <div id="subtitle-post">Or: Metaphorically, it’s all about gene-copying success</div>
+            <article class="entry clr">
+                <div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-url="https://crucialconsiderations.org/science-and-philosophy/evolution/why-evolution-has-no-goal/" data-a2a-title="Why Evolution Has No Goal"><a class="a2a_button_facebook_like addtoany_special_service" data-layout="button" data-href="https://crucialconsiderations.org/science-and-philosophy/evolution/why-evolution-has-no-goal/"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fcrucialconsiderations.org%2Fscience-and-philosophy%2Fevolution%2Fwhy-evolution-has-no-goal%2F&amp;linkname=Why%20Evolution%20Has%20No%20Goal" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_slashdot" href="https://www.addtoany.com/add_to/slashdot?linkurl=https%3A%2F%2Fcrucialconsiderations.org%2Fscience-and-philosophy%2Fevolution%2Fwhy-evolution-has-no-goal%2F&amp;linkname=Why%20Evolution%20Has%20No%20Goal" title="Slashdot" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter_tweet addtoany_special_service" data-url="https://crucialconsiderations.org/science-and-philosophy/evolution/why-evolution-has-no-goal/" data-text="Why Evolution Has No Goal"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></div></div><h3>How evolutionary biology is being misunderstood</h3>
+<p>The notion that evolution has a goal/purpose is a widespread misconception that comes in several variations. Many people falsely believe that evolution was working towards humans as a final product. But from a biological perspective, there is really no reason to single out the human species specifically. Evolution produced a “tree of life”, with humans being an ordinary twig among many others. It did <em>not</em> produce a “ladder of life” where humans would throne at the top. Homo sapiens is one species out of many, and all currently existing organisms have an evolutionary history of the same length, leading back to the same origin most likely.</p>
+<p>Even if one doesn’t view humans as some kind of “end product”, one might still believe that evolution is operating according to some higher purpose, or that it necessarily strives into a particular direction. More complexity, harmony, progress or  some kind of plan that needs to be adhered to. But all of that, too, is mistaken. At most, evolution has certain tendencies – but no goal or purpose.</p>
+<h3>Why evolutionary biology is being misunderstood</h3>
+<p>Evolutionary biology is difficult to grasp because it strongly violates some of our basic intuitions about how things work. We have the tendency to favor teleological (“goal-directed”) explanations over causal explanations (Kelemen &amp; Rosset, 2009) even though with regard to nature, teleological explanations are wrong. For instance, when children are asked whether rain happens “for plants to grow” or “because water condenses in the clouds,” they prefer the first explanation. This likely explains, in combination with religious motivations and perhaps also vanity or wishful thinking, why people have such difficulty to properly understand the evolutionary mechanism.</p>
+<h3>The mechanism behind evolution</h3>
+<p>Evolution’s mechanism is surprisingly simple. Those variations (alleles) of a gene which give an individual a comparative advantage in terms of biological fitness – in being beneficial for successful reproduction – will automatically become more prevalent in the genepool. Whether a given mutation leads to a fitness advantage depends on the environment of the organism in question. Out of the random variation, which is the result of mutations/copying-errors (which can be the result of exposure to radiation, metals or chemical substances), only a small percentage actually increases the fitness of an individual. Those mutations tend to prevail and become widespread, whereas mutations that lead to a disadvantage will likely be weeded out of the genepool. Even though the variation is originally random, a non-random subset of it – the fitness-benefitting components – ends up conserved through natural selection. This mechanism results in organisms adapting to better survive and reproduce in their environment.</p>
+<h3>No Foresight</h3>
+<p>It’s important to realize that this process is always happening in small steps. For large changes in the <a href="http://en.wikipedia.org/wiki/Phenotype" target="_blank" rel="noopener noreferrer">phenotype</a> of an organism, many mutations are required. Most of the mutations which happened throughout the evolutionary past had to give their first bearer a <em>fitness advantage</em> – otherwise they would likely not have become the prevalent allele in the genepool. It could be that a first mutation is good insofar as it would pave the way for a subsequent mutation, which then, together with the first one, proves to be extremely beneficial. However, if the first mutation does not provide a fitness advantage on its own, or worse, if it proves to be harmful in standalone, without the subsequent fitness-enhancing mutation, then it is very unlikely that it will stay around long enough for the fitness-enhancing mutation to come along too, by chance. This is the case despite the great benefits the two mutations could provide in combination. There is simply no way for natural selection to anticipate such future benefits.</p>
+<p>Natural selection has no foresight. In each round, the individuals that die early or are comparatively bad at reproducing are weeded out. There have likely been many situations in a lineage’s evolutionary history where small, slightly fitness-reducing steps would have provided a benefit in the long run, perhaps leading to a lineage culminating in the dominant species across many continents. However, evolution never “goes down” in fitness, because organisms with a lower fitness (by definition) will be more likely to lose the race for reproduction, being outcompeted by their conspecifics.</p>
+<p>Conversely, there is also no mechanism that prevents short-sighted improvements that will turn out to carry a design disadvantage in the long run. Once a lineage, following the selection pressure of the current environment, went through a given adaptation, there is no convenient way for evolution to go back to the sketchpad to pursue a different branch. The sole exception would be if the environment changes in a way that exactly reverses the selection pressures and the past mutations – but that, too, is of course very unlikely.</p>
+<p>The evolutionary biologist Richard Dawkins (1986) used the analogy of a “blind watchmaker” to describe natural selection: “blind” because it is a mechanical process lacking any sort of foresight, and “watchmaker” because nonetheless, it manages to produce structures (living organisms!) that look <em>as though</em> they were deliberately designed.</p>
+<h3>Stuck in local optima</h3>
+<p>Evolution being blind implies that lineages only ever strive towards local optima in regard to the fitness landscape of all possible gene combinations. Global optima, where reaching them would require foresight or planning, are thus not to be expected as a result of evolution.</p>
+<p>An example for being stuck in local optima is eye design. Different kinds of eye designs have evolved more than forty times independently of each other (Land &amp; Nilsson, 2002). Not all their basic designs for visual organs had the same potential for sight improvements in the organism’s evolutionary future. Because evolution lacks foresight, all kinds of designs evolved, as long as there was a continuous pathway of beneficial mutations leading up to them.</p>
+<h3>Stasis</h3>
+<p>Contrary to expectation, it is also not the case that evolution is always at work with the same pace. Evolutionary changes in a population happen when the relative frequency of alleles in the genepool is changing. In large populations where no migration happens and where the environment remains constant, it is well possible that very few such changes happen and that evolution thus remains static for long periods of time. This phenomenon contradicts the notion that evolution is continuously striving towards a specific direction.</p>
+<h3>Changes of Direction</h3>
+<p>It was explained further above that, in terms of reproductive fitness, the evolutionary trend is always upwards. This should not be confused with claims about complexity, size or abilities having to go “upwards” as well: Evolutionary history is full of examples where lineages became smaller. One example would be the common sparrow, whose ancestors were <a href="http://en.wikipedia.org/wiki/Origin_of_birds" target="_blank" rel="noopener noreferrer">predatory dinosaurs</a>.</p>
+<p>Further, depending on the environmental conditions, it is even possible that abilities are lost or stunted. Cave fishes, living in completely dark caves under the surface, have eyes that, unlike their ancestors’, are permanently degenerated. As their dark environment lacks any selection pressures for sight, mutations that harmed eyesight (and thereby maybe saved energy for other organs) where not to the fishes’ disadvantage.</p>
+<h3>Conclusion</h3>
+<p>Evolution has no purpose; it simply happens. There is no reason to assume that evolution comes with some objective  “improvement”. The only thing that is constantly improving is the adaptedness of individuals <em>to their given environment</em>. Because the environment changes, this “progress” always remains relative – progress relative to the adaptedness to an environment.</p>
+<p>In case we want to metaphorically talk about a “goal” of evolution, then the goal is simply the copying success of genes. But that, too, does not happen in a strategically planned manner, for evolution is – metaphorically speaking again – “blind and indifferent.”</p>
+<h3>References</h3>
+<p>Kelemen, D. &amp; Rosset, E. (2009). The human function compunction: Teleological explanation in adults. <i>Cognition</i>, <i>111</i>(1), 138-143.</p>
+<p>Land, M. F. &amp; Nilsson, D. E. (2002). <em>Animal Eyes</em>. Oxford University Press. New York.</p>
+<p>Dawkins, R. (1986). <em>The Blind Watchmaker</em>. Longman, Harlow.</p>
+
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>            </article><!-- .entry -->
+	
+			        
+        </div><!-- /container -->          
+
+				
+		<div id="post-pagination" class="clr">
+		    <div class="post-prev"></div> 
+		    <div class="post-next"><a href="https://crucialconsiderations.org/ethics/the-ethics-of-self-driving-cars/" rel="prev">Next Article</a></div>
+		</div><!-- #post-pagination -->
+            
+    </div><!-- #post -->
+
+
+                        
+
+    	</div><!-- #content -->
+	</div><!-- #primary -->
+    
+
+            <div class="clear"></div>
+        </div><!-- #main-content -->
+    </div><!-- #wrap -->
+    
+    <div id="footer-wrap">
+       <footer id="footer" class="grid-1 clr site-footer">
+            <div id="footer-widgets" class="clr">
+                <div class="footer-box grid-3">
+                    <div class="footer-widget widget_text clr"><h4 class="heading"><span>A project by the</span></h4>			<div class="textwidget"><a href="http://www.ea-foundation.org/"><img src="http://crucialconsiderations.org/wp-content/uploads/2020/05/effective-altruism-foundation-gray-logo.png" width="140" alt="GBS Switzerland logo"></a></div>
+		</div><div class="footer-widget widget_text clr">			<div class="textwidget"><div class="vertspace"></div></div>
+		</div>                </div><!-- .footer-box -->
+                <div class="footer-box grid-3">
+                    <div class="footer-widget widget_text clr"><h4 class="heading"><span>Share And Like</span></h4>			<div class="textwidget"><div id="facebook_main"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.crucialconsiderations.org&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe></div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://crucialconsiderations.org">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><br>
+</div>
+		</div><div class="footer-widget widget_text clr"><h4 class="heading"><span>Contact</span></h4>			<div class="textwidget">in<span class="nopetown">nullnopetown</span>fo<span class="nopetown">nullnopetown<span class="nopetown">nullnopetown</span></span>@<span class="nopetown">nullnopetown</span>ea-foundation.<span class="nopetown">nullnopetown</span>org<br>
+Effective Altruism Foundation<br>
+The Courtyard, Studio D<br>
+44 Gloucester Ave<br>
+NW1 8JD London</div>
+		</div>                </div><!-- .footer-box -->
+                <div class="footer-box grid-3 remove-margin">
+                    <style scoped type="text/css">.utcw-3mikml8 {word-wrap:break-word;text-align:center}.utcw-3mikml8 span,.utcw-3mikml8 a{border-width:0px}.utcw-3mikml8 span:hover,.utcw-3mikml8 a:hover{border-width:0px}</style><div class="footer-widget widget_utcw clr"><h4 class="heading"><span>Tag Cloud</span></h4><div class="utcw-3mikml8"><a class="tag-link-27 utcw-tag utcw-tag-animal-ethics" href="https://crucialconsiderations.org/tag/animal-ethics/" style="font-size:12.714285714286px" title="3 topics">Animal Ethics</a> <a class="tag-link-34 utcw-tag utcw-tag-artificial-intelligence" href="https://crucialconsiderations.org/tag/artificial-intelligence/" style="font-size:9px" title="1 topic">Artificial Intelligence</a> <a class="tag-link-13 utcw-tag utcw-tag-atheism" href="https://crucialconsiderations.org/tag/atheism/" style="font-size:14.571428571429px" title="4 topics">Atheism</a> <a class="tag-link-26 utcw-tag utcw-tag-cognitive-bias" href="https://crucialconsiderations.org/tag/cognitive-bias/" style="font-size:9px" title="1 topic">Cognitive Bias</a> <a class="tag-link-12 utcw-tag utcw-tag-consciousness" href="https://crucialconsiderations.org/tag/consciousness/" style="font-size:10.857142857143px" title="2 topics">Consciousness</a> <a class="tag-link-29 utcw-tag utcw-tag-decision-theory" href="https://crucialconsiderations.org/tag/decision-theory/" style="font-size:9px" title="1 topic">Decision Theory</a> <a class="tag-link-38 utcw-tag utcw-tag-ethics" href="https://crucialconsiderations.org/tag/ethics/" style="font-size:12.714285714286px" title="3 topics">Ethics</a> <a class="tag-link-37 utcw-tag utcw-tag-evolution" href="https://crucialconsiderations.org/tag/evolution/" style="font-size:16.428571428571px" title="5 topics">Evolution</a> <a class="tag-link-21 utcw-tag utcw-tag-free-will" href="https://crucialconsiderations.org/tag/free-will/" style="font-size:9px" title="1 topic">Free Will</a> <a class="tag-link-20 utcw-tag utcw-tag-life" href="https://crucialconsiderations.org/tag/life/" style="font-size:10.857142857143px" title="2 topics">Life</a> <a class="tag-link-32 utcw-tag utcw-tag-means-and-ends" href="https://crucialconsiderations.org/tag/means-and-ends/" style="font-size:9px" title="1 topic">Means and Ends</a> <a class="tag-link-19 utcw-tag utcw-tag-moral-anti-realism" href="https://crucialconsiderations.org/tag/moral-anti-realism/" style="font-size:9px" title="1 topic">Moral Anti-Realism</a> <a class="tag-link-5 utcw-tag utcw-tag-natural-selection" href="https://crucialconsiderations.org/tag/natural-selection/" style="font-size:10.857142857143px" title="2 topics">Natural Selection</a> <a class="tag-link-28 utcw-tag utcw-tag-philosophical-methodology" href="https://crucialconsiderations.org/tag/philosophical-methodology/" style="font-size:12.714285714286px" title="3 topics">Philosophical Methodology</a> <a class="tag-link-17 utcw-tag utcw-tag-philosophy-of-language" href="https://crucialconsiderations.org/tag/philosophy-of-language/" style="font-size:9px" title="1 topic">Philosophy of Language</a> <a class="tag-link-30 utcw-tag utcw-tag-philosophy-of-mind" href="https://crucialconsiderations.org/tag/philosophy-of-mind/" style="font-size:12.714285714286px" title="3 topics">Philosophy of Mind</a> <a class="tag-link-15 utcw-tag utcw-tag-philosophy-of-religion" href="https://crucialconsiderations.org/tag/philosophy-of-religion/" style="font-size:14.571428571429px" title="4 topics">Philosophy of Religion</a> <a class="tag-link-14 utcw-tag utcw-tag-problem-of-evil" href="https://crucialconsiderations.org/tag/problem-of-evil/" style="font-size:12.714285714286px" title="3 topics">Problem of Evil</a> <a class="tag-link-25 utcw-tag utcw-tag-psychology" href="https://crucialconsiderations.org/tag/psychology/" style="font-size:9px" title="1 topic">Psychology</a> <a class="tag-link-39 utcw-tag utcw-tag-rationality" href="https://crucialconsiderations.org/tag/rationality/" style="font-size:22px" title="8 topics">Rationality</a> <a class="tag-link-11 utcw-tag utcw-tag-reductionism" href="https://crucialconsiderations.org/tag/reductionism/" style="font-size:10.857142857143px" title="2 topics">Reductionism</a> <a class="tag-link-6 utcw-tag utcw-tag-replicators" href="https://crucialconsiderations.org/tag/replicators/" style="font-size:9px" title="1 topic">Replicators</a> <a class="tag-link-35 utcw-tag utcw-tag-thought-experiments" href="https://crucialconsiderations.org/tag/thought-experiments/" style="font-size:9px" title="1 topic">Thought Experiments</a> <a class="tag-link-36 utcw-tag utcw-tag-trolley-problem" href="https://crucialconsiderations.org/tag/trolley-problem/" style="font-size:9px" title="1 topic">trolley problem</a> <a class="tag-link-33 utcw-tag utcw-tag-utilitarianism" href="https://crucialconsiderations.org/tag/utilitarianism/" style="font-size:9px" title="1 topic">Utilitarianism</a> <a class="tag-link-16 utcw-tag utcw-tag-verbal-disputes" href="https://crucialconsiderations.org/tag/verbal-disputes/" style="font-size:12.714285714286px" title="3 topics">Verbal Disputes</a> <a class="tag-link-31 utcw-tag utcw-tag-zombies" href="https://crucialconsiderations.org/tag/zombies/" style="font-size:10.857142857143px" title="2 topics">Zombies</a></div></div>                </div><!-- .footer-box -->
+            </div><!-- #footer-widgets -->
+        </footer><!-- #footer -->
+    </div><!-- #footer-wrap -->
+
+
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/plugins/ditty-news-ticker/legacy/inc/static/js/swiped-events.min.js?ver=1.1.4" id="swiped-events-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.3" id="jquery-effects-core-js"></script>
+<script type="text/javascript" id="ditty-news-ticker-js-extra">
+/* <![CDATA[ */
+var mtphr_dnt_vars = {"is_rtl":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/plugins/ditty-news-ticker/legacy/inc/static/js/ditty-news-ticker.js?ver=3.1.51" id="ditty-news-ticker-js"></script>
+<script type="text/javascript" id="wp-postratings-js-extra">
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/crucialconsiderations.org\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/crucialconsiderations.org\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"thumbs","image_ext":"gif","max":"2","show_loading":"1","show_fading":"1","custom":"1"};
+var ratings_1_mouseover_image=new Image();ratings_1_mouseover_image.src="https://crucialconsiderations.org/wp-content/plugins/wp-postratings/images/thumbs/rating_1_over.gif";var ratings_2_mouseover_image=new Image();ratings_2_mouseover_image.src="https://crucialconsiderations.org/wp-content/plugins/wp-postratings/images/thumbs/rating_2_over.gif";;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.91.2" id="wp-postratings-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/themes/att-prometheus/js/superfish.js?ver=1.4.8" id="superfish-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/themes/att-prometheus/js/fitvids.js?ver=1" id="fitvids-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/themes/att-prometheus/js/uniform.js?ver=1.7.5" id="uniform-js"></script>
+<script type="text/javascript" id="att-responsive-js-extra">
+/* <![CDATA[ */
+var attParams = {"responsiveMenu":"Navigation"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/themes/att-prometheus/js/responsive.js?ver=6.7.1" id="att-responsive-js"></script>
+<script type="text/javascript" src="https://crucialconsiderations.org/wp-content/themes/att-prometheus/js/global.js?ver=1.0" id="att-global-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202509.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"78421812\",\"post\":\"659\",\"tz\":\"0\",\"srv\":\"crucialconsiderations.org\",\"j\":\"1:14.1\"}") ]);
+_stq.push([ "clickTrackerInit", "78421812", "659" ]);
+/* ]]> */
+</script>
+</body>
+</html>

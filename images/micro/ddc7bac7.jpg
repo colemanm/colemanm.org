@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Look back less</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/assets/message_content/index-07e0a26c.css" media="all" />
+    <link rel="stylesheet" href="/assets/web/components/colors-495b027c.css" media="all" />
+    <link rel="stylesheet" href="/assets/world/base-5e160957.css" media="all" />
+
+      <link rel="alternate" type="application/atom+xml" title="Feed" href="https://world.hey.com/jason/feed.atom">
+
+  <link rel="apple-touch-icon" sizes="300x300" href="/jason/avatar-9f11ce77d31e68e834c564594ee0bc32a005ee8d">
+  <link rel="icon" type="image/png" sizes="300x300" href="/jason/avatar-9f11ce77d31e68e834c564594ee0bc32a005ee8d">
+
+  <meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://world.hey.com/jason/avatar-9f11ce77d31e68e834c564594ee0bc32a005ee8d">
+
+  <meta property="og:type" content="article"><meta property="og:url" content="https://world.hey.com/jason/look-back-less-848e9db0"><meta property="og:title" content="Look back less"><meta property="og:description" content="I have a theory. One of the reasons companies have a hard time moving forward is because they&#39;ve tangled themselves in the near past. Eyes aimed backwards rather than ahead, staring at the dark, feet in their own concrete. They&#39;ve trapped themselves looking for certainty where there isn&#39;t any. Searching for actionable advice where ther..."><meta property="og:image" content="https://world.hey.com/jason/avatar-9f11ce77d31e68e834c564594ee0bc32a005ee8d">
+
+
+    <script async data-domain="world.hey.com" src="https://www.hey.com/js/script.js"></script>
+  </head>
+
+  <body>
+    <main id="main-content" class="page page--medium@medium">
+      <div class="page__content">
+        
+
+<header class="push_double--ends align--center">
+  <a class="undecorated" aria-label="All posts from Jason Fried" href="/jason">
+  <img src="/jason/avatar-9f11ce77d31e68e834c564594ee0bc32a005ee8d" class="avatar i-flex" size="50x50">
+
+  <p class="txt--x-small txt--subtle txt--uppercase txt--normal txt--spread flush--top">
+    Jason Fried
+  </p>
+</a>
+</header>
+
+<p class="txt--x-small txt--subtle align--center push_half--bottom">
+  November  3, 2023
+</p>
+
+<h2 class="hdg hdg--xx-large align--center push_quarter--bottom flush--top txt--break-words " dir="auto">
+  <span>Look back less</span>
+</h2>
+
+  <section class="push_double--ends pad--bottom">
+    <article>
+      <div class="trix-content">
+  <div>I have a theory.<br><br>One of the reasons companies have a hard time moving forward is because they&#39;ve tangled themselves in the near past. Eyes aimed backwards rather than ahead, staring at the dark, feet in their own concrete.<br><br>They&#39;ve trapped themselves looking for certainty where there isn&#39;t any. Searching for actionable advice where there are only guesses.<br><br>Something sorta went wrong. A project didn&#39;t go as planned. Some launch didn&#39;t meet expectations. A number someone felt was in reach didn&#39;t get hit.<br><br>So they look back, scanning the ruins for something shiny. They gather people up and call for a search party. They launch into post-mortems and retrospectives.<br><br>It&#39;s a mistake most of the time. And a waste of time almost all of the time.<br><br>Let&#39;s start with when it makes sense. If the process is highly mechanized, isolated, or systematized, then you can look back and find the exact moment when something went wrong. And you don&#39;t need to conjure up a &quot;what if&quot; counterfactual, you know for sure this was the point of failure.<br><br>For example, if you&#39;re making widgets, and your small circular disks are coming out as half moons instead, then you can trace the process back, figure out where the stamping went wrong, correct that machine or process, and absolutely 100% fix the issue. If you can do that, by all means do that. Technical downtime can often be perfectly traced like that, too.<br><br>But so many failed projects subject to retrospectives are searching for reasons where there are only humans to be found.<br><br>Ever been on one that lasts hours only to determine &quot;next time we need to communicate better&quot;? I bet you have.<br><br>Or one that says &quot;If we only would have involved QA earlier we would have caught that.&quot; Or &quot;Next time we need to be more careful to take seasonal timing into account&quot;. Or &quot;designers and programmers need to work more closely together.&quot; Or some other generalized platitude, extruded from the retrospective process.<br><br>There may be truth in the statements, but are they really the reason things didn&#39;t go as planned? Really? You sure? And those aren&#39;t actually answers, they remain questions without question marks. So now what, specifically? Spending hours of people&#39;s time grabbing for something grippy in the box of generalized excuses isn&#39;t going to turn up a treasure.<br><br>And most of the time, reasons are actually mysteries. Or deeper than you can dig. Or too many to count. The world, the work, the market, the customer, the timing, the pressure, the economy at large, the expectations, the hopes and dreams are fuzzy, abstract, and irrational. You can point, but not at a point that&#39;s clearly defined enough to make a difference next time.<br><br>Counterfactuals are deeply satisfying because they can never be proven. They never have to smash into reality. Imagination takes hold, a scapegoat comes into focus, and we can blame it all on the thing we&#39;ll never know mattered in the first place. Report written, meeting adjourned!<br><br>A better path is to reflect forward, not backwards. Develop a loose theory while working on what&#39;s next. Appreciate there&#39;s no certainty to be found, and put all your energy into doing better on an upcoming project. But how will you do better next time if you don&#39;t know what went wrong last time? Nothing is guaranteed other than experience. You&#39;ll simply have more time under the curve, and more moments under tension, to perform better moving forward. Internalize as you go, not as you went.<br><br>If you&#39;re any good, you&#39;ll simply do better next time because you&#39;re better at what you do than you were the last time you did it. That may be murky and unsatisfying for some, but I believe it to be absolutely true.<br><br>So next time the involuntary instinct kicks in, and the urge to schedule a retro when something didn&#39;t go as planned, skip it and skip ahead. There&#39;s more to learn looking forward.<br><br>-Jason</div>
+</div>
+
+    </article>
+  </section>
+
+  <div class="push_double--top align--center">
+      <p class="txt--x-small txt--subtle txt--uppercase txt--normal txt--spread flush--top">
+        About Jason Fried
+      </p>
+      <div class="bio txt--small txt--subtle push--bottom">
+    <div class="trix-content">
+  <div>Hey! I'm Jason, the Co-Founder and CEO at 37signals, makers of <a href="https://basecamp.com">Basecamp</a> and <a href="https://hey.com">HEY</a>. Subscribe below to follow my thinking on business, design, product development, and whatever else is on my mind. Thanks for visiting, thanks for reading.</div>
+</div>
+
+  </div>
+
+    <section class="subscription align--center push_double--bottom txt--x-small txt--subtle">
+  <form action="https://world.hey.com/jason/subscribers" accept-charset="UTF-8" data-remote="true" method="post">
+    <label for="subscriber_email_address" class="flush--top push_quarter--bottom">
+      Subscribe to get future posts via email (or grab the <a class="permalink" href="https://world.hey.com/jason/feed.atom">RSS feed</a>)
+    </label>
+
+    <div class="subscribe flex push_half--top">
+      <input type="email" name="subscriber[email_address]" id="subscriber_email_address" placeholder="Type your email…" required
+        class="subscribe__email input input--full-width input--borderless unpad flex-item--grow txt--x-small">
+
+      <button class="subscribe__submit btn--plain txt--x-small">Subscribe</button>
+    </div>
+</form>
+</section>
+
+  </div>
+
+<footer class="push_double--top align--center pad--bottom">
+  <p class="push--top txt--xx-small txt--subtle">
+    <a class="permalink undecorated" href="https://www.hey.com/world/?utm_source=hw-web">Sent to the world with HEY</a>
+  </p>
+</footer>
+
+      </div>
+    </main>
+  </body>
+</html>
