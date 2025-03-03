@@ -12,8 +12,10 @@ module Jekyll
       site.posts.docs.each do |post|
         next unless post.data['tags']
         post.data['tags'].each do |tag|
-          tags[tag] ||= []
-          tags[tag] << post unless tags[tag].include?(post)
+          # Normalize tag case for storage
+          normalized_tag = normalize_tag_case(tag)
+          tags[normalized_tag] ||= []
+          tags[normalized_tag] << post unless tags[normalized_tag].include?(post)
         end
       end
 
@@ -21,8 +23,10 @@ module Jekyll
       site.collections['micro'].docs.each do |micro|
         next unless micro.data['tags']
         micro.data['tags'].each do |tag|
-          tags[tag] ||= []
-          tags[tag] << micro unless tags[tag].include?(micro)
+          # Normalize tag case for storage
+          normalized_tag = normalize_tag_case(tag)
+          tags[normalized_tag] ||= []
+          tags[normalized_tag] << micro unless tags[normalized_tag].include?(micro)
         end
       end
       
@@ -72,6 +76,21 @@ module Jekyll
           Jekyll.logger.debug "TagGenerator:", "  #{page.url}"
         end
       end
+    end
+
+    private
+
+    def normalize_tag_case(tag)
+      # Capitalize first letter of each word, handle special cases
+      words = tag.split(' ').map do |word|
+        # Keep acronyms uppercase
+        if word.upcase == word
+          word
+        else
+          word.capitalize
+        end
+      end
+      words.join(' ')
     end
   end
 

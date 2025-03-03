@@ -7,17 +7,26 @@ description: "Blog archives by topic."
 <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
 
 {% assign all_posts = '' | split: '' %}
+{% assign page_title_lower = page.title | downcase %}
 
 {% for post in site.posts %}
-  {% if post.tags contains page.title %}
-    {% assign all_posts = all_posts | push: post %}
-  {% endif %}
+  {% for tag in post.tags %}
+    {% assign tag_lower = tag | downcase %}
+    {% if tag_lower == page_title_lower %}
+      {% assign all_posts = all_posts | push: post %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 {% for post in site.micro %}
-  {% if post.tags contains page.title %}
-    {% assign all_posts = all_posts | push: post %}
-  {% endif %}
+  {% for tag in post.tags %}
+    {% assign tag_lower = tag | downcase %}
+    {% if tag_lower == page_title_lower %}
+      {% assign all_posts = all_posts | push: post %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 {% assign sorted_posts = all_posts | sort: 'date' | reverse %}
