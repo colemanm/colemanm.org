@@ -76,6 +76,33 @@ class Blog < Thor
     puts "Link '#{date}-#{slug}.md' created."
   end
 
+  desc 'micro', 'Create a new micro post.'
+  method_option :title, aliases: '-t', desc: 'Micro post title', default: 'New micro post'
+  method_option :date, aliases: '-d', desc: 'Publish date'
+  def micro
+    title = options[:title]
+    slug  = title.downcase.strip.tr(' ', '-').gsub(/[^\w-]/, '')
+    date  = generate_date(options[:date])
+    datetime = generate_datetime(options[:date])
+    file = File.join('./_micro/', "#{date}-#{slug}.md")
+    open(file, 'w') do |micro|
+      micro.puts <<~MICRO
+        ---
+        date: #{datetime}
+        layout: micro
+        type: photo
+        tags:
+        - 
+        images:
+        - 
+        ---
+
+      MICRO
+    end
+
+    puts "Micro '#{date}-#{slug}.md' created."
+  end
+
   desc 'book', 'Create a new book in library.'
   method_option :title, aliases: '-t', desc: 'Book title', default: 'New book'
   method_option :author, aliases: '-a', desc: 'Book author last name'
