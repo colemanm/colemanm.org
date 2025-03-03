@@ -10,6 +10,7 @@ tags:
 - beauty
 - philosophy
 - aesthetics
+- Dana Gioia
 ---
 
 {% include video.html id="QAlMjfMfbB4" %}
