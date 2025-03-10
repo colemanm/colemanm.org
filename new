@@ -1,0 +1,58 @@
+#!/bin/bash
+
+# Function to show usage
+show_usage() {
+    echo "Usage: ./new <type> <title>"
+    echo
+    echo "Available types:"
+    echo "  post     - Create a new blog post"
+    echo "  link     - Create a new link post"
+    echo "  micro    - Create a new micro post"
+    echo "  book     - Create a new book entry"
+    echo
+    echo "Examples:"
+    echo "  ./new post \"My New Blog Post\""
+    echo "  ./new link \"Interesting Article\""
+    echo "  ./new micro video \"My Favorite Song\""
+    echo "  ./new book \"The Great Gatsby\""
+    exit 1
+}
+
+# Check if no arguments provided
+if [ $# -eq 0 ]; then
+    show_usage
+fi
+
+# Get the type and title
+type=$1
+shift
+title=$@
+
+# Check if title is empty
+if [ -z "$title" ]; then
+    echo "Error: Please provide a title"
+    show_usage
+fi
+
+# Process based on type
+case $type in
+    "post")
+        ruby script/post.rb post "$title"
+        ;;
+    "link")
+        ruby script/post.rb link "$title"
+        ;;
+    "micro")
+        # For micro posts, we need to extract the micro type from the title
+        micro_type=$(echo "$title" | cut -d' ' -f1)
+        micro_title=$(echo "$title" | cut -d' ' -f2-)
+        ruby script/micro.rb "$micro_type" "$micro_title"
+        ;;
+    "book")
+        ruby script/book.rb "$title"
+        ;;
+    *)
+        echo "Error: Unknown type '$type'"
+        show_usage
+        ;;
+esac 
