@@ -7,8 +7,10 @@ categories: blog
 img: /images/post-images/connectography-asia.jpg
 tags:
 - books
+- Parag Khanna
 - geography
 - reviews
+- globalization
 - infrastructure
 - maps
 
