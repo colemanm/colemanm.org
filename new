@@ -3,6 +3,7 @@
 # Function to show usage
 show_usage() {
     echo "Usage: ./new <type> <title>"
+    echo "For books: ./new book \"<author_last>\" \"<title>\""
     echo
     echo "Available types:"
     echo "  post     - Create a new blog post"
@@ -14,7 +15,7 @@ show_usage() {
     echo "  ./new post \"My New Blog Post\""
     echo "  ./new link \"Interesting Article\""
     echo "  ./new micro video \"My Favorite Song\""
-    echo "  ./new book \"The Great Gatsby\""
+    echo "  ./new book \"Eliot\" \"Notes Towards the Definition of Culture\""
     exit 1
 }
 
@@ -23,33 +24,40 @@ if [ $# -eq 0 ]; then
     show_usage
 fi
 
-# Get the type and title
+# Get the type
 type=$1
 shift
-title=$@
 
-# Check if title is empty
-if [ -z "$title" ]; then
-    echo "Error: Please provide a title"
-    show_usage
-fi
-
-# Process based on type
 case $type in
-    "post")
-        ruby script/post.rb post "$title"
+    "book")
+        if [ $# -lt 2 ]; then
+            echo "Error: Please provide both author_last and title for book entries"
+            show_usage
+        fi
+        author_last=$1
+        shift
+        title="$@"
+        echo "Debug: Creating book entry with author: $author_last, title: $title"
+        ruby script/book.rb "$author_last" "$title"
         ;;
-    "link")
-        ruby script/post.rb link "$title"
+    "post"|"link")
+        title="$@"
+        if [ -z "$title" ]; then
+            echo "Error: Please provide a title"
+            show_usage
+        fi
+        ruby script/post.rb "$type" "$title"
         ;;
     "micro")
+        title="$@"
+        if [ -z "$title" ]; then
+            echo "Error: Please provide a title"
+            show_usage
+        fi
         # For micro posts, we need to extract the micro type from the title
         micro_type=$(echo "$title" | cut -d' ' -f1)
         micro_title=$(echo "$title" | cut -d' ' -f2-)
         ruby script/micro.rb "$micro_type" "$micro_title"
-        ;;
-    "book")
-        ruby script/book.rb "$title"
         ;;
     *)
         echo "Error: Unknown type '$type'"
