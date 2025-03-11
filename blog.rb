@@ -79,6 +79,7 @@ class Blog < Thor
   desc 'micro', 'Create a new micro post.'
   method_option :title, aliases: '-t', desc: 'Micro post title', default: 'New micro post'
   method_option :date, aliases: '-d', desc: 'Publish date'
+  method_option :type, aliases: '-T', desc: 'Micro post type', default: 'photo'
   def micro
     title = options[:title]
     slug  = title.downcase.strip.tr(' ', '-').gsub(/[^\w-]/, '')
@@ -90,11 +91,20 @@ class Blog < Thor
         ---
         date: #{datetime}
         layout: micro
-        type: photo
+        type: #{options[:type]}
         tags:
         - 
-        images:
-        - 
+        if options[:type] == 'photo'
+          images:
+          - 
+        elsif options[:type] == 'video'
+          video:
+            provider: youtube
+            id: 
+            url: 
+        elsif options[:type] == 'audio'
+          audio:
+        end
         ---
 
       MICRO
