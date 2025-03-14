@@ -19,4 +19,3 @@ video:
 Great interview with the author of one of my favorite books from the last several years, Joe Henrich. _[The WEIRDest People in the
 World](/books/henrich-the-weirdest-people-in-the-world/ "The WEIRDest People in the World")_ is a fascinating look at the origins of human culture and
 the evolution of human psychology.
-
