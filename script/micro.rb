@@ -5,7 +5,7 @@ require 'date'
 
 # Define the micro post types and their templates
 TEMPLATES = {
-  'video' => <<~TEMPLATE
+  'video' => <<~TEMPLATE,
     ---
     date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}
     layout: micro
@@ -20,8 +20,7 @@ TEMPLATES = {
 
     **Title of the video**.
   TEMPLATE
-,
-  'photo' => <<~TEMPLATE
+  'photo' => <<~TEMPLATE,
     ---
     date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}
     layout: micro
@@ -34,8 +33,7 @@ TEMPLATES = {
 
     _**Title of the photo**_.
   TEMPLATE
-,
-  'text' => <<~TEMPLATE
+  'text' => <<~TEMPLATE,
     ---
     date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}
     layout: micro
@@ -46,7 +44,6 @@ TEMPLATES = {
 
     Your text content here.
   TEMPLATE
-,
   'link' => <<~TEMPLATE
     ---
     date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}
@@ -79,7 +76,7 @@ end
 
 # Check if a type was provided as an argument
 if ARGV.empty?
-  puts "Usage: ruby generate_micro_templates.rb <type> <title>"
+  puts "Usage: ruby script/micro.rb <type> <title>"
   puts "Available types: #{TEMPLATES.keys.join(', ')}"
   exit 1
 end
