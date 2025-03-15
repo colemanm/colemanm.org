@@ -30,17 +30,24 @@ description: "My reading log, with thoughts and highlights from books in my libr
   </table>
 
 <h2>Bookshelf</h2>
-<table>
+<div class="mb-4">
+  <input type="text" 
+         id="bookSearch" 
+         placeholder="Search books by title or author..." 
+         class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+</div>
+
+<table id="booksTable">
 {% assign books = site.books | sort: 'date_completed' | reverse %}
 {% for book in books %}
   {% if book.status != "draft" and book.current != true and book.date_completed != nil %}
   {% assign review = site.posts | where: 'book-id', book.slug | first %}
-  <tr class="{% cycle 'even', 'odd' %}">
+  <tr class="{% cycle 'even', 'odd' %} book-row">
     <td class="title">
       <a href="{{ book.url }}" {% if book.favorite %}class="font-bold"{% endif %}>{{ book.title | xml_escape }}</a>
       {% if book.favorite %}<span class="favorite-star">★</span>{% endif %}
     </td>
-    <td>{{ book.author }}</td>
+    <td class="author">{{ book.author }}</td>
     <td>{% if review %}<em><a href="{{ review.url }}">Review</a></em>{% endif %}
         {% if book.notes %}📝{% endif %}</td>
     <!-- <td>{% include book-rating.html %}</td> -->
@@ -51,3 +58,37 @@ description: "My reading log, with thoughts and highlights from books in my libr
 {% endfor %}
 </table>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('bookSearch');
+    const table = document.getElementById('booksTable');
+    const rows = table.getElementsByClassName('book-row');
+
+    searchInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+
+        Array.from(rows).forEach(row => {
+            const title = row.querySelector('.title').textContent.toLowerCase();
+            const author = row.querySelector('.author').textContent.toLowerCase();
+            const matchesSearch = title.includes(searchTerm) || author.includes(searchTerm);
+            
+            row.style.display = matchesSearch ? '' : 'none';
+        });
+    });
+
+    // Add keyboard shortcut (press '/' to focus search)
+    document.addEventListener('keydown', function(e) {
+        if (e.key === '/' && document.activeElement !== searchInput) {
+            e.preventDefault();
+            searchInput.focus();
+        }
+        // Press Escape to clear search
+        if (e.key === 'Escape' && document.activeElement === searchInput) {
+            searchInput.value = '';
+            searchInput.dispatchEvent(new Event('input'));
+            searchInput.blur();
+        }
+    });
+});
+</script>
