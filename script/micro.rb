@@ -44,7 +44,7 @@ TEMPLATES = {
 
     Your text content here.
   TEMPLATE
-  'link' => <<~TEMPLATE
+  'link' => <<~TEMPLATE,
     ---
     date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}
     layout: micro
@@ -56,9 +56,23 @@ TEMPLATES = {
 
     **Title of the link**.
   TEMPLATE
+  'quote' => <<~TEMPLATE
+    ---
+    date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}
+    layout: micro
+    type: quote
+    tags:
+    - quotes
+    quote:
+      text: "%{text}"
+      source: "%{source}"%{work}
+    ---
+
+    %{content}
+  TEMPLATE
 }
 
-def generate_template(type, title)
+def generate_template(type, title, *args)
   # Create a slug from the title
   slug = title.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/(^-|-$)/, '')
   
@@ -68,21 +82,32 @@ def generate_template(type, title)
   # Ensure the _micro directory exists
   FileUtils.mkdir_p('_micro')
   
+  # Handle quote type specially
+  if type == 'quote'
+    source = args[0] || ''
+    work = args[1] ? "\n      work: \"#{args[1]}\"" : ''
+    content = "A quote from #{source}#{work ? " in #{args[1]}" : ""}."
+    template = TEMPLATES[type] % { text: title, source: source, work: work, content: content }
+  else
+    template = TEMPLATES[type]
+  end
+  
   # Write the template to the file
-  File.write(File.join('_micro', filename), TEMPLATES[type])
+  File.write(File.join('_micro', filename), template)
   
   puts "Generated template: _micro/#{filename}"
 end
 
 # Check if a type was provided as an argument
 if ARGV.empty?
-  puts "Usage: ruby script/micro.rb <type> <title>"
+  puts "Usage: ruby script/micro.rb <type> <title> [source] [work]"
   puts "Available types: #{TEMPLATES.keys.join(', ')}"
   exit 1
 end
 
 type = ARGV[0].downcase
-title = ARGV[1..-1].join(' ')
+title = ARGV[1]
+args = ARGV[2..-1]
 
 unless TEMPLATES.key?(type)
   puts "Error: Unknown type '#{type}'"
@@ -95,4 +120,4 @@ if title.nil? || title.empty?
   exit 1
 end
 
-generate_template(type, title) 
+generate_template(type, title, *args) 

@@ -4,18 +4,21 @@
 show_usage() {
     echo "Usage: ./new <type> <title>"
     echo "For books: ./new book \"<author_last>\" \"<title>\""
+    echo "For quotes: ./new quote \"<text>\" \"<source>\" [\"<work>\"]"
     echo
     echo "Available types:"
     echo "  post     - Create a new blog post"
     echo "  link     - Create a new link post"
     echo "  micro    - Create a new micro post"
     echo "  book     - Create a new book entry"
+    echo "  quote    - Create a new quote post"
     echo
     echo "Examples:"
     echo "  ./new post \"My New Blog Post\""
     echo "  ./new link \"Interesting Article\""
     echo "  ./new micro video \"My Favorite Song\""
     echo "  ./new book \"Eliot\" \"Notes Towards the Definition of Culture\""
+    echo "  ./new quote \"The best way to predict the future is to invent it.\" \"Alan Kay\""
     exit 1
 }
 
@@ -39,6 +42,19 @@ case $type in
         title="$@"
         echo "Debug: Creating book entry with author: $author_last, title: $title"
         ruby script/book.rb "$author_last" "$title"
+        ;;
+    "quote")
+        if [ $# -lt 2 ]; then
+            echo "Error: Please provide both quote text and source"
+            show_usage
+        fi
+        quote_text=$1
+        quote_source=$2
+        quote_work=""
+        if [ $# -eq 3 ]; then
+            quote_work=$3
+        fi
+        ruby script/micro.rb "quote" "$quote_text" "$quote_source" "$quote_work"
         ;;
     "post"|"link")
         title="$@"
