@@ -16,6 +16,24 @@ permalink: /micro/
           </span>
         </div>
         
+        {% if post.type == 'quote' %}
+        <div class="my-4">
+          <blockquote class="border-l-4 border-[#517AA3] pl-6 text-lg bg-gray-50 py-6 pr-6">
+            <div>{{ post.quote.text }}</div>
+            {% if post.quote.source %}
+            <div class="mt-6 text-right text-gray-600 text-base">
+              — {{ post.quote.source }}{% if post.quote.work %}, <em>{{ post.quote.work }}</em>{% endif %}
+              {% if post.quote.url %}
+              <a href="{{ post.quote.url }}" class="text-[#517AA3] hover:text-[#2d3939] hover:border-b hover:border-[#dd9922]">
+                &rarr;
+              </a>
+              {% endif %}
+            </div>
+            {% endif %}
+          </blockquote>
+        </div>
+        {% endif %}
+        
         {% if post.link %}
         <div class="mb-4">
           <h2 class="text-xl font-semibold mb-2">

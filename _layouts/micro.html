@@ -13,6 +13,24 @@ layout: default
       </a>
     </div>
 
+    {% if page.type == 'quote' %}
+    <div class="my-4">
+      <blockquote class="border-l-4 border-[#517AA3] pl-6 text-lg bg-gray-50 py-6 pr-6">
+        <div>{{ page.quote.text }}</div>
+        {% if page.quote.source %}
+        <div class="mt-6 text-right text-gray-600 text-base">
+          — {{ page.quote.source }}{% if page.quote.work %}, <em>{{ page.quote.work }}</em>{% endif %}
+          {% if page.quote.url %}
+          <a href="{{ page.quote.url }}" class="text-[#517AA3] hover:text-[#2d3939] hover:border-b hover:border-[#dd9922]">
+            &rarr;
+          </a>
+          {% endif %}
+        </div>
+        {% endif %}
+      </blockquote>
+    </div>
+    {% endif %}
+
     {% if page.link %}
     <div class="mb-4">
       <h2 class="text-xl font-semibold mb-2">
