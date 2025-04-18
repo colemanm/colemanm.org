@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 description: "Coleman McCormick's professional experience and background"
 ---
@@ -27,11 +27,11 @@ description: "Coleman McCormick's professional experience and background"
   <div class="flex flex-col md:flex-row justify-between items-baseline mb-2">
     <div>
       <div class="flex flex-row items-center gap-2">
-        <img src="/images/logos/liminal-icon.png" alt="Liminal Lab logo">
-        <h3 class="text-xl font-bold text-[#517AA3] m-0">Liminal Lab</h3>
+        <img src="/images/logos/liminal.png" alt="Liminal Lab logo" class="not-prose" style="width: 30px; height: 30px;">
+        <h3 class="text-xl font-bold text-[#517AA3] m-0 not-prose">Liminal Lab</h3>
       </div>
       <div class="flex items-center gap-2">
-        <a href="https://www.onliminal.xyz" class="text-sm text-gray-600 hover:text-[#3d5d7d]">onliminal.xyz</a>
+        <a href="https://www.onliminal.xyz" class="text-sm text-gray-600 hover:text-[#010101]">onliminal.xyz</a>
       </div>
     </div>
     <span class="text-gray-600 text-sm md:text-right">2024-Present</span>
@@ -88,7 +88,6 @@ description: "Coleman McCormick's professional experience and background"
   <div class="flex flex-col md:flex-row justify-between items-baseline mb-2">
     <div>
       <h3 class="text-xl font-bold text-[#517AA3] m-0">Spatial Networks, Inc.</h3>
-      <a href="https://www.spatialnetworks.com" class="text-sm text-gray-600 hover:text-[#3d5d7d]">spatialnetworks.com</a>
     </div>
     <span class="text-gray-600 text-sm md:text-right">2009-2015</span>
   </div>
@@ -103,7 +102,6 @@ description: "Coleman McCormick's professional experience and background"
   <div class="flex flex-col md:flex-row justify-between items-baseline mb-2">
     <div>
       <h3 class="text-xl font-bold text-[#517AA3] m-0">Bayside Engineering</h3>
-      <a href="https://www.baysideengineering.com" class="text-sm text-gray-600 hover:text-[#3d5d7d]">baysideengineering.com</a>
     </div>
     <span class="text-gray-600 text-sm md:text-right">2006-2009</span>
   </div>
