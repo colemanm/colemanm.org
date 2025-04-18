@@ -26,8 +26,13 @@ description: "Coleman McCormick's professional experience and background"
 <div class="mb-8">
   <div class="flex flex-col md:flex-row justify-between items-baseline mb-2">
     <div>
-      <h3 class="text-xl font-bold text-[#517AA3] m-0">Liminal Lab</h3>
-      <a href="https://www.onliminal.xyz" class="text-sm text-gray-600 hover:text-[#3d5d7d]">onliminal.xyz</a>
+      <div class="flex flex-row items-center gap-2">
+        <img src="/images/logos/liminal-icon.png" alt="Liminal Lab logo">
+        <h3 class="text-xl font-bold text-[#517AA3] m-0">Liminal Lab</h3>
+      </div>
+      <div class="flex items-center gap-2">
+        <a href="https://www.onliminal.xyz" class="text-sm text-gray-600 hover:text-[#3d5d7d]">onliminal.xyz</a>
+      </div>
     </div>
     <span class="text-gray-600 text-sm md:text-right">2024-Present</span>
   </div>

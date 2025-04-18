@@ -18,3 +18,5 @@
   - bio
   - things i believe
   - collaboration
+
+Integrating micro posts with main blog on the index page.
