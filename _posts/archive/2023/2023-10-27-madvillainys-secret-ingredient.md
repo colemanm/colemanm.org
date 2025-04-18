@@ -9,7 +9,7 @@ tags:
 - video
 - music
 - Madvillain
-- MF Doom
+- MF DOOM
 - Madlib
 
 links:
