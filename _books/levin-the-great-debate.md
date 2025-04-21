@@ -16,16 +16,14 @@ genres:
 - philosophy
 - biography
 isbn: 9780465050970
-rating: 
+rating: 5
 pages: 296
 format: kindle
 publish_year: 2013
 date_started: 2025-04-02
-date_completed: 
+date_completed: 2025-04-20
 goodreads_id: 17290728
 amazon_link: https://amzn.to/42qJKgT
 
-favorite: false
-current: true
-notes: false
+favorite: true
 ---
