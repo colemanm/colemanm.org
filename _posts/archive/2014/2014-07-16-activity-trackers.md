@@ -62,10 +62,7 @@ Each service offers a premium paid tier with additional features. Strava and Run
 
 ## Data Quality / Maps
 
-My primary interest in analyzing these services was to check out the quality of the GPS data logging. I ran all three of them on the same ride through [Snell Isle](https://en.wikipedia.org/wiki/Snell_Isle) so I could overlay them together and see what the variance was in location accuracy. Even though iOS is ultimately logging the same data from the same sensor, and offering that up to the applications via the [Core Location](https://developer.apple.com/library/ios/documentation/userexperience/Conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html) API, the data shows that all three apps must be processing and storing the location values differently. Here's a map showing the GPS track lines recorded in each &mdash; Strava, MapMyRun, and RunKeeper. Click the buttons below the map to toggle them on and off to see how the geometry compares. If you zoom in close, you'll see the lines stray apart in some areas:
-
-<div id='map'></div>
-<div id='menu-ui' class='menu-ui'></div>
+My primary interest in analyzing these services was to check out the quality of the GPS data logging. I ran all three of them on the same ride through [Snell Isle](https://en.wikipedia.org/wiki/Snell_Isle) so I could overlay them together and see what the variance was in location accuracy. Even though iOS is ultimately logging the same data from the same sensor, and offering that up to the applications via the [Core Location](https://developer.apple.com/library/ios/documentation/userexperience/Conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html) API, the data shows that all three apps must be processing and storing the location values differently. Here's a map showing the GPS track lines recorded in each &mdash; Strava, MapMyRun, and RunKeeper. Click the buttons below the map to toggle them on and off to see how the geometry compares. If you zoom in close, you'll see the lines stray apart in some areas.
 
 Each app performs roughly the same in terms of location data quality. The small variances in precision seem to trend together for the most part, which makes sense. When the signal gets bad, or the sky is slightly occluded, the Location APIs are going to return worse data for all running applications. One noticable difference between the track geometry (in this example, at least) is that the MapMyRun track alignment tends to vary in different ways than the other two. It looks like there might be some sort of server-side [smoothing or splining](https://gis.stackexchange.com/questions/24827/how-to-smooth-the-polygons-in-a-contour-map) going on to make the data look better after processing, but it doesn't dramatically change the accuracy of the data overall.
 
@@ -88,41 +85,3 @@ One caveat important to note is that Moves was [acquired by Facebook](http://www
 Strava and MapMyRun also support pulling the track info from external devices like mountable [GPS devices](https://buy.garmin.com/en-US/US/into-sports/cycling/edge-500/prod36728.html), [watches](http://www.magellangps.com/Echo), and [bike sensors](https://buy.garmin.com/en-US/US/shop-by-accessories/fitness-sensors/bike-speed-sensor-and-cadence-sensor/prod146897.html).
 
 Overall, my favorite is Strava as the app-of-choice for tracking activity. It performs consistently, the GPS and fitness data is high quality, and the service has a good balance of simplicity and social features that I like.
-
-<script>
-L.mapbox.accessToken = 'pk.eyJ1IjoiY29sZW1hbm0iLCJhIjoieW8wN2lTNCJ9.j1zlDeYFSVAl8XWjaHY-5w';
-var map = L.mapbox.map('map', 'mapbox.satellite').setView([27.8049,-82.6225], 14);
-var layers = document.getElementById('menu-ui');
-
-addLayer(L.mapbox.tileLayer('colemanm.j0wfjemi'), 'Strava', 1);
-addLayer(L.mapbox.tileLayer('colemanm.bhqnz5mi'), 'RunKeeper', 2);
-addLayer(L.mapbox.tileLayer('colemanm.v02akyb9'), 'MapMyRun', 3);
-
-function addLayer(layer, name, zIndex) {
-    layer
-        .setZIndex(zIndex)
-        .addTo(map);
-
-    // Create a simple layer switcher that
-    // toggles layers on and off.
-    var link = document.createElement('a');
-        link.href = '#';
-        link.className = 'active';
-        link.innerHTML = name;
-
-    link.onclick = function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-
-        if (map.hasLayer(layer)) {
-            map.removeLayer(layer);
-            this.className = '';
-        } else {
-            map.addLayer(layer);
-            this.className = 'active';
-        }
-    };
-
-    layers.appendChild(link);
-}
-</script>

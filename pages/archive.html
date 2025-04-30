@@ -8,10 +8,17 @@ description: "Blog post archives."
 <div>
 <h1>Archive</h1>
 
-<table cellspacing="0" class="archive-table">
+<div class="mb-4">
+  <input type="text" 
+         id="archiveSearch" 
+         placeholder="Search posts by title..." 
+         class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+</div>
+
+<table id="archiveTable" cellspacing="0" class="archive-table">
 {% for post in site.categories.blog %}
 	{% if post.status != "draft" %}
-  <tr class="{% cycle 'even', 'odd' %}">
+  <tr class="{% cycle 'even', 'odd' %} archive-row">
     {% if post.layout == "link" %}
     <td class="archive-icon">🔗</td>
     {% elsif post.tags contains "video" %}
@@ -36,3 +43,29 @@ description: "Blog post archives."
 {% endfor %}
 </table>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('archiveSearch');
+    const table = document.getElementById('archiveTable');
+    const rows = table.getElementsByClassName('archive-row');
+
+    searchInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+
+        Array.from(rows).forEach(row => {
+            const titleCell = row.querySelector('td:nth-child(2)');
+            const title = titleCell ? titleCell.textContent.toLowerCase() : '';
+            row.style.display = title.includes(searchTerm) ? '' : 'none';
+        });
+    });
+
+    // Keyboard shortcut: press '/' to focus search
+    document.addEventListener('keydown', function(e) {
+        if (e.key === '/' && document.activeElement !== searchInput) {
+            e.preventDefault();
+            searchInput.focus();
+        }
+    });
+});
+</script>
