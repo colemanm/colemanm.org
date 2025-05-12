@@ -2,6 +2,10 @@
 
 # Function to show usage
 show_usage() {
+    exit_code=1
+    if [ $# -ge 1 ]; then
+        exit_code=$1
+    fi
     echo "Usage: ./new <type> <title>"
     echo "For books: ./new book \"<author_last>\" \"<title>\""
     echo "For quotes: ./new quote \"<text>\" \"<source>\" [\"<work>\"]"
@@ -12,6 +16,7 @@ show_usage() {
     echo "  micro    - Create a new micro post"
     echo "  book     - Create a new book entry"
     echo "  quote    - Create a new quote post"
+    echo "  help     - Show this help message"
     echo
     echo "Examples:"
     echo "  ./new post \"My New Blog Post\""
@@ -19,12 +24,12 @@ show_usage() {
     echo "  ./new micro video \"My Favorite Song\""
     echo "  ./new book \"Eliot\" \"Notes Towards the Definition of Culture\""
     echo "  ./new quote \"The best way to predict the future is to invent it.\" \"Alan Kay\""
-    exit 1
+    exit $exit_code
 }
 
 # Check if no arguments provided
 if [ $# -eq 0 ]; then
-    show_usage
+    show_usage 1
 fi
 
 # Get the type
@@ -32,10 +37,13 @@ type=$1
 shift
 
 case $type in
+    "help")
+        show_usage 0
+        ;;
     "book")
         if [ $# -lt 2 ]; then
             echo "Error: Please provide both author_last and title for book entries"
-            show_usage
+            show_usage 1
         fi
         author_last=$1
         shift
@@ -46,7 +54,7 @@ case $type in
     "quote")
         if [ $# -lt 2 ]; then
             echo "Error: Please provide both quote text and source"
-            show_usage
+            show_usage 1
         fi
         quote_text=$1
         quote_source=$2
@@ -60,7 +68,7 @@ case $type in
         title="$@"
         if [ -z "$title" ]; then
             echo "Error: Please provide a title"
-            show_usage
+            show_usage 1
         fi
         ruby script/post.rb "$type" "$title"
         ;;
@@ -68,7 +76,7 @@ case $type in
         title="$@"
         if [ -z "$title" ]; then
             echo "Error: Please provide a title"
-            show_usage
+            show_usage 1
         fi
         # For micro posts, we need to extract the micro type from the title
         micro_type=$(echo "$title" | cut -d' ' -f1)
@@ -77,6 +85,6 @@ case $type in
         ;;
     *)
         echo "Error: Unknown type '$type'"
-        show_usage
+        show_usage 1
         ;;
 esac 
