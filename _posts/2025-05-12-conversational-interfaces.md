@@ -23,13 +23,13 @@ interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-in
 
 > We keep telling ourselves that previous voice interfaces like Alexa or Siri didn’t succeed because the underlying AI wasn’t smart enough, but that’s only half of the story. The core problem was never the quality of the output function, but the inconvenience of the input function: A natural language prompt like “Hey Google, what’s the weather in San Francisco today?” just takes 10x longer than simply tapping the weather app on your homescreen.
 
-Voice works so well in human-to-human communication because its so enormously flexible on both ends — speaker and listener. Through speech we can both communicate and understand just about any idea using the same framework of 26 letters and a couple thousand words.
+Voice works so well in human-to-human communication because it's enormously flexible on both ends — for speaker and listener. Through speech we can both communicate and understand just about any idea using the same framework of 26 letters and a couple thousand words.
 
 The speaker can walk up to anyone fluent in the language and fairly effectively communicate just about anything — commands, requests, thoughts, ideas, emotions — and have the listener comprehend.
 
 But conversation is slow. The "bitrate" for conversational speech is peanuts compared to what you can do with hand signals or ideograms or jpegs. A set of hand signals could convey a message much faster, but at the expense of loss of range, and easier misinterpretation. Spoken language trades bandwidth and information density for flexibility, nuance, and error tolerance. All major utilities when talking with a stranger, but not with our computers.
 
-We keep wanting conversational interfaces in computing because of ease-of-access and the promise of flexibility. But in commanding the computer, the
+We keep chasing conversational interfaces in computing because of ease-of-access and the promise of flexibility. But in commanding the computer, the
 loss of compression, low bandwidth, and ambiguity are annoyances rather than assets. When we have a conversation with a clerk at the store, these are
 features. When it's with our computers, they feel like bugs.
 
