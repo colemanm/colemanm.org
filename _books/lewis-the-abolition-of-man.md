@@ -22,8 +22,10 @@ publish_year: 1943
 publisher: HarperOne
 date_started: 2024-06-03
 date_completed: 2024-06-09
+date_reread: 2025-05-04
 goodreads_id: 25825420
 amazon_link: https://amzn.to/3XjPp7j
 
+reread: true
 favorite: true
 ---
