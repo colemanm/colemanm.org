@@ -18,3 +18,5 @@
   - bio
   - things i believe
   - collaboration
+
+- influential books section
