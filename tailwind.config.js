@@ -134,6 +134,10 @@ module.exports = {
                 width: '6.5rem',
                 whiteSpace: 'nowrap',
               },
+              '.publish-year-cell': {
+                width: '6rem',
+                whiteSpace: 'nowrap',
+              },
               code: {
                 backgroundColor: '#f2ede8',
                 padding: '0.25rem',

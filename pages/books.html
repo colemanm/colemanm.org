@@ -52,7 +52,7 @@ description: "My reading log, with thoughts and highlights from books in my libr
         {% if book.notes %}📝{% endif %}</td>
     <!-- <td>{% include book-rating.html %}</td> -->
     <td class="book-date-completed">{{ book.date_completed | date: '%b %Y' }}</td>
-    <td class="right-cell">{{ book.publish_year }}</td>
+    <td class="right-cell publish-year-cell">{{ book.publish_year }}</td>
   </tr>
   {% endif %}
 {% endfor %}
