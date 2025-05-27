@@ -1,1 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
 You are an expert in using HTML, CSS, Tailwind, and Jekyll for static site development, including the Liquid templating language.
