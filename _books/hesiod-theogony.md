@@ -15,17 +15,12 @@ genres:
 - greek mythology
 - poetry
 isbn: 9780941051002
-rating: 
+rating: 3
 pages: 33
 format: paperback
 publish_year: 700 BC
 date_started: 2025-05-25
-date_completed: 
+date_completed: 2025-05-27
 goodreads_id: 27417
 amazon_link: https://amzn.to/3H67aRJ
-
-# Optional properties
-favorite: false
-current: true
-notes: false
 ---
