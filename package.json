@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/styles.css --minify",
-    "watch": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/styles.css --watch"
+    "build": "bundle exec jekyll build && tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/styles.css --minify",
+    "watch": "bundle exec jekyll serve --livereload"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
