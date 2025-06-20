@@ -1,8 +1,0 @@
-{
-  "build": {
-    "env": {
-      "RUBY_VERSION": "3.2.2"
-    }
-  },
-  "buildCommand": "bundle exec jekyll build"
-} 
