@@ -17,17 +17,12 @@ genres:
 - history
 - philosophy
 isbn: 9780141197524
-rating: 
+rating: 4
 pages: 30
 format: paperback
 publish_year: 700 BC
-date_started: 2025-05-26
-date_completed: 
+date_started: 2025-07-28
+date_completed: 2025-07-29
 goodreads_id: 32024554
 amazon_link: https://amzn.to/4joH4XB
-
-# Optional properties
-favorite: false
-current: true
-notes: false
 ---
