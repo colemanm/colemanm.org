@@ -74,6 +74,37 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
       }
     }
     
+    // Ensure blog posts always have categories set to 'blog'
+    if (post?.type === 'blog') {
+      updatedFrontMatter.categories = 'blog';
+    }
+    
+    // Migrate video fields to nested structure for video microblogs
+    if (frontMatter.type === 'video') {
+      // If we have old flat structure, migrate to nested (excluding URL)
+      if (updatedFrontMatter.provider || updatedFrontMatter.id) {
+        updatedFrontMatter.video = {
+          ...(updatedFrontMatter.video || {}),
+          ...(updatedFrontMatter.provider && { provider: updatedFrontMatter.provider }),
+          ...(updatedFrontMatter.id && { id: updatedFrontMatter.id })
+        };
+        
+        // Clean up old flat properties
+        delete updatedFrontMatter.provider;
+        delete updatedFrontMatter.id;
+      }
+      
+      // Remove URL from video object if it exists (since it's redundant)
+      if (updatedFrontMatter.video?.url) {
+        delete updatedFrontMatter.video.url;
+      }
+      
+      // Remove any flat URL property for video types
+      if (updatedFrontMatter.url) {
+        delete updatedFrontMatter.url;
+      }
+    }
+    
     try {
       const res = await fetch(`/api/posts/${slug}`, {
         method: 'PUT',
@@ -102,6 +133,22 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
       ...prev,
       [key]: value
     }));
+  };
+
+  const updateVideoField = (field: string, value: string) => {
+    setFrontMatter((prev: any) => {
+      const updated = { ...prev };
+      if (!updated.video) {
+        updated.video = {};
+      }
+      updated.video[field] = value;
+      
+      // Remove old flat structure if it exists
+      if (updated.provider !== undefined) delete updated.provider;
+      if (updated.id !== undefined) delete updated.id;
+      
+      return updated;
+    });
   };
 
   if (loading) {
@@ -196,7 +243,7 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
                 />
               </div>
               
-              {frontMatter.categories !== undefined && (
+              {frontMatter.categories !== undefined && post.type !== 'blog' && (
                 <div className="mb-4">
                   <label className="block text-sm font-medium text-gray-700 mb-1">
                     Categories
@@ -229,12 +276,23 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
                   <label className="block text-sm font-medium text-gray-700 mb-1">
                     Layout
                   </label>
-                  <input
-                    type="text"
-                    value={frontMatter.layout || ''}
-                    onChange={(e) => updateFrontMatter('layout', e.target.value)}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                  />
+                  {post?.type === 'blog' ? (
+                    <select
+                      value={frontMatter.layout || 'post'}
+                      onChange={(e) => updateFrontMatter('layout', e.target.value)}
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                    >
+                      <option value="post">post</option>
+                      <option value="link">link</option>
+                    </select>
+                  ) : (
+                    <input
+                      type="text"
+                      value={frontMatter.layout || ''}
+                      onChange={(e) => updateFrontMatter('layout', e.target.value)}
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                    />
+                  )}
                 </div>
               )}
               
@@ -278,8 +336,8 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
                         </label>
                         <input
                           type="text"
-                          value={frontMatter.provider || ''}
-                          onChange={(e) => updateFrontMatter('provider', e.target.value)}
+                          value={frontMatter.video?.provider || frontMatter.provider || ''}
+                          onChange={(e) => updateVideoField('provider', e.target.value)}
                           className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                           placeholder="youtube, vimeo, etc."
                         />
@@ -290,26 +348,12 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
                         </label>
                         <input
                           type="text"
-                          value={frontMatter.id || ''}
-                          onChange={(e) => updateFrontMatter('id', e.target.value)}
+                          value={frontMatter.video?.id || frontMatter.id || ''}
+                          onChange={(e) => updateVideoField('id', e.target.value)}
                           className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                           placeholder="Video ID from provider"
                         />
                       </div>
-                      {frontMatter.url !== undefined && (
-                        <div className="mb-4">
-                          <label className="block text-sm font-medium text-gray-700 mb-1">
-                            Video URL
-                          </label>
-                          <input
-                            type="text"
-                            value={frontMatter.url || ''}
-                            onChange={(e) => updateFrontMatter('url', e.target.value)}
-                            className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                            placeholder="https://..."
-                          />
-                        </div>
-                      )}
                     </>
                   )}
                   

@@ -17,7 +17,6 @@ export default function NewPostPage() {
   const [title, setTitle] = useState('');
   const [date, setDate] = useState(format(new Date(), "yyyy-MM-dd HH:mm:ss"));
   const [tags, setTags] = useState('');
-  const [categories, setCategories] = useState('blog');
   const [description, setDescription] = useState('');
   const [layout, setLayout] = useState(postType === 'blog' ? 'post' : 'micro');
   const [content, setContent] = useState('');
@@ -28,7 +27,6 @@ export default function NewPostPage() {
   const [microType, setMicroType] = useState('text');
   const [videoProvider, setVideoProvider] = useState('');
   const [videoId, setVideoId] = useState('');
-  const [videoUrl, setVideoUrl] = useState('');
   const [images, setImages] = useState<string[]>(['']);
   const [linkUrl, setLinkUrl] = useState('');
   const [linkTitle, setLinkTitle] = useState('');
@@ -78,7 +76,7 @@ export default function NewPostPage() {
     
     if (title) frontMatter.title = title;
     if (tags) frontMatter.tags = tags.split(',').map(t => t.trim());
-    if (categories && postType === 'blog') frontMatter.categories = categories;
+    if (postType === 'blog') frontMatter.categories = 'blog';
     if (description) frontMatter.description = description;
     
     // Add target URL for blog link posts
@@ -91,9 +89,12 @@ export default function NewPostPage() {
       
       // Add type-specific fields
       if (microType === 'video') {
-        if (videoProvider) frontMatter.provider = videoProvider;
-        if (videoId) frontMatter.id = videoId;
-        if (videoUrl) frontMatter.url = videoUrl;
+        const videoObj: any = {};
+        if (videoProvider) videoObj.provider = videoProvider;
+        if (videoId) videoObj.id = videoId;
+        if (Object.keys(videoObj).length > 0) {
+          frontMatter.video = videoObj;
+        }
       } else if (microType === 'photo') {
         const validImages = images.filter(img => img.trim() !== '');
         if (validImages.length > 0) {
@@ -245,18 +246,6 @@ export default function NewPostPage() {
                           placeholder="Video ID from provider"
                         />
                       </div>
-                      <div className="mb-4">
-                        <label className="block text-sm font-medium text-gray-700 mb-1">
-                          Video URL
-                        </label>
-                        <input
-                          type="text"
-                          value={videoUrl}
-                          onChange={(e) => setVideoUrl(e.target.value)}
-                          className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                          placeholder="https://..."
-                        />
-                      </div>
                     </>
                   )}
                   
@@ -364,33 +353,18 @@ export default function NewPostPage() {
               </div>
               
               {postType === 'blog' && (
-                <>
-                  <div className="mb-4">
-                    <label className="block text-sm font-medium text-gray-700 mb-1">
-                      Categories
-                    </label>
-                    <input
-                      type="text"
-                      value={categories}
-                      onChange={(e) => setCategories(e.target.value)}
-                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                      placeholder="blog"
-                    />
-                  </div>
-                  
-                  <div className="mb-4">
-                    <label className="block text-sm font-medium text-gray-700 mb-1">
-                      Description
-                    </label>
-                    <textarea
-                      value={description}
-                      onChange={(e) => setDescription(e.target.value)}
-                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                      rows={3}
-                      placeholder="Brief description of the post"
-                    />
-                  </div>
-                </>
+                <div className="mb-4">
+                  <label className="block text-sm font-medium text-gray-700 mb-1">
+                    Description
+                  </label>
+                  <textarea
+                    value={description}
+                    onChange={(e) => setDescription(e.target.value)}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                    rows={3}
+                    placeholder="Brief description of the post"
+                  />
+                </div>
               )}
               
               {postType === 'blog' && (
