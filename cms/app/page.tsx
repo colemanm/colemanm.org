@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { Plus, Edit, Trash2, FileText, Mic, Search } from 'lucide-react';
+import { Plus, Edit, Trash2, FileText, Mic, Search, ChevronLeft, ChevronRight } from 'lucide-react';
 import { formatDate } from './utils/date';
 import { stripMarkdown } from './utils/markdown';
 
@@ -16,34 +16,72 @@ interface Post {
   filePath: string;
 }
 
+interface Pagination {
+  currentPage: number;
+  totalPages: number;
+  totalPosts: number;
+  hasNextPage: boolean;
+  hasPrevPage: boolean;
+  limit: number;
+}
+
+interface PostsResponse {
+  posts: Post[];
+  pagination: Pagination;
+}
+
 export default function HomePage() {
   const [posts, setPosts] = useState<Post[]>([]);
   const [microPosts, setMicroPosts] = useState<Post[]>([]);
+  const [blogPagination, setBlogPagination] = useState<Pagination | null>(null);
+  const [microPagination, setMicroPagination] = useState<Pagination | null>(null);
   const [activeTab, setActiveTab] = useState<'blog' | 'micro'>('blog');
   const [searchTerm, setSearchTerm] = useState('');
   const [loading, setLoading] = useState(true);
+  const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
-    fetchPosts();
+    // Load initial data for both tabs
+    const loadInitialData = async () => {
+      setLoading(true);
+      try {
+        await Promise.all([
+          fetchPosts('blog', 1, false),
+          fetchPosts('micro', 1, false)
+        ]);
+      } finally {
+        setLoading(false);
+      }
+    };
+    loadInitialData();
   }, []);
 
-  const fetchPosts = async () => {
-    setLoading(true);
+  useEffect(() => {
+    setCurrentPage(1);
+    // Only fetch if we don't already have data for this tab
+    const currentPagination = activeTab === 'blog' ? blogPagination : microPagination;
+    if (!currentPagination) {
+      fetchPosts(activeTab, 1);
+    }
+  }, [activeTab]);
+
+  const fetchPosts = async (type: 'blog' | 'micro', page: number, showLoading = true) => {
+    if (showLoading) setLoading(true);
     try {
-      const [blogRes, microRes] = await Promise.all([
-        fetch('/api/posts?type=blog'),
-        fetch('/api/posts?type=micro')
-      ]);
+      const res = await fetch(`/api/posts?type=${type}&page=${page}&limit=20`);
+      const data: PostsResponse = await res.json();
       
-      const blogData = await blogRes.json();
-      const microData = await microRes.json();
-      
-      setPosts(blogData);
-      setMicroPosts(microData);
+      if (type === 'blog') {
+        setPosts(data.posts);
+        setBlogPagination(data.pagination);
+      } else {
+        setMicroPosts(data.posts);
+        setMicroPagination(data.pagination);
+      }
     } catch (error) {
       console.error('Error fetching posts:', error);
     } finally {
-      setLoading(false);
+      if (showLoading) setLoading(false);
     }
   };
 
@@ -53,7 +91,7 @@ export default function HomePage() {
     try {
       const res = await fetch(`/api/posts/${slug}`, { method: 'DELETE' });
       if (res.ok) {
-        fetchPosts();
+        fetchPosts(activeTab, currentPage);
       }
     } catch (error) {
       console.error('Error deleting post:', error);
@@ -61,10 +99,16 @@ export default function HomePage() {
   };
 
   const currentPosts = activeTab === 'blog' ? posts : microPosts;
+  const currentPagination = activeTab === 'blog' ? blogPagination : microPagination;
   const filteredPosts = currentPosts.filter(post => 
     post.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
     post.content.toLowerCase().includes(searchTerm.toLowerCase())
   );
+
+  const handlePageChange = (page: number) => {
+    setCurrentPage(page);
+    fetchPosts(activeTab, page, true);
+  };
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -87,7 +131,7 @@ export default function HomePage() {
                   }`}
                 >
                   <FileText className="inline-block w-4 h-4 mr-2" />
-                  Blog Posts
+                  Blog Posts {blogPagination && `(${blogPagination.totalPosts})`}
                 </button>
                 <button
                   onClick={() => setActiveTab('micro')}
@@ -98,7 +142,7 @@ export default function HomePage() {
                   }`}
                 >
                   <Mic className="inline-block w-4 h-4 mr-2" />
-                  Microblogs
+                  Microblogs {microPagination && `(${microPagination.totalPosts})`}
                 </button>
               </div>
               
@@ -180,6 +224,61 @@ export default function HomePage() {
               ))
             )}
           </div>
+
+          {/* Pagination */}
+          {currentPagination && currentPagination.totalPages > 1 && !searchTerm && (
+            <div className="border-t border-gray-200 px-4 py-3 flex items-center justify-between">
+              <div className="flex items-center text-sm text-gray-500">
+                Showing {((currentPagination.currentPage - 1) * currentPagination.limit) + 1} to {Math.min(currentPagination.currentPage * currentPagination.limit, currentPagination.totalPosts)} of {currentPagination.totalPosts} {activeTab === 'blog' ? 'posts' : 'microblogs'}
+              </div>
+              <div className="flex items-center space-x-2">
+                <button
+                  onClick={() => handlePageChange(currentPagination.currentPage - 1)}
+                  disabled={!currentPagination.hasPrevPage}
+                  className="p-2 rounded-lg border border-gray-300 text-gray-600 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                >
+                  <ChevronLeft className="w-4 h-4" />
+                </button>
+                
+                <div className="flex items-center space-x-1">
+                  {Array.from({ length: currentPagination.totalPages }, (_, i) => i + 1)
+                    .filter(page => {
+                      const current = currentPagination.currentPage;
+                      return page === 1 || page === currentPagination.totalPages || 
+                             (page >= current - 1 && page <= current + 1);
+                    })
+                    .map((page, index, array) => {
+                      const prevPage = array[index - 1];
+                      const showEllipsis = prevPage && page - prevPage > 1;
+                      
+                      return (
+                        <div key={page} className="flex items-center">
+                          {showEllipsis && <span className="px-2 text-gray-400">...</span>}
+                          <button
+                            onClick={() => handlePageChange(page)}
+                            className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                              page === currentPagination.currentPage
+                                ? 'bg-blue-600 text-white'
+                                : 'text-gray-600 hover:bg-gray-100'
+                            }`}
+                          >
+                            {page}
+                          </button>
+                        </div>
+                      );
+                    })}
+                </div>
+                
+                <button
+                  onClick={() => handlePageChange(currentPagination.currentPage + 1)}
+                  disabled={!currentPagination.hasNextPage}
+                  className="p-2 rounded-lg border border-gray-300 text-gray-600 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                >
+                  <ChevronRight className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </div>

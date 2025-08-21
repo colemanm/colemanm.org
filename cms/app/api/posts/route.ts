@@ -3,8 +3,8 @@ import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
 
-// Use absolute paths to the montevideo directory
-const BASE_DIR = '/Users/coleman/Documents/git/colemanm.org/.conductor/montevideo';
+// Use relative path to the main repository directory
+const BASE_DIR = path.resolve(process.cwd(), '..');
 const BLOG_DIR = path.join(BASE_DIR, '_posts');
 const MICRO_DIR = path.join(BASE_DIR, '_micro');
 
@@ -99,9 +99,29 @@ async function getPosts(type: 'blog' | 'micro' = 'blog'): Promise<Post[]> {
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams;
   const type = searchParams.get('type') as 'blog' | 'micro' || 'blog';
+  const page = parseInt(searchParams.get('page') || '1');
+  const limit = parseInt(searchParams.get('limit') || '20');
   
-  const posts = await getPosts(type);
-  return NextResponse.json(posts);
+  const allPosts = await getPosts(type);
+  
+  // Calculate pagination
+  const startIndex = (page - 1) * limit;
+  const endIndex = startIndex + limit;
+  const posts = allPosts.slice(startIndex, endIndex);
+  
+  const totalPages = Math.ceil(allPosts.length / limit);
+  
+  return NextResponse.json({
+    posts,
+    pagination: {
+      currentPage: page,
+      totalPages,
+      totalPosts: allPosts.length,
+      hasNextPage: page < totalPages,
+      hasPrevPage: page > 1,
+      limit
+    }
+  });
 }
 
 export async function POST(request: NextRequest) {

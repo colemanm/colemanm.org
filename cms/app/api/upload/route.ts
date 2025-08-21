@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
 
-const BASE_DIR = '/Users/coleman/Documents/git/colemanm.org/.conductor/montevideo';
+const BASE_DIR = path.resolve(process.cwd(), '..');
 const MICRO_IMAGES_DIR = path.join(BASE_DIR, 'images', 'micro');
 
 export async function POST(request: NextRequest) {

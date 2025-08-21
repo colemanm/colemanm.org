@@ -3,8 +3,8 @@ import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
 
-// Use absolute paths to the montevideo directory
-const BASE_DIR = '/Users/coleman/Documents/git/colemanm.org/.conductor/montevideo';
+// Use relative path to the main repository directory
+const BASE_DIR = path.resolve(process.cwd(), '..');
 const BLOG_DIR = path.join(BASE_DIR, '_posts');
 const MICRO_DIR = path.join(BASE_DIR, '_micro');
 
@@ -49,9 +49,10 @@ async function findPost(slug: string) {
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
-  const postInfo = await findPost(params.slug);
+  const { slug } = await params;
+  const postInfo = await findPost(slug);
   
   if (!postInfo) {
     return NextResponse.json({ error: 'Post not found' }, { status: 404 });
@@ -65,7 +66,7 @@ export async function GET(
     const cleanContent = markdown.replace(/^\n+/, '');
     
     return NextResponse.json({
-      slug: params.slug,
+      slug,
       frontMatter: data,
       content: cleanContent,
       type: postInfo.type,
@@ -79,9 +80,10 @@ export async function GET(
 
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
-  const postInfo = await findPost(params.slug);
+  const { slug } = await params;
+  const postInfo = await findPost(slug);
   
   if (!postInfo) {
     return NextResponse.json({ error: 'Post not found' }, { status: 404 });
@@ -105,9 +107,10 @@ export async function PUT(
 
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
-  const postInfo = await findPost(params.slug);
+  const { slug } = await params;
+  const postInfo = await findPost(slug);
   
   if (!postInfo) {
     return NextResponse.json({ error: 'Post not found' }, { status: 404 });
