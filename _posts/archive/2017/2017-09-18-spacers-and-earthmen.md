@@ -5,9 +5,6 @@ title: "Spacers and Earthmen"
 categories: blog
 description: "Asimov's Caves of Steel and the beginnings of the Robot trilogy."
 img: /images/post-images/caves-of-steel.jpg
-categories:
-- blog
-- asimov
 tags:
 - science fiction
 - books
