@@ -16,7 +16,7 @@ layout: default
     {% if page.type == 'quote' %}
     <div class="my-4">
       <blockquote class="border-l-4 border-[#517AA3] pl-6 text-lg bg-gray-50 py-6 pr-6">
-        <div>{{ page.quote.text }}</div>
+        <div>{{ content | replace: '](/', '](/' | replace: '](media/', '](/images/micro/' }}</div>
         {% if page.quote.source %}
         <div class="mt-6 text-right text-gray-600 text-base">
           — {{ page.quote.source }}{% if page.quote.work %}, <em>{{ page.quote.work }}</em>{% endif %}
@@ -29,6 +29,8 @@ layout: default
         {% endif %}
       </blockquote>
     </div>
+    {% else %}
+    {{ content | replace: '](/', '](/' | replace: '](media/', '](/images/micro/' }}
     {% endif %}
 
     {% if page.link %}
@@ -79,8 +81,6 @@ layout: default
       {% endif %}
     </div>
     {% endif %}
-
-    {{ content | replace: '](/', '](/' | replace: '](media/', '](/images/micro/' }}
 
     {% include divider.html %}
 

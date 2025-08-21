@@ -151,6 +151,18 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
     });
   };
 
+  const updateQuoteField = (field: string, value: string) => {
+    setFrontMatter((prev: any) => {
+      const updated = { ...prev };
+      if (!updated.quote) {
+        updated.quote = {};
+      }
+      updated.quote[field] = value;
+      
+      return updated;
+    });
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
@@ -325,6 +337,7 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
                       <option value="photo">Photo</option>
                       <option value="video">Video</option>
                       <option value="link">Link</option>
+                      <option value="quote">Quote</option>
                     </select>
                   </div>
                   
@@ -444,6 +457,47 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
                           />
                         </div>
                       )}
+                    </>
+                  )}
+                  
+                  {frontMatter.type === 'quote' && (
+                    <>
+                      <div className="mb-4">
+                        <label className="block text-sm font-medium text-gray-700 mb-1">
+                          Quote Source
+                        </label>
+                        <input
+                          type="text"
+                          value={frontMatter.quote?.source || ''}
+                          onChange={(e) => updateQuoteField('source', e.target.value)}
+                          className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          placeholder="Author or source name"
+                        />
+                      </div>
+                      <div className="mb-4">
+                        <label className="block text-sm font-medium text-gray-700 mb-1">
+                          Work
+                        </label>
+                        <input
+                          type="text"
+                          value={frontMatter.quote?.work || ''}
+                          onChange={(e) => updateQuoteField('work', e.target.value)}
+                          className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          placeholder="Book, article, or work title"
+                        />
+                      </div>
+                      <div className="mb-4">
+                        <label className="block text-sm font-medium text-gray-700 mb-1">
+                          Reference URL
+                        </label>
+                        <input
+                          type="text"
+                          value={frontMatter.quote?.url || ''}
+                          onChange={(e) => updateQuoteField('url', e.target.value)}
+                          className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          placeholder="https://..."
+                        />
+                      </div>
                     </>
                   )}
                 </>

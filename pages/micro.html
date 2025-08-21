@@ -19,7 +19,7 @@ permalink: /micro/
         {% if post.type == 'quote' %}
         <div class="my-4">
           <blockquote class="border-l-4 border-[#517AA3] pl-6 text-lg bg-gray-50 py-6 pr-6">
-            <div>{{ post.quote.text }}</div>
+            <div>{{ post.content | markdownify }}</div>
             {% if post.quote.source %}
             <div class="mt-6 text-right text-gray-600 text-base">
               — {{ post.quote.source }}{% if post.quote.work %}, <em>{{ post.quote.work }}</em>{% endif %}
@@ -32,7 +32,7 @@ permalink: /micro/
             {% endif %}
           </blockquote>
         </div>
-        {% endif %}
+        {% else %}
         
         {% if post.link %}
         <div class="mb-4">
@@ -87,6 +87,7 @@ permalink: /micro/
       <div class="prose prose-slate max-w-none prose-img:rounded-lg prose-img:shadow-md">
         {{ post.content | markdownify }}
       </div>
+      {% endif %}
     </article>
     {% include divider-micro.html %}
   {% endfor %}

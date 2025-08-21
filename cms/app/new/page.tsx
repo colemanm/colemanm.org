@@ -30,6 +30,9 @@ export default function NewPostPage() {
   const [images, setImages] = useState<string[]>(['']);
   const [linkUrl, setLinkUrl] = useState('');
   const [linkTitle, setLinkTitle] = useState('');
+  const [quoteSource, setQuoteSource] = useState('');
+  const [quoteWork, setQuoteWork] = useState('');
+  const [quoteUrl, setQuoteUrl] = useState('');
   
   // Blog link post fields
   const [targetUrl, setTargetUrl] = useState('');
@@ -103,6 +106,14 @@ export default function NewPostPage() {
       } else if (microType === 'link') {
         if (linkUrl) frontMatter.url = linkUrl;
         if (linkTitle) frontMatter.title = linkTitle;
+      } else if (microType === 'quote') {
+        const quoteObj: any = {};
+        if (quoteSource) quoteObj.source = quoteSource;
+        if (quoteWork) quoteObj.work = quoteWork;
+        if (quoteUrl) quoteObj.url = quoteUrl;
+        if (Object.keys(quoteObj).length > 0) {
+          frontMatter.quote = quoteObj;
+        }
       }
     }
     
@@ -217,6 +228,7 @@ export default function NewPostPage() {
                       <option value="photo">Photo</option>
                       <option value="video">Video</option>
                       <option value="link">Link</option>
+                      <option value="quote">Quote</option>
                     </select>
                   </div>
                   
@@ -332,6 +344,47 @@ export default function NewPostPage() {
                           onChange={(e) => setLinkTitle(e.target.value)}
                           className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                           placeholder="Link title"
+                        />
+                      </div>
+                    </>
+                  )}
+                  
+                  {microType === 'quote' && (
+                    <>
+                      <div className="mb-4">
+                        <label className="block text-sm font-medium text-gray-700 mb-1">
+                          Quote Source
+                        </label>
+                        <input
+                          type="text"
+                          value={quoteSource}
+                          onChange={(e) => setQuoteSource(e.target.value)}
+                          className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          placeholder="Author or source name"
+                        />
+                      </div>
+                      <div className="mb-4">
+                        <label className="block text-sm font-medium text-gray-700 mb-1">
+                          Work
+                        </label>
+                        <input
+                          type="text"
+                          value={quoteWork}
+                          onChange={(e) => setQuoteWork(e.target.value)}
+                          className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          placeholder="Book, article, or work title"
+                        />
+                      </div>
+                      <div className="mb-4">
+                        <label className="block text-sm font-medium text-gray-700 mb-1">
+                          Reference URL
+                        </label>
+                        <input
+                          type="text"
+                          value={quoteUrl}
+                          onChange={(e) => setQuoteUrl(e.target.value)}
+                          className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          placeholder="https://..."
                         />
                       </div>
                     </>
