@@ -7,8 +7,9 @@ tags:
   - Ella Fitzgerald
   - Joe Pass
 type: video
-provider: youtube
-id: 2olBE4C5_Gk
+video:
+  provider: youtube
+  id: 2olBE4C5_Gk
 ---
 
 Joe Pass and Ella Fitzgerald. _Duets in Hannover_, 1975.
