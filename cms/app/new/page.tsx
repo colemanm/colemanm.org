@@ -6,6 +6,7 @@ import dynamic from 'next/dynamic';
 import { format } from 'date-fns';
 import { Save, X, RefreshCw, ChevronDown, ChevronUp } from 'lucide-react';
 import ImageUploader from '../components/ImageUploader';
+import DateTimePicker from '../components/DateTimePicker';
 
 const MarkdownEditor = dynamic(() => import('../components/MarkdownEditor'), { ssr: false });
 
@@ -204,11 +205,9 @@ export default function NewPostPage() {
                 <label className="block text-sm font-medium text-gray-700 mb-1">
                   Date
                 </label>
-                <input
-                  type="text"
+                <DateTimePicker
                   value={date}
-                  onChange={(e) => setDate(e.target.value)}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                  onChange={setDate}
                   placeholder="YYYY-MM-DD HH:MM:SS"
                 />
               </div>
