@@ -6,6 +6,7 @@ import dynamic from 'next/dynamic';
 import { Save, X, Loader, ChevronDown, ChevronUp } from 'lucide-react';
 import ImageUploader from '../../components/ImageUploader';
 import DateTimePicker from '../../components/DateTimePicker';
+import EmojiPicker from '../../components/EmojiPicker';
 
 const MarkdownEditor = dynamic(() => import('../../components/MarkdownEditor'), { ssr: false });
 
@@ -30,6 +31,12 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
   
   // Collapsible front-matter panel state
   const [frontMatterCollapsed, setFrontMatterCollapsed] = useState(false);
+  
+  // State for tags input to allow spaces while typing
+  const [tagsInput, setTagsInput] = useState('');
+  
+  // State for link post icon
+  const [linkIcon, setLinkIcon] = useState('');
 
   useEffect(() => {
     params.then(p => {
@@ -47,6 +54,16 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
         setPost(data);
         setFrontMatter(data.frontMatter);
         setContent(data.content);
+        
+        // Initialize tags input
+        if (data.frontMatter.tags) {
+          setTagsInput(data.frontMatter.tags.join(', '));
+        }
+        
+        // Initialize link icon for link posts
+        if (data.frontMatter.links && data.frontMatter.links.length > 0) {
+          setLinkIcon(data.frontMatter.links[0].icon || '');
+        }
         
         // Initialize images state if it's a photo type microblog
         if (data.frontMatter.type === 'photo' && data.frontMatter.images) {
@@ -66,8 +83,18 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
   const handleSave = async () => {
     setSaving(true);
     
+    // Process tags from input
+    const processedTags = tagsInput
+      .split(',')
+      .map(tag => tag.trim())
+      .filter(tag => tag.length > 0);
+    
     // Update images in frontMatter if it's a photo type
     const updatedFrontMatter = { ...frontMatter };
+    if (processedTags.length > 0) {
+      updatedFrontMatter.tags = processedTags;
+    }
+    
     if (frontMatter.type === 'photo') {
       const validImages = images.filter(img => img.trim() !== '');
       if (validImages.length > 0) {
@@ -78,6 +105,15 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
     // Ensure blog posts always have categories set to 'blog'
     if (post?.type === 'blog') {
       updatedFrontMatter.categories = 'blog';
+      
+      // Update links array for link posts
+      if (updatedFrontMatter.layout === 'link' && updatedFrontMatter.target) {
+        updatedFrontMatter.links = [{
+          url: updatedFrontMatter.target,
+          title: updatedFrontMatter.title || 'Link',
+          icon: linkIcon || '🔗'
+        }];
+      }
     }
     
     // Migrate video fields to nested structure for video microblogs
@@ -248,10 +284,10 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
                 </label>
                 <input
                   type="text"
-                  value={frontMatter.tags ? frontMatter.tags.join(', ') : ''}
-                  onChange={(e) => updateFrontMatter('tags', e.target.value.split(',').map((t: string) => t.trim()))}
+                  value={tagsInput}
+                  onChange={(e) => setTagsInput(e.target.value)}
                   className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                  placeholder="tag1, tag2, tag3"
+                  placeholder="tag1, tag2, machine learning"
                 />
               </div>
               
@@ -309,17 +345,31 @@ export default function EditPostPage({ params }: { params: Promise<{ slug: strin
               )}
               
               {frontMatter.target !== undefined && (
-                <div className="mb-4">
-                  <label className="block text-sm font-medium text-gray-700 mb-1">
-                    Link Target URL
-                  </label>
-                  <input
-                    type="text"
-                    value={frontMatter.target || ''}
-                    onChange={(e) => updateFrontMatter('target', e.target.value)}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                  />
-                </div>
+                <>
+                  <div className="mb-4">
+                    <label className="block text-sm font-medium text-gray-700 mb-1">
+                      Link Target URL
+                    </label>
+                    <input
+                      type="text"
+                      value={frontMatter.target || ''}
+                      onChange={(e) => updateFrontMatter('target', e.target.value)}
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                    />
+                  </div>
+                  
+                  <div className="mb-4">
+                    <label className="block text-sm font-medium text-gray-700 mb-1">
+                      Link Emoji
+                    </label>
+                    <EmojiPicker
+                      value={linkIcon}
+                      onChange={setLinkIcon}
+                      placeholder="Select an emoji for this link"
+                    />
+                    <p className="text-xs text-gray-500 mt-1">Emoji will be used in the links array</p>
+                  </div>
+                </>
               )}
               
               {frontMatter.type !== undefined && (

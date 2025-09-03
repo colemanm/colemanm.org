@@ -7,6 +7,7 @@ import { format } from 'date-fns';
 import { Save, X, RefreshCw, ChevronDown, ChevronUp } from 'lucide-react';
 import ImageUploader from '../components/ImageUploader';
 import DateTimePicker from '../components/DateTimePicker';
+import EmojiPicker from '../components/EmojiPicker';
 
 const MarkdownEditor = dynamic(() => import('../components/MarkdownEditor'), { ssr: false });
 
@@ -37,6 +38,7 @@ export default function NewPostPage() {
   
   // Blog link post fields
   const [targetUrl, setTargetUrl] = useState('');
+  const [linkIcon, setLinkIcon] = useState('');
   
   // Collapsible front-matter panel state
   const [frontMatterCollapsed, setFrontMatterCollapsed] = useState(false);
@@ -79,13 +81,24 @@ export default function NewPostPage() {
     };
     
     if (title) frontMatter.title = title;
-    if (tags) frontMatter.tags = tags.split(',').map(t => t.trim());
+    if (tags) {
+      const processedTags = tags.split(',').map(t => t.trim()).filter(t => t.length > 0);
+      if (processedTags.length > 0) {
+        frontMatter.tags = processedTags;
+      }
+    }
     if (postType === 'blog') frontMatter.categories = 'blog';
     if (description) frontMatter.description = description;
     
-    // Add target URL for blog link posts
+    // Add target URL and links array for blog link posts
     if (postType === 'blog' && layout === 'link' && targetUrl) {
       frontMatter.target = targetUrl;
+      // Create links array with the same info
+      frontMatter.links = [{
+        url: targetUrl,
+        title: title || 'Link',
+        icon: linkIcon || '🔗'
+      }];
     }
     
     if (postType === 'micro') {
@@ -400,7 +413,7 @@ export default function NewPostPage() {
                   value={tags}
                   onChange={(e) => setTags(e.target.value)}
                   className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                  placeholder="tag1, tag2, tag3"
+                  placeholder="tag1, tag2, machine learning"
                 />
               </div>
               
@@ -436,19 +449,33 @@ export default function NewPostPage() {
               )}
               
               {postType === 'blog' && layout === 'link' && (
-                <div className="mb-4">
-                  <label className="block text-sm font-medium text-gray-700 mb-1">
-                    Target URL
-                  </label>
-                  <input
-                    type="text"
-                    value={targetUrl}
-                    onChange={(e) => setTargetUrl(e.target.value)}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                    placeholder="https://..."
-                  />
-                  <p className="text-xs text-gray-500 mt-1">External URL this link post points to</p>
-                </div>
+                <>
+                  <div className="mb-4">
+                    <label className="block text-sm font-medium text-gray-700 mb-1">
+                      Target URL
+                    </label>
+                    <input
+                      type="text"
+                      value={targetUrl}
+                      onChange={(e) => setTargetUrl(e.target.value)}
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                      placeholder="https://..."
+                    />
+                    <p className="text-xs text-gray-500 mt-1">External URL this link post points to</p>
+                  </div>
+                  
+                  <div className="mb-4">
+                    <label className="block text-sm font-medium text-gray-700 mb-1">
+                      Link Emoji
+                    </label>
+                    <EmojiPicker
+                      value={linkIcon}
+                      onChange={setLinkIcon}
+                      placeholder="Select an emoji for this link"
+                    />
+                    <p className="text-xs text-gray-500 mt-1">Emoji will be used in the links array</p>
+                  </div>
+                </>
               )}
               
               <div className="mb-4">
