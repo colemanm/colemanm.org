@@ -20,4 +20,103 @@
 <meta name="twitter:image" content="{{ site.url }}{{ page.img }}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description | xml_escape }}{% elsif page.layout == 'book' %}by {{ page.author }}{% else %}notes and links - @colemanm{% endif %}" />
 
-<script type=application/ld+json>{"@context": "http://schema.org","@type": "CreativeWork","author": "Coleman McCormick"}</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}/#person",
+  "name": "{{ site.author.name }}",
+  "url": "{{ site.url }}",
+  "email": "{{ site.author.email }}",
+  "sameAs": [
+    "https://x.com/colemanm"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "{{ site.url }}",
+  "name": "{{ site.title }}",
+  "publisher": {
+    "@id": "{{ site.url }}/#person"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ site.url }}/search/?q={search_term_string}",
+    "query-input": "required name=q"
+  }
+}
+</script>
+
+{% if page.url and page.url != '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}/"
+    }
+    {% if page.url contains '/post/' %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Archive",
+      "item": "{{ site.url }}/archive/"
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title | xml_escape }}",
+      "item": "{{ site.url }}{{ page.url }}"
+    }
+    {% else %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title | xml_escape }}",
+      "item": "{{ site.url }}{{ page.url }}"
+    }
+    {% endif %}
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.layout == 'post' or page.layout == 'link' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "headline": "{{ page.title | xml_escape }}",
+  {% if page.description %}
+  "description": "{{ page.description | xml_escape }}",
+  {% endif %}
+  {% if page.img %}
+  "image": [
+    "{{ site.url }}{{ page.img }}"
+  ],
+  {% endif %}
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.last_modified_at %}
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  {% else %}
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  {% endif %}
+  "author": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/#person"
+  },
+  "url": "{{ site.url }}{{ page.url }}"
+}
+</script>
+{% endif %}
