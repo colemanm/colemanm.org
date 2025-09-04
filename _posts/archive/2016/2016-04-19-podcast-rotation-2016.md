@@ -68,5 +68,3 @@ Here's my current library as of early 2016, 36 feeds strong. I've broken it up b
 * [Liftoff](https://www.relay.fm/liftoff) - Jason Snell and Stephen Hackett. A show about space, aerospace news, physics, and more.
 
 Until I put this list together and saw the feed URLs, I had no idea how many were hosted on Soundcloud these days.
-
-For anyone masochistic enough to subscribe to all these shows in one mouse click (or finger tap), here's [my feed list OPML file](/files/podcasts-2016.opml).
