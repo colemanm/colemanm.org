@@ -7,18 +7,18 @@ layout:
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <url>
-  <loc>http://colemanm.org/</loc>
+  <loc>{{ site.url }}/</loc>
   <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://colemanm.org/archive/</loc>
+  <loc>{{ site.url }}/archive/</loc>
   <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   <priority>0.7</priority>
 </url>
 <url>
-  <loc>http://colemanm.org/talks/</loc>
+  <loc>{{ site.url }}/talks/</loc>
   <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   <priority>0.7</priority>
 </url>
@@ -36,6 +36,30 @@ layout:
   <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.5</priority>
+</url>
+{% endfor %}
+{% for book in site.books %}
+<url>
+  <loc>{{ site.url }}{{ book.url }}</loc>
+  <lastmod>{{ book.date_completed | date_to_xmlschema }}</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+{% endfor %}
+{% for post in site.micro %}
+<url>
+  <loc>{{ site.url }}{{ post.url }}</loc>
+  <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.3</priority>
+</url>
+{% endfor %}
+{% for article in site.articles %}
+<url>
+  <loc>{{ site.url }}{{ article.url }}</loc>
+  <lastmod>{{ article.date | date_to_xmlschema }}</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
 </url>
 {% endfor %}
 </urlset>

@@ -19,8 +19,8 @@
       "content_html": "{{ post.content | jsonify }}",
       "url": "{{ site.url }}{{ post.url }}",
       "summary": "{{ post.excerpt | smartify | jsonify }}",
-      "date_published": "{{ post.date }}"
-      "author":
+      "date_published": "{{ post.date }}",
+      "author": "Coleman McCormick"
     }{% unless forloop.last == true %},{% endunless %}
     {% endfor %}
   ]
