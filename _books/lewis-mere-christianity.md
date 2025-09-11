@@ -16,14 +16,14 @@ genres:
 - christianity
 - classics
 isbn: 9780684823782
-rating: 
+rating: 5
 pages: 191
 format: kindle
 publish_year: 1952
 date_started: 2025-06-18
-date_completed: 
+date_completed: 2025-09-11
 goodreads_id: 11138
 amazon_link: https://amzn.to/44ukI2p
 
-current: true
+favorite: true
 ---
