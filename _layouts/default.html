@@ -33,6 +33,7 @@
   {% include end.html %}
   <script src="/assets/js/main.js" defer></script>
 
+  {% unless jekyll.environment == "development" %}
   <script>
     window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
   </script>
@@ -42,5 +43,6 @@
     window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
   </script>
   <script defer src="/_vercel/insights/script.js"></script>
+  {% endunless %}
 </body>
 </html>
